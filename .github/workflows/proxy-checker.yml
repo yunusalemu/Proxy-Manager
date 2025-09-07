@@ -5,12 +5,17 @@ on:
     - cron: "*/10 * * * *"   # every 10 minutes
   workflow_dispatch:         # manual run
 
+permissions:
+  contents: write   # allow committing back to repo
+
 jobs:
   check-proxies:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -28,5 +33,5 @@ jobs:
           git config --global user.name "github-actions"
           git config --global user.email "github-actions@github.com"
           git add Active_Proxies.txt
-          git commit -m "Update active proxies [skip ci]" || echo "No changes"
+          git diff --cached --quiet || git commit -m "Update active proxies [skip ci]"
           git push
