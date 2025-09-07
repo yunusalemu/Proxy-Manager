@@ -116,24 +116,15 @@ def main():
             else:
                 print(f"❌ {proxy.strip()} Inactive")
 
-    if not working:
-        print("\nNo new working proxies found.")
-        return
-
-    # Load existing active proxies
-    if os.path.exists("Active_Proxies.txt"):
-        with open("Active_Proxies.txt", "r", encoding="utf-8", errors="ignore") as f:
-            active = [line.strip() for line in f if line.strip()]
+    # Always overwrite Active_Proxies.txt
+    if working:
+        with open("Active_Proxies.txt", "w", encoding="utf-8") as f:
+            f.write("\n".join(working) + "\n")
+        print(f"\n💾 Replaced Active_Proxies.txt with {len(working)} new proxies.")
     else:
-        active = []
-
-    # Merge: new first, then old, no duplicates
-    combined = list(dict.fromkeys(working + active))
-
-    with open("Active_Proxies.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(combined) + "\n")
-
-    print(f"\n💾 Added {len(working)} new proxies to Active_Proxies.txt.")
+        # Clear file if nothing works
+        open("Active_Proxies.txt", "w").close()
+        print("\n⚠️ No working proxies. Active_Proxies.txt has been cleared.")
 
 
 if __name__ == "__main__":
