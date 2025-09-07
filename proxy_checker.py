@@ -97,7 +97,7 @@ def main():
     # Read existing active proxies
     if os.path.exists("Active_Proxies.txt"):
         with open("Active_Proxies.txt", "r", encoding="utf-8", errors="ignore") as f:
-            active_proxies = f.readlines()
+            active_proxies = [clean_proxy_line(p) for p in f if clean_proxy_line(p)]
     else:
         active_proxies = []
 
@@ -117,7 +117,7 @@ def main():
     # Test new proxies
     if os.path.exists("New_Proxies.txt"):
         with open("New_Proxies.txt", "r", encoding="utf-8", errors="ignore") as f:
-            new_proxies = f.readlines()
+            new_proxies = [clean_proxy_line(p) for p in f if clean_proxy_line(p)]
     else:
         new_proxies = []
 
