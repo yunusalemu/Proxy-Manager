@@ -1,1 +1,156 @@
-
+[
+  {
+    "proxy": "37.27.93.106:19333:LwqOlg:1ZJ3Di",
+    "ip": "86.9.94.92",
+    "country": "United Kingdom",
+    "region": "England",
+    "city": "Bath",
+    "zip": "BA2",
+    "isp": "Virgin Media",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "37.27.93.106:15492:mAox9F:nDWtet",
+    "ip": "92.237.135.136",
+    "country": "United Kingdom",
+    "region": "Scotland",
+    "city": "Edinburgh",
+    "zip": "EH7",
+    "isp": "Virgin Media Limited",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "37.27.93.106:46622:km6tc9:EnqRhD",
+    "ip": "81.101.41.88",
+    "country": "United Kingdom",
+    "region": "Northern Ireland",
+    "city": "Belfast",
+    "zip": "BT5",
+    "isp": "Virgin Media Limited",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "65.108.251.40:35035",
+    "ip": "173.68.21.132",
+    "country": "United States",
+    "region": "New York",
+    "city": "New York",
+    "zip": "10022",
+    "isp": "Verizon Business",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "37.27.93.106:39382:11c6wA:7c44SL",
+    "ip": "160.19.95.49",
+    "country": "The Netherlands",
+    "region": "North Holland",
+    "city": "Amsterdam",
+    "zip": "1012",
+    "isp": "Xantho UAB",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "65.108.251.40:58801",
+    "ip": "86.20.113.100",
+    "country": "United Kingdom",
+    "region": "England",
+    "city": "Portsmouth",
+    "zip": "PO4",
+    "isp": "Virgin Media Limited",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "152.53.164.59:44496:ET7M5V:z7q0p6",
+    "ip": "71.187.100.11",
+    "country": "United States",
+    "region": "New Jersey",
+    "city": "Morristown",
+    "zip": "07960",
+    "isp": "Verizon Communications",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "65.108.251.40:16830",
+    "ip": "108.12.233.214",
+    "country": "United States",
+    "region": "Rhode Island",
+    "city": "Warwick",
+    "zip": "02889",
+    "isp": "Verizon Communications",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "152.53.164.59:17072:Y5TkWM:WiVT0k",
+    "ip": "71.120.198.93",
+    "country": "United States",
+    "region": "Virginia",
+    "city": "Virginia Beach",
+    "zip": "23455",
+    "isp": "Verizon Business",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "37.27.93.106:24562:PUKOVL:VzKRq9",
+    "ip": "93.42.158.250",
+    "country": "Italy",
+    "region": "Basilicate",
+    "city": "Sasso di Castalda",
+    "zip": "85050",
+    "isp": "Fastweb SpA",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "37.27.93.106:23219:ApF3kR:OtiYDR",
+    "ip": "166.168.95.66",
+    "country": "United States",
+    "region": "Texas",
+    "city": "San Marcos",
+    "zip": "78666",
+    "isp": "Verizon Business",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "65.108.251.40:13622",
+    "ip": "173.70.213.106",
+    "country": "United States",
+    "region": "New Jersey",
+    "city": "Fair Lawn",
+    "zip": "07410",
+    "isp": "Verizon Business",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "37.27.93.106:42168:aUHViY:IQOwKv",
+    "ip": "103.59.205.32",
+    "country": "India",
+    "region": "National Capital Territory of Delhi",
+    "city": "Delhi",
+    "zip": "110001",
+    "isp": "Oneott Intertainment Limited",
+    "blacklist": "No",
+    "use_type": "Residential"
+  },
+  {
+    "proxy": "65.108.251.40:23732",
+    "ip": "72.88.88.171",
+    "country": "United States",
+    "region": "New York",
+    "city": "Buffalo",
+    "zip": "14221",
+    "isp": "Verizon Communications",
+    "blacklist": "No",
+    "use_type": "Residential"
+  }
+]
