@@ -1,32 +1,42 @@
-import json
 import socks
 import socket
-import requests
 import concurrent.futures
+import requests
 import threading
-from pathlib import Path
+import os
 
-lock = threading.Lock()
+lock = threading.Lock()  # ensures file writes don't clash
 
-# ---------- Helpers ----------
-def clean_proxy_line(line: str) -> str:
+
+def clean_proxy_line(line):
+    """Strip everything after host:port:user:pass (or host:port)."""
     line = line.strip()
     if not line:
         return ""
-    if "|" in line:
+
+    if "|" in line:  # already formatted output line
         line = line.split("|")[0]
+
     return line
+
 
 def parse_proxy_line(line):
     line = clean_proxy_line(line)
+    if not line:
+        return None, None, None, None
+
     parts = line.split(":")
     if len(parts) == 2:
-        return parts[0], int(parts[1]), None, None
+        host, port = parts
+        return host, int(port), None, None
     elif len(parts) == 4:
-        return parts[0], int(parts[1]), parts[2], parts[3]
-    return None, None, None, None
+        host, port, user, password = parts
+        return host, int(port), user, password
+    else:
+        return None, None, None, None
 
-def classify_connection(isp_name: str):
+
+def classify_connection(isp_name):
     isp_lower = isp_name.lower()
     if any(x in isp_lower for x in ["comcast", "spectrum", "verizon", "cable", "dsl", "fiber", "fios"]):
         return "Residential"
@@ -36,14 +46,15 @@ def classify_connection(isp_name: str):
         return "Business"
     return "Residential"
 
+
 def test_proxy(proxy_line):
     proxy_line = clean_proxy_line(proxy_line)
     host, port, user, password = parse_proxy_line(proxy_line)
     if not host or not port:
-        return None
+        return False, proxy_line, None
 
     try:
-        # Simple socket test
+        # Test proxy connection
         s = socks.socksocket()
         s.set_proxy(socks.SOCKS5, host, port, username=user, password=password)
         s.settimeout(3)
@@ -52,9 +63,9 @@ def test_proxy(proxy_line):
         data = s.recv(1024)
         s.close()
         if b"HTTP" not in data:
-            return None
+            return False, proxy_line, None
 
-        # Geo lookup
+        # If working → fetch geo details
         proxies_dict = {
             "http": f"socks5h://{user+':'+password+'@' if user else ''}{host}:{port}",
             "https": f"socks5h://{user+':'+password+'@' if user else ''}{host}:{port}",
@@ -62,72 +73,77 @@ def test_proxy(proxy_line):
         r = requests.get("http://ip-api.com/json", proxies=proxies_dict, timeout=10)
         geo = r.json()
         if geo.get("status") != "success":
-            return None
+            return False, proxy_line, None
 
-        return {
-            "proxy": proxy_line,
-            "ip": geo.get("query", "?"),
-            "country": geo.get("country", "?"),
-            "region": geo.get("regionName", "?"),
-            "city": geo.get("city", "?"),
-            "zip": geo.get("zip", "?"),
-            "isp": geo.get("isp", "?"),
-            "blacklist": "No",
-            "use_type": classify_connection(geo.get("isp", "")),
-        }
+        connection_type = classify_connection(geo.get("isp", ""))
+        formatted = (
+            f"{proxy_line}|"
+            f"{geo.get('query', '?')}|"
+            f"{geo.get('country', '?')}|"
+            f"{geo.get('regionName', '?')}|"
+            f"{geo.get('city', '?')}|"
+            f"{geo.get('zip', '?')}|"
+            f"{geo.get('isp', '?')}|"
+            f"Black List: No|Use Type: {connection_type}"
+        )
+
+        return True, proxy_line, formatted
 
     except Exception:
-        return None
+        return False, proxy_line, None
 
 
-# ---------- Main ----------
 def main():
-    active_path = Path("Active_Proxies.json")
-    new_path = Path("New_Proxies.txt")
-
-    # Load current active JSON
-    if active_path.exists():
-        with open(active_path, "r", encoding="utf-8") as f:
-            try:
-                active_proxies = json.load(f)
-            except:
-                active_proxies = []
+    # Read existing active proxies
+    if os.path.exists("Active_Proxies.txt"):
+        with open("Active_Proxies.txt", "r", encoding="utf-8", errors="ignore") as f:
+            active_proxies = f.readlines()
     else:
         active_proxies = []
 
-    # Test all currently active proxies → keep only good ones
+    # Recheck all active proxies
+    print("♻️ Rechecking Active_Proxies.txt...")
+    working = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-        futures = [executor.submit(test_proxy, p["proxy"]) for p in active_proxies]
-        results = [f.result() for f in concurrent.futures.as_completed(futures)]
-    active_proxies = [r for r in results if r]
+        futures = [executor.submit(test_proxy, p) for p in active_proxies]
+        for future in concurrent.futures.as_completed(futures):
+            ok, proxy, formatted = future.result()
+            if ok:
+                working.append(formatted)
+                print(f"✅ {formatted}")
+            else:
+                print(f"❌ {proxy.strip()} removed")
 
-    # Read new proxies from txt
-    if new_path.exists():
-        with open(new_path, "r", encoding="utf-8", errors="ignore") as f:
-            new_proxies = [line.strip() for line in f if line.strip()]
+    # Test new proxies
+    if os.path.exists("New_Proxies.txt"):
+        with open("New_Proxies.txt", "r", encoding="utf-8", errors="ignore") as f:
+            new_proxies = f.readlines()
     else:
         new_proxies = []
 
-    # Test new proxies
+    print("\n➕ Checking New_Proxies.txt...")
+    new_working = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
         futures = [executor.submit(test_proxy, p) for p in new_proxies]
-        results = [f.result() for f in concurrent.futures.as_completed(futures)]
-    new_active = [r for r in results if r]
+        for future in concurrent.futures.as_completed(futures):
+            ok, proxy, formatted = future.result()
+            if ok:
+                new_working.append(formatted)
+                print(f"✅ NEW {formatted}")
+            else:
+                print(f"❌ NEW {proxy.strip()} ignored")
 
-    # Merge new on top + remove duplicates
-    all_proxies = new_active + active_proxies
-    seen = set()
-    final_list = []
-    for p in all_proxies:
-        if p["proxy"] not in seen:
-            final_list.append(p)
-            seen.add(p["proxy"])
+    # Merge: new proxies first, then existing ones, no duplicates
+    combined = list(dict.fromkeys(new_working + working))
 
-    # Save updated JSON
-    with open(active_path, "w", encoding="utf-8") as f:
-        json.dump(final_list, f, indent=2, ensure_ascii=False)
+    # Save back to Active_Proxies.txt
+    with open("Active_Proxies.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(combined) + "\n")
 
-    print(f"✅ Updated Active_Proxies.json with {len(final_list)} working proxies")
+    # Clear New_Proxies.txt (processed)
+    open("New_Proxies.txt", "w").close()
+
+    print("\n💾 Active_Proxies.txt updated.")
 
 
 if __name__ == "__main__":
