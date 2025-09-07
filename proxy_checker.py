@@ -9,15 +9,21 @@ lock = threading.Lock()  # ensures file writes don't clash
 
 
 def clean_proxy_line(line):
-    """Strip everything after host:port:user:pass (or host:port)."""
+    """Strip off everything after host:port:user:pass (or host:port)."""
     line = line.strip()
     if not line:
         return ""
 
-    if "|" in line:  # already formatted output line
+    # Remove JSON-like characters that may appear if files got corrupted
+    for bad in ['"', "'", ",", "[", "]", "{", "}"]:
+        line = line.replace(bad, "")
+
+    # If the line already has extra "|" info (from output file), take only the proxy part
+    if "|" in line:
         line = line.split("|")[0]
 
-    return line
+    return line.strip()
+
 
 
 def parse_proxy_line(line):
