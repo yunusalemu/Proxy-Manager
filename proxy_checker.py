@@ -14,15 +14,21 @@ def clean_proxy_line(line):
     if not line:
         return ""
 
-    # Remove JSON-like characters that may appear if files got corrupted
+    # Remove unwanted characters that sometimes appear from JSON/CSV exports
     for bad in ['"', "'", ",", "[", "]", "{", "}"]:
         line = line.replace(bad, "")
 
-    # If the line already has extra "|" info (from output file), take only the proxy part
+    # If line already has extra "|" info (geo data, blacklist, etc), take only the proxy part
     if "|" in line:
         line = line.split("|")[0]
 
+    # If too many colons → limit to host:port or host:port:user:pass
+    parts = line.split(":")
+    if len(parts) > 4:
+        line = ":".join(parts[:4])
+
     return line.strip()
+
 
 
 
