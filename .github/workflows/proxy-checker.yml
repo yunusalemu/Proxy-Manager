@@ -2,36 +2,34 @@ name: Proxy Checker
 
 on:
   schedule:
-    - cron: "*/10 * * * *"   # every 10 minutes
-  workflow_dispatch:         # manual run
-
-permissions:
-  contents: write   # allow committing back to repo
+    - cron: "*/10 * * * *"   # run every 10 minutes
+  workflow_dispatch:          # allow manual run
 
 jobs:
   check-proxies:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v3
-        with:
-          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: '3.10'
 
       - name: Install dependencies
         run: pip install requests PySocks
 
       - name: Run proxy checker
-        run: python proxy_checker.py
+        run: python check_proxies.py   # 👈 this actually runs your script
 
-      - name: Commit changes
+      - name: Commit and push changes
         run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add Active_Proxies.txt
-          git diff --cached --quiet || git commit -m "Update active proxies [skip ci]"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add Active_Proxies.json
+          git commit -m "Auto-update proxies [skip ci]" || echo "No changes to commit"
           git push
