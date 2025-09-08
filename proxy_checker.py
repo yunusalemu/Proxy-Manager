@@ -58,8 +58,8 @@ def test_proxy(proxy_line):
         # Test proxy connection
         s = socks.socksocket()
         s.set_proxy(socks.SOCKS5, host, port, username=user, password=password)
-        s.settimeout(3)
-        s.connect(("www.google.com", 80))
+        s.settimeout(15)
+        s.connect(("www.example.com", 80))
         s.send(b"GET / HTTP/1.1\r\nHost: google.com\r\n\r\n")
         data = s.recv(1024)
         s.close()
