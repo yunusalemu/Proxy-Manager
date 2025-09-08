@@ -2,25 +2,25 @@
 185.93.89.165:26868|116.203.186.216|Germany|Bavaria|Nuremberg|90403|Hetzner Online GmbH|Black List: No|Use Type: Residential
 185.93.89.163:16092|51.38.218.126|France|Hauts-de-France|Roubaix|59100|OVH SAS|Black List: No|Use Type: Residential
 185.93.89.165:35860|160.251.83.132|Japan|Tokyo|Chiyoda City|100-8111|GMO Internet Group, Inc.|Black List: No|Use Type: Residential
-185.93.89.182:4053|62.84.177.60|Germany|North Rhine-Westphalia|Düsseldorf|40599|Contabo GmbH|Black List: No|Use Type: Residential
 152.53.164.59:39506:UwpeLs:8Mpaoh|177.8.70.43|Brazil|Rio de Janeiro|Rio de Janeiro|22760|SUA FIBRA TELECOMUNICACOES LTDA|Black List: No|Use Type: Residential
 185.93.89.164:28180|92.205.232.136|France|Grand Est|Strasbourg|67000|Host Europe GmbH|Black List: No|Use Type: Residential
 185.93.89.182:4053|62.84.177.60|Germany|North Rhine-Westphalia|Düsseldorf|40599|Contabo GmbH|Black List: No|Use Type: Residential
-185.93.89.145:25082|141.95.243.199|France|Hauts-de-France|Roubaix|59100|OVH SAS|Black List: No|Use Type: Residential
+152.53.164.59:12230:n07gBJ:Svv63E|196.250.92.80|DR Congo|Kinshasa City|Kinshasa||GVA|Black List: No|Use Type: Residential
+185.93.89.182:4053|62.84.177.60|Germany|North Rhine-Westphalia|Düsseldorf|40599|Contabo GmbH|Black List: No|Use Type: Residential
 185.93.89.158:32167|93.90.73.29|Japan|Hokkaido|Sapporo|060-0012|rainbow network limited|Black List: No|Use Type: Residential
-185.93.89.187:19213|43.245.111.84|Singapore|Central Singapore|Singapore|369522|VODIEN|Black List: No|Use Type: Residential
+185.93.89.145:25082|141.95.243.199|France|Hauts-de-France|Roubaix|59100|OVH SAS|Black List: No|Use Type: Residential
 185.93.89.165:26729|156.67.105.213|India|Maharashtra|Mumbai|400710|Contabo Asia Private Limited|Black List: No|Use Type: Residential
-185.93.89.144:26935|159.223.237.219|The Netherlands|North Holland|Amsterdam|1098|DigitalOcean, LLC|Black List: No|Use Type: Residential
-185.93.89.187:19213|43.245.111.84|Singapore|Central Singapore|Singapore|369522|VODIEN|Black List: No|Use Type: Residential
 185.93.89.155:43703|160.251.83.132|Japan|Tokyo|Chiyoda City|100-8111|GMO Internet Group, Inc.|Black List: No|Use Type: Residential
-185.93.89.157:46158|153.127.27.170|Japan|Osaka|Osaka|540-0002|SAKURA Internet Inc.|Black List: No|Use Type: Residential
 185.93.89.165:35860|160.251.83.132|Japan|Tokyo|Chiyoda City|100-8111|GMO Internet Group, Inc.|Black List: No|Use Type: Residential
+185.93.89.157:46158|153.127.27.170|Japan|Osaka|Osaka|540-0002|SAKURA Internet Inc.|Black List: No|Use Type: Residential
+185.93.89.144:26935|159.223.237.219|The Netherlands|North Holland|Amsterdam|1098|DigitalOcean, LLC|Black List: No|Use Type: Residential
 185.93.89.158:32167|93.90.73.29|Japan|Hokkaido|Sapporo|060-0012|rainbow network limited|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1277790156-1757329338:8b0a9f1fe8|72.90.156.88|United States|New Jersey|West Orange|07052|Verizon Communications|Black List: No|Use Type: Residential
-46.105.138.79:5555:user16555967-1757329417:be001b3e77|108.46.28.252|United States|New York|Brooklyn|11236|Verizon Business|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1223311389-1757329435:d7f68a9ab7|108.20.202.55|United States|Massachusetts|Northborough|01532|Verizon Business|Black List: No|Use Type: Residential
+46.105.138.79:5555:user16555967-1757329417:be001b3e77|108.46.28.252|United States|New York|Brooklyn|11236|Verizon Business|Black List: No|Use Type: Residential
 5.135.94.68:1212:user17070399-1757329421:36f4640d51|75.250.252.94|United States|Illinois|Roselle|60172|Verizon Business|Black List: No|Use Type: Residential
 51.161.140.81:5200:user70522237-1757329442:b1e43eb3fb|97.135.13.238|United States|Michigan|Westland|48185|Verizon Business|Black List: No|Use Type: Residential
+51.161.142.237:3838:user25890269-1757329453:a87c29ee4a|97.154.5.5|United States|Texas|Dallas|75219|Verizon Business|Black List: No|Use Type: Residential
 15.235.177.98:6168:user1245200078-1757329360:7db377cde0|100.0.98.25|United States|Massachusetts|Tewksbury|01876|Verizon Business|Black List: No|Use Type: Residential
 51.161.142.96:6666:user12549070-1757329255:37e100183f|72.80.139.133|United States|New York|New York|10019|Verizon Communications|Black List: No|Use Type: Residential
 51.161.140.81:5200:user85069249-1757329232:314fea439e|68.239.60.199|United States|New York|Latham|12110|Verizon Business|Black List: No|Use Type: Residential
@@ -28,19 +28,23 @@
 51.161.140.81:5200:user1279235463-1757328920:455a8b92c0|149.109.105.93|Saudi Arabia|Medina Region|Medina||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1269282892-1757328786:64622e1058|51.36.170.165|Saudi Arabia|Eastern Province|Dammam||Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
 51.161.142.96:6666:user1290394274-1757328819:c667923df6|188.48.206.85|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudi Arabia backbone and local registry / STC|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1226476919-1757328894:b0da77c014|37.104.117.55|Saudi Arabia|Mecca Region|Jeddah||Saudinet DSL|Black List: No|Use Type: Residential
 51.79.137.199:8899:user1221812991-1757328955:7c9f40a4db|142.154.95.47|Saudi Arabia|Mecca Region|Jeddah||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1249623628-1757328938:01233dec4d|51.36.233.205|Saudi Arabia|Mecca Region|Jeddah||Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
 5.135.94.68:1212:user1267964211-1757328884:f94082219b|51.252.187.187|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1295522487-1757329116:9d8bb6925e|51.252.185.103|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1226476919-1757328894:b0da77c014|37.104.117.55|Saudi Arabia|Mecca Region|Jeddah||Saudinet DSL|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1249623628-1757328938:01233dec4d|51.36.233.205|Saudi Arabia|Mecca Region|Jeddah||Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
+15.235.177.98:6168:user1284162486-1757329115:784f7ba529|50.60.8.178|Saudi Arabia|Mecca Region|Jeddah||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1243306798-1757329123:209c22afbe|176.45.66.81|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1258532250-1757329176:d5e6e49779|51.39.78.71|Saudi Arabia|Mecca Region|Jeddah||Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
 51.79.185.140:6663:user1259741418-1757328940:9291914050|151.254.80.66|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-51.79.137.199:8899:user1218551321-1757329345:c5b1767e59|77.223.253.27|Saudi Arabia|Mecca Region|Jeddah||Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
-51.79.194.87:9999:user1222339877-1757329341:94273f8173|151.254.16.119|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-51.161.140.81:5200:user1220344326-1757329355:d4c356745c|188.52.58.210|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet DSL|Black List: No|Use Type: Residential
+51.161.142.237:3838:user1274734945-1757329165:8900b09408|175.110.207.175|Saudi Arabia|Mecca Region|Jeddah||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1263412147-1757329420:a1437639d0|188.53.53.219|Saudi Arabia|Mecca Region|Jeddah||Saudinet DSL|Black List: No|Use Type: Residential
+51.79.194.87:9999:user1222339877-1757329341:94273f8173|151.254.16.119|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudi Telecom Company JSC|Black List: No|Use Type: Residential
+51.79.137.199:8899:user1218551321-1757329345:c5b1767e59|77.223.253.27|Saudi Arabia|Mecca Region|Jeddah||Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
+51.161.140.81:5200:user1220344326-1757329355:d4c356745c|188.52.58.210|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet DSL|Black List: No|Use Type: Residential
 5.135.94.68:1212:user1273605108-1757326319:8733dfbd81|87.14.192.131|Italy|Emilia-Romagna|Carpi|41012|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
+51.161.142.96:6666:user1217619967-1757329297:2165cb9ce3|51.36.174.16|Saudi Arabia|Eastern Province|Dammam||Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
+51.161.142.237:3838:user47350133-1757326356:9b7aae0062|81.56.58.230|Italy|Lombardy|Milano||Iliad Italia|Black List: No|Use Type: Residential
+51.161.142.237:3838:user89261000-1757326530:2e15ba236e|101.56.209.49|Italy|Veneto|Treviso|31100|Sky Italia|Black List: No|Use Type: Residential
 51.79.185.140:6663:user1262465576-1757326323:db2e42d066|81.56.75.170|Italy|Lombardy|Milano||Iliad Italia|Black List: No|Use Type: Residential
 51.79.137.199:8899:user1255964452-1757326484:e14cefaf48|95.247.155.59|Italy|Campania|San Giuseppe Vesuviano|80047|Telecom Italia S.p.A.|Black List: No|Use Type: Residential
 51.79.137.199:8899:user23048419-1757327138:952a10fad3|81.56.220.146|Italy|Lombardy|Milano||Iliad Italia|Black List: No|Use Type: Residential
@@ -52,52 +56,57 @@
 51.79.185.140:6663:user1286701010-1757328597:e34b28d0a5|81.56.73.20|Italy|Lombardy|Milano||Iliad Italia|Black List: No|Use Type: Residential
 51.161.142.96:6666:user14129149-1757328805:e3cacd4b63|101.56.6.254|Italy|Lazio|Rome|00139|Sky Italia|Black List: No|Use Type: Residential
 51.161.142.96:6666:user79071757-1757329070:771ee41776|95.251.52.205|Italy|Sicily|Messina|98100|Telecom Italia S.p.A|Black List: No|Use Type: Residential
-51.79.194.87:9999:user29315331-1757329061:6a788ded74|213.45.159.51|Italy|Apulia|Cagnano Varano|71010|Telecom Italia S.p.A., E@sy.ip service, Wholesale service for ISP|Black List: No|Use Type: Residential
 51.161.142.96:6666:user61739021-1757329468:cd760a7007|80.116.94.196|Italy|Lombardy|Castelli Calepio|24060|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
+51.79.194.87:9999:user29315331-1757329061:6a788ded74|213.45.159.51|Italy|Apulia|Cagnano Varano|71010|Telecom Italia S.p.A., E@sy.ip service, Wholesale service for ISP|Black List: No|Use Type: Residential
 5.135.94.68:1212:user1250442037-1757325541:813feed347|191.202.189.244|Brazil|Rio Grande do Sul|Esteio|93250|Vivo|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1211493797-1757326377:7ed341482e|177.68.132.38|Brazil|São Paulo|Guararapes|16700|Vivo|Black List: No|Use Type: Residential
-15.235.177.98:6168:user1216777173-1757326624:7346106f95|177.170.70.49|Brazil|São Paulo|Ubatuba|11680|Vivo|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1249603460-1757326936:8ba41c45d0|179.93.114.98|Brazil|São Paulo|São Caetano do Sul|09500|Vivo|Black List: No|Use Type: Residential
+15.235.177.98:6168:user1216777173-1757326624:7346106f95|177.170.70.49|Brazil|São Paulo|Ubatuba|11680|Vivo|Black List: No|Use Type: Residential
 51.79.137.199:8899:user1257160676-1757326864:1a44c493c1|177.68.59.168|Brazil|São Paulo|Jundiaí|13200|Vivo|Black List: No|Use Type: Residential
 15.235.177.98:6168:user1237445809-1757326978:e11ca06a97|179.165.7.86|Brazil|São Paulo|Jacareí|12300|Vivo|Black List: No|Use Type: Residential
 46.105.138.79:5555:user1265824220-1757327330:2e6954208d|201.87.28.5|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
-46.105.138.79:5555:user1294899231-1757327941:abd5a93a00|179.90.232.204|Brazil|São Paulo|Santos|11045|Vivo|Black List: No|Use Type: Residential
-51.161.140.81:5200:user1271393285-1757327482:bf933b0aba|191.254.157.80|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1252650507-1757327513:f85f943552|179.111.110.248|Brazil|São Paulo|Limeira|13480|Vivo|Black List: No|Use Type: Residential
+51.161.140.81:5200:user1271393285-1757327482:bf933b0aba|191.254.157.80|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
+46.105.138.79:5555:user1294899231-1757327941:abd5a93a00|179.90.232.204|Brazil|São Paulo|Santos|11045|Vivo|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1297641636-1757328167:3ef6473c21|201.87.26.168|Brazil|São Paulo|Limeira|13480|Vivo|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1232359557-1757327841:37447edee1|179.87.151.109|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
 5.135.94.68:1212:user1285117615-1757328598:be5cffca78|191.254.109.225|Brazil|São Paulo|Mauá|09300|Vivo|Black List: No|Use Type: Residential
 51.79.137.199:8899:user1288470462-1757328358:4ee357c750|152.248.67.210|Brazil|Rio de Janeiro|Resende|27500|Vivo|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1232359557-1757327841:37447edee1|179.87.151.109|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
 51.79.137.199:8899:user1213506565-1757328688:b6b4546533|201.1.95.56|Brazil|São Paulo|Mogi Guaçu||Vivo|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1222437635-1757328593:cb965d9ea0|201.1.37.107|Brazil|São Paulo|Santo André|09000|Vivo|Black List: No|Use Type: Residential
-51.79.185.140:6663:user1230388969-1757328545:bf29f4618b|177.212.6.118|Brazil|Minas Gerais|Belo Horizonte|30000|Vivo|Black List: No|Use Type: Residential
 51.161.142.237:3838:user1248544740-1757329082:c1f0427b34|191.195.28.38|Brazil|Bahia|Ilhéus|45650|Vivo|Black List: No|Use Type: Residential
-51.79.194.87:9999:user1270961910-1757329016:70d4e5e44a|179.119.80.138|Brazil|São Paulo|Santo André|09000|Vivo|Black List: No|Use Type: Residential
 51.161.140.183:1234:user74558712-1757326526:d7be032dc2|87.148.135.180|Germany|Baden-Wurttemberg|Karlsruhe|76139|Deutsche Telekom AG|Black List: No|Use Type: Residential
-51.79.194.87:9999:user79273921-1757326539:17be1cfd4f|79.224.47.227|Germany|Baden-Wurttemberg|Karlsruhe|76189|Deutsche Telekom AG|Black List: No|Use Type: Residential
+51.79.185.140:6663:user1230388969-1757328545:bf29f4618b|177.212.6.118|Brazil|Minas Gerais|Belo Horizonte|30000|Vivo|Black List: No|Use Type: Residential
+51.79.194.87:9999:user1270961910-1757329016:70d4e5e44a|179.119.80.138|Brazil|São Paulo|Santo André|09000|Vivo|Black List: No|Use Type: Residential
 51.161.142.237:3838:user1256357660-1757326998:335ea00944|46.92.177.194|Germany|Rheinland-Pfalz|Trier|54296|Deutsche Telekom AG|Black List: No|Use Type: Residential
-5.135.94.68:1212:user32572956-1757327257:b6facff1eb|93.243.244.200|Germany|State of Berlin|Berlin|13587|Deutsche Telekom AG|Black List: No|Use Type: Residential
-51.79.194.87:9999:user37982895-1757326769:061daacc32|87.168.27.247|Germany|Hesse|Elz|65604|Deutsche Telekom AG|Black List: No|Use Type: Residential
 51.161.142.96:6666:user77099165-1757327118:0b54384ee3|93.213.134.115|Germany|North Rhine-Westphalia|Gummersbach|51643|Deutsche Telekom AG|Black List: No|Use Type: Residential
+51.79.194.87:9999:user37982895-1757326769:061daacc32|87.168.27.247|Germany|Hesse|Elz|65604|Deutsche Telekom AG|Black List: No|Use Type: Residential
+5.135.94.68:1212:user32572956-1757327257:b6facff1eb|93.243.244.200|Germany|State of Berlin|Berlin|13587|Deutsche Telekom AG|Black List: No|Use Type: Residential
+51.79.194.87:9999:user79273921-1757326539:17be1cfd4f|79.224.47.227|Germany|Baden-Wurttemberg|Karlsruhe|76189|Deutsche Telekom AG|Black List: No|Use Type: Residential
 51.161.140.183:1234:user86710996-1757327184:a9192ab747|95.91.194.226|Germany|Lower Saxony|Hanover|30519|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
-51.161.140.183:1234:user1247498014-1757327391:9e455c5f58|87.148.21.45|Germany|Hesse|Haiger|35708|Deutsche Telekom AG|Black List: No|Use Type: Residential
 51.79.137.199:8899:user49554021-1757327879:30285d09ad|80.128.63.36|Germany|Baden-Wurttemberg|Mannheim|68309|Deutsche Telekom AG|Black List: No|Use Type: Residential
+51.79.185.140:6663:user1227432011-1757327836:6220b67201|91.8.109.240|Germany|North Rhine-Westphalia|Neuss|41469|Deutsche Telekom AG|Black List: No|Use Type: Residential
+51.161.142.96:6666:user48478760-1757328520:c21b36f1e8|83.135.178.108|Germany|Baden-Wurttemberg|Bruchsal|76646|1&1 Versatel Deutschland GmbH|Black List: No|Use Type: Residential
+46.105.138.79:5555:user89894586-1757328335:b0dfb839c1|84.189.48.216|Germany|Bavaria|Kümmersbruck|92245|Deutsche Telekom AG|Black List: No|Use Type: Residential
+51.79.194.87:9999:user91494532-1757328176:4f0d02f549|80.144.116.123|Germany|Brandenburg|Lubin|15907|Deutsche Telekom AG|Black List: No|Use Type: Residential
 51.161.142.96:6666:user70866510-1757328946:58a88fe2cb|79.199.107.15|Germany|Lower Saxony|Hanover|30627|Deutsche Telekom AG|Black List: No|Use Type: Residential
+51.79.194.87:9999:user60293844-1757328897:009676e373|80.136.110.134|Germany|Baden-Wurttemberg|Endingen|79346|Deutsche Telekom AG|Black List: No|Use Type: Residential
 51.161.140.81:5200:user10484116-1757329270:a0e460743a|77.20.252.149|Germany|Hamburg|Hamburg|20259|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
+51.79.194.87:9999:user23608015-1757329119:571dd78060|91.8.109.240|Germany|North Rhine-Westphalia|Neuss|41469|Deutsche Telekom AG|Black List: No|Use Type: Residential
 51.161.140.81:5200:user11493797-1757323101:298c19d84b|99.248.149.222|Canada|Ontario|Oshawa|L1G|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-51.79.194.87:9999:user90569808-1757324807:2d33b80fe6|99.248.149.222|Canada|Ontario|Oshawa|L1G|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
 15.235.177.98:6168:user89908141-1757324199:030f14045a|97.109.181.146|Canada|Ontario|Toronto|M6B|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
+51.79.194.87:9999:user90569808-1757324807:2d33b80fe6|99.248.149.222|Canada|Ontario|Oshawa|L1G|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
 51.79.194.87:9999:user53661789-1757324761:bc264653a3|99.236.89.216|Canada|Ontario|Hamilton|L9C|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
 51.161.142.96:6666:user79160208-1757325819:ca469196f7|72.136.122.172|Canada|Ontario|Mississauga|L4W|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-51.161.140.183:1234:user78661581-1757326179:654644b612|99.253.235.50|Canada|Ontario|Newmarket|L3X|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
 51.79.194.87:9999:user93142272-1757326001:adf2bf1d85|99.228.234.162|Canada|Ontario|Richmond Hill|L4E|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
+51.161.140.183:1234:user78661581-1757326179:654644b612|99.253.235.50|Canada|Ontario|Newmarket|L3X|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
 51.79.181.86:2222:user43198214-1757326361:870e29061a|99.236.232.68|Canada|Ontario|Orillia|L3V|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
 46.105.138.79:5555:user1227108118-1757327741:63c8809373|99.231.185.103|Canada|Ontario|Ajax|L1T|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-5.135.94.68:1212:user93829379-1757329059:8879912199|173.34.178.154|Canada|Ontario|Kitchener|N2R|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
 51.161.142.237:3838:user74945111-1757329044:dcab6af54a|99.241.31.11|Canada|Ontario|Markham|L6B|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
+5.135.94.68:1212:user93829379-1757329059:8879912199|173.34.178.154|Canada|Ontario|Kitchener|N2R|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
 51.79.181.86:2222:user36584977-1757329044:f7c9c391fb|99.248.149.222|Canada|Ontario|Oshawa|L1G|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-51.79.181.86:2222:user99755870-1757322933:a06ff51233|124.168.118.243|Australia|New South Wales|Sydney|2046|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
 51.79.185.140:6663:user1284295885-1757323426:154711ada0|124.168.118.243|Australia|New South Wales|Sydney|2046|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
+51.79.181.86:2222:user99755870-1757322933:a06ff51233|124.168.118.243|Australia|New South Wales|Sydney|2046|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
 5.135.94.68:1212:user19973021-1757323473:400ff525b4|125.254.16.136|Australia|Victoria|Melbourne|3070|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
 15.235.177.98:6168:user80853504-1757323658:d5ac232e5f|124.168.118.243|Australia|New South Wales|Sydney|2046|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
 51.161.140.183:1234:user45740373-1757325362:46cbc125e5|118.210.103.143|Australia|Queensland|Brisbane|4074|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
@@ -107,106 +116,97 @@
 15.235.177.98:6168:user52804834-1757328505:448e28f3ec|27.33.148.87|Australia|New South Wales|Sydney|2203|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
 5.135.94.68:1212:user76173578-1757323283:eda86fce7a|210.50.19.0|Australia|New South Wales|Sydney|2204|Vocus PTY LTD|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1244416519-1757323536:e09acfb6ed|122.150.165.73|Australia|Victoria|Melbourne|3141|Vocus PTY LTD|Black List: No|Use Type: Residential
-51.79.181.86:2222:user42220371-1757324376:e932701eec|112.141.0.190|Australia|New South Wales|Sydney|2204|Vocus PTY LTD|Black List: No|Use Type: Residential
-46.105.138.79:5555:user39426849-1757327474:8171ab7f48|122.150.242.133|Australia|Queensland|Brisbane|4169|Vocus PTY LTD|Black List: No|Use Type: Residential
+46.105.138.79:5555:user39426849-1757327474:8171ab7f48|122.150.242.123|Australia|Queensland|Brisbane|4169|Vocus PTY LTD|Black List: No|Use Type: Residential
+51.161.140.81:5200:user1289280567-1757328834:65e1477f94|122.150.156.238|Australia|New South Wales|Sydney|2113|Vocus PTY LTD|Black List: No|Use Type: Residential
 15.235.177.98:6168:user12276742-1757328508:8223624a8a|58.178.42.204|Australia|New South Wales|Sydney|2770|Vocus PTY LTD|Black List: No|Use Type: Residential
-51.161.140.81:5200:user1289280567-1757328834:65e1477f94|122.150.156.168|Australia|New South Wales|Sydney|2113|Vocus PTY LTD|Black List: No|Use Type: Residential
+51.79.181.86:2222:user42220371-1757324376:e932701eec|112.141.0.190|Australia|New South Wales|Sydney|2204|Vocus PTY LTD|Black List: No|Use Type: Residential
 51.161.140.183:1234:user55480011-1757324644:4f306edbf2|82.7.117.185|United Kingdom|England|Hounslow|TW3|Virgin Media|Black List: No|Use Type: Residential
 51.161.140.183:1234:user58290011-1757325134:5161a4b288|82.5.83.146|United Kingdom|England|Waterlooville|PO8|Virgin Media|Black List: No|Use Type: Residential
-51.79.137.199:8899:user10725115-1757322786:c9cfc4938f|121.200.5.64|Australia|Victoria|Melbourne|3006|Aussie Broadband|Black List: No|Use Type: Residential
-51.161.140.183:1234:user83451013-1757324940:7afd0ee2e7|86.13.209.155|United Kingdom|England|Birmingham|B31|Virgin Media Limited|Black List: No|Use Type: Residential
 51.161.142.96:6666:user56362439-1757325455:66ac24c68d|86.19.8.245|United Kingdom|England|Orpington|BR6|Virgin Media Limited|Black List: No|Use Type: Residential
 5.135.94.68:1212:user1224877221-1757325786:3a8c678e8a|62.30.116.54|United Kingdom|England|Islington|N5|Virgin Media Business|Black List: No|Use Type: Residential
 46.105.138.79:5555:user1271170464-1757326248:b49a2bee94|81.99.149.10|United Kingdom|England|Lewisham|SE13|Virgin Media Limited|Black List: No|Use Type: Residential
 51.161.142.96:6666:user37867207-1757326358:d55f09bcda|81.99.173.160|United Kingdom|England|St Albans|AL1|Virgin Media Limited|Black List: No|Use Type: Residential
 51.161.142.96:6666:user18633715-1757326948:47b118d0ab|86.30.129.104|United Kingdom|England|Coventry|CV6|Virgin Media|Black List: No|Use Type: Residential
-51.79.137.199:8899:user64639589-1757327065:4376a8e83c|81.106.173.111|United Kingdom|England|Stockport|SK2|Virgin Media|Black List: No|Use Type: Residential
-51.161.140.183:1234:user23571936-1757327501:8879f4eaff|216.126.34.123|United States|Virginia|Palmyra|22963|Central Virginia Services, INC|Black List: No|Use Type: Residential
 51.161.142.237:3838:user98050667-1757327076:54ede68609|81.109.94.65|United Kingdom|England|Oxford|OX4|Virgin Media|Black List: No|Use Type: Residential
+51.161.140.183:1234:user23571936-1757327501:8879f4eaff|216.126.34.123|United States|Virginia|Palmyra|22963|Central Virginia Services, INC|Black List: No|Use Type: Residential
+51.79.137.199:8899:user64639589-1757327065:4376a8e83c|81.106.173.111|United Kingdom|England|Stockport|SK2|Virgin Media|Black List: No|Use Type: Residential
 51.161.142.96:6666:user10332249-1757327498:050cc7a27e|216.126.34.48|United States|Virginia|Palmyra|22963|Central Virginia Services, INC|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1240927428-1757327699:45865d63cf|82.44.1.206|United Kingdom|England|Ilford|IG2|Virgin Media|Black List: No|Use Type: Residential
 51.161.142.237:3838:user1283377478-1757327759:dc22e39cfd|81.104.101.212|United Kingdom|England|Lincoln|LN6|Virgin Media|Black List: No|Use Type: Residential
-51.161.140.183:1234:user27836715-1757327985:824e5b6ff2|86.11.128.192|United Kingdom|England|Bristol|BS3|Virgin Media Limited|Black List: No|Use Type: Residential
 5.135.94.68:1212:user1267316191-1757328356:f24de6d286|80.0.143.208|United Kingdom|England|Nottingham|NG15|Virgin Media|Black List: No|Use Type: Residential
+51.161.140.183:1234:user27836715-1757327985:824e5b6ff2|86.11.128.192|United Kingdom|England|Bristol|BS3|Virgin Media Limited|Black List: No|Use Type: Residential
 51.161.140.183:1234:user72810521-1757328954:45c4b9b700|81.97.218.8|United Kingdom|England|Burton-on-Trent|DE14|Virgin Media|Black List: No|Use Type: Residential
-51.79.181.86:2222:user81190542-1757328867:0e77ded8cc|82.16.130.115|United Kingdom|England|Middlesbrough|TS6|Virgin Media Limited|Black List: No|Use Type: Residential
 51.161.142.96:6666:user35639338-1757329244:e99db083c6|80.193.153.16|United Kingdom|England|Birmingham|B38|Virgin Media Limited|Black List: No|Use Type: Residential
+51.79.181.86:2222:user81190542-1757328867:0e77ded8cc|82.16.130.115|United Kingdom|England|Middlesbrough|TS6|Virgin Media Limited|Black List: No|Use Type: Residential
 51.161.142.96:6666:user94627578-1757329310:aaeefa9e13|82.10.229.125|United Kingdom|England|Wigan|WN3|Virgin Media Limited|Black List: No|Use Type: Residential
-5.135.94.68:1212:user49423526-1757322752:e90a73356b|78.149.32.238|United Kingdom|England|Portsmouth|PO4|TalkTalk|Black List: No|Use Type: Residential
 51.161.140.81:5200:user80414724-1757323104:5c9cb2daa2|80.42.157.39|United Kingdom|England|Barnet|N2|TalkTalk|Black List: No|Use Type: Residential
 51.79.137.199:8899:user52262063-1757323013:93609f3edb|78.146.170.31|United Kingdom|England|Plymouth|PL2|TalkTalk|Black List: No|Use Type: Residential
-5.135.94.68:1212:user40921972-1757325628:a9eee23cd4|78.149.32.238|United Kingdom|England|Portsmouth|PO4|TalkTalk|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1239994681-1757324018:4a9dd3b04e|38.70.56.179|United States|Maryland|Centreville|21617|Talkie Communications, Inc|Black List: No|Use Type: Residential
 51.79.194.87:9999:user35965947-1757325008:8092067483|92.21.74.108|United Kingdom|England|Fulham|W14|TalkTalk|Black List: No|Use Type: Residential
 51.79.194.87:9999:user27298716-1757325629:100c87a7e2|80.47.233.63|United Kingdom|England|Stoke-on-Trent|ST4|TalkTalk|Black List: No|Use Type: Residential
-5.135.94.68:1212:user57554423-1757327782:e4a3b84912|100.34.209.86|United States|Pennsylvania|Philadelphia|19128|Verizon Communications|Black List: No|Use Type: Residential
-51.79.137.199:8899:user44966721-1757327065:93811c43e6|92.16.173.23|United Kingdom|England|Brent|NW10|TalkTalk|Black List: No|Use Type: Residential
 51.161.140.81:5200:user65142664-1757327609:2c49b00734|2.96.239.128|United Kingdom|England|Malton|YO17|TalkTalk Communications Limited|Black List: No|Use Type: Residential
+5.135.94.68:1212:user57554423-1757327782:e4a3b84912|100.34.209.86|United States|Pennsylvania|Philadelphia|19128|Verizon Communications|Black List: No|Use Type: Residential
 51.161.142.96:6666:user99486394-1757327821:1227b04340|72.82.160.12|United States|New Jersey|Mount Holly|08060|Verizon Communications|Black List: No|Use Type: Residential
+46.105.138.79:5555:user38488196-1757327799:0e6ae0a03e|97.186.107.159|United States|Washington|Seattle|98104|Verizon Business|Black List: No|Use Type: Residential
 51.161.140.183:1234:user70907825-1757327801:b97502e046|71.163.30.123|United States|Virginia|Manassas|20110|Verizon Business|Black List: No|Use Type: Residential
 51.161.140.183:1234:user92815474-1757327800:73d08dd588|72.80.87.68|United States|New York|Queens|11427|Verizon Communications|Black List: No|Use Type: Residential
 51.161.140.81:5200:user34112455-1757327983:5b4810d772|71.163.30.123|United States|Virginia|Manassas|20110|Verizon Business|Black List: No|Use Type: Residential
-15.235.177.98:6168:user51628930-1757327989:aa0c9b732f|97.176.66.22|United States|Texas|Dallas|75202|Verizon Business|Black List: No|Use Type: Residential
 51.161.140.81:5200:user90761639-1757328046:620df54eff|96.245.125.233|United States|Pennsylvania|Philadelphia|19145|Verizon Business|Black List: No|Use Type: Residential
-46.105.138.79:5555:user25250536-1757328214:e0f92c2463|173.56.235.53|United States|New York|Mahopac|10541|Verizon Business|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1227197108-1757327966:51876c2fda|100.0.98.25|United States|Massachusetts|Tewksbury|01876|Verizon Business|Black List: No|Use Type: Residential
 51.161.142.237:3838:user1276909804-1757327994:e7f11960df|72.90.156.88|United States|New Jersey|West Orange|07052|Verizon Communications|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1227197108-1757327966:51876c2fda|100.0.98.25|United States|Massachusetts|Tewksbury|01876|Verizon Business|Black List: No|Use Type: Residential
+46.105.138.79:5555:user25250536-1757328214:e0f92c2463|173.56.235.53|United States|New York|Mahopac|10541|Verizon Business|Black List: No|Use Type: Residential
 51.161.142.96:6666:user53779882-1757328201:1bf1311bfa|75.202.89.116|United States|Oregon|Portland|97209|Verizon Business|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1263681886-1757328175:44d0747273|173.62.178.220|United States|Pennsylvania|Perkasie|18944|Verizon Business|Black List: No|Use Type: Residential
-51.79.181.86:2222:user94792333-1757328320:d5dd43fd7c|141.157.208.221|United States|New York|The Bronx|10456|Verizon Business|Black List: No|Use Type: Residential
 51.161.142.237:3838:user72358292-1757328342:4f902c2e72|96.250.253.130|United States|New York|Queens|11434|Verizon Business|Black List: No|Use Type: Residential
 51.161.142.237:3838:user86440665-1757328149:76dcbe9e8a|108.12.24.164|United States|New York|Liverpool|13090|Verizon Communications|Black List: No|Use Type: Residential
-46.105.138.79:5555:user96691824-1757328327:18a9f8d569|70.109.207.2|United States|Massachusetts|Newburyport|01950|Verizon Business|Black List: No|Use Type: Residential
 51.79.185.140:6663:user85325826-1757328344:6dd93f1285|72.77.28.185|United States|Pennsylvania|Pittsburgh|15243|Verizon Business|Black List: No|Use Type: Residential
-46.105.138.79:5555:user1288458266-1757328387:f30b14949f|151.202.55.204|United States|New York|Northport|11768|Verizon Communications|Black List: No|Use Type: Residential
+46.105.138.79:5555:user96691824-1757328327:18a9f8d569|70.109.207.2|United States|Massachusetts|Newburyport|01950|Verizon Business|Black List: No|Use Type: Residential
 51.161.142.237:3838:user70714804-1757328597:7f4c48bdb9|72.73.235.127|United States|New Jersey|East Windsor|08520|Verizon Business|Black List: No|Use Type: Residential
+46.105.138.79:5555:user1288458266-1757328387:f30b14949f|151.202.55.204|United States|New York|Northport|11768|Verizon Communications|Black List: No|Use Type: Residential
+51.79.185.140:6663:user35426896-1757328519:05220e3a9d|166.143.17.189|United States|New York|The Bronx|10452|Verizon Business|Black List: No|Use Type: Residential
 51.161.140.81:5200:user43663580-1757328695:b9567b9f81|100.37.15.11|United States|New York|Staten Island|10312|Verizon Communications|Black List: No|Use Type: Residential
 51.79.185.140:6663:user65790688-1757328687:8454ca3892|173.62.214.193|United States|Pennsylvania|Philadelphia|19118|Verizon Business|Black List: No|Use Type: Residential
-51.79.185.140:6663:user35426896-1757328519:05220e3a9d|166.143.17.189|United States|New York|The Bronx|10452|Verizon Business|Black List: No|Use Type: Residential
 5.135.94.68:1212:user98995389-1757328881:5d226b6a5f|173.63.64.233|United States|New Jersey|Union|07083|Verizon Business|Black List: No|Use Type: Residential
 46.105.138.79:5555:user25779803-1757328913:d5adb70a59|72.80.87.68|United States|New York|Queens|11427|Verizon Communications|Black List: No|Use Type: Residential
 51.161.140.81:5200:user41531818-1757328886:285fcc019d|98.111.129.176|United States|Pennsylvania|Huntingdon Valley|19006|Verizon Business|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1211742953-1757328865:84a2538f44|75.245.22.62|United States|New York|Brooklyn|11216|Verizon Business|Black List: No|Use Type: Residential
-51.79.185.140:6663:user12917922-1757328874:8076a447a6|100.11.99.249|United States|Pennsylvania|Lansdale|19446|Verizon Business|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1244161653-1757329042:dc6e529ee8|72.110.143.86|United States|Ohio|Cincinnati|45212|Verizon Business|Black List: No|Use Type: Residential
 51.161.142.237:3838:user90895122-1757328870:29542ac0e9|72.89.116.212|United States|New York|Ronkonkoma|11779|Verizon Communications|Black List: No|Use Type: Residential
+51.79.185.140:6663:user12917922-1757328874:8076a447a6|100.11.99.249|United States|Pennsylvania|Lansdale|19446|Verizon Business|Black List: No|Use Type: Residential
 5.135.94.68:1212:user24390666-1757329057:19999defa4|173.70.213.106|United States|New Jersey|Fair Lawn|07410|Verizon Business|Black List: No|Use Type: Residential
-51.79.185.140:6663:user1274142302-1757329122:d44311cc63|68.129.91.221|United States|New York|Nanuet|10954|Verizon Communications|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1244161653-1757329042:dc6e529ee8|72.110.143.86|United States|Ohio|Cincinnati|45212|Verizon Business|Black List: No|Use Type: Residential
 15.235.177.98:6168:user81615563-1757329058:166ddaf45e|97.234.158.177|United States|Minnesota|Minneapolis|55407|Verizon Business|Black List: No|Use Type: Residential
-51.79.181.86:2222:user85275333-1757329060:137063c036|72.83.5.107|United States|Virginia|Gainesville|20155|Verizon Communications|Black List: No|Use Type: Residential
-51.79.181.86:2222:user73221218-1757329053:246f842ddf|74.102.25.103|United States|New Jersey|East Hanover|07936|Verizon Business|Black List: No|Use Type: Residential
 51.161.142.96:6666:user98554241-1757329243:c042399407|173.54.0.172|United States|New Jersey|Manalapan|07726|Verizon Business|Black List: No|Use Type: Residential
-51.161.142.96:6666:user1280939770-1757326525:8164bb193b|103.183.193.146|Philippines|Calabarzon|Silang|4118|SPECTRUM-NETIP|Black List: No|Use Type: Residential
 15.235.177.98:6168:user99214108-1757326531:148b9a3f81|150.220.223.2|United States|Texas|Round Rock|78681|Spectrum|Black List: No|Use Type: Residential
-5.135.94.68:1212:user76573189-1757326909:30f77fabfd|150.220.223.2|United States|Texas|Round Rock|78681|Spectrum|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1230979255-1757326891:6348338f9c|74.135.182.146|United States|Wisconsin|Kenosha|53142|Spectrum|Black List: No|Use Type: Residential
+51.161.142.96:6666:user1280939770-1757326525:8164bb193b|103.183.193.146|Philippines|Calabarzon|Silang|4118|SPECTRUM-NETIP|Black List: No|Use Type: Residential
 51.161.142.96:6666:user80674747-1757326938:a2927acc64|76.80.211.10|United States|California|Santa Clarita|91321|Spectrum|Black List: No|Use Type: Residential
 46.105.138.79:5555:user29415401-1757326888:c728d3c655|71.89.128.244|United States|Michigan|Monroe|48162|Spectrum|Black List: No|Use Type: Residential
+5.135.94.68:1212:user76573189-1757326909:30f77fabfd|150.220.223.2|United States|Texas|Round Rock|78681|Spectrum|Black List: No|Use Type: Residential
 51.161.140.81:5200:user89525464-1757327487:cb25585543|75.85.47.170|United States|Hawaii|Honolulu|96822|Spectrum|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1230979255-1757326891:6348338f9c|74.135.182.146|United States|Wisconsin|Kenosha|53142|Spectrum|Black List: No|Use Type: Residential
 51.161.142.237:3838:user1219471739-1757327457:5b06d3c2ea|71.89.128.244|United States|Michigan|Monroe|48162|Spectrum|Black List: No|Use Type: Residential
 51.161.142.96:6666:user84073937-1757327998:fe651f0817|23.87.48.204|United States|Minnesota|Apple Valley|55124|Spectrum|Black List: No|Use Type: Residential
-51.161.142.237:3838:user1299606156-1757327371:10f95d7fff|76.38.1.169|United States|North Carolina|Oxford|27565|Spectrum|Black List: No|Use Type: Residential
-46.105.138.79:5555:user75417016-1757328341:773b888104|68.201.250.171|United States|Texas|Edinburg|78541|Spectrum|Black List: No|Use Type: Residential
 51.161.142.96:6666:user24414567-1757328143:911920ebfa|74.135.203.228|United States|Wisconsin|Racine|53406|Spectrum|Black List: No|Use Type: Residential
 51.161.140.183:1234:user23440248-1757328369:9831a4fd94|174.96.74.117|United States|Ohio|Dayton|45424|Spectrum|Black List: No|Use Type: Residential
-51.79.181.86:2222:user83721997-1757328319:5584344dad|76.93.109.81|United States|California|Van Nuys|91406|Spectrum|Black List: No|Use Type: Residential
+15.235.177.98:6168:user1279069599-1757327925:8a9f0fe3fe|150.220.223.2|United States|Texas|Round Rock|78681|Spectrum|Black List: No|Use Type: Residential
+46.105.138.79:5555:user75417016-1757328341:773b888104|68.201.250.171|United States|Texas|Edinburg|78541|Spectrum|Black List: No|Use Type: Residential
 51.161.140.183:1234:user36792110-1757328536:c80a0690d9|71.46.250.218|United States|Florida|Orlando|32810|Spectrum|Black List: No|Use Type: Residential
-51.161.142.96:6666:user44489770-1757328511:6b81aef3d0|98.149.9.37|United States|California|Westminster|92683|Spectrum|Black List: No|Use Type: Residential
+51.79.181.86:2222:user83721997-1757328319:5584344dad|76.93.109.81|United States|California|Van Nuys|91406|Spectrum|Black List: No|Use Type: Residential
 51.161.142.96:6666:user71301950-1757328505:4b76c77957|98.11.227.17|United States|New York|East Greenbush|12061|Spectrum|Black List: No|Use Type: Residential
-46.105.138.79:5555:user94562562-1757328862:26b42075fd|162.155.209.204|United States|Ohio|Napoleon|43545|Spectrum|Black List: No|Use Type: Residential
-51.161.140.183:1234:user87879813-1757328889:0d19efac82|73.65.223.127|United States|Utah|Orem|84097|Comcast Cable Communications|Black List: No|Use Type: Residential
+51.161.142.96:6666:user44489770-1757328511:6b81aef3d0|98.149.9.37|United States|California|Westminster|92683|Spectrum|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1237617841-1757328834:e7c44f886c|73.20.4.83|United States|Utah|Logan|84341|Comcast Cable Communications|Black List: No|Use Type: Residential
-89.58.45.94:48227|73.88.25.208|United States|Minnesota|South Saint Paul|55075|Comcast Cable Communications|Black List: No|Use Type: Residential
+51.161.140.183:1234:user87879813-1757328889:0d19efac82|73.65.223.127|United States|Utah|Orem|84097|Comcast Cable Communications|Black List: No|Use Type: Residential
 5.135.94.68:1212:user1277886871-1757329079:21b71e5c2f|143.44.184.48|Philippines|Davao Region|Davao City|8000|ComClark Network & Technology Corp|Black List: No|Use Type: Residential
+89.58.45.94:48227|73.88.25.208|United States|Minnesota|South Saint Paul|55075|Comcast Cable Communications|Black List: No|Use Type: Residential
 51.161.140.81:5200:user39749036-1757329069:b573c823d8|73.138.242.86|United States|Florida|Miami|33137|Comcast Cable Communications|Black List: No|Use Type: Residential
 51.161.140.81:5200:user1262773482-1757329053:5729bb28df|73.65.105.45|United States|Minnesota|Saint Paul|55118|Comcast Cable Communications|Black List: No|Use Type: Residential
-51.79.194.87:9999:user36914646-1757329048:79e291f02a|73.248.75.171|United States|New Jersey|Clarksboro|08020|Comcast Cable Communications|Black List: No|Use Type: Residential
+46.105.138.79:5555:user94562562-1757328862:26b42075fd|162.155.209.204|United States|Ohio|Napoleon|43545|Spectrum|Black List: No|Use Type: Residential
 51.79.137.199:8899:user1214728512-1757329079:f37077e484|73.129.114.226|United States|Virginia|Alexandria|22314|Comcast Cable Communications|Black List: No|Use Type: Residential
-46.105.138.79:5555:user1278086150-1757329098:beff6d0e6d|67.184.243.22|United States|Illinois|Chicago|60647|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+51.79.194.87:9999:user36914646-1757329048:79e291f02a|73.248.75.171|United States|New Jersey|Clarksboro|08020|Comcast Cable Communications|Black List: No|Use Type: Residential
 51.161.142.237:3838:user1218408202-1757328845:6f27f6cf4b|136.158.41.224|Philippines|Metro Manila|Quezon City|1114|ComClark Network & Technology Corp|Black List: No|Use Type: Residential
+46.105.138.79:5555:user1278086150-1757329098:beff6d0e6d|67.184.243.22|United States|Illinois|Chicago|60647|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
 51.79.194.87:9999:user98945557-1757329263:81f0d48222|67.166.168.79|United States|Virginia|Henrico|23238|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-51.79.185.140:6663:user90706615-1757329250:d2bbe4fa97|107.5.107.92|United States|Michigan|Howell|48855|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
 51.161.140.81:5200:user40174433-1757329306:2aec95153c|67.176.3.195|United States|Colorado|Denver|80230|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-51.79.181.86:2222:user17594823-1757329238:9a84fc34f2|75.66.204.157|United States|Tennessee|Memphis|38122|Comcast Cable Communications|Black List: No|Use Type: Residential
 51.161.142.237:3838:user1246432479-1757329123:cfc7b9d7f7|73.223.207.189|United States|California|Cupertino|95014|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+51.79.181.86:2222:user17594823-1757329238:9a84fc34f2|75.66.204.157|United States|Tennessee|Memphis|38122|Comcast Cable Communications|Black List: No|Use Type: Residential
+51.79.185.140:6663:user90706615-1757329250:d2bbe4fa97|107.5.107.92|United States|Michigan|Howell|48855|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
 51.79.194.87:9999:user89824357-1757327309:691924fe4c|172.58.240.68|United States|Maryland|Silver Spring|20910|T-Mobile USA, Inc.|Black List: No|Use Type: Cellular
