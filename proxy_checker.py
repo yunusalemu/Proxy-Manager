@@ -14,8 +14,7 @@ def clean_proxy_line(line):
     if not line:
         return ""
 
-    # If the line already has extra "|" info (from output file), take only the proxy part
-    if "|" in line:
+    if "|" in line:  # remove metadata if present
         line = line.split("|")[0]
 
     return line
@@ -54,45 +53,55 @@ def test_proxy(proxy_line):
     if not host or not port:
         return False, proxy_line, None
 
-    try:
-        # Test proxy connection
-        s = socks.socksocket()
-        s.set_proxy(socks.SOCKS5, host, port, username=user, password=password)
-        s.settimeout(15)
-        s.connect(("www.example.com", 80))
-        s.send(b"GET / HTTP/1.1\r\nHost: google.com\r\n\r\n")
-        data = s.recv(1024)
-        s.close()
-        if b"HTTP" not in data:
-            return False, proxy_line, None
+    # Try SOCKS5, then SOCKS4
+    for proxy_type in [socks.SOCKS5, socks.SOCKS4]:
+        try:
+            # Test connection
+            s = socks.socksocket()
+            s.set_proxy(proxy_type, host, port, username=user, password=password)
+            s.settimeout(15)
+            s.connect(("www.sefan.ru", 80))
+            s.send(b"GET / HTTP/1.1\r\nHost: google.com\r\n\r\n")
+            data = s.recv(1024)
+            s.close()
 
-        # If working → fetch real geo details
-        proxies_dict = {
-            "http": f"socks5h://{user+':'+password+'@' if user else ''}{host}:{port}",
-            "https": f"socks5h://{user+':'+password+'@' if user else ''}{host}:{port}",
-        }
-        r = requests.get("http://ip-api.com/json", proxies=proxies_dict, timeout=10)
-        geo = r.json()
-        if geo.get("status") != "success":
-            return False, proxy_line, None
+            if b"HTTP" not in data:
+                continue  # try next proxy type
 
-        # Format result with Blacklist + Use Type
-        connection_type = classify_connection(geo.get("isp", ""))
-        formatted = (
-            f"{proxy_line}|"
-            f"{geo.get('query', '?')}|"
-            f"{geo.get('country', '?')}|"
-            f"{geo.get('regionName', '?')}|"
-            f"{geo.get('city', '?')}|"
-            f"{geo.get('zip', '?')}|"
-            f"{geo.get('isp', '?')}|"
-            f"Black List: No|Use Type: {connection_type}"
-        )
+            # If we got here → proxy works
+            proxies_dict = {
+                "http": f"socks5h://{user+':'+password+'@' if user else ''}{host}:{port}",
+                "https": f"socks5h://{user+':'+password+'@' if user else ''}{host}:{port}",
+            }
 
-        return True, proxy_line, formatted
+            geo = {}
+            try:
+                r = requests.get("http://ip-api.com/json", proxies=proxies_dict, timeout=15)
+                geo = r.json() if r.status_code == 200 else {}
+            except Exception:
+                pass  # don’t reject proxy if geo fails
 
-    except Exception:
-        return False, proxy_line, None
+            # Use geo data if available, else fallback to Unknown
+            ip = geo.get("query", "Unknown")
+            country = geo.get("country", "Unknown")
+            region = geo.get("regionName", "Unknown")
+            city = geo.get("city", "Unknown")
+            zip_code = geo.get("zip", "Unknown")
+            isp = geo.get("isp", "Unknown")
+            connection_type = classify_connection(isp if isp != "Unknown" else "")
+
+            formatted = (
+                f"{proxy_line}|"
+                f"{ip}|{country}|{region}|{city}|{zip_code}|{isp}|"
+                f"Black List: No|Use Type: {connection_type}"
+            )
+
+            return True, proxy_line, formatted
+
+        except Exception:
+            continue  # try next proxy type
+
+    return False, proxy_line, None  # failed both SOCKS5 and SOCKS4
 
 
 def main():
@@ -120,9 +129,8 @@ def main():
     if working:
         with open("Active_Proxies.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(working) + "\n")
-        print(f"\n💾 Replaced Active_Proxies.txt with {len(working)} new proxies.")
+        print(f"\n💾 Replaced Active_Proxies.txt with {len(working)} working proxies.")
     else:
-        # Clear file if nothing works
         open("Active_Proxies.txt", "w").close()
         print("\n⚠️ No working proxies. Active_Proxies.txt has been cleared.")
 
