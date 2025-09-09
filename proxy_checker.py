@@ -59,9 +59,9 @@ def test_proxy(proxy_line):
             # Test connection
             s = socks.socksocket()
             s.set_proxy(proxy_type, host, port, username=user, password=password)
-            s.settimeout(8)
+            s.settimeout(5)
             s.connect(("www.sefan.ru", 80))
-            s.send(b"GET / HTTP/1.1\r\nHost: google.com\r\n\r\n")
+            s.send(b"GET / HTTP/1.1\r\nHost: sefan.ru\r\n\r\n")
             data = s.recv(1024)
             s.close()
 
