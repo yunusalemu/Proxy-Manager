@@ -3,20 +3,12 @@
 5.135.94.68:1212:user1293346738-1757414786:7b7cca3270|181.46.136.32|Argentina|Buenos Aires|Quilmes|1882|Telecentro S.A.|Black List: No|Use Type: Residential
 5.135.94.68:1212:user1237366628-1757414550:54332e61fa|148.227.73.66|Argentina|Buenos Aires F.D.|Buenos Aires||SpaceX Starlink|Black List: No|Use Type: Residential
 46.105.138.79:5555:user98206385-1757414186:811e90603d|202.12.123.9|Australia|Queensland|South Brisbane|4101|Seven Stars Hospital & Diagnostic Center|Black List: No|Use Type: Residential
-51.161.142.237:3838:user47866907-1757414736:7005cd0b88|103.173.173.2|Bangladesh|Mymensingh Division|Gafargaon|1742|Bhaluka Broadband Internet Service|Black List: No|Use Type: Residential
 51.161.142.237:3838:user73343853-1757414736:9361e3d3f7|103.200.37.206|Bangladesh|Mymensingh Division|Muktāgācha|2210|Imran Zahir Khan|Black List: No|Use Type: Residential
+46.105.138.79:5555:user1218635745-1757414443:5efbc87aad|37.215.35.134|Belarus|Minsk City|Minsk|220073|Republican Unitary Telecommunication Enterprise Beltelecom|Black List: No|Use Type: Cellular
 51.161.140.183:1234:user1258736953-1757414318:bb9ce44756|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
-46.105.138.79:5555:user1218635745-1757414443:5efbc87aad|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 51.161.142.237:3838:user1267293205-1757414467:603aea136d|37.212.87.77|Belarus|Minsk City|Minsk|220004|Republican Unitary Telecommunication Enterprise Beltelecom|Black List: No|Use Type: Cellular
 46.105.138.79:5555:user1210779137-1757414496:9d0666c0d1|179.58.189.137|Bolivia|La Paz Department|La Paz||Nuevatel PCS de Bolivia S.A.|Black List: No|Use Type: Residential
 5.135.94.68:1212:user1266428962-1757414294:3b3f51e701|94.110.182.125|Belgium|Flanders|Roeselare|8800|Mobistar Cable|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1245218404-1757413624:5da078e9c7|181.115.171.65|Bolivia|Beni Department|Trinidad||Entel S.A. - EntelNet|Black List: No|Use Type: Residential
-15.235.177.98:6168:user1239952785-1757414010:f16a796d7f|200.87.87.165|Bolivia|Departamento de Cochabamba|Cochabamba||Entel S.A. - EntelNet|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1216428700-1757414045:9c418d7047|189.28.70.212|Bolivia|Santa Cruz Department|Santa Cruz||Telefónica Celular de Bolivia S.A.|Black List: No|Use Type: Residential
-15.235.177.98:6168:user1278755649-1757414005:d24495e05d|189.28.80.10|Bolivia|Departamento de Cochabamba|Cochabamba||Telefónica Celular de Bolivia S.A.|Black List: No|Use Type: Residential
-15.235.177.98:6168:user14240867-1757414188:c34ada7060|24.64.170.11|Canada|Alberta|Calgary|T3G|Shaw Communications Inc.|Black List: No|Use Type: Residential
-15.235.177.98:6168:user85664941-1757414607:e97ee4f8c7|173.35.32.87|Canada|Ontario|Hamilton|L9B|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-51.161.140.81:5200:user74609636-1757414547:bc4281e06b|129.222.184.244|Canada|Ontario|Toronto||SpaceX Starlink|Black List: No|Use Type: Residential
 51.79.181.86:2222:user1277346889-1757414360:7a272afc96|152.172.153.71|Chile|Arica y Parinacota Region|Arica||TELEFÓNICA CHILE S.A.|Black List: No|Use Type: Residential
 51.79.185.140:6663:user1248389425-1757414528:52462f3b0e|201.215.23.113|Chile|Santiago Metropolitan|Maipú||VTR BANDA ANCHA S.A.|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1267026400-1757414492:3c458517ab|190.102.224.108|Chile|Santiago Metropolitan|Santiago|8320000|Pacifico Cable SPA.|Black List: No|Use Type: Residential
@@ -24,126 +16,83 @@
 51.161.142.96:6666:user1222445161-1757414496:3435d9a7a0|190.5.43.33|Chile|Región del Biobío|Concepción||Pacifico Cable SPA.|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1234470821-1757414348:1ae99d92f2|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1214954774-1757412789:32844ff9a3|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
-51.161.142.96:6666:user1229258690-1757412829:4f56416218|190.150.66.111|El Salvador|San Salvador Department|San Salvador||Millicom Cable El Salvador S.a. De C.V.|Black List: No|Use Type: Residential
 51.161.140.183:1234:user49536400-1757414558:f1a1a9ab41|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
-51.161.142.96:6666:user1290861323-1757413041:8b5e24c78f|190.86.75.141|El Salvador|San Salvador Department|San Salvador||TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|Black List: No|Use Type: Residential
 51.161.140.183:1234:user34647362-1757414419:28dcc26905|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
-15.235.177.98:6168:user66590504-1757414589:61a1484d89|88.175.102.8|France|Occitanie|Laudun-lArdoise|30290|Proxad / Free SAS|Black List: No|Use Type: Residential
-51.161.142.237:3838:user29307970-1757414575:6649105240|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+51.161.142.237:3838:user29307970-1757414575:6649105240|31.32.164.116|France|Centre-Val de Loire|Chartres|28000|Bouygues Telecom ISP|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1292827562-1757414465:0ab008190d|176.186.115.103|France|Île-de-France|Cergy|95800|BOUYGUES Telecom|Black List: No|Use Type: Residential
-51.79.185.140:6663:user1231692979-1757412852:4a34aa6c84|91.129.104.6|Estonia|Harjumaa|Tallinn||TELE2/ SWIPNET|Black List: No|Use Type: Residential
-51.161.140.81:5200:user1221153566-1757414455:54b65020cd|178.76.138.240|Germany|Rheinland-Pfalz|Kaiserslautern|67661|TKS Telekabel|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1257760056-1757414503:a3b8eb8205|89.0.209.28|Germany|North Rhine-Westphalia|Cologne|51105|NetCologne Gesellschaft fur Telekommunikation mbH|Black List: No|Use Type: Business
-51.79.181.86:2222:user1243140777-1757414553:bfb20c09ca|77.7.87.245|Germany|Bavaria|Munich|80636|Telefonica Deutschland GmbH|Black List: No|Use Type: Residential
 46.105.138.79:5555:user1219776279-1757414348:812451c8c3|170.247.87.137|Honduras|Yoro Department|El Progreso||METRONET|Black List: No|Use Type: Residential
-51.161.142.96:6666:user89360078-1757414576:afbf0d277f|77.23.62.101|Germany|Lower Saxony|Braunschweig|38106|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
+51.79.181.86:2222:user1243140777-1757414553:bfb20c09ca|77.7.87.245|Germany|Bavaria|Munich|80636|Telefonica Deutschland GmbH|Black List: No|Use Type: Residential
 15.235.177.98:6168:user1287946271-1757414614:4f5144a300|45.190.185.102|Honduras|Cortés Department|San Pedro Sula||Ufinet Panama S.A.|Black List: No|Use Type: Residential
+51.161.142.96:6666:user1281958742-1757414481:c8e0d5be7c|223.181.127.10|India|Uttar Pradesh|Lucknow|226004|Bharti Airtel|Black List: No|Use Type: Residential
+51.161.142.96:6666:user89360078-1757414576:afbf0d277f|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 46.105.138.79:5555:user1250420329-1757414292:ef6ec3a47a|185.153.76.16|Italy|Sicily|Syracuse|96100|Sicilcom Societa' Cooperativa|Black List: No|Use Type: Residential
 46.105.138.79:5555:user43983621-1757414570:b2163e4331|151.50.152.77|Italy|Apulia|Cellamare|70010|INFOSTRADA|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1293018088-1757414513:d430d4399d|103.189.207.149|Indonesia|East Java|Gresik|61111|PT INDONESIA COMNETS PLUS|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1277588278-1757414491:22de205f92|103.190.47.21|Indonesia|Bali|Tabanan||PT INDONESIA COMNETS PLUS|Black List: No|Use Type: Residential
-51.79.181.86:2222:user83274299-1757414569:3b117ee68e|82.49.212.98|Italy|Campania|Torre del Greco|80059|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-51.161.140.81:5200:user1241689269-1757414537:85a421b353|216.10.217.12|Jamaica|Kingston|Kingston||FLOW|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1233963736-1757414597:b2e2a5dc09|2.237.220.68|Italy|Campania|Naples|80127|Fastweb Networks|Black List: No|Use Type: Residential
+51.161.140.81:5200:user1241689269-1757414537:85a421b353|216.10.217.12|Jamaica|Kingston|Kingston||FLOW|Black List: No|Use Type: Residential
 51.79.194.87:9999:user90597384-1757414558:3b5b1ee2d0|158.47.254.183|Italy|Lazio|Rome|00175|ENEL S.p.A|Black List: No|Use Type: Residential
+51.79.181.86:2222:user83274299-1757414569:3b117ee68e|82.49.212.98|Italy|Campania|Torre del Greco|80059|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1258311119-1757414608:c4800ab466|207.204.103.12|Jamaica|Kingston|Kingston||FLOW|Black List: No|Use Type: Residential
-46.105.138.79:5555:user19364902-1757413312:0d5677b01a|27.83.104.132|Japan|Osaka|Osaka|550-0001|Kddi Corporation|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1223260086-1757414487:93888eefb2|176.29.206.151|Jordan|Amman Governorate|Amman||ZAIN|Black List: No|Use Type: Residential
-51.161.142.237:3838:user80088598-1757413281:82a8ae01d2|118.104.21.182|Japan|Aichi|Toyokawa|442-0871|Chubu Telecommunications Company, Inc.|Black List: No|Use Type: Residential
-51.161.142.237:3838:user1222498287-1757414611:aab89b5548|197.157.231.238|Kenya|Nairobi County|Nairobi|09831|Rasmilink|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1241214383-1757414487:ffa8b44d18|41.220.233.50|Kenya|Nairobi County|Nairobi|09831|Liquid Telecommunications Ltd|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1221102831-1757414564:17885599f8|102.219.209.242|Kenya|Nairobi County|Nairobi|09831|Vijiji Connect LTD|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1255749805-1757413886:ffad8aaec7|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1227154062-1757414460:ad82275d7e|102.0.16.34|Kenya|Machakos County|Githunguri||Airtel KE Mobile & Fixed Internet|Black List: No|Use Type: Cellular
 51.161.140.183:1234:user1294714639-1757414546:32b239396d|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1281347585-1757414523:fe5587df56|189.239.65.238|Mexico|Zacatecas|Zacatecas City|98068|Uninet S.A. de C.V.|Black List: No|Use Type: Residential
-15.235.177.98:6168:user1287736317-1757413863:ce7d4d5d12|115.133.69.50|Malaysia|Selangor|Cyberjaya|63100|TM TECHNOLOGY SERVICES SDN BHD|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1246718521-1757414469:754df939fd|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
 51.161.140.81:5200:user1260231757-1757414480:5aa0756e1e|177.227.126.231|Mexico|Chiapas|Huixtla|30640|Mega Cable, S.A. de C.V.|Black List: No|Use Type: Residential
-51.161.142.96:6666:user1298349724-1757414078:4f5a6fc69e|188.212.27.112|Moldova|Chișinău Municipality|Chisinau|MD-2000|JSC MOLDTELECOM SA|Black List: No|Use Type: Residential
-51.79.185.140:6663:user1278748995-1757414120:b755dd6cef|80.94.250.126|Moldova|Anenii Noi|Varniţa|MD-3251|JSCC Interdnestrcom|Black List: No|Use Type: Residential
-46.105.138.79:5555:user64808697-1757413466:f34353bd5a|84.82.155.64|The Netherlands|South Holland|Pijnacker|2643|KPN BV|Black List: No|Use Type: Residential
-15.235.177.98:6168:user1285435046-1757414052:9b2cab1b9e|178.168.99.246|Moldova|Chișinău Municipality|Chisinau|MD-2000|SC STARNET SRL|Black List: No|Use Type: Residential
 51.79.181.86:2222:user67187208-1757414380:819ea82f64|82.169.38.102|The Netherlands|South Holland|Zoetermeer|2722|KPN B.V|Black List: No|Use Type: Residential
 51.79.185.140:6663:user1211274653-1757414523:1e0bef3ff9|82.169.95.87|The Netherlands|Groningen|Groningen|9714|KPN B.V|Black List: No|Use Type: Residential
-51.79.194.87:9999:user1285061624-1757413511:23a7d35936|190.140.112.45|Panama|Provincia de Panamá|Panama City|34002|Cable Onda|Black List: No|Use Type: Residential
-46.105.138.79:5555:user1262470074-1757413794:7c8db3df98|190.236.85.22|Peru|Lima Province|Lima||TDP-GRS|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1241312202-1757414277:82ce34cfc6|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
-46.105.138.79:5555:user1286126999-1757414040:0695701252|38.187.19.112|Peru|Lima region|Pativilca||Nextnet SAC|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1219661925-1757414090:c3154a9bff|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-51.79.185.140:6663:user1224648400-1757413288:195c48915a|95.136.104.172|Portugal|Porto|Porto|4050-001|Vodafone Portugal|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1262725448-1757413382:72735da021|31.0.3.51|Poland|Łódź Voivodeship|Lodz|90-132|Polkomtel Sp. z o.o.|Black List: No|Use Type: Residential
-51.161.142.96:6666:user1212467943-1757413278:bb489e7daa|178.166.25.187|Portugal|Porto|Porto|4200-001|Vodafone Portugal|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1210472488-1757412848:15e95fd13e|212.70.119.14|Qatar|Baladīyat ad Dawḩah|Doha||Vodafone Qatar Q.S.C|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1216963231-1757414445:f48c3322e7|190.32.231.127|Panama|Provincia de Panamá|Panama City|34002|Cable & Wireless Panama|Black List: No|Use Type: Residential
 51.161.140.183:1234:user64185995-1757414371:5c22410ed6|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1297035304-1757414326:7b5592b1a9|185.9.78.14|Russia|Moscow|Moscow|123154|OOO "NECSTEL"|Black List: No|Use Type: Residential
 51.79.181.86:2222:user1215820283-1757414355:5934d35b67|176.224.17.211|Saudi Arabia|Mecca Region|Jeddah||Etihad Etisalat|Black List: No|Use Type: Residential
-15.235.177.98:6168:user1248794386-1757414369:965f31a6f3|5.109.28.52|Saudi Arabia|Mecca Region|Jeddah||Internet Broadband|Black List: No|Use Type: Residential
-15.235.177.98:6168:user1291895341-1757414301:d6880f4b7d|46.152.226.25|Saudi Arabia|Riyadh Region|Riyadh|09848|Etihad Etisalat|Black List: No|Use Type: Residential
 46.105.138.79:5555:user1241835061-1757414353:7192b741c3|176.45.10.51|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet|Black List: No|Use Type: Residential
-15.235.177.98:6168:user1252520175-1757414333:e08100cf77|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-51.161.142.96:6666:user1232392929-1757414226:e8b2186167|151.254.248.25|Saudi Arabia|Tabuk Region|Tabuk||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1239480793-1757414075:1e6c778846|178.221.205.90|Serbia|Rasina|Kruševac||Telekom Srbija Internet Backbone Network|Black List: No|Use Type: Residential
-51.79.185.140:6663:user1238746404-1757412873:9ab0127039|178.220.183.157|Serbia|Belgrade|Belgrade||TELEKOM-BB|Black List: No|Use Type: Residential
 51.79.181.86:2222:user1235419332-1757414294:c878362cd5|138.75.94.166|Singapore|Central Singapore|Singapore|149254|M1 LIMITED|Black List: No|Use Type: Residential
 46.105.138.79:5555:user1260792606-1757414287:e651f41432|156.155.97.158|South Africa|Gauteng|Boksburg|1459|AxxessNetworks|Black List: No|Use Type: Residential
-46.105.138.79:5555:user1222185930-1757414215:a5d7e5a719|41.56.228.176|South Africa|Western Cape|Cape Town|7405|RAIN GROUP HOLDINGS (PTY) LTD|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1269246442-1757414320:5fde648d79|197.185.157.187|South Africa|Gauteng|Johannesburg|2188|RAIN GROUP HOLDINGS (PTY) LTD|Black List: No|Use Type: Residential
-51.79.194.87:9999:user1220293633-1757414217:83d7cc9fda|41.193.55.117|South Africa|Gauteng|Johannesburg|2090|Vox Telecommunications PTY Ltd|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1282293655-1757413170:209a3dac80|222.104.26.194|South Korea|Daegu|Dalseong-gun|429|Korea Telecom|Black List: No|Use Type: Residential
-51.161.142.96:6666:user1218920709-1757414040:74114de1fd|62.174.140.0|Spain|Basque Country|Galdakao|48960|Vodafone Espana S.A.U.|Black List: No|Use Type: Residential
-51.79.185.140:6663:user1210727365-1757413298:6cba04c48e|218.52.52.46|South Korea|Incheon|Incheon|21554|SK Broadband Co Ltd|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1216938091-1757413881:728eec7899|121.183.46.64|South Korea|Gyeongsangbuk-do|Andong|367|Korea Telecom|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1257940663-1757414263:5da0874f80|196.210.100.34|South Africa|KwaZulu-Natal|Durban|4037|Dimension Data|Black List: No|Use Type: Residential
 51.161.140.183:1234:user33755602-1757414383:a1273864c3|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
 51.161.142.237:3838:user82525417-1757414384:5a6177898c|81.43.196.29|Spain|Madrid|Parla|28981|Telefonica de Espana SAU|Black List: No|Use Type: Residential
-15.235.177.98:6168:user28711115-1757414418:4b5082ba26|81.61.88.114|Spain|Canary Islands|Las Palmas de Gran Canaria|35011|Ono|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1272843357-1757410119:cbbe5a5a95|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
+15.235.177.98:6168:user28711115-1757414418:4b5082ba26|81.61.88.114|Spain|Canary Islands|Las Palmas de Gran Canaria|35011|Ono|Black List: No|Use Type: Residential
 51.79.185.140:6663:user44013513-1757414383:2631fe761b|81.0.45.119|Spain|Madrid|Madrid|28019|MasMovil Access Network|Black List: No|Use Type: Residential
-51.161.142.96:6666:user70349887-1757413652:da7ccb0fac|87.102.174.41|Switzerland|Basel-Landschaft|Muttenz|4132|ImproWare AG|Black List: No|Use Type: Residential
-51.79.181.86:2222:user87461224-1757414247:9129e3c668|114.39.214.170|Taiwan|Chiayi|Chiayi City||Chunghwa Telecom Co., Ltd.|Black List: No|Use Type: Residential
-51.79.185.140:6663:user58082139-1757414457:01421e08a4|61.220.133.63|Taiwan|New Taipei City|New Taipei City||Chunghwa Telecom Co., Ltd.|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1221940020-1757414274:d765fb6981|110.49.82.252|Thailand|Bangkok|Bangkok|10400|Advanced Wireless Network Company Limited|Black List: No|Use Type: Cellular
-51.79.185.140:6663:user1226902282-1757413899:e05a6078be|171.5.227.247|Thailand|Prachuap Khiri Khan|Hua Hin|77110|Triple T Broadband Public Company Limited|Black List: No|Use Type: Residential
+51.79.137.199:8899:user25425809-1757414387:e66c79bbb5|114.44.137.18|Taiwan|New Taipei City|New Taipei City||Chunghwa Telecom Co., Ltd.|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1237433765-1757414313:440085a5c6|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
+51.79.185.140:6663:user58082139-1757414457:01421e08a4|61.220.133.63|Taiwan|New Taipei City|New Taipei City||Chunghwa Telecom Co., Ltd.|Black List: No|Use Type: Residential
 5.135.94.68:1212:user1288256147-1757414283:8e1b5b5d85|27.145.165.250|Thailand|Bangkok|Bangkok|10120|True Internet Corporation CO. Ltd.|Black List: No|Use Type: Residential
-46.105.138.79:5555:user1275295479-1757414328:8541b684ff|196.176.47.17|Tunisia|Tunis Governorate|Tunis||ooredoo TN|Black List: No|Use Type: Residential
+51.79.181.86:2222:user1221940020-1757414274:d765fb6981|110.49.82.252|Thailand|Bangkok|Bangkok|10400|Advanced Wireless Network Company Limited|Black List: No|Use Type: Cellular
 51.161.140.183:1234:user1265591058-1757414087:8bf4d87459|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
-51.79.185.140:6663:user1258829174-1757414255:b0e788ce72|102.157.122.183|Tunisia|Sfax Governorate|Sfax||ADSL Home Topnet|Black List: No|Use Type: Residential
+46.105.138.79:5555:user1275295479-1757414328:8541b684ff|196.176.47.17|Tunisia|Tunis Governorate|Tunis||ooredoo TN|Black List: No|Use Type: Residential
+51.161.140.81:5200:user1294466480-1757414315:d842833f59|102.31.147.112|Tunisia|Tunis Governorate|Tunis||Tunisie Telecom|Black List: No|Use Type: Residential
 51.161.140.183:1234:user30091349-1757414371:be7f6c5cb2|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
 51.161.140.183:1234:user50904799-1757414369:5d6a1452d1|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
 51.79.194.87:9999:user66181530-1757414368:40cd0a800c|38.156.75.31|Türkiye|Hatay|Antakya|31000|High Speed Telekomunikasyon ve Hab. Hiz. Ltd. Sti.|Black List: No|Use Type: Residential
-51.161.140.81:5200:user1294466480-1757414315:d842833f59|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 51.161.142.96:6666:user1257675120-1757414314:a733a41064|5.58.151.2|Ukraine|Ternopil Oblast|Ternopil|46001|Columbus|Black List: No|Use Type: Residential
 51.79.194.87:9999:user1217015047-1757414425:25244653e3|213.74.191.42|Türkiye|Kilis|Kilis|79000|Superonline Iletisim Hizmetleri A.S.|Black List: No|Use Type: Residential
-51.161.142.96:6666:user1265727294-1757414030:1bd229e354|5.193.191.28|United Arab Emirates|Ra's al Khaymah|Ras al-Khaimah||Emirates Telecommunications Corporation|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1219093650-1757414032:0a8622d2d8|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
-46.105.138.79:5555:user53227090-1757414373:6089448266|90.248.93.85|United Kingdom|England|Leeds|LS10|Vodafone|Black List: No|Use Type: Residential
 51.79.181.86:2222:user1235638170-1757414309:5c821f18c0|86.170.7.158|United Kingdom|Wales|Aberystwyth|SY23|BT Public Internet Service|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1272609763-1757413876:f3917b62ca|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-51.79.181.86:2222:user1223683904-1757414049:03459bf2ea|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1226382024-1757414268:550865f511|216.12.68.75|United States|Virginia|Waynesboro|22980|LUMOS Networks|Black List: No|Use Type: Residential
+46.105.138.79:5555:user53227090-1757414373:6089448266|90.248.93.85|United Kingdom|England|Leeds|LS10|Vodafone|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1271845025-1757414357:9bfa3bfae7|67.62.210.154|United States|Ohio|Hudson|44236|Windstream Communications LLC|Black List: No|Use Type: Residential
+51.79.137.199:8899:user23414264-1757414409:d093647877|88.97.160.46|United Kingdom|England|Accrington|BB5|BRSK Limited|Black List: No|Use Type: Residential
 51.161.140.183:1234:user1240110641-1757414287:f04178ef15|51.161.140.183|Australia|New South Wales|North Sydney|2060|OVH SAS|Black List: No|Use Type: Residential
-51.79.194.87:9999:user1240448471-1757414238:3b87c5d120|109.156.122.27|United Kingdom|England|Runcorn|WA7|BT Public Internet Service|Black List: No|Use Type: Residential
-51.79.194.87:9999:user1225392723-1757414377:e78d123286|98.207.140.158|United States|California|San Francisco|94115|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-51.79.194.87:9999:user1253221180-1757414341:7b6bc3373f|179.24.78.73|Uruguay|Montevideo Department|Montevideo|11700|Administracion Nacional de Telecomunicaciones|Black List: No|Use Type: Residential
 51.161.140.81:5200:user1274934474-1757414299:b85af03684|206.0.185.236|Venezuela|Zulia|Cabimas||Colnetwork C.A.|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1298451285-1757414241:5dc1820830|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-51.161.140.81:5200:user1295225999-1757414132:ff1dacf3ce|171.235.125.79|Vietnam|Ho Chi Minh|Ho Chi Minh City|700000|Viettel Corporation|Black List: No|Use Type: Residential
-15.235.177.98:6168:user1293705380-1757414083:80ee385356|116.98.245.177|Vietnam|Thái Nguyên Province|Thái Nguyên|250000|Viettel Corporation|Black List: No|Use Type: Residential
-51.161.142.237:3838:user1285792076-1757414235:238fa2e295|14.176.39.165|Vietnam|Hanoi|Hanoi|100000|VNPT|Black List: No|Use Type: Residential
-51.161.142.237:3838:user1267159875-1757414135:aec5cce448|178.130.113.113|Yemen|Amanat Alasimah|Sanaa||Yemen-net-bb-pool 178|Black List: No|Use Type: Residential
-5.135.94.68:1212:user1264332173-1757414331:f25d687bdf|139.190.191.21|Palestine|Nablus Governorate|Nablus||Palestine Telecommunications Company|Black List: No|Use Type: Residential
+51.79.194.87:9999:user1253221180-1757414341:7b6bc3373f|179.24.78.73|Uruguay|Montevideo Department|Montevideo|11700|Administracion Nacional de Telecomunicaciones|Black List: No|Use Type: Residential
 5.135.94.68:1212:user1259830837-1757414336:2ac1f6f446|84.54.71.158|Uzbekistan|Tashkent|Tashkent||"Uzbektelekom" Joint Stock Company|Black List: No|Use Type: Residential
-185.93.89.164:33384|8.209.119.5|Germany|Hesse|Frankfurt am Main|60313|Alibaba.com Singapore E-Commerce Private Limited|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1243566974-1757414315:a2fb954c94|103.24.17.38|Bangladesh|Khulna Division|Jhingergācha|7420|Masuma Akhter|Black List: No|Use Type: Residential
 37.27.93.106:51555:Ysywtf:diPmKw|185.81.99.230|Iran|Tehran|Tehran||Mizban Dade Pasargad|Black List: No|Use Type: Residential
-37.27.93.106:49133:R31WF7:KJ2hXX|36.74.121.193|Indonesia|Central Sulawesi|Kaleroang||PT. TELKOM INDONESIA|Black List: No|Use Type: Residential
+5.135.94.68:1212:user1224082612-1757414320:aa9bb49ad2|185.187.131.196|Lebanon|Mohafazat Mont-Liban|Baabda||Energy Bridge Sarl|Black List: No|Use Type: Residential
+37.27.93.106:49133:R31WF7:KJ2hXX|36.74.114.125|Indonesia|Central Sulawesi|Sigi Biromaru||PT. TELKOM INDONESIA|Black List: No|Use Type: Residential
+37.27.93.106:18698:yCeS8R:UZbAla|218.103.201.242|Hong Kong|Kowloon|Hong Kong|999077|PCCW IMS Limited|Black List: No|Use Type: Residential
 37.27.93.106:12142:fzxTps:zcqFCM|27.14.251.244|China|Chongqing|Chongqing||China Unicom Chongqing Province Network|Black List: No|Use Type: Residential
 37.27.93.106:47705:PktJNg:WDCv5a|27.123.94.186|India|Haryana|Gurugram|122018|Bharti Airtel Limited|Black List: No|Use Type: Residential
-37.27.93.106:18698:yCeS8R:UZbAla|218.103.201.242|Hong Kong|Kowloon|Hong Kong|999077|PCCW IMS Limited|Black List: No|Use Type: Residential
 37.27.93.106:50562:mwwS8a:RaG00D|178.69.46.252|Russia|St.-Petersburg|St Petersburg|190990|PJSC "Rostelecom" North-West region|Black List: No|Use Type: Residential
 37.27.93.106:47526:oabTFW:Bz3PYg|75.64.207.52|United States|Louisiana|Houma|70364|Comcast Cable Communications|Black List: No|Use Type: Residential
 37.27.93.106:39769:mlY5OW:TjR1W7|78.27.95.12|Finland|North Ostrobothnia|Oulu|90570|DNA Oyj|Black List: No|Use Type: Residential
-65.108.251.40:26371|81.88.144.176|Kazakhstan|Almaty|Almaty||JSC Alma Telecommunications|Black List: No|Use Type: Residential
 37.27.93.106:47705:PktJNg:WDCv5a|27.123.94.186|India|Haryana|Gurugram|122018|Bharti Airtel Limited|Black List: No|Use Type: Residential
 37.27.93.106:47526:oabTFW:Bz3PYg|75.64.207.52|United States|Louisiana|Houma|70364|Comcast Cable Communications|Black List: No|Use Type: Residential
-37.27.93.106:14893:6htpix:u2acuV|220.192.99.46|China|Beijing|Jinrongjie||China Unicom Network|Black List: No|Use Type: Residential
 37.27.93.106:59393:sHrtEM:GQmIqK|175.144.25.158|Malaysia|Kuala Lumpur|Kuala Lumpur|50460|TM TECHNOLOGY SERVICES SDN BHD|Black List: No|Use Type: Residential
-185.93.89.164:33384|8.209.119.5|Germany|Hesse|Frankfurt am Main|60313|Alibaba.com Singapore E-Commerce Private Limited|Black List: No|Use Type: Residential
+37.27.93.106:14893:6htpix:u2acuV|220.192.99.46|China|Beijing|Jinrongjie||China Unicom Network|Black List: No|Use Type: Residential
