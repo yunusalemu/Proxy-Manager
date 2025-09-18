@@ -1,535 +1,722 @@
-37.120.162.180:33860:DVSMnmjMUW:5widbwD|108.29.137.35|United States|New York|Brooklyn|11201|Verizon Business|Black List: No|Use Type: Residential
-37.120.162.180:53392:DVSQC0SFAc:oIdnssx|108.35.46.25|United States|New Jersey|Freehold|07728|Verizon Business|Black List: No|Use Type: Residential
-37.120.162.180:22793:DVSWnmp7Oa:ggETePZ|70.23.73.78|United States|New York|Queens|11385|Verizon Business|Black List: No|Use Type: Residential
-37.120.162.180:35999:DVSiNj6VST:pjx8OFV|96.244.40.87|United States|Maryland|Annapolis|21401|Verizon Business|Black List: No|Use Type: Residential
-37.120.162.180:20923:DVSDGHqh5t:ZkG22as|71.105.92.10|United States|New York|Brooklyn|11214|Verizon Business|Black List: No|Use Type: Residential
-37.120.162.180:37058:DVSB7ZKvm5:x5VrA1q|108.54.108.95|United States|New York|Baldwin|11510|Verizon Communications|Black List: No|Use Type: Residential
-152.53.36.101:1080:DVS-Idm-3F61:grFlA4f|173.79.116.46|United States|Virginia|Sterling|20165|Verizon Business|Black List: No|Use Type: Residential
-37.120.162.180:29362:DVS056ynk6:Gdq4dh5|100.2.203.146|United States|New York|Queens|11358|Verizon Business|Black List: No|Use Type: Residential
-37.120.162.180:54107:DVSqYvzqfx:87XyXCH|72.69.62.177|United States|New York|Brooklyn|11214|Verizon Business|Black List: No|Use Type: Residential
-37.120.162.180:30515:DVSYguEV2J:TlRDyMr|108.29.53.183|United States|New York|The Bronx|10466|Verizon Communications|Black List: No|Use Type: Residential
-37.120.162.180:39139:DVSazbWh8Q:P4iagrL|100.2.76.109|United States|New York|The Bronx|10462|Verizon Business|Black List: No|Use Type: Residential
-37.221.193.221:12071:DVSRI8K6fY:mfl3yVS|82.36.136.141|United Kingdom|England|Enfield|EN2|Virgin Media|Black List: No|Use Type: Residential
-37.221.193.221:50087:DVSx0YRNVo:3eAlfBg|82.5.103.171|United Kingdom|England|Wolverhampton|WV4|Virgin Media Limited|Black List: No|Use Type: Residential
-37.221.193.221:53635:DVSH8RxlHh:kD9QvMA|82.18.17.98|United Kingdom|England|Plymouth|PL4|Virgin Media|Black List: No|Use Type: Residential
-152.53.170.41:1080:DVS-Kxm-YeeA:6mJWo7J|86.238.248.16|France|Île-de-France|Paris|75015|Orange|Black List: No|Use Type: Residential
-152.53.170.41:1080:DVS-xaF-wo1F:U7Q0Tqv|80.192.68.223|United Kingdom|England|Hounslow|TW5|Virgin Media|Black List: No|Use Type: Residential
-37.221.193.221:39914:DVSd5sqPt3:CBh1ekS|82.36.227.175|United Kingdom|England|Hayes|UB3|Virgin Media Limited|Black List: No|Use Type: Residential
-37.221.193.221:42580:DVSXGqEhJw:zEcMEJl|77.102.4.123|United Kingdom|England|Birmingham|B17|Virgin Media Limited|Black List: No|Use Type: Residential
-37.221.193.221:30063:DVSN8MoutD:4neR1Hp|86.21.158.253|United Kingdom|England|Basildon|SS14|Virgin Media Limited|Black List: No|Use Type: Residential
-37.221.193.221:14740:DVS5CPGCPD:KB7zCkn|77.98.207.252|United Kingdom|England|New Malden|KT3|Virgin Media|Black List: No|Use Type: Residential
-152.53.171.242:43678|142.122.105.115|Canada|Ontario|Scarborough|M1E|Bell Canada|Black List: No|Use Type: Residential
-37.120.162.180:46793:DVSNEDos0G:ePVBjab|86.24.126.204|United Kingdom|England|Havant|PO9|Virgin Media|Black List: No|Use Type: Residential
-152.53.171.242:32398|80.193.153.16|United Kingdom|England|Birmingham|B38|Virgin Media Limited|Black List: No|Use Type: Residential
-37.120.162.180:48963:DVSlaFWUgR:7DAbzt6|86.24.2.162|United Kingdom|England|Bedford|MK42|Virgin Media|Black List: No|Use Type: Residential
-152.53.170.41:1080:DVS-zEK-bo0q:IpHKN5W|86.11.45.59|United Kingdom|England|Wigan|WN3|Virgin Media Limited|Black List: No|Use Type: Residential
-152.53.171.242:17994|81.100.28.126|United Kingdom|England|Broadstairs|CT10|Virgin Media Limited|Black List: No|Use Type: Residential
-37.221.193.221:54270:DVS9x0QT0W:CAkfNQ5|81.102.86.167|United Kingdom|England|Wembley|HA0|Virgin Media Limited|Black List: No|Use Type: Residential
-152.53.171.242:49494|82.4.4.198|United Kingdom|England|Hatfield|AL10|Virgin Media Limited|Black List: No|Use Type: Residential
+152.53.171.242:49494|103.144.201.32|Bangladesh|Dhaka Division|Dhaka|1207|Solution|Black List: No|Use Type: Residential
+91.99.174.236:34397:DVSY8pQFbH:jSuykrL|194.108.5.242|Czechia|Prague|Prague|170 00|T-Mobile Czech Republic|Black List: No|Use Type: Cellular
+152.53.171.242:17994|185.187.131.197|Lebanon|Mohafazat Mont-Liban|Baabda||Energy Bridge Sarl|Black List: No|Use Type: Residential
 188.245.189.170:10831:DVS9rnyYL7:e6FWZK|14.51.223.140|South Korea|North Chungcheong|Chungju-si|274|Korea Telecom|Black List: No|Use Type: Residential
-91.99.174.236:48810:DVSd3IU0Wf:gg4tQiI|61.79.249.128|South Korea|Incheon|Gyeyang-gu|210|Korea Telecom|Black List: No|Use Type: Residential
-91.99.174.236:34397:DVSY8pQFbH:jSuykrL|210.99.111.184|South Korea|Gyeonggi-do|Seongnam-si|135|Korea Telecom|Black List: No|Use Type: Residential
-89.58.45.94:13739:DVS0HZpgOl:liktlnC|113.59.128.131|South Korea|Gyeongsangbuk-do|Gumi|392|HYUNDAI COMMUNICATIONS & NETWORK|Black List: No|Use Type: Residential
-89.58.45.94:34238:DVSKZRlj56:N25fuhb|122.0.51.188|South Korea|Jeollabuk-do|Iksan|54592|Keumgang Cable Network|Black List: No|Use Type: Residential
-89.58.45.94:13853:DVSb1O7OrX:COHnYtx|58.141.84.194|South Korea|Jeollanam-do|Naju|58235|SEOCHO CABLE SYSTEMS CO., LTD.|Black List: No|Use Type: Residential
-89.58.45.94:49325:DVSc4bstN2:lnmqZpA|119.206.54.195|South Korea|Jeollabuk-do|Sunchang-gun|560|Korea Telecom|Black List: No|Use Type: Residential
 23.137.105.63:15756:DVSO6GaB0P:hcjezfr|180.68.195.234|South Korea|Seoul|Nowon-gu|016|SK Broadband Co Ltd|Black List: No|Use Type: Residential
-152.53.36.101:1080:DVS-DxP-LRoL:8vZ8GUX|154.60.107.61|Spain|Galicia|Vigo|36310|ATUAXANELA, S.L.|Black List: No|Use Type: Residential
-37.221.193.221:38082:DVSztAgjxX:bipEs6B|85.58.245.6|Spain|Balearic Islands|Palma|07008|UNI2|Black List: No|Use Type: Residential
-78.46.241.187:50408:DVS7iiC8Bi:zBk3CV|176.84.67.26|Spain|Catalonia|el Prat de Llobregat|08820|Telefonica de Espana SAU|Black List: No|Use Type: Residential
-37.221.193.221:56141:DVS3PfeVxA:XukHnqc|207.66.20.32|Spain|Valencia|Alaquàs|46970|Orange Espagne SA|Black List: No|Use Type: Residential
-89.58.45.94:50084:DVSYssU09p:xedeu3p|212.230.117.123|Spain|Valencia|Castelló de la Plana|12002|Global ISP by PriorityTelecom Spain|Black List: No|Use Type: Residential
-78.46.241.187:39416:DVSqz20yJN:BSUHbC|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-78.46.241.187:28088:DVS7W6CCmx:xvXRVJ|83.45.227.204|Spain|Catalonia|Barcelona|08014|Telefonica de Espana SAU|Black List: No|Use Type: Residential
-37.221.193.221:49682:DVSaFf1mlG:dpibN1t|85.85.182.193|Spain|Catalonia|Montcada i Reixac|08110|Xtra Telecom S.A.|Black List: No|Use Type: Residential
-37.221.193.221:46074:DVSdXKCBLE:YrHscQY|139.47.10.195|Spain|Valencia|Valencia|46017|Xtra Telecom S.A.|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-3aF-7TdA:3lvUl9k|182.213.91.176|South Korea|Gyeonggi-do|Anyang-si|14032|LG POWERCOMM|Black List: No|Use Type: Residential
-37.221.193.221:27614:DVSnyTa4Bq:MXufaEY|90.164.44.6|Spain|Castille and León|Valverde de la Virgen|24391|Orange Espagne SA|Black List: No|Use Type: Residential
-172.245.55.208:31934:DVS5Adz5QF:mebvf8k|83.51.235.140|Spain|Catalonia|Badalona|08912|Telefonica de Espana SAU|Black List: No|Use Type: Residential
-37.221.193.221:48390:DVSkurdMmw:ReC7yNC|37.15.85.234|Spain|Catalonia|L'Hospitalet de Llobregat|08905|Orange Spain|Black List: No|Use Type: Residential
-37.221.193.221:11480:DVSffzcPex:iv4ruzD|95.124.102.123|Spain|Basque Country|Beasain|20200|RIMA (Red IP Multi Acceso)|Black List: No|Use Type: Residential
-152.53.171.242:58206|31.208.31.140|Sweden|Västra Götaland County|Gothenburg|414 72|Bredband2 AB|Black List: No|Use Type: Residential
-37.221.193.221:54215:DVSGeOVXBO:iZLFjw9|195.177.88.59|Spain|Valencia|Llutxent|46838|TotWifi|Black List: No|Use Type: Residential
-37.221.193.221:46337:DVSbxGWZDx:vxK9hq2|89.141.166.176|Spain|Madrid|Madrid|28053|Vodafone ONO|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-Ggj-u8Hl:ZQYTar0|2.67.160.28|Sweden|Dalarna County|Boda||Hi3G Access AB|Black List: No|Use Type: Residential
-23.137.105.63:22327:DVSyT7wxzx:aIFOHma|94.234.84.64|Sweden|Stockholm County|Stockholm|167 41|Telenor Norge AS|Black List: No|Use Type: Residential
-78.46.241.187:58843:DVSwxgpxqX:Zm2Wgp|88.129.112.16|Sweden|Västerbotten County|Nordmaling|914 33|AllTele|Black List: No|Use Type: Cellular
-152.53.170.41:1080:DVS-ues-Ns2k:SOk1PS7|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-152.53.171.242:15870|83.227.141.15|Sweden|Stockholm County|Stockholm|145 84|Bredbandsbolaget|Black List: No|Use Type: Residential
-152.53.168.53:25340|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-23.137.105.63:28101:DVSJAyWwOT:5YRoLXl|217.209.134.106|Sweden|Värmland County|Karlstad|653 38|Telia Company AB|Black List: No|Use Type: Residential
-89.58.45.94:44455:DVSGfmPzQa:83MaOlg|87.249.170.122|Sweden|Gävleborg County|Ljusdal|827 34|Ljusdal Elnat AB|Black List: No|Use Type: Residential
-78.46.241.187:54208:DVSyJKwEsm:520btT|77.240.71.190|Sweden|Blekinge County|Olofström|293 39|Olofstroms Kabel-TV AB|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-h7O-7uO5:NFBLdaR|213.65.206.68|Sweden|Stockholm County|Södertälje|151 00|Telia Company AB|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-PvE-63Ha:W7k2OQ3|31.165.109.41|Switzerland|Zurich|Zurich|8051|Sunrise GmbH|Black List: No|Use Type: Residential
-172.245.55.208:54503:DVSyQgGkbU:lSJ6ZQC|94.255.132.192|Sweden|Skåne County|Malmo|200 01|Bredband2 AB|Black List: No|Use Type: Residential
-78.46.241.187:15407:DVSaWS8xEJ:WsJY31|213.3.35.247|Switzerland|Lucerne|Lucerne|6006|Swisscom (Schweiz) AG - Bluewin|Black List: No|Use Type: Residential
-89.58.45.94:30535:DVSz0gzSmK:zeUvN3T|87.245.101.2|Switzerland|Schaffhausen|Stein am Rhein|8260|sasag Kabelkommunikation AG|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-RuI-T8oq:ZtAf6NM|213.55.247.33|Switzerland|Zurich|Zurich|8001|Salt Mobile SA|Black List: No|Use Type: Cellular
-152.53.54.151:1080:DVS-84j-Ec7p:G5PA0cM|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-37.221.193.221:43796:DVSM6o1Xn8:IwunvMI|83.173.219.26|Switzerland|Zurich|Zurich|8003|Swisscom (Schweiz) AG - SME/Cybernet|Black List: No|Use Type: Residential
-152.53.171.242:40071|38.137.19.30|India|Punjab|Ludhiana|141007|Netplus Broadband Services Private Limited|Black List: No|Use Type: Residential
-37.221.193.221:32379:DVS6AGHbbt:IEtboW9|46.14.66.238|Switzerland|Zurich|Zurich|8045|Swisscom (Schweiz) AG - SME/Cybernet|Black List: No|Use Type: Residential
-89.58.45.94:12282:DVSytxIAaI:W3P1to8|178.211.249.237|Switzerland|Vaud|Le Sentier|1347|VOENET|Black List: No|Use Type: Residential
-89.58.45.94:14002:DVS0TOlxGo:FwjO1OJ|87.245.101.2|Switzerland|Schaffhausen|Stein am Rhein|8260|sasag Kabelkommunikation AG|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-4GC-Bkkg:hepgp8F|125.25.82.246|Thailand|Ranong province|Kra Buri||TOT Public Company Limited|Black List: No|Use Type: Residential
-23.137.105.63:18000:DVSVKHDTXN:2GlZsS8|223.205.226.214|Thailand|Surin|Si Narong|34000|Triple T Broadband Public Company Limited|Black List: No|Use Type: Residential
-23.137.105.63:52739:DVSi4NDsVM:RCaIk0h|171.97.141.57|Thailand|Nakhon Ratchasima|Nakhon Ratchasima|30000|True Internet Corporation CO. Ltd.|Black List: No|Use Type: Residential
-23.137.105.63:57781:DVS34Bj98w:XdDi8N7|171.97.219.216|Thailand|Lamphun|Pa Sang|51120|True Internet Corporation CO. Ltd.|Black List: No|Use Type: Residential
-23.137.105.63:16643:DVS3Uq7Pdd:KcPrZ5q|125.25.36.229|Thailand|Nan|Wiang Sa|55110|TOT Public Company Limited|Black List: No|Use Type: Residential
-23.137.105.63:26583:DVSeQxAURJ:K2XgpDk|159.192.34.58|Thailand|Chon Buri|Pattaya|20150|CAT Telecom Public Company Limited|Black List: No|Use Type: Residential
-23.137.105.63:22752:DVSO14FhJ4:CWtAbyT|223.204.78.1|Thailand|Krabi|Krabi|81000|Triple T Broadband Public Company Limited|Black List: No|Use Type: Residential
-208.84.102.39:12208:DVSWsHWnin:RSktpOk|202.44.35.166|Thailand|Bangkok|Bangkok|10800|Internet Thailand Company Ltd.|Black List: No|Use Type: Residential
-23.137.105.63:23857:DVSk8b0Uh3:W2f8B7J|171.96.75.244|Thailand|Bangkok|Bangkok|10250|True Internet Corporation CO. Ltd.|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-pxG-FYy1:8OBE44I|184.22.29.149|Thailand|Bangkok|Bangkok|10120|AIS-Fibre|Black List: No|Use Type: Residential
-23.137.105.63:13997:DVSJkuQDgv:FNLiXLq|1.20.191.62|Thailand|Chiang Mai|Chiang Mai|50310|TOT Public Company Limited|Black List: No|Use Type: Residential
-208.84.102.79:25783:DVSlAgg4hR:W0v8bko|107.182.47.52|United States|California|Pioneer|95666|Volcano Vision, Inc.|Black List: No|Use Type: Residential
-152.53.171.242:44103|111.235.192.2|Taiwan|Taipei City|Taipei||Taiwan Intelligent Fiber Optic Network Co., Ltd.|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-KNn-Byft:ACNLrgy|123.241.242.32|Taiwan|Taichung City|Taichung||TBC|Black List: No|Use Type: Residential
-208.84.102.79:36566:DVSlpfCatd:3RTRF9g|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-78.46.241.187:19304:DVSo3p6J0v:dKCr0l|221.120.2.28|Taiwan|Taiwan|Neihu District||EMOME|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-yQY-sqp7:sC9sPtg|223.206.64.74|Thailand|Surat Thani|Ko Pha Ngan|84280|Triple T Broadband Public Company Limited|Black List: No|Use Type: Residential
-152.53.36.101:1080:DVS-ili-iZNp:Jn5AEmg|59.126.168.224|Taiwan|Taichung City|Taichung||Chunghwa Telecom Co., Ltd.|Black List: No|Use Type: Residential
-152.53.171.242:43196|171.5.137.182|Thailand|Si Sa Ket|Si Sa Ket|33000|Triple T Broadband Public Company Limited|Black List: No|Use Type: Residential
-208.84.102.79:52722:DVSw3tLFGp:ZyCDbnV|178.66.145.97|Russia|St.-Petersburg|St Petersburg|190990|PJSC Rostelecom|Black List: No|Use Type: Residential
-152.53.171.242:42603|184.22.167.93|Thailand|Bangkok|Bangkok|10250|AIS-Fibre|Black List: No|Use Type: Residential
-152.53.171.242:57365|171.7.232.37|Thailand|Songkhla|Hat Yai|90110|Triple T Broadband Public Company Limited|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-IE7-lFhx:jFq2TbG|197.244.186.34|Tunisia|Tunis Governorate|Tunis||TOPNET|Black List: No|Use Type: Residential
-23.137.105.63:18807:DVSCqFxbIo:oMvOXnh|171.6.235.165|Thailand|Phuket|Phuket|83000|Triple T Broadband Public Company Limited|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-v65-qHEh:pCGFwKo|171.4.217.77|Thailand|Chiang Mai|Chiang Mai|50000|Triple T Broadband Public Company Limited|Black List: No|Use Type: Residential
+23.137.105.63:22327:DVSyT7wxzx:aIFOHma|38.248.150.83|Venezuela|Lara|Barquisimeto||THUNDERNET, C.A.|Black List: No|Use Type: Residential
+23.137.105.63:28101:DVSJAyWwOT:5YRoLXl|88.242.206.7|Turkey|Gaziantep|Gaziantep|27010|TurkTelecom|Black List: No|Use Type: Residential
+23.137.105.63:52739:DVSi4NDsVM:RCaIk0h|46.36.79.112|Lithuania|Tauragė County|Jurbarkas|74001|KLI|Black List: No|Use Type: Residential
+23.137.105.63:26583:DVSeQxAURJ:K2XgpDk|189.130.138.205|Mexico|Mexico City|Iztacalco|08200|UNINET|Black List: No|Use Type: Residential
+23.137.105.63:16643:DVS3Uq7Pdd:KcPrZ5q|186.195.100.159|Brazil|Goiás|Ceres|76300|Melo Telecomunicacoes Ltda|Black List: No|Use Type: Residential
+152.53.171.242:44103|46.6.117.8|Spain|Andalusia|Mairena del Aljarafe|41927|Xtra Telecom S.A.|Black List: No|Use Type: Residential
+152.53.171.242:42603|90.156.165.206|Uzbekistan|Tashkent|Tashkent||"Uzbektelekom" Joint Stock Company|Black List: No|Use Type: Residential
 23.137.105.63:28410:DVSvFY8RgZ:q6WAanP|171.97.76.30|Thailand|Nakhon Ratchasima|Nakhon Ratchasima|30000|True Internet Corporation CO. Ltd.|Black List: No|Use Type: Residential
-152.53.171.242:17292|102.157.14.54|Tunisia|Monastir Governorate|Monastir||ADSL Home Topnet|Black List: No|Use Type: Residential
-23.137.105.63:13800:DVSnZ9tGjU:gtDkIrl|78.190.178.84|Türkiye|Denizli|Denizli|20150|TTNet A.S.|Black List: No|Use Type: Residential
-152.53.171.242:58600|197.11.85.76|Tunisia|Sousse Governorate|Hammam Sousse||SOCIETE NATIONALE DES TELECOMMUNICATIONS (Tunisie Telecom)|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-Cd7-GjOb:18wqrHQ|41.62.84.67|Tunisia|Tunis Governorate|Tunis||TOPNET|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-PUn-i9zq:fdTbtLN|197.240.126.154|Tunisia|Tunis Governorate|Tunis||TOPNET|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-vhv-QQ5W:X6vyFGO|102.156.25.74|Tunisia|Tunis Governorate|Tunis||ADSL Home TOpnet|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-mm6-NYbC:vb7uwhr|102.156.187.197|Tunisia|Tunis Governorate|Tunis||ADSL Home TOpnet|Black List: No|Use Type: Residential
-23.137.105.63:37349:DVSByQ9SGp:4L0tTTk|115.135.150.238|Malaysia|Kuala Lumpur|Kuala Lumpur|50515|TM TECHNOLOGY SERVICES SDN BHD|Black List: No|Use Type: Residential
-152.53.171.242:28409|102.135.170.235|Kenya|Nairobi County|Nairobi|09831|POA INTERNET KENYA LIMITED|Black List: No|Use Type: Residential
-152.53.171.242:54409|197.26.204.177|Tunisia|Nabeul Governorate|Nabeul||Orange Tunisie|Black List: No|Use Type: Residential
-152.53.171.242:28991|196.234.7.35|Tunisia|Tunis Governorate|Tunis||Orange Tunisie|Black List: No|Use Type: Residential
-152.53.171.242:35878|41.226.98.31|Tunisia|Medenine Governorate|Houmt Souk||TOPNET|Black List: No|Use Type: Residential
-152.53.171.242:50447|197.240.152.213|Tunisia|Ben Arous Governorate|Ben Arous||TOPNET|Black List: No|Use Type: Residential
-152.53.171.242:44121|196.178.185.158|Tunisia|Tunis Governorate|Tunis||ooredoo TN|Black List: No|Use Type: Residential
-152.53.171.242:11150|190.171.113.2|Costa Rica|Provincia de San José|San José|10101|Telecable Economico S.A.|Black List: No|Use Type: Residential
-89.58.45.94:59284:DVSYTB0BsO:v5sWofx|88.247.33.14|Turkey|Istanbul|Ümraniye|34662|TurkTelecom|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-3ro-3sA6:u2oddMP|197.240.60.212|Tunisia|Tunis Governorate|La Goulette||TOPNET|Black List: No|Use Type: Residential
-89.58.45.94:50778:DVSZNGcj0f:Ecb0pv6|176.41.224.97|Türkiye|İzmir Province|Bornova|35090|Tellcom Broadband Network Statement|Black List: No|Use Type: Residential
-89.58.45.94:37927:DVSJRwXU7Z:kZmx0XV|88.247.224.191|Türkiye|Bursa Province|Bursa|16140|TurkTelecom|Black List: No|Use Type: Residential
-89.58.45.94:59016:DVSPPiNfng:P1PXLLp|85.104.121.161|Türkiye|Ankara|Ankara|06280|TTNet A.S.|Black List: No|Use Type: Residential
-89.58.45.94:11972:DVScpmcAiz:63mxoIa|185.117.123.75|Türkiye|Antalya|Alanya|07400|Fibim Fibernet GSM Sanayi VE Ticaret Anonim Sirketi|Black List: No|Use Type: Residential
-23.137.105.63:21630:DVS2ygzL5M:dBdGGdU|41.210.146.115|Uganda|Central Region|Kampala||MTN Uganda|Black List: No|Use Type: Residential
-152.53.171.242:57136|102.209.111.199|Uganda|Central Region|Kampala||Savanna Fibre|Black List: No|Use Type: Residential
-208.84.102.39:30965:DVSOhFuYGP:H1arNK0|197.239.7.86|Uganda|Central Region|Kampala||Airtel Uganda|Black List: No|Use Type: Residential
-152.53.171.242:27512|88.167.53.3|France|Île-de-France|Le Chesnay|78150|ProXad network / Free SAS|Black List: No|Use Type: Residential
-152.53.171.242:53675|102.208.84.6|Uganda|Central Region|Kampala||Ogos Inno-tech Limited|Black List: No|Use Type: Residential
-152.53.171.242:16456|102.209.111.246|Uganda|Central Region|Kampala||Savanna Fibre|Black List: No|Use Type: Residential
-23.137.105.63:43416:DVSnIVUJbt:wmoggGc|175.183.72.118|Taiwan|Nantou|Nantou City||TINP|Black List: No|Use Type: Residential
-208.84.102.39:31092:DVSZ1TNlTD:5oW14Iz|102.222.70.41|Uganda|Central Region|Kampala||Wananchi Cable (U) Subs|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-olD-yLdy:VIeVy3Q|102.209.111.167|Uganda|Central Region|Kampala||Savanna Fibre|Black List: No|Use Type: Residential
-208.84.102.39:17195:DVSYZgXmkU:AfQi3d9|137.63.145.66|Uganda|Central Region|Kampala||Research and Education Network Uganda|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-3Wf-U0oQ:qJeB7jT|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-89.58.45.94:17405:DVSrJnHMnT:yet06Mf|217.164.52.131|United Arab Emirates|Abu Dhabi|Abu Dhabi||Emirates Telecommunications Corporation|Black List: No|Use Type: Residential
-89.58.45.94:14191:DVS3cMXdbF:4sk7qzV|176.205.46.124|United Arab Emirates|Abu Dhabi|Abu Dhabi||Emirates Telecommunications Corporation|Black List: No|Use Type: Residential
-89.58.45.94:52147:DVS7UHMBd2:khP8Iii|2.51.25.141|United Arab Emirates|Dubai|Dubai||Emirates Telecommunications Corporation|Black List: No|Use Type: Residential
-89.58.45.94:51037:DVSTzgrbRA:7AVAiHi|83.110.90.144|United Arab Emirates|Abu Dhabi|Abu Dhabi||Emirates Telecommunications Corporation|Black List: No|Use Type: Residential
-23.137.105.63:30394:DVSgP7wSBP:KxA9DyB|186.24.18.34|Venezuela|Distrito Federal|Caracas||TELEFONICA VENEZOLANA, C.A.|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-hW7-d91E:KY3dh6q|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-152.53.54.151:1080:DVS-IVz-QUMe:nmpRk5m|216.234.215.173|Zimbabwe|Harare|Harare||SpaceX Starlink|Black List: No|Use Type: Residential
-208.84.102.39:56473:DVSWeWBdnx:TKVlpb5|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-37.120.162.180:49276:DVSsZaVxYG:Uf8ZlUt|101.188.215.113|Australia|Queensland|Brisbane|4030|Telstra Limited|Black List: No|Use Type: Residential
-208.84.102.39:46629:DVSvjYZCPp:2mDt2pu|188.192.99.59|Germany|Thuringia|Greiz|07973|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
-91.99.174.236:10726:DVS37qqbZ0:hpL1gxM|141.134.89.253|Belgium|Flanders|Edegem|2650|Telenet N.V|Black List: No|Use Type: Residential
-208.84.102.39:51961:DVSOvyDcum:tsaElJL|211.135.105.48|Japan|Osaka|Naniwa Ku|556-0011|JCOM Co., Ltd.|Black List: No|Use Type: Residential
-208.84.102.39:14984:DVSvhwdGwG:dZQXFUp|178.51.12.219|Belgium|Brussels Capital|Brussels|1000|Orange Belgium SA|Black List: No|Use Type: Residential
-208.84.102.39:30616:DVSAz1J9kN:AwQ583l|37.109.149.105|Poland|Opole Voivodeship|Karczów|49-120|Polkomtel Sp. z o.o.|Black List: No|Use Type: Residential
-23.137.105.63:13047:DVSejz5Zyg:FcfGXwX|178.51.141.56|Belgium|Wallonia|Courcelles|6180|Orange Belgium SA|Black List: No|Use Type: Residential
-208.84.102.79:30541:DVSwV96xY9:75t5FOm|96.233.51.207|United States|Massachusetts|Marlborough|01752|Verizon Business|Black List: No|Use Type: Residential
-208.84.102.39:46663:DVS1dItLsE:vEa7EZp|173.73.224.6|United States|Virginia|Fairfax|22031|Verizon Business|Black List: No|Use Type: Residential
-208.84.102.39:27423:DVSzP43oqy:e6fr3hR|96.225.87.239|United States|New Jersey|Union City|07087|Verizon Business|Black List: No|Use Type: Residential
-208.84.102.39:43012:DVSsbgZ2hz:Uov0dRw|71.186.144.242|United States|New York|Buffalo|14228|Verizon Business|Black List: No|Use Type: Residential
+23.137.105.63:13800:DVSnZ9tGjU:gtDkIrl|41.210.143.174|Uganda|Central Region|Kampala||MTN Uganda|Black List: No|Use Type: Residential
+152.53.171.242:28409|190.84.116.36|Colombia|Atlántico|Barranquilla|080001|Telmex Colombia S.A.|Black List: No|Use Type: Business
+152.53.171.242:44121|188.26.198.100|Spain|Madrid|Leganés|28912|Digi Spain Telecom S.L.U.|Black List: No|Use Type: Residential
+152.53.171.242:54409|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+23.137.105.63:21630:DVS2ygzL5M:dBdGGdU|189.245.163.204|Mexico|Mexico City|Venustiano Carranza|15530|UNINET|Black List: No|Use Type: Residential
+23.137.105.63:43416:DVSnIVUJbt:wmoggGc|178.66.130.236|Russia|St.-Petersburg|St Petersburg|190990|Rostelecom networks|Black List: No|Use Type: Residential
+152.53.171.242:27512|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+23.137.105.63:30394:DVSgP7wSBP:KxA9DyB|121.103.216.229|Japan|Osaka|Tarui|590-0521|Sony Network Communications Inc.|Black List: No|Use Type: Residential
+91.99.174.236:10726:DVS37qqbZ0:hpL1gxM|116.114.97.10|China|Inner Mongolia|Hohhot|010000|CNC Group CHINA169 Neimeng Province Network|Black List: No|Use Type: Residential
 188.245.189.170:49827:DVSRN9fcf5:XCM0T1|50.196.218.137|United States|Illinois|Chicago|60610|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-208.84.102.39:28069:DVSj3K6ZtE:qvlwrdK|173.53.111.90|United States|Virginia|Richmond|23226|Verizon Business|Black List: No|Use Type: Residential
-208.84.102.39:46783:DVStYAzhs6:DRe4ooF|81.106.51.254|United Kingdom|England|Rotherham|S60|Virgin Media Limited|Black List: No|Use Type: Residential
-208.84.102.39:34054:DVSmB1skV5:pdPNFd8|173.52.103.6|United States|New York|Queens|11427|Verizon Business|Black List: No|Use Type: Residential
-208.84.102.39:50769:DVS8PffKJ3:zDvQfXC|86.26.20.68|United Kingdom|England|Basildon|SS16|Virgin Media Limited|Black List: No|Use Type: Residential
-208.84.102.39:37877:DVSLpGI3A2:ZqHHDvF|69.157.134.108|Canada|Quebec|Montreal|H4N|Bell Canada|Black List: No|Use Type: Residential
-65.108.251.40:10534|181.197.42.87|Panama|Provincia de Panamá|Panama City|34002|IOSAZ Intellectual Property LLC|Black List: No|Use Type: Residential
-152.53.164.59:32009:PVxMxe:xrMWOJ|103.163.188.245|India|Maharashtra|Chiplūn|415804|Deepnetwork Pvt Ltd|Black List: No|Use Type: Residential
-78.46.241.187:10595:DVSW6jEBEL:KK1IcL|178.71.159.16|Russia|St.-Petersburg|St Petersburg|190990|Rostelecom networks|Black List: No|Use Type: Residential
-91.99.174.236:36795:DVSTHQPE9u:xc8XZD7|176.32.186.254|Russia|St.-Petersburg|St Petersburg|190805|SEVEREN|Black List: No|Use Type: Residential
-188.245.189.170:57426:DVSpOVsMXv:yekqQu|157.131.53.157|United States|California|Santa Rosa|95404|Sonic Telecom LLC|Black List: No|Use Type: Residential
-208.84.102.39:46629:DVSvjYZCPp:2mDt2pu|188.192.99.59|Germany|Thuringia|Greiz|07973|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
-78.46.241.187:54877:DVSY3rm5MY:rpZl9S|99.229.217.102|Canada|Ontario|Toronto|M5A|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-208.84.102.39:51961:DVSOvyDcum:tsaElJL|211.135.105.48|Japan|Osaka|Naniwa Ku|556-0011|JCOM Co., Ltd.|Black List: No|Use Type: Residential
-208.84.102.39:30616:DVSAz1J9kN:AwQ583l|37.109.149.105|Poland|Opole Voivodeship|Karczów|49-120|Polkomtel Sp. z o.o.|Black List: No|Use Type: Residential
+91.99.174.236:36795:DVSTHQPE9u:xc8XZD7|85.209.49.159|Germany|Bavaria|Nuremberg|90431|netcup GmbH|Black List: No|Use Type: Residential
 23.137.105.63:24930:DVSbo9J6YX:IQDB074|124.120.19.59|Thailand|Nonthaburi|Nonthaburi|10250|TRUEBB|Black List: No|Use Type: Residential
-91.99.174.236:10726:DVS37qqbZ0:hpL1gxM|141.134.89.253|Belgium|Flanders|Edegem|2650|Telenet N.V|Black List: No|Use Type: Residential
-208.84.102.39:14984:DVSvhwdGwG:dZQXFUp|178.51.12.219|Belgium|Brussels Capital|Brussels|1000|Orange Belgium SA|Black List: No|Use Type: Residential
-23.137.105.63:13047:DVSejz5Zyg:FcfGXwX|178.51.141.56|Belgium|Wallonia|Courcelles|6180|Orange Belgium SA|Black List: No|Use Type: Residential
+91.99.174.236:10726:DVS37qqbZ0:hpL1gxM|116.114.97.10|China|Inner Mongolia|Hohhot|010000|CNC Group CHINA169 Neimeng Province Network|Black List: No|Use Type: Residential
 188.245.189.170:56089:DVSedJedxJ:bdIvp8|108.26.215.24|United States|Massachusetts|Newton|02458|Verizon Communications|Black List: No|Use Type: Residential
-23.137.105.63:45745:DVSfWC6z1L:MU2Fpv1|83.67.255.57|United Kingdom|Scotland|Aberdeen|AB24|TalkTalk|Black List: No|Use Type: Residential
-188.245.189.170:46800:DVS3xDPMbe:jJ34x8|166.252.183.235|United States|Wisconsin|Fond du Lac|54935|Verizon Business|Black List: No|Use Type: Residential
-208.84.102.39:27423:DVSzP43oqy:e6fr3hR|96.225.87.239|United States|New Jersey|Union City|07087|Verizon Business|Black List: No|Use Type: Residential
-208.84.102.39:46663:DVS1dItLsE:vEa7EZp|173.73.224.6|United States|Virginia|Fairfax|22031|Verizon Business|Black List: No|Use Type: Residential
-208.84.102.39:34054:DVSmB1skV5:pdPNFd8|173.52.103.6|United States|New York|Queens|11427|Verizon Business|Black List: No|Use Type: Residential
-78.46.241.187:17242:DVSE8Vq8JS:k7g4NZ|166.252.111.126|United States|Delaware|Townsend|19734|Verizon Business|Black List: No|Use Type: Residential
-208.84.102.39:43012:DVSsbgZ2hz:Uov0dRw|71.186.144.242|United States|New York|Buffalo|14228|Verizon Business|Black List: No|Use Type: Residential
-208.84.102.39:28069:DVSj3K6ZtE:qvlwrdK|173.53.111.90|United States|Virginia|Richmond|23226|Verizon Business|Black List: No|Use Type: Residential
-152.53.170.41:1080:DVS-FnC-yeQz:5EaA5r4|85.59.195.250|Spain|Castille and León|Palencia|34003|UNI2|Black List: No|Use Type: Residential
-208.84.102.79:30541:DVSwV96xY9:75t5FOm|96.233.51.207|United States|Massachusetts|Marlborough|01752|Verizon Business|Black List: No|Use Type: Residential
-188.245.189.170:10906:DVS4qRCiIP:kiF1Oo|166.139.96.73|United States|New York|New York|10123|Verizon Business|Black List: No|Use Type: Residential
 188.245.189.170:49827:DVSRN9fcf5:XCM0T1|50.196.218.137|United States|Illinois|Chicago|60610|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-78.46.241.187:17680:DVSb8s3jti:sYaivM|84.62.111.143|Germany|State of Berlin|Berlin|13595|ARCOR-IP|Black List: No|Use Type: Residential
-91.99.174.236:34441:DVSuLT3BCA:TNDjAqT|76.154.129.122|United States|Colorado|Thornton|80241|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-152.53.170.41:1080:DVS-1b9-CNu7:J3tl8G9|90.254.77.107|United Kingdom|Scotland|Scalloway|ZE1|Vodafone Group PLC|Black List: No|Use Type: Residential
+91.99.174.236:34441:DVSuLT3BCA:TNDjAqT|188.226.164.113|The Netherlands|North Holland|Amsterdam|1098|DigitalOcean, LLC|Black List: No|Use Type: Residential
 23.137.105.63:37046:DVSCpXXf96:27YN6dr|197.39.243.173|Egypt|Cairo Governorate|Cairo||TE Data|Black List: No|Use Type: Residential
-152.53.170.41:1080:DVS-IYj-uAfI:Rbw3Pt3|5.198.19.8|United Kingdom|England|Hull|HU5|KCOM|Black List: No|Use Type: Residential
-208.84.102.39:46783:DVStYAzhs6:DRe4ooF|81.106.51.254|United Kingdom|England|Rotherham|S60|Virgin Media Limited|Black List: No|Use Type: Residential
-208.84.102.39:50769:DVS8PffKJ3:zDvQfXC|86.26.20.68|United Kingdom|England|Basildon|SS16|Virgin Media Limited|Black List: No|Use Type: Residential
-167.235.63.110:47866:DVSdpweOvP:Mm8zcrw|81.111.223.51|United Kingdom|England|Oxford|OX2|Virgin Media|Black List: No|Use Type: Residential
-23.137.105.63:21125:DVSYXAhAjL:BUVl0AP|77.102.232.127|United Kingdom|England|Scunthorpe|DN17|Virgin Media Limited|Black List: No|Use Type: Residential
-23.137.105.63:12632:DVSkuJG1Mx:aZEEbpf|45.228.138.220|Paraguay|Alto Paraná Department|Ciudad del Este||Flytec Telecom Sociedad Anonima|Black List: No|Use Type: Residential
-152.53.168.53:33311|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-152.53.170.41:1080:DVS-xmh-cr7A:77InJHt|86.13.131.44|United Kingdom|England|Bolton|BL1|Virgin Media|Black List: No|Use Type: Residential
-208.84.102.39:37877:DVSLpGI3A2:ZqHHDvF|69.157.134.108|Canada|Quebec|Montreal|H4N|Bell Canada|Black List: No|Use Type: Residential
-167.235.63.110:56638:DVSrb4mN9e:tJpZygV|72.138.191.178|Canada|Ontario|Ottawa|K1J|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-167.235.63.110:47335:DVSproQCGg:jGHa9wB|72.142.19.138|Canada|Ontario|Toronto|M5K|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-208.84.102.79:58391:DVSBxmOC84:Rcin6Hh|93.148.68.172|Italy|Sicily|Palermo|90142|VODAFONE|Black List: No|Use Type: Residential
-208.84.102.79:21437:DVSRTno8Aa:6ha9rrQ|87.0.104.203|Italy|Lombardy|Coccaglio|25030|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-208.84.102.79:25796:DVSKw3dNsP:Wbri5e7|82.54.92.244|Italy|Campania|San Cipriano d'Aversa|81036|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-208.84.102.79:44544:DVSWs6UJvX:3fUIo1b|82.62.250.140|Italy|Sicily|Sciacca|92019|Telecom Italia S.p.A|Black List: No|Use Type: Residential
-208.84.102.79:58724:DVSgXGndbr:1fxe3gN|87.12.189.79|Italy|Lazio|Rome|00135|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-208.84.102.79:25796:DVSKw3dNsP:Wbri5e7|82.54.92.244|Italy|Campania|San Cipriano d'Aversa|81036|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-208.84.102.79:58724:DVSgXGndbr:1fxe3gN|87.12.189.79|Italy|Lazio|Rome|00135|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-208.84.102.79:44544:DVSWs6UJvX:3fUIo1b|82.62.250.140|Italy|Sicily|Sciacca|92019|Telecom Italia S.p.A|Black List: No|Use Type: Residential
-208.84.102.79:21437:DVSRTno8Aa:6ha9rrQ|87.0.104.203|Italy|Lombardy|Coccaglio|25030|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-208.84.102.79:25796:DVSKw3dNsP:Wbri5e7|82.54.92.244|Italy|Campania|San Cipriano d'Aversa|81036|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-208.84.102.79:21437:DVSRTno8Aa:6ha9rrQ|87.0.104.203|Italy|Lombardy|Coccaglio|25030|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-208.84.102.79:55138:DVSWX8s2Cc:jowV9SX|31.199.10.46|Italy|Lazio|Rome|00197|INTERBUSINESS|Black List: No|Use Type: Residential
-208.84.102.79:56202:DVS4q7obbP:YOGqc7D|82.60.46.45|Italy|Tuscany|Lucca|55100|Telecom Italia S.p.A|Black List: No|Use Type: Residential
-208.84.102.79:58724:DVSgXGndbr:1fxe3gN|87.12.189.79|Italy|Lazio|Rome|00135|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-208.84.102.79:44544:DVSWs6UJvX:3fUIo1b|82.62.250.140|Italy|Sicily|Sciacca|92019|Telecom Italia S.p.A|Black List: No|Use Type: Residential
-208.84.102.79:56202:DVS4q7obbP:YOGqc7D|82.60.46.45|Italy|Tuscany|Lucca|55100|Telecom Italia S.p.A|Black List: No|Use Type: Residential
-208.84.102.79:44544:DVSWs6UJvX:3fUIo1b|82.62.250.140|Italy|Sicily|Sciacca|92019|Telecom Italia S.p.A|Black List: No|Use Type: Residential
-208.84.102.79:55138:DVSWX8s2Cc:jowV9SX|31.199.10.46|Italy|Lazio|Rome|00197|INTERBUSINESS|Black List: No|Use Type: Residential
-91.99.174.236:33010:DVStf85S39:a80Vftf|72.138.191.178|Canada|Ontario|Ottawa|K1J|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-91.99.174.236:28131:DVSRvAKdff:Fam37gg|45.136.71.143|Denmark|South Denmark|Asperup|5466|Webdock.io ApS|Black List: No|Use Type: Residential
-91.99.174.236:28131:DVSRvAKdff:Fam37gg|45.136.71.143|Denmark|South Denmark|Asperup|5466|Webdock.io ApS|Black List: No|Use Type: Residential
-208.84.102.79:49891:DVS2nQhSCU:EYPaqaS|94.85.218.194|Italy|Lombardy|Sedriano|20018|INTERBUSINESS|Black List: No|Use Type: Residential
-208.84.102.79:49891:DVS2nQhSCU:EYPaqaS|94.85.218.194|Italy|Lombardy|Sedriano|20018|INTERBUSINESS|Black List: No|Use Type: Residential
-208.84.102.79:49891:DVS2nQhSCU:EYPaqaS|94.85.218.194|Italy|Lombardy|Sedriano|20018|INTERBUSINESS|Black List: No|Use Type: Residential
-208.84.102.79:44544:DVSWs6UJvX:3fUIo1b|82.62.250.140|Italy|Sicily|Sciacca|92019|Telecom Italia S.p.A|Black List: No|Use Type: Residential
-208.84.102.79:49891:DVS2nQhSCU:EYPaqaS|94.85.218.194|Italy|Lombardy|Sedriano|20018|INTERBUSINESS|Black List: No|Use Type: Residential
-208.84.102.79:56202:DVS4q7obbP:YOGqc7D|82.60.46.45|Italy|Tuscany|Lucca|55100|Telecom Italia S.p.A|Black List: No|Use Type: Residential
-91.99.174.236:33010:DVStf85S39:a80Vftf|72.138.191.178|Canada|Ontario|Ottawa|K1J|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-208.84.102.79:56202:DVS4q7obbP:YOGqc7D|82.60.46.45|Italy|Tuscany|Lucca|55100|Telecom Italia S.p.A|Black List: No|Use Type: Residential
-91.99.174.236:28131:DVSRvAKdff:Fam37gg|45.136.71.143|Denmark|South Denmark|Asperup|5466|Webdock.io ApS|Black List: No|Use Type: Residential
-91.99.174.236:28131:DVSRvAKdff:Fam37gg|45.136.71.143|Denmark|South Denmark|Asperup|5466|Webdock.io ApS|Black List: No|Use Type: Residential
-91.99.174.236:33010:DVStf85S39:a80Vftf|72.138.191.178|Canada|Ontario|Ottawa|K1J|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-91.99.174.236:33010:DVStf85S39:a80Vftf|72.138.191.178|Canada|Ontario|Ottawa|K1J|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-91.99.174.236:23537:DVSDKfV8Fr:GpVQemu|181.66.127.234|Peru|Lima region|La Molina||Telefonica del Peru S.A.A.|Black List: No|Use Type: Residential
-91.99.174.236:23537:DVSDKfV8Fr:GpVQemu|181.66.127.234|Peru|Lima region|La Molina||Telefonica del Peru S.A.A.|Black List: No|Use Type: Residential
-91.99.174.236:20443:DVSQaltcsn:1ePY9iq|128.28.87.7|Japan|Hyōgo|Nishinomiya|662-0931|NTT PC Communications, Inc.|Black List: No|Use Type: Residential
-91.99.174.236:20443:DVSQaltcsn:1ePY9iq|128.28.87.7|Japan|Hyōgo|Nishinomiya|662-0931|NTT PC Communications, Inc.|Black List: No|Use Type: Residential
-15.235.175.219:3838:user1261094374-1758217082:760dc40bb7
-15.235.175.219:3838:user1297854593-1758217077:d4b74ff344
-51.79.130.232:6789:user1283812918-1758217164:de98fa94bf
-51.79.130.232:6789:user1255003485-1758216808:2c12fcf141
-51.79.138.84:2799:user1284541528-1758216769:1f6a80a670
-139.99.4.134:2222:user1274116937-1758216868:1edb2547ed
-139.99.84.205:1991:user1229815755-1758216863:ad20e96e1d
-51.79.170.206:9999:user1234379242-1758216526:1bef69c692
-51.79.130.232:6789:user1253402401-1758216549:803f6b31ef
-51.79.130.232:6789:user1256181183-1758216554:2753d4eadd
-15.235.175.219:3838:user1290885245-1758216317:5fc7710302
-139.99.84.205:1991:user1295817190-1758216460:7e0dcfa5e5
-139.99.4.134:2222:user1277790156-1758216350:b9141e6db4
-51.79.138.84:2799:user1227217277-1758216124:01288d67ed
-15.235.175.219:3838:user1298107687-1758216184:3b86417a8c
-51.79.138.84:2799:user1267290543-1758215716:0a2622975a
-51.79.215.40:3159:user1252131826-1758215457:f28757171a
-51.79.138.84:2799:user1232584331-1758215479:297c31e4a9
-51.79.138.84:2799:user1215297896-1758215337:75c1b43751
-139.99.4.134:2222:user1299607337-1758215206:d8f7dc5aef
-139.99.84.205:1991:user1256311841-1758214948:049b2f95ce
-51.79.138.84:2799:user1299063082-1758214952:4cac6ad47f
-51.79.130.232:6789:user1282763175-1758214972:20a544fe89
-51.79.215.40:3159:user1249305245-1758214994:1094acedc3
-51.79.215.40:3159:user1218700987-1758214739:475606d176
-51.79.215.40:3159:user1252182842-1758214416:5069bf3468
-139.99.4.134:2222:user1237966797-1758214669:0cbbc219e3
-51.79.170.206:9999:user1293892998-1758214722:3e37545563
-51.79.130.232:6789:user1253061818-1758214409:03861280b6
-51.79.130.232:6789:user1225330660-1758214002:6fe2e717ba
-51.79.215.40:3159:user1267583658-1758213784:72698cb640
-51.79.215.40:3159:user1289269233-1758213789:2c82781161
-51.79.170.206:9999:user1217514959-1758213840:e7aa241436
-139.99.84.205:1991:user1240138638-1758213364:853b5151b3
-139.99.84.205:1991:user1230497380-1758213295:1bf4d4b047
-139.99.4.134:2222:user1233301013-1758213294:9f2f72f22f
-139.99.4.134:2222:user1266231967-1758212954:44c6b8b788
-51.79.130.232:6789:user1211777537-1758212981:f35954abf6
-139.99.4.134:2222:user1293837337-1758212855:c7aa660798
-51.79.215.40:3159:user1262986431-1758212581:0dff3497fb
-139.99.84.205:1991:user67150082-1758216446:097d4dc19c
-15.235.152.85:1159:user25578253-1758216110:08ebd5a930
-15.235.175.219:3838:user91890460-1758215190:490ee55c36
-51.79.170.206:9999:user26766734-1758215020:10549e06fa
-15.235.175.185:3689:user24483786-1758215011:625e09af00
-51.79.138.84:2799:user1266400172-1758214789:56208b8cfd
-51.79.138.84:2799:user54038834-1758213568:76979e9bba
-51.79.130.232:6789:user72138970-1758212706:1572dca914
-15.235.175.219:3838:user1291185267-1758212464:b9319c8b62
-51.79.170.206:9999:user44460197-1758211961:839f899ec3
-51.79.138.84:2799:user38217822-1758215180:52900978d2
-51.79.138.84:2799:user21109079-1758215021:a6b63927cc
-15.235.175.185:3689:user46358237-1758214294:d4f6e55c53
-51.79.180.209:8989:user20067896-1758213998:4655b89f0e
-139.99.4.134:2222:user1299523109-1758213325:bff2017825
-139.99.84.204:3333:user45474069-1758212789:d22609e337
-51.79.190.163:9138:user89887024-1758210518:65e681f681
-51.79.180.243:5858:user26493588-1758210516:15191a8033
-15.235.175.229:8991:user73927979-1758210582:ea4670739e
-51.79.138.84:2799:user25733174-1758216267:2361d8585c
-51.79.180.209:8989:user32307523-1758216115:ca3ff0c51d
-51.79.190.163:9138:user73876673-1758215917:989cad5ddc
-51.79.190.163:9138:user80971669-1758215771:ee74960655
-15.235.175.219:3838:user1252643369-1758214848:126e45e109
-51.79.170.206:9999:user45711273-1758214638:bc9164d52e
-51.79.190.163:9138:user45491805-1758214483:ba0724213f
-15.235.175.229:8991:user99437633-1758214167:5ac0581fb2
-51.79.130.232:6789:user70981645-1758213638:3645d4b3f4
-51.79.170.206:9999:user47874004-1758213215:174faa9994
-15.235.175.219:3838:user1239586038-1758212992:21e279102b
-139.99.4.134:2222:user38181427-1758212667:c0b74fd209
-15.235.152.85:1159:user62735931-1758211230:14d9d3fa0e
-51.79.138.84:2799:user14047870-1758210503:ba7ddae0bf
-51.79.130.232:6789:user10258414-1758217031:88bc2982bb
-15.235.152.85:1159:user32453903-1758217211:80d2c4f803
-51.79.138.25:1258:user65044543-1758216830:a8b0fbf91e
-51.79.138.84:2799:user93974623-1758214575:8f7d408046
-139.99.84.205:1991:user67444959-1758213217:6057a31b1f
-51.79.170.206:9999:user1217013092-1758212985:d6e9d09df5
-139.99.4.134:2222:user48207420-1758212664:7a7f9ba363
-51.79.138.84:2799:user56438197-1758212497:cf6a9591d0
-51.79.130.232:6789:user1288599439-1758212480:b174173ef0
-139.99.4.134:2222:user52273147-1758211960:1f8b7e2931
-139.99.84.204:3333:user82103272-1758211647:126b36dfaa
-139.99.84.204:3333:user91823331-1758211657:a85673da2e
-139.99.4.134:2222:user1218825539-1758211285:2ce2ea399e
-15.235.175.219:3838:user1238794607-1758210774:1f5af5cb88
-51.79.214.115:2538:user52313307-1758217202:d065b81c4b
-139.99.84.205:1991:user1213080206-1758217070:fd32d655e2
-139.99.84.204:3333:user69920231-1758217218:bec11d056c
-51.79.138.84:2799:user40422154-1758216645:3abff068ff
-51.79.138.84:2799:user1278408508-1758216615:4e262cf213
-15.235.175.219:3838:user19968570-1758216305:a3c8cea331
-139.99.4.134:2222:user80150671-1758216450:842c27fb02
-51.79.138.84:2799:user98778767-1758216265:2c8e90fcd3
-51.79.138.25:1258:user68332413-1758216274:91fca6c9e4
-15.235.175.185:3689:user32449434-1758216097:e74ed409fa
-51.79.138.84:2799:user88376801-1758215783:eb3d9490d6
-51.79.130.232:6789:user1243774684-1758215614:b6d59a727f
-51.79.190.163:9138:user91859151-1758215786:ae1bdd9626
-51.79.180.209:8989:user94863047-1758215570:03e67496f0
-15.235.175.219:3838:user77638695-1758215617:166873955f
-51.79.215.40:3159:user47532601-1758215545:a62aa174f9
-51.79.214.115:2538:user52486462-1758215459:88751e9ba6
-51.79.180.243:5858:user36926262-1758215388:db427683c9
-139.99.4.134:2222:user91179122-1758215363:66c7a787c2
-51.79.130.232:6789:user61751747-1758215258:8a225c2ee8
-139.99.27.16:7919:user32971500-1758215202:99eb480f42
-139.99.27.16:7919:user62654125-1758215002:c63702305d
-15.235.152.85:1159:user82409424-1758215005:6638b031cd
-139.99.4.134:2222:user39844621-1758214851:12f5fad1da
-51.79.180.209:8989:user89279775-1758214716:8b8d2c087b
-51.79.138.84:2799:user1229939539-1758214773:93acab444c
-15.235.175.229:8991:user87420093-1758214203:ddcfd216be
-51.79.130.232:6789:user1212812373-1758213974:b86b2aaf14
-51.79.190.163:9138:user71029166-1758213985:c8e7f507e5
-15.235.152.85:1159:user73879612-1758213952:41ababd499
-51.79.215.40:3159:user82570547-1758213762:f8eed4d7a5
-51.79.180.243:5858:user54199816-1758213577:518d25da0a
-139.99.84.205:1991:user56367797-1758213575:212fada90d
-51.79.138.25:1258:user79671962-1758213215:eb41014b14
-51.79.190.163:9138:user23458323-1758213256:9dd0e6dd3a
-51.79.190.163:9138:user64435084-1758212886:b2345c1d36
-139.99.84.205:1991:user1290662553-1758212597:dfc6df1eca
-139.99.84.205:1991:user1230873291-1758212602:7768c2473c
-15.235.175.229:8991:user65853239-1758212368:9cca7ca23d
-51.79.138.84:2799:user93546756-1758211947:a4715ea38a
-15.235.175.219:3838:user95917239-1758211657:f86659c802
-15.235.152.85:1159:user77956853-1758211421:c1aea7cd12
-51.79.180.209:8989:user89895477-1758211485:691cda7142
-51.79.180.243:5858:user37254367-1758211245:f68901125e
-51.79.138.25:1258:user41707788-1758211058:23f4e2542a
-139.99.84.205:1991:user20822049-1758210702:a63b5c35b3
-139.99.84.204:3333:user65848720-1758210877:13735c80d3
-51.79.170.206:9999:user1271516872-1758210534:e3519d063f
-139.99.84.205:1991:user48268225-1758210689:4a6d42cac9
-15.235.175.219:3838:user89280524-1758210546:a4c6bec838
-15.235.175.219:3838:user1268142877-1758210419:d74a57418e
-139.99.4.134:2222:user87042105-1758210165:f00c0cf7dc
-51.79.190.163:9138:user23559672-1758210153:64fb440f4f
-51.79.214.115:2538:user89098122-1758210174:1bb2e89f7c
-15.235.175.219:3838:user61634615-1758216105:3498155369
-51.79.138.84:2799:user27699585-1758215738:07ebf3c47b
-51.79.180.243:5858:user65034130-1758215373:13b0e659e9
-139.99.84.204:3333:user93777717-1758215129:9e7dfb3c21
-15.235.152.85:1159:user98812172-1758214483:d5916d4aca
-139.99.27.16:7919:user43475132-1758214306:a0bb4f9e96
-15.235.175.219:3838:user1224435160-1758213984:b75fb64963
-139.99.4.134:2222:user86488301-1758213397:d10e60c7c3
-51.79.170.206:9999:user1280965674-1758213000:2b99f8e57f
-15.235.175.185:3689:user73557121-1758212864:1351667855
-139.99.4.134:2222:user59348655-1758212128:70a3d20e81
-15.235.175.219:3838:user73016726-1758211051:4207abb12d
-15.235.152.85:1159:user17461629-1758210141:bbaa308650
-51.79.180.209:8989:user89661200-1758217205:176cb370a5
-51.79.170.206:9999:user1235049401-1758217046:eb7d07a1bd
-139.99.27.16:7919:user11159899-1758216996:499aaea259
-51.79.215.40:3159:user22051420-1758216989:873aca9553
-51.79.130.232:6789:user85539269-1758217087:af97e00ac9
-15.235.152.85:1159:user21249130-1758216803:fe06f1b315
-51.79.138.25:1258:user84519832-1758216820:ccb323ee78
-15.235.175.229:8991:user72056995-1758216707:b41d0400bc
-15.235.175.185:3689:user56874779-1758216459:54a04d361a
-139.99.4.134:2222:user84021278-1758216448:b046d46d3a
-51.79.215.40:3159:user58619831-1758216452:4d56a2324b
-51.79.138.25:1258:user82675118-1758216460:8b0aa0b31b
-139.99.27.16:7919:user14918060-1758216263:56f5cecad3
-15.235.175.185:3689:user60611524-1758216280:c94c9c131f
-51.79.138.84:2799:user55711035-1758216295:6bb40dfd9b
-51.79.138.84:2799:user1283808355-1758216327:36ce84384b
-51.79.180.209:8989:user80982400-1758215949:10d4423277
-139.99.84.205:1991:user67272135-1758216279:c7ccb65694
-139.99.27.16:7919:user58203405-1758216088:789522af0d
-51.79.170.206:9999:user1233521287-1758216103:2924adf1e9
-15.235.152.85:1159:user26525518-1758215912:fdc06b9229
-51.79.138.84:2799:user59137558-1758215984:353be58b6a
-139.99.84.204:3333:user82112047-1758215922:c8d71524ad
-51.79.180.243:5858:user86526002-1758215728:c89773af7f
-51.79.215.40:3159:user1239068711-1758215817:280b6e0db6
-139.99.27.16:7919:user42863520-1758215741:4b6583dc1a
-51.79.138.84:2799:user71383864-1758215738:73472faa46
-139.99.4.134:2222:user1222425780-1758215615:d240dd0e30
-15.235.175.185:3689:user50519832-1758215741:064d5a4bf7
-139.99.27.16:7919:user15496937-1758215545:1561b04d1d
-51.79.130.232:6789:user89671796-1758215590:cc9189cfd7
-51.79.180.243:5858:user32038522-1758215552:f319facd97
-51.79.138.25:1258:user95399757-1758215370:4c223b4d4b
-51.79.138.25:1258:user19345159-1758215372:288266a65e
-51.79.180.209:8989:user53643324-1758215450:c68fe277d2
-51.79.180.243:5858:user47683749-1758215389:ab5f403fb8
-139.99.4.134:2222:user1241993128-1758215452:336468ae0d
-51.79.190.163:9138:user12873851-1758215407:358226089e
-15.235.175.185:3689:user74598780-1758215373:eb97460292
-139.99.84.205:1991:user83186717-1758215198:d2de271d55
-139.99.84.205:1991:user99850772-1758215206:0be96cdff5
-139.99.27.16:7919:user94980210-1758215003:2951f95c3b
-139.99.27.16:7919:user44850282-1758215001:ea73994d15
-15.235.175.219:3838:user49623628-1758215027:78185e6739
-51.79.170.206:9999:user54949760-1758215012:fd2210b2da
-51.79.138.25:1258:user27638471-1758215016:e8ffefc107
-51.79.130.232:6789:user1250573457-1758214941:bc47b9f683
-15.235.175.185:3689:user55462889-1758215022:945e01e6ba
-139.99.4.134:2222:user82974262-1758214850:c395877c6f
-51.79.138.25:1258:user32143533-1758214834:203ab137ed
-51.79.180.243:5858:user87502062-1758214841:1b5a2ce398
-51.79.180.243:5858:user33289435-1758214842:199a363524
-139.99.84.204:3333:user25680991-1758214889:cea55b547d
-139.99.84.205:1991:user82572421-1758214655:8820b4dece
-15.235.175.185:3689:user22672376-1758214663:378f17fe64
-139.99.27.16:7919:user87371188-1758214657:075e3daab1
-15.235.175.229:8991:user41248045-1758214555:cd69baf5e3
-51.79.180.209:8989:user38781743-1758214379:b3a8de11c9
-15.235.175.219:3838:user1276778479-1758214158:f474058002
-15.235.175.219:3838:user1264152787-1758214217:f268959cb5
-139.99.84.204:3333:user60725496-1758214369:dcb242e4c9
-139.99.84.205:1991:user59420914-1758214108:6684b96609
-139.99.27.16:7919:user50095664-1758214122:3709f2b2f3
-51.79.180.209:8989:user65409670-1758214171:2539dc4fa6
-51.79.180.243:5858:user25248094-1758213942:0023e74d66
-51.79.138.84:2799:user59828262-1758213948:63b1317881
-51.79.190.163:9138:user68392707-1758214005:a0fdedf84b
-51.79.170.206:9999:user1290972212-1758213809:7fa6d87671
-51.79.214.115:2538:user50343784-1758213637:c9ba18c46b
-15.235.175.219:3838:user1220910317-1758213558:2b39fd2722
-15.235.175.185:3689:user89757627-1758213578:a772a549cc
-139.99.4.134:2222:user65058534-1758213560:ffb0fa99ae
-139.99.84.205:1991:user1250892736-1758213435:8bc30c464a
-15.235.175.229:8991:user43673425-1758213423:2c43a5c03b
-51.79.180.209:8989:user63877053-1758213269:1916cab7f2
-51.79.180.209:8989:user22375205-1758213306:905286b12b
-51.79.215.40:3159:user1292316130-1758213586:dd6f5610ac
-139.99.4.134:2222:user72920758-1758213390:71f5b908a9
-51.79.190.163:9138:user49597218-1758213480:ba38dd8079
-51.79.190.163:9138:user58934042-1758213475:f7ee888eda
-51.79.170.206:9999:user1293351738-1758213263:69d340b29c
-51.79.138.25:1258:user84939607-1758213386:9990782427
-139.99.84.205:1991:user1276527384-1758213193:08c203fcc4
-51.79.138.84:2799:user1266540468-1758213349:4f5a4e7b9c
-51.79.130.232:6789:user27320861-1758213053:74d82e6ccc
-139.99.84.204:3333:user21605405-1758213219:dd788fee8d
-51.79.215.40:3159:user33572693-1758213027:546ce55493
-51.79.130.232:6789:user85933072-1758213100:4e890b7799
-51.79.138.25:1258:user24789242-1758212849:d9757c8709
-139.99.4.134:2222:user83793939-1758212846:242cc0c26c
-139.99.84.204:3333:user12922523-1758212870:cfef6bdc04
-51.79.180.209:8989:user98740381-1758212538:e3218acf03
-15.235.175.185:3689:user96015138-1758212485:41be58aa96
-51.79.190.163:9138:user73976575-1758212499:793196e345
-15.235.175.219:3838:user74704437-1758212497:b547b56c48
-139.99.84.204:3333:user74007724-1758212528:d6a8b3416a
-51.79.180.209:8989:user28653612-1758212342:4e9fc42d38
-51.79.180.243:5858:user34946486-1758212316:036b71e983
-139.99.84.205:1991:user64846061-1758212319:029157b4dd
-15.235.152.85:1159:user91307231-1758212352:89d0343615
-51.79.180.209:8989:user46044479-1758217433:094a223cd7
-15.235.175.219:3838:user62171444-1758217392:394b7fd9db
-15.235.175.219:3838:user46015757-1758217429:234d381aba
-15.235.175.219:3838:user71347278-1758217444:88faefd8c2
-15.235.175.219:3838:user74136676-1758217454:3f2566a5b0
-15.235.175.219:3838:user71501370-1758217475:f13585dd41
-15.235.175.219:3838:user88612431-1758217485:43721fa51d
-51.79.130.232:6789:user70559606-1758217224:55c3e6ae34
-15.235.175.229:8991:user84364220-1758217377:a65c5ef0a3
-51.79.180.209:8989:user80918652-1758217379:19434026f2
-51.79.180.209:8989:user45440693-1758217198:b999ce8eec
-51.79.180.209:8989:user58273052-1758217244:8b603d151a
-139.99.84.205:1991:user71457847-1758217359:300d4e6aea
-139.99.84.205:1991:user56900687-1758217357:f4c41e7369
-15.235.175.219:3838:user47756828-1758217264:07858a05f3
-15.235.175.219:3838:user66184111-1758217280:5d12b649bb
-15.235.175.185:3689:user50046220-1758217345:6a2319bd87
-15.235.175.185:3689:user44063850-1758217342:4a25e36c5e
-51.79.190.163:9138:user34172145-1758217359:160139bf68
-15.235.152.85:1159:user31362915-1758217347:3113940776
-15.235.152.85:1159:user63243352-1758217348:c13e127306
-15.235.152.85:1159:user30316957-1758217348:001a7ba453
-15.235.152.85:1159:user37530233-1758217348:071022e715
-51.79.138.25:1258:user68497513-1758217348:a868e44505
-51.79.138.25:1258:user22015375-1758217348:4ba3277f79
-51.79.138.25:1258:user48112780-1758217353:3bb6534dd3
-51.79.215.40:3159:user90997593-1758217357:bb19864be3
-51.79.215.40:3159:user1268761182-1758217321:d1716abb9f
-51.79.215.40:3159:user1291973928-1758217342:19d76fade1
-51.79.215.40:3159:user1269037073-1758217409:88e12f8ebe
-51.79.215.40:3159:user1271702262-1758217419:aae896d39f
-139.99.27.16:7919:user55501620-1758217357:24b960cefc
-51.79.215.40:3159:user1273038132-1758217303:9ecbcdec90
-51.79.130.232:6789:user88089704-1758217407:49a371d75a
-51.79.130.232:6789:user74546790-1758217433:a759dc2e75
-51.79.130.232:6789:user96790788-1758217459:55a0a3b38f
-51.79.138.25:1258:user74452750-1758217354:c75b74394e
-51.79.180.209:8989:user28672559-1758217433:f8b615fd67
-51.79.214.115:2538:user92745599-1758217438:6b0a555e31
-15.235.175.229:8991:user63934587-1758217393:82644fbbc7
-51.79.214.115:2538:user97311225-1758217375:42001cb52d
-15.235.175.219:3838:user1213157273-1758217414:409a0e72c6
-15.235.175.219:3838:user1276524536-1758217363:75fb2135d2
-15.235.175.219:3838:user1267565799-1758217268:2620df1e15
-15.235.175.219:3838:user1283437174-1758217300:aa2fc86a9a
-51.79.214.115:2538:user45694761-1758217401:a3dbb6a42d
+23.137.105.63:12632:DVSkuJG1Mx:aZEEbpf|83.29.114.203|Poland|Łódź Voivodeship|Starowa Góra|95-030|Orange Polska Spolka Akcyjna|Black List: No|Use Type: Residential
+91.99.174.236:20443:DVSQaltcsn:1ePY9iq|51.210.103.162|France|Hauts-de-France|Gravelines|59820|OVH SAS|Black List: No|Use Type: Residential
+91.99.174.236:20443:DVSQaltcsn:1ePY9iq|51.210.103.162|France|Hauts-de-France|Gravelines|59820|OVH SAS|Black List: No|Use Type: Residential
+152.53.164.59:54178:gY2Wrx:yrsLzU|50.47.164.65|United States|Washington|Everett|98204|50-47-164-65.evrt.wa.ptr.ziplyfiber.com|Yes|Residential
+152.53.164.59:11562:CSpRNx:YVjsvu|70.163.231.37|United States|Arizona|Queen Creek|85142|ip70-163-231-37.ph.ph.cox.net|Yes|Business
+152.53.164.59:25754:0zBt1n:JYPJdx|32.211.204.130|United States|Connecticut|Norwalk|06850|32-211-204-130.lio01.brpt.ct.ip.frontiernet.net|Yes|Business
+152.53.164.59:17328:6nNCWV:ERkHJY|173.87.169.90|United States|California|Elk Grove|95758|wireless-173-87-169-90.dr04.ekgv.ca.frontiernet.net|No|Residential
+152.53.164.59:48979:5d8WFI:eYmfQL|182.31.89.56|South Korea|Gyeongsangnam-do|Jinju|527|Seokyung Cable Television Co.. Ltd.|Yes|Residential
+37.27.93.106:13332:RoztGU:VQrhBB|174.59.193.219|United States|Pennsylvania|Quarryville|17566|c-174-59-193-219.hsd1.pa.comcast.net|Yes|Residential
+37.27.93.106:47811:OSnCIh:lNwTzB|75.99.211.82|United States|New York|Mount Vernon|10550|ool-4b63d352.static.optonline.net|Yes|Business
+37.27.93.106:26104:JlNmWm:tbUko3|64.178.182.194|United States|Arkansas|Hot Springs|71913|dsl182194.bigriver.net|Yes|Business
+37.27.93.106:10076:C3jJEO:Pr83FK|24.119.144.86|United States|Idaho|Nampa|83687|24-119-144-86.cpe.sparklight.net|Yes|Residential
+37.27.93.106:37722:E3o5EE:tpSjYE|97.138.188.254|United States|Pennsylvania|Tamaqua|18252|254.sub-97-138-188.myvzw.com|Yes|Cellular
+37.27.93.106:49071:NggWzJ:9zWmYw|161.153.19.15|United States|Arizona|Phoenix|85008|Oracle Corporation|No|Hosting
+37.27.93.106:38048:i0cLrq:Ooknmf|74.194.13.78|United States|Louisiana|Leesville|71446|Suddenlink Communications|Yes|Business
+37.27.93.106:42588:3V1FkG:cnxDUA|93.109.124.148|Cyprus|Limassol District|Limassol|Unknown|93-124-148.netrun.cytanet.com.cy|Yes|Business
+37.27.93.106:13634:wpFL9R:uuEcll|71.178.167.30|United States|Maryland|Bethesda|20814|static-71-178-167-30.washdc.fios.verizon.net|Yes|Residential
+37.27.93.106:47474:MRceoh:3w1uoC|66.225.115.18|United States|Colorado|Colorado Springs|80916|unassigned.midatlanticbb.com|Yes|Residential
+37.27.93.106:34447:tQEvCP:qZeiID|24.169.108.58|United States|Maine|Orono|04473|syn-024-169-108-058.biz.spectrum.com|Yes|Business
+37.27.93.106:39502:VMHN0b:YjnZke|98.27.182.241|United States|Ohio|Cuyahoga Falls|44221|syn-098-027-182-241.res.spectrum.com|Yes|Business
+152.53.164.59:30359:1mW8B5:MeUf1X|36.228.241.23|Taiwan|Taoyuan|Zhongli District|Unknown|36-228-241-23.dynamic-ip.hinet.net|Yes|Business
+152.53.164.59:16250:FeAMI2:BLoNqh|169.224.43.140|Iraq|Basra|Basra|Unknown|EarthLink Telecommunications|Yes|Business
+152.53.164.59:25526:Yxz7I0:GJVrfO|24.117.39.202|United States|Missouri|Joplin|64801|24-117-39-202.cpe.sparklight.net|Yes|Residential
+65.108.251.40:50119|184.170.166.8|United States|Indiana|Crawfordsville|47933|184-170-166-8.cfvlinaa.metronetinc.net|Yes|Business
+65.108.251.40:50417|100.11.190.5|United States|Delaware|Middletown|19709|pool-100-11-190-5.phlapa.fios.verizon.net|Yes|Residential
+65.108.251.40:57670|66.234.216.166|United States|California|San Mateo|94403|astound-66-234-216-166.ca.astound.net|Yes|Residential
+65.108.251.40:20570|76.101.186.227|United States|Florida|Naples|34109|c-76-101-186-227.hsd1.fl.comcast.net|Yes|Residential
+65.108.251.40:49186|104.14.73.111|United States|Louisiana|Lake Charles|70605|104-14-73-111.lightspeed.jcsnms.sbcglobal.net|No|Residential
+65.108.251.40:11969|73.231.48.28|United States|California|San Ramon|94582|c-73-231-48-28.hsd1.ca.comcast.net|Yes|Business
+65.108.251.40:10302|104.7.153.84|United States|Texas|Allen|75002|104-7-153-84.lightspeed.rcsntx.sbcglobal.net|Yes|Residential
+65.108.251.40:52323|172.59.24.238|United States|Ohio|Cleveland|44105|T-Mobile USA, Inc.|Yes|Cellular
+65.108.251.40:40485|96.244.193.9|United States|Maryland|West River|20778|pool-96-244-193-9.bltmmd.fios.verizon.net|Yes|Residential
+37.27.93.106:42650:fjd4q6:kZ3yXI|104.222.108.204|United States|Florida|West Palm Beach|33419|104-222-108-204.dyn.celerity-dtv.net|Yes|Residential
+37.27.93.106:12637:BPZYSZ:5y3dac|147.45.124.3|United States|Unknown|Unknown|Unknown|ZhouyiSat Communications|Yes|Cellular
+37.27.93.106:45373:vxcBd4:lYpYOt|50.4.40.247|United States|Tennessee|Knoxville|37923|d4-50-247-40.try.wideopenwest.com|Yes|Business
+37.27.93.106:48237:H1Pzd1:teptk2|86.9.94.92|United Kingdom|England|Bath|BA2|cpc141262-bath8-2-0-cust603.18-1.cable.virginm.net|Yes|Residential
+37.27.93.106:35583:OEYly2:46HjMu|174.44.57.37|United States|New York|New York|10022|ool-ae2c3925.dyn.optonline.net|Yes|Residential
+37.27.93.106:48483:q6MnZq:iMGwWA|50.235.31.47|United States|New Jersey|Toms River|08753|netmail.nasmhpd.org|Yes|Residential
+37.27.93.106:34410:WlsWCd:eDWt9d|57.132.175.132|United States|Texas|Sugar Land|77479|57-132-175-132.dyn.grandenetworks.net|Yes|Business
+37.27.93.106:54304:ZUFjc3:Sw5MsD|38.100.203.117|United States|Florida|Miami|33197|mia-38-100-203-117.ip4.99.network|Yes|Cellular
+37.27.93.106:24073:7lhY08:aHxHvH|74.203.86.207|United States|Hawaii|Honolulu|96806|Level 3 Communications, Inc.|Yes|Business
+37.27.93.106:23584:D4PCzo:KTlIHg|73.58.32.198|United States|Alabama|Tuscaloosa|35405|c-73-58-32-198.hsd1.al.comcast.net|Yes|Residential
+152.53.164.59:35162:vYX5xJ:qBuEGJ|104.132.118.111|United States|Illinois|Chicago|60624|guestnat-104-132-118-111.corp.google.com|No|Business
+152.53.164.59:20494:TL8iiB:y8nAcs|98.17.217.149|United States|New York|Jamestown|14701|h149.217.17.98.dynamic.ip.windstream.net|Yes|Business
+152.53.164.59:26312:cylaVE:Ez5PEP|74.67.56.238|United States|New York|Gowanda|14070|syn-074-067-056-238.res.spectrum.com|Yes|Residential
+152.53.164.59:11716:49Z4kc:mtzPqq|35.151.189.90|United States|Louisiana|Thibodaux|70301|syn-035-151-189-090.res.spectrum.com|Yes|Business
+152.53.164.59:14780:kJNVkS:867uhO|98.2.254.124|United States|Maine|Falmouth|04105|syn-098-002-254-124.res.spectrum.com|Yes|Business
+152.53.164.59:52857:9ksJqJ:9T63dl|183.100.235.129|South Korea|Gyeonggi-do|Seongnam-si|133|Korea Telecom|Yes|Business
+65.108.251.40:31905|173.62.214.193|United States|Pennsylvania|Philadelphia|19118|pool-173-62-214-193.phlapa.fios.verizon.net|Yes|Residential
+152.53.164.59:44631:y5VA0E:WgHNPT|24.47.246.239|United States|New York|Floral Park|11001|ool-182ff6ef.dyn.optonline.net|Yes|Residential
+152.53.164.59:36887:Pb7twF:PhBngB|173.42.104.194|United States|North Carolina|Apex|27502|syn-173-042-104-194.biz.spectrum.com|Yes|Business
+152.53.164.59:53219:GJWfPW:oAIbmG|217.180.201.102|United States|Kentucky|Lexington|40509|217-180-201-102.lxtnkyaa.metronetinc.net|Yes|Business
+152.53.164.59:51982:98zRm2:1RIM7r|173.218.68.189|United States|Missouri|Ozark|65721|173-218-68-189-nixa.mid.dyn.suddenlink.net|Yes|Business
+152.53.164.59:19661:kZjjRC:hmDRls|24.186.2.20|United States|New York|Elmont|11003|ool-18ba0214.dyn.optonline.net|Yes|Residential
+152.53.164.59:54603:Pv5C8w:dvkxT2|45.17.76.21|United States|Georgia|Lawrenceville|30043|45-17-76-21.lightspeed.tukrga.sbcglobal.net|No|Residential
+152.53.164.59:42150:PEYCad:OIeQlR|96.230.224.94|United States|Massachusetts|Milford|01757|pool-96-230-224-94.bstnma.fios.verizon.net|Yes|Residential
+65.108.251.40:59239|208.126.237.26|United States|Iowa|Waukee|50263|Aureon Network Services|No|Residential
+65.108.251.40:50408|74.108.34.89|United States|New York|Roslyn|11576|pool-74-108-34-89.nycmny.fios.verizon.net|Yes|Business
+65.108.251.40:45872|47.203.217.193|United States|Florida|Plant City|33563|47-203-217-193.fdr01.ptcy.fl.ip.frontiernet.net|Yes|Business
+65.108.251.40:59134|107.195.149.218|United States|Arkansas|Conway|72032|107-195-149-218.lightspeed.ltrkar.sbcglobal.net|No|Residential
+65.108.251.40:33421|71.70.128.111|United States|North Carolina|Mount Olive|28365|syn-071-070-128-111.res.spectrum.com|No|Business
+65.108.251.40:17068|96.38.169.146|United States|Nevada|Reno|89509|syn-096-038-169-146.res.spectrum.com|No|Business
+65.108.251.40:44653|172.59.196.208|United States|Texas|Dallas|75220|T-Mobile USA, Inc.|Yes|Cellular
+65.108.251.40:45691|96.244.68.121|United States|Maryland|Towson|21286|pool-96-244-68-121.bltmmd.fios.verizon.net|Yes|Residential
+65.108.251.40:22533|172.56.29.138|United States|Pennsylvania|Philadelphia|19124|ue.tmodns.net|Yes|Cellular
+37.27.93.106:33324:pI0XKI:48Htsj|72.250.28.58|United States|Unknown|Unknown|Unknown|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:20128:ZOm6cN:2ctqw2|96.253.18.138|United States|Rhode Island|Westerly|02891|static-96-253-18-138.prvdri.fios.verizon.net|Yes|Business
+37.27.93.106:30086:AYZGR7:cxJRxg|198.45.120.22|United States|Ohio|Cleveland|44114|Western Reserve Communications, LLC|No|Business
+37.27.93.106:13011:vFFpY4:Y6dvw0|67.188.0.119|United States|California|Milpitas|95035|c-67-188-0-119.hsd1.ca.comcast.net|Yes|Residential
+37.27.93.106:42908:joJgzW:A1WHrc|107.136.9.147|United States|Texas|Spring|77388|107-136-9-147.lightspeed.hstntx.sbcglobal.net|Yes|Residential
+37.27.93.106:49726:AcjEwJ:Qb5NWH|98.117.89.24|United States|Virginia|Richmond|23220|static-98-117-89-24.rcmdva.fios.verizon.net|Yes|Residential
+37.27.93.106:47416:z4y30O:28i6xw|74.140.107.180|United States|Ohio|Newark|43055|syn-074-140-107-180.res.spectrum.com|Yes|Business
+37.27.93.106:42778:d5H9lU:QnnINe|66.214.98.32|United States|California|South Lake Tahoe|96150|syn-066-214-098-032.res.spectrum.com|Yes|Business
+37.27.93.106:14595:QSMV77:lUo9JM|74.75.113.208|United States|Maine|Bar Harbor|04609|syn-074-075-113-208.res.spectrum.com|Yes|Business
+37.27.93.106:49564:W8chPr:vQUxCL|12.55.186.186|United States|Texas|Crowley|76036|AT&T Enterprises, LLC|Yes|Business
+37.27.93.106:32548:tf4Q3I:nHBAMt|65.34.249.15|United States|Florida|Ft. Pierce|34982|c-65-34-249-15.hsd1.fl.comcast.net|Yes|Residential
+37.27.93.106:25016:SziRat:hwwCxN|69.143.182.28|United States|Maryland|Baltimore|21224|c-69-143-182-28.hsd1.md.comcast.net|Yes|Residential
+65.108.251.40:36617|80.208.67.204|Denmark|Central Jutland|Aarhus|8200|80.208.67.204.static.fibianet.dk|Yes|Business
+65.108.251.40:25740|202.164.207.141|Iraq|Baghdad|Baghdad|Unknown|Al Lawn Al Akhdar International Company Communications and Information Technology Ltd|Yes|Business
+65.108.251.40:44740|172.59.225.6|United States|Colorado|Denver|80204|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:59587:XG2fVT:vDG0UA|62.30.49.44|United Kingdom|England|Leicester|LE4|44.49-30-62.static.virginmediabusiness.co.uk|Yes|Business
+65.108.251.40:40014|124.57.158.157|South Korea|Chungcheongnam-do|Cheonan|311|LG POWERCOMM|Yes|Business
+65.108.251.40:52213|220.77.159.245|South Korea|Gyeongsangnam-do|Sacheon-si|525|Korea Telecom|Yes|Business
+65.108.251.40:31602|142.119.106.232|Canada|Quebec|Montreal|H1H|lnsm4-montreal02-142-119-106-232.internet.virginmobile.ca|Yes|Cellular
+65.108.251.40:58184|112.155.255.171|South Korea|Seoul|Seoul|04524|LG POWERCOMM|Yes|Business
+65.108.251.40:48366|172.59.196.86|United States|Texas|Dallas|75220|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:16806:1maKvs:VsiALn|109.109.91.34|Norway|Telemark|Rjukan|3660|109-109-91-34.bb.cust.telefiber.no|Yes|Residential
+152.53.164.59:14205:TCNUnE:oemXhn|172.59.77.65|United States|Missouri|Kansas City|64134|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:22952:0Weyl0:2XihUz|115.131.245.185|Australia|Western Australia|Perth|6101|115-131-245-185.tpgi.com.au|Yes|Cellular
+65.108.251.40:22542|222.104.26.194|South Korea|Daegu|Buk-gu|415|Korea Telecom|Yes|Business
+37.27.93.106:55810:PAMr4j:AGvlK7|180.222.166.212|Australia|Western Australia|Perth|6009|180-222-166-212.static.dsl.net.au|Yes|Residential
+65.108.251.40:40828|80.202.232.3|Norway|Oslo County|Oslo|0564|3.80-202-232.nextgentel.com|Yes|Residential
+65.108.251.40:58048|60.242.215.138|Australia|New South Wales|Sydney|2232|60-242-215-138.tpgi.com.au|Yes|Business
+65.108.251.40:52253|195.139.87.145|Norway|Troms|Tromsø|9008|GLOBALCONNECT|Yes|Business
+152.53.164.59:36958:QOfgUA:qPzgLI|142.122.142.136|Canada|Quebec|Montreal|H1G|lnsm6-montreal02-142-122-142-136.internet.virginmobile.ca|Yes|Cellular
+65.108.251.40:22989|96.235.29.180|United States|Pennsylvania|Oakmont|15139|pool-96-235-29-180.pitbpa.fios.verizon.net|Yes|Residential
+65.108.251.40:40923|1.145.13.70|Australia|New South Wales|Sydney|2161|Telstra Limited|Yes|Business
+37.27.93.106:52126:tZlmwo:j5JS0M|96.233.51.207|United States|Massachusetts|North Grafton|01536|pool-96-233-51-207.bstnma.fios.verizon.net|Yes|Residential
+152.53.164.59:50397:5Zl8Im:olZzVG|31.94.22.35|United Kingdom|Scotland|Glasgow|G13|British Telecommunications PLC|Yes|Cellular
+65.108.251.40:14163|81.102.181.53|United Kingdom|England|Kettering|NN15|nrth-06-b2-v4wan-169838-cust1332.vm17.cable.virginm.net|Yes|Residential
+65.108.251.40:24361|108.45.155.133|United States|Virginia|Vienna|22180|pool-108-45-155-133.washdc.fios.verizon.net|Yes|Residential
+65.108.251.40:25147|108.26.6.107|United States|New York|Camden|13316|pool-108-26-6-107.syrcny.fios.verizon.net|Yes|Residential
+152.53.164.59:30871:1Ykk4U:rOC42B|108.28.181.253|United States|Virginia|McLean|22101|pool-108-28-181-253.washdc.fios.verizon.net|Yes|Business
+65.108.251.40:23998|108.24.96.42|United States|New Jersey|Marlton|08053|pool-108-24-96-42.cmdnnj.fios.verizon.net|Yes|Residential
+65.108.251.40:21185|100.35.134.189|United States|New Jersey|Red Bank|07701|pool-100-35-134-189.nwrknj.fios.verizon.net|Yes|Residential
+37.27.93.106:30380:Y0u45t:FzTddD|123.136.58.192|Australia|South Australia|Adelaide|5107|192-58-136-123.ip.esc.net.au|Yes|Residential
+65.108.251.40:46387|31.96.20.147|United Kingdom|England|Wellingborough|NN29|British Telecommunications PLC|Yes|Business
+65.108.251.40:49100|89.207.142.40|Norway|Oslo County|Oslo|0195|Obos Opennet AS|Yes|Business
+65.108.251.40:40063|100.37.133.162|United States|New York|Port Chester|10573|pool-100-37-133-162.nycmny.fios.verizon.net|Yes|Residential
+65.108.251.40:51461|82.5.30.12|United Kingdom|Wales|Cardiff|CF23|pnwn-04-b2-v4wan-172470-cust11.vm43.cable.virginm.net|Yes|Residential
+65.108.251.40:49208|211.209.17.112|South Korea|Seoul|Gangseo-gu|076|SK Broadband Co Ltd|Yes|Business
+65.108.251.40:16591|77.100.138.38|United Kingdom|England|Billericay|CM11|cpc155173-basl15-2-0-cust37.20-1.cable.virginm.net|Yes|Residential
+65.108.251.40:52396|91.180.78.15|Belgium|Brussels Capital|Brussels|1050|15.78-180-91.adsl-dyn.isp.belgacom.be|Yes|Residential
+37.27.93.106:21126:t5xcxP:1CfSG1|27.124.111.122|Australia|New South Wales|Perisher Village|2624|27-124-111-122.static.as58511.net|Yes|Business
+65.108.251.40:18380|118.210.101.127|Australia|Queensland|Brisbane|4169|118-210-101-127.tpgi.com.au|Yes|Business
+152.53.164.59:33384:4lCG5O:jMGh7f|71.249.48.36|United States|New York|Brooklyn|11210|pool-71-249-48-36.nycmny.fios.verizon.net|Yes|Business
+37.27.93.106:52922:ihYwuU:FzJb0i|220.233.21.233|Australia|New South Wales|Sydney|2000|233.21.233.220.static.exetel.com.au|Yes|Business
+37.27.93.106:41587:rmPBHA:SqYZln|220.235.247.53|Australia|Victoria|Melbourne|3181|220-235-247-53.tpgi.com.au|Yes|Business
+65.108.251.40:26560|81.109.20.88|United Kingdom|England|Leeds|LS8|cpc153971-seac28-2-0-cust87.7-2.cable.virginm.net|Yes|Residential
+65.108.251.40:32848|173.79.100.33|United States|Maryland|Silver Spring|20906|pool-173-79-100-33.washdc.fios.verizon.net|Yes|Residential
+37.27.93.106:48823:LFH2ic:LMdC5q|92.237.135.136|United Kingdom|Scotland|Edinburgh|EH7|sgyl-43-b2-v4wan-169648-cust1927.vm6.cable.virginm.net|Yes|Residential
+152.53.164.59:39652:3Vyig9:d6xX4Z|125.254.16.136|Australia|Victoria|Melbourne|3072|125-254-16-136.tpgi.com.au|Yes|Business
+152.53.164.59:17283:rM3NxP:njjkgB|74.103.216.117|United States|Rhode Island|Warwick|02889|pool-74-103-216-117.prvdri.fios.verizon.net|Yes|Residential
+152.53.164.59:21551:8rrQC6:OR7ESF|96.241.131.241|United States|Virginia|Centreville|20120|pool-96-241-131-241.washdc.east.verizon.net|Yes|Business
+65.108.251.40:36992|71.166.50.3|United States|Maryland|Parkville|21234|pool-71-166-50-3.bltmmd.fios.verizon.net|Yes|Residential
+65.108.251.40:13392|80.0.34.71|United Kingdom|Wales|Cardiff|CF24|cdif-16-b2-v4wan-171149-cust582.vm43.cable.virginm.net|Yes|Residential
+65.108.251.40:56958|86.11.97.104|United Kingdom|England|Huntingdon|PE29|cpc128052-papw8-2-0-cust103.know.cable.virginm.net|Yes|Residential
+65.108.251.40:23404|100.36.192.72|United States|Virginia|Woodbridge|22193|static-100-36-192-72.washdc.fios.verizon.net|Yes|Business
+65.108.251.40:49295|96.250.108.115|United States|New York|New York|10022|pool-96-250-108-115.nycmny.fios.verizon.net|Yes|Residential
+65.108.251.40:26125|108.26.7.253|United States|New York|Gouverneur|13642|pool-108-26-7-253.syrcny.fios.verizon.net|Yes|Residential
+65.108.251.40:47567|46.15.124.211|Norway|Oslo County|Oslo|0170|telia-2e0f7c-211.connect.netcom.no|Yes|Cellular
+65.108.251.40:36354|173.50.64.25|United States|Virginia|Yorktown|23693|pool-173-50-64-25.nrflva.fios.verizon.net|Yes|Residential
+65.108.251.40:53419|87.228.177.178|Cyprus|Limassol District|Limassol|Unknown|87-177-178.netrun.cytanet.com.cy|Yes|Business
+65.108.251.40:22988|142.118.8.2|Canada|Quebec|Montreal|H1C|lnsm4-montreal02-142-118-8-2.internet.virginmobile.ca|Yes|Cellular
+65.108.251.40:33848|88.89.255.228|Norway|Telemark|Porsgrunn|3946|ti0023a400-5305.bb.online.no|Yes|Residential
+65.108.251.40:58389|82.6.101.207|United Kingdom|England|Harringay|N8|cpc106867-hari19-2-0-cust462.20-2.cable.virginm.net|Yes|Residential
+65.108.251.40:35330|96.255.94.246|United States|Virginia|Bristow|20136|pool-96-255-94-246.washdc.fios.verizon.net|Yes|Residential
+65.108.251.40:15913|220.233.91.231|Australia|New South Wales|Sydney|2763|231.91.233.220.static.exetel.com.au|Yes|Residential
+65.108.251.40:51968|108.53.252.218|United States|New Jersey|Jersey City|07302|pool-108-53-252-218.nwrknj.fios.verizon.net|Yes|Business
+65.108.251.40:28944|82.11.176.103|United Kingdom|England|Liverpool|L21|cpc105310-live28-2-0-cust102.17-2.cable.virginm.net|Yes|Residential
+65.108.251.40:36835|86.25.33.208|United Kingdom|Northern Ireland|Belfast|BT14|belc-09-b2-v4wan-169958-cust463.vm9.cable.virginm.net|Yes|Residential
+37.27.93.106:13997:aeILwk:vvXr8q|87.139.29.98|Germany|North Rhine-Westphalia|Gelsenkirchen|45879|p578b1d62.dip0.t-ipconnect.de|Yes|Business
+65.108.251.40:23523|159.196.170.70|Australia|New South Wales|Sydney|2190|Wideband Networks Pty Ltd|Yes|Residential
+152.53.164.59:55637:kCfYow:UAP8oI|68.160.167.23|United States|Massachusetts|Tyngsboro|01879|pool-68-160-167-23.bstnma.fios.verizon.net|Yes|Residential
+152.53.164.59:41695:ITdIBh:y7ogJz|96.233.137.112|United States|Rhode Island|North Scituate|02857|pool-96-233-137-112.prvdri.fios.verizon.net|Yes|Residential
+152.53.164.59:42991:1XCyuo:TgXWNb|79.212.200.1|Germany|Rheinland-Pfalz|Reichenbach-Steegen|66879|p4fd4c801.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:54732:S4Xtpl:jBA23B|81.4.167.178|Cyprus|Limassol District|Limassol|Unknown|nbl10-178.static.cytanet.com.cy|Yes|Business
+37.27.93.106:12368:qAJwzo:ihg8U6|79.200.89.142|Germany|North Rhine-Westphalia|Velbert|42553|p4fc8598e.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:37574:Or2SI6:33xDam|78.158.241.98|Norway|Akershus|Skjetten|2013|Telenor Norge|Yes|Business
+65.108.251.40:51104|79.207.189.243|Germany|North Rhine-Westphalia|Cologne|51105|p4fcfbdf3.dip0.t-ipconnect.de|Yes|Residential
+152.53.164.59:23691:esutVQ:rqADF0|220.93.230.16|South Korea|Jeollanam-do|Damyang-gun|573|Korea Telecom|No|Business
+65.108.251.40:19561|71.105.35.37|United States|New York|Staten Island|10306|pool-71-105-35-37.nycmny.fios.verizon.net|Yes|Residential
+37.27.93.106:19968:vkXvy3:C5cl6M|203.213.85.38|Australia|Victoria|Melbourne|3029|203-213-85-38-tpgi.com.au|Yes|Business
+65.108.251.40:27452|81.243.27.252|Belgium|Brussels Capital|Brussels|1050|252.27-243-81.adsl-dyn.isp.belgacom.be|Yes|Residential
+37.27.93.106:57289:nmOqqX:rfgY68|96.227.61.60|United States|Pennsylvania|Upper Darby|19082|static-96-227-61-60.phlapa.fios.verizon.net|Yes|Residential
+65.108.251.40:23499|83.134.205.206|Belgium|Wallonia|Liège|4000|206.205-134-83.fia-dyn.isp.proximus.be|Yes|Residential
+65.108.251.40:14046|74.96.204.28|United States|Virginia|Chantilly|20152|pool-74-96-204-28.washdc.fios.verizon.net|Yes|Residential
+65.108.251.40:14477|38.171.184.224|Venezuela|Zulia|Maracaibo|Unknown|Airtek Solutions C.A.|Yes|Business
+65.108.251.40:25639|173.70.213.106|United States|New Jersey|Fair Lawn|07410|pool-173-70-213-106.nwrknj.fios.verizon.net|Yes|Residential
+65.108.251.40:30614|180.150.80.20|Australia|Western Australia|Perth|6055|180-150-80-20.NBN.mel.aussiebb.net|No|Residential
+65.108.251.40:55515|79.210.89.67|Germany|Saxony|Bautzen|02625|p4fd25943.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:37699|122.44.48.155|South Korea|Seoul|Seoul|04524|LG POWERCOMM|Yes|Business
+65.108.251.40:44362|100.38.61.196|United States|New York|The Bronx|10462|pool-100-38-61-196.nycmny.fios.verizon.net|Yes|Residential
+65.108.251.40:17728|74.98.58.124|United States|Pennsylvania|Oakmont|15139|pool-74-98-58-124.pitbpa.fios.verizon.net|Yes|Residential
+65.108.251.40:27180|81.243.82.65|Belgium|Brussels Capital|Brussels|1000|65.82-243-81.adsl-dyn.isp.belgacom.be|Yes|Residential
+65.108.251.40:43262|84.172.117.19|Germany|Lower Saxony|Wunstorf|31515|p54ac7513.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:29990:KgL7la:Yvgb1n|84.198.161.195|Belgium|Flanders|Antwerp|2018|d54c6a1c3.static.telenet.be|Yes|Business
+152.53.164.59:40391:xM33JI:0jBE8u|100.10.42.249|United States|Rhode Island|Coventry|02816|pool-100-10-42-249.prvdri.fios.verizon.net|Yes|Residential
+65.108.251.40:16194|82.2.173.153|United Kingdom|England|Woking|GU21|cpc88299-woki8-2-0-cust408.6-2.cable.virginm.net|Yes|Residential
+65.108.251.40:32739|71.112.207.53|United States|Pennsylvania|Pittsburgh|15221|pool-71-112-207-53.pitbpa.fios.verizon.net|Yes|Business
+37.27.93.106:26859:K3zHUv:4b7ke3|80.153.108.23|Germany|Thuringia|Schleusingen|98553|p50996c17.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:13100:qkiFAq:vC6W2Z|91.44.66.186|Germany|Rheinland-Pfalz|Koblenz|56075|p5b2c42ba.dip0.t-ipconnect.de|Yes|Residential
+152.53.164.59:58780:My8vUl:g5pIJB|173.52.94.16|United States|New York|Queens|11427|pool-173-52-94-16.nycmny.fios.verizon.net|Yes|Residential
+65.108.251.40:15747|82.4.238.156|United Kingdom|England|Dewsbury|WF13|heck-09-b2-v4wan-166124-cust1691.vm35.cable.virginm.net|Yes|Residential
+65.108.251.40:36467|82.9.181.65|United Kingdom|England|Croydon|CR0|cpc158427-croy28-2-0-cust320.19-2.cable.virginm.net|Yes|Residential
+65.108.251.40:23725|113.192.121.98|South Korea|Ulsan|Dong-gu|440|Ulsan Jung-Ang Broadcasting Network|Yes|Business
+37.27.93.106:19628:ynMB3J:W62BPj|91.55.26.250|Germany|North Rhine-Westphalia|Düsseldorf|40237|p5b371afa.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:26626|211.203.36.9|South Korea|Incheon|Namdong-gu|215|SK Broadband Co Ltd|Yes|Residential
+152.53.164.59:33077:9D1dSh:ME1FYK|86.18.181.61|United Kingdom|England|Kettering|NN16|cpc160369-nrth5-2-0-cust1340.8-4.cable.virginm.net|Yes|Residential
+65.108.251.40:35714|31.120.65.146|United Kingdom|England|Liverpool|L3|British Telecommunications PLC|Yes|Business
+65.108.251.40:31402|203.164.250.104|Australia|New South Wales|Sydney|2141|n203-164-250-104.bla21.nsw.optusnet.com.au|Yes|Residential
+152.53.164.59:16875:pRnLHq:LvF3ud|82.8.190.70|United Kingdom|England|Leicester|LE3|cpc114892-leic18-2-0-cust69.8-1.cable.virginm.net|Yes|Residential
+152.53.164.59:36609:HBMpqH:DUMXn9|87.188.166.145|Germany|Lower Saxony|Bassum|27211|p57bca691.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:49310|96.244.145.208|United States|Maryland|Pikesville|21208|pool-96-244-145-208.bltmmd.fios.verizon.net|Yes|Residential
+65.108.251.40:59757|84.162.59.59|Germany|Thuringia|Greiz|07973|p54a23b3b.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:43869:rbKKoJ:7dpslP|31.120.235.39|United Kingdom|England|Preston|PR4|British Telecommunications PLC|Yes|Business
+65.108.251.40:43401|71.163.99.119|United States|Virginia|Sterling|20164|pool-71-163-99-119.washdc.fios.verizon.net|Yes|Residential
+65.108.251.40:55666|93.222.86.249|Germany|Baden-Wurttemberg|Sinsheim|74889|p5dde56f9.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:31949|108.28.173.13|United States|Virginia|Sterling|20165|pool-108-28-173-13.washdc.fios.verizon.net|Yes|Residential
+65.108.251.40:38347|96.253.40.134|United States|Rhode Island|West Warwick|02893|pool-96-253-40-134.prvdri.fios.verizon.net|Yes|Residential
+65.108.251.40:41283|175.205.242.107|South Korea|Gyeonggi-do|Bucheon-si|14554|Korea Telecom|Yes|Business
+65.108.251.40:14674|80.2.16.80|United Kingdom|England|Tower Hamlets|E3|walt-20-b2-v4wan-167837-cust79.vm13.cable.virginm.net|Yes|Residential
+37.27.93.106:58244:yx8XMg:9lOxwv|159.196.249.8|Australia|Victoria|Melbourne|3023|Wideband Networks Pty Ltd|Yes|Residential
+65.108.251.40:11006|86.58.220.84|Denmark|Central Jutland|Aarhus|8000|Antenneforeningen Aarhus|Yes|Cellular
+65.108.251.40:14292|74.96.14.165|United States|Virginia|Gainesville|20155|pool-74-96-14-165.washdc.fios.verizon.net|Yes|Residential
+65.108.251.40:46776|92.238.132.119|United Kingdom|England|Birmingham|B17|smal-20-b2-v4wan-169738-cust1142.vm20.cable.virginm.net|Yes|Residential
+65.108.251.40:21371|46.212.17.12|Norway|Oslo County|Oslo|0566|cm-46.212.17.12.get.no|Yes|Business
+37.27.93.106:22523:HlXIeN:lMwrhf|122.150.125.243|Australia|Victoria|Melbourne|3019|122-150-125-243.dyn.ip.vocus.au|Yes|Business
+37.27.93.106:24089:eKbVb8:nulCXE|79.204.57.84|Germany|Saxony|Weinböhla|01689|p4fcc3954.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:19702:O4VD8p:rfLckC|60.227.176.18|Australia|New South Wales|Yellow Rock|2777|cpe-60-227-176-18.nb02.nsw.asp.telstra.net|Yes|Business
+37.27.93.106:21058:St9oeN:4yFyXO|91.56.245.181|Germany|Bavaria|Munich|81371|p5b38f5b5.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:49195|31.153.103.87|Cyprus|Limassol District|Limassol|Unknown|31-103-87.netrun.cytanet.com.cy|Yes|Business
+37.27.93.106:41981:F1podF:ycXBvH|217.91.77.120|Germany|Bavaria|Schwarzach am Main|97359|pd95b4d78.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:10815:W7smNE:jx4JER|62.97.214.11|Norway|Telemark|Porsgrunn|3940|Eviny Digital|Yes|Cellular
+65.108.251.40:13519|84.138.223.51|Germany|North Rhine-Westphalia|Minden|32425|p548adf33.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:41723|100.35.169.237|United States|New Jersey|Rumson|07760|pool-100-35-169-237.nwrknj.fios.verizon.net|Yes|Business
+65.108.251.40:30511|49.171.132.5|South Korea|Jeollanam-do|Suncheon|579|LG POWERCOMM|Yes|Business
+65.108.251.40:19423|203.59.158.167|Australia|Western Australia|Quinns Rocks|6038|203-59-158-167.dyn.iinet.net.au|Yes|Business
+152.53.164.59:38029:hFBZjT:2vOIIq|100.16.47.99|United States|Maryland|Bel Air|21014|pool-100-16-47-99.bltmmd.fios.verizon.net|Yes|Residential
+152.53.164.59:11816:SbUKai:N58kth|80.195.219.245|United Kingdom|Scotland|Glasgow|G31|cowc-08-b2-v4wan-170184-cust1012.vm40.cable.virginm.net|Yes|Residential
+65.108.251.40:17784|100.1.79.216|United States|New Jersey|Elizabeth|07208|pool-100-1-79-216.nwrknj.fios.verizon.net|Yes|Residential
+65.108.251.40:57223|108.24.155.138|United States|New Jersey|Haddonfield|08033|pool-108-24-155-138.cmdnnj.fios.verizon.net|Yes|Residential
+65.108.251.40:29478|91.60.216.205|Germany|Lower Saxony|Braunschweig|38122|p5b3cd8cd.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:21091|80.192.72.34|United Kingdom|England|Wolverhampton|WV2|cpc83403-wolv18-2-0-cust33.16-1.cable.virginm.net|Yes|Residential
+65.108.251.40:58919|86.16.168.197|United Kingdom|England|Bradford|BD8|cpc160019-brad25-2-0-cust196.17-1.cable.virginm.net|Yes|Residential
+152.53.164.59:40309:OS8QQs:BLqojC|108.39.147.217|United States|Pennsylvania|Allison Park|15101|pool-108-39-147-217.pitbpa.fios.verizon.net|Yes|Residential
+152.53.164.59:39753:YDJbNE:AgBQzd|80.193.153.16|United Kingdom|England|Birmingham|B38|cpc110313-king12-2-0-cust271.19-1.cable.virginm.net|Yes|Residential
+37.27.93.106:10030:tx2Kzl:yXdKwT|93.236.157.135|Germany|Baden-Wurttemberg|Schönaich|71101|p5dec9d87.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:36848:fc6G6y:hhOgUT|166.252.183.233|United States|Wisconsin|Fond du Lac|54935|Verizon Business|Yes|Business
+65.108.251.40:54566|77.100.59.52|United Kingdom|England|St Helens|WA11|know-17-b2-v4wan-172743-cust51.vm29.cable.virginm.net|Yes|Residential
+65.108.251.40:40145|87.147.2.176|Germany|North Rhine-Westphalia|Wegberg|41844|p579302b0.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:50207:zfRhsB:mmx7iu|74.102.35.106|United States|New Jersey|Plainfield|07060|pool-74-102-35-106.nwrknj.fios.verizon.net|Yes|Business
+37.27.93.106:11417:kzEvSM:r4TSrv|87.248.1.199|Norway|Innlandet|Gjøvik|2821|ip-199-1-248-87.eidsiva.net|Yes|Residential
+37.27.93.106:14032:nCNkuL:YIQp8F|45.136.71.143|Denmark|South Denmark|Asperup|5466|Webdock.io ApS|Yes|Business
+37.27.93.106:25644:sOrOMo:VwvS21|124.148.228.214|Australia|Victoria|Melbourne|3165|124-148-228-214.tpgi.com.au|Yes|Business
+152.53.164.59:26528:F7W7iH:5QOohy|59.102.93.211|Australia|New South Wales|Sydney|2099|59-102-93-211.tpgi.com.au|Yes|Business
+65.108.251.40:25091|220.119.182.83|South Korea|Gyeongsangnam-do|Yangsan|50621|Korea Telecom|Yes|Business
+65.108.251.40:35826|80.7.122.135|United Kingdom|England|Fareham|PO16|cos2-04-b2-v4wan-171581-cust134.vm10.cable.virginm.net|Yes|Residential
+65.108.251.40:58848|108.6.49.45|United States|New York|The Bronx|10451|static-108-6-49-45.nycmny.fios.verizon.net|Yes|Residential
+65.108.251.40:30602|89.10.213.82|Norway|Akershus|Asker|1386|82.89-10-213.nextgentel.com|Yes|Residential
+152.53.164.59:42892:XYIFCa:eLOJKf|96.255.115.141|United States|Maryland|Hyattsville|20785|pool-96-255-115-141.washdc.fios.verizon.net|Yes|Residential
+37.27.93.106:28032:Y00w0p:JXsY4c|217.149.125.18|Norway|Vestland|Florø|6900|18.217-149-125.enivest.net|No|Business
+37.27.93.106:36307:i7tN9z:n4B4dV|59.100.212.242|Australia|Queensland|Cairns|4870|59-100-212-242.bri.static-ipl.aapt.com.au|No|Business
+37.27.93.106:27854:1BzsEP:rmLAOp|84.238.25.174|Denmark|Central Jutland|Aarhus|8210|84-238-25-174.ptr.bnaa.dk|Yes|Business
+37.27.93.106:15862:138mhM:mzohOy|59.101.181.22|Australia|Victoria|Melbourne|3143|C-59-101-181-22.mel.connect.net.au|Yes|Business
+37.27.93.106:35069:Y0XPoR:8su7nh|120.157.38.78|Australia|South Australia|Truro|5356|Telstra Internet|Yes|Business
+152.53.164.59:57247:wPiU8F:CU4QTX|115.138.70.207|South Korea|Incheon|Bupyeong-gu|213|LG POWERCOMM|Yes|Business
+37.27.93.106:56947:rDOFLO:HZ8lN0|91.49.133.3|Germany|Baden-Wurttemberg|Heilbronn|74076|p5b318503.dip0.t-ipconnect.de|Yes|Residential
+152.53.164.59:43390:vsIPzm:G1zZH8|108.49.204.90|United States|Massachusetts|Hingham|02043|pool-108-49-204-90.bstnma.fios.verizon.net|Yes|Residential
+152.53.164.59:18175:9uFdQ8:4QhY13|86.22.104.29|United Kingdom|England|Derby|DE24|derb-18-b2-v4wan-165406-cust28.vm44.cable.virginm.net|Yes|Residential
+152.53.164.59:32235:JCN8GV:aaM0ZG|108.34.131.223|United States|Rhode Island|Cranston|02920|pool-108-34-131-223.prvdri.fios.verizon.net|Yes|Business
+152.53.164.59:30169:mnyjtd:sxV0T6|108.18.205.121|United States|Virginia|Dumfries|22026|pool-108-18-205-121.washdc.fios.verizon.net|Yes|Residential
+37.27.93.106:34599:K4R9tz:Iw0alh|71.191.70.126|United States|Virginia|Dumfries|22026|pool-71-191-70-126.washdc.fios.verizon.net|Yes|Residential
+65.108.251.40:13737|87.151.88.60|Germany|Saxony|Löbau|02708|p5797583c.dip0.t-ipconnect.de|Yes|Residential
+152.53.164.59:36029:SZvelO:MBsjCF|173.56.116.38|United States|New York|Hempstead|11550|pool-173-56-116-38.nycmny.fios.verizon.net|Yes|Residential
+37.27.93.106:13696:icCqJG:gxHCmP|84.214.107.63|Norway|Oslo County|Oslo|1251|cm-84.214.107.63.get.no|Yes|Residential
+65.108.251.40:49176|108.5.234.223|United States|New Jersey|Toms River|08757|pool-108-5-234-223.nwrknj.fios.verizon.net|Yes|Residential
+37.27.93.106:41111:7V0eMq:JKHKIY|84.48.115.77|Norway|Oslo County|Oslo|0195|NextGenTel Network|Yes|Residential
+37.27.93.106:38098:rMQ51j:LHvXC3|87.128.46.105|Germany|Baden-Wurttemberg|Reichenbach an der Fils|73262|p57802e69.dip0.t-ipconnect.de|No|Residential
+65.108.251.40:50019|80.71.143.158|Denmark|Capital Region|Copenhagen|2200|80-71-143-158.cgnat.isp.parknet.dk|Yes|Business
+65.108.251.40:25894|91.44.53.182|Germany|Rheinland-Pfalz|Trier|54294|p5b2c35b6.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:23886:KDsnz4:5AVEyZ|60.240.245.66|Australia|Victoria|Melbourne|3141|60-240-245-66.static.tpgi.com.au|Yes|Business
+152.53.164.59:30989:f058V5:7zAfUi|71.249.112.190|United States|New York|Sayville|11782|pool-71-249-112-190.nycmny.fios.verizon.net|Yes|Residential
+37.27.93.106:45276:zE0ijK:s9CKh6|60.242.138.41|Australia|Victoria|Melbourne|3163|60-242-138-41.tpgi.com.au|Yes|Business
+37.27.93.106:40347:HSnSAQ:IRHjDD|147.92.66.188|Canada|Alberta|Bonanza|T0H|Bell Canada|Yes|Business
+65.108.251.40:15805|60.241.72.68|Australia|Victoria|Melbourne|3000|60-241-72-68.static.tpgi.com.au|No|Business
+37.27.93.106:45840:D3P3tB:jE7cuR|84.184.103.222|Germany|North Rhine-Westphalia|Hagen|58097|p54b867de.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:47071:rCuAgX:ekvL0I|70.79.120.248|Canada|British Columbia|Whistler|V8E|S01060030f43b0098.vn.shawcable.net|Yes|Residential
+37.27.93.106:59890:15OuMA:2AHPCU|104.158.33.177|Canada|Ontario|North York|M3N|177.33.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:11468:uBtvNw:7vBjBt|198.251.59.112|Canada|Ontario|Oshawa|L1G|112.59.251.198.in-addr.arpa|Yes|Cellular
+37.27.93.106:32983:yklJTd:suDnvi|104.158.53.34|Canada|Ontario|Mississauga|L5A|34.53.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:58814:ztUbZo:lIXxP7|93.43.41.8|Italy|Basilicate|Paterno|85050|93-43-41-8.ip90.fastwebnet.it|Yes|Business
+37.27.93.106:44183:jF2jlW:68FJax|185.139.50.25|Italy|Basilicate|Brienza|85050|Roberto Cardone trading as Megacom|Yes|Business
+37.27.93.106:49342:GfUVC7:VmivV2|115.64.142.200|Australia|Queensland|Brisbane|4059|115-64-142-200.tpgi.com.au|Yes|Business
+37.27.93.106:43879:UKRv3V:uQ4Bbp|149.100.176.41|Italy|Lombardy|Milan|20123|Myweb srls|No|Business
+37.27.93.106:43979:Xh2yeE:vPo8PX|91.254.11.208|Italy|Sardinia|Cagliari|09128|Wind TRE S.P.A.|Yes|Cellular
+37.27.93.106:16221:KaJavb:5mTOks|209.115.177.212|Canada|Alberta|Grande Prairie|T8X|TELUS Communications Inc.|Yes|Business
+37.27.93.106:15249:S0nt0w:2m8fIi|87.103.126.54|Portugal|Porto|Porto|4050-001|54.126.103.87.rev.vodafone.pt|Yes|Residential
+37.27.93.106:53555:xrmVMf:v8Sebe|61.69.157.94|Australia|Victoria|Melbourne|3122|61-69-157-94.static.tpgi.com.au|Yes|Business
+152.53.164.59:12731:54nTyD:t4IKwP|184.148.138.238|Canada|Ontario|Thornhill|L4J|bras-base-tnhlon4002w-grc-19-184-148-138-238.dsl.bell.ca|Yes|Residential
+65.108.251.40:28097|82.35.217.204|United Kingdom|Scotland|Falkirk|FK2|linl-11-b2-v4wan-166349-cust2507.vm6.cable.virginm.net|Yes|Residential
+37.27.93.106:37959:DDS5Vq:vkZHgR|198.251.57.32|Canada|Ontario|Etobicoke|M9V|32.57.251.198.in-addr.arpa|Yes|Cellular
+37.27.93.106:10764:1qctKG:vdOfhT|185.139.50.41|Italy|Basilicate|Brienza|85050|Roberto Cardone trading as Megacom|Yes|Business
+37.27.93.106:20161:l8N4QZ:uM9zIP|198.251.61.44|Canada|Ontario|Toronto|M6G|44.61.251.198.dynamic.vianetdsl.com|Yes|Cellular
+37.27.93.106:45850:FEXciZ:lhZvlW|104.158.50.171|Canada|Ontario|Toronto|M5E|171.50.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:57535:EB0ueK:lski3i|217.92.37.124|Germany|Baden-Wurttemberg|Lauda-Königshofen|97922|pd95c257c.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:45462:ntMZ7h:QP6phc|86.1.228.18|United Kingdom|England|Wakefield|WF2|86-1-228-18.pon.virginmedia.net|Yes|Business
+37.27.93.106:27880:aG6Qth:wmLHWv|185.139.48.94|Italy|Basilicate|Marsicovetere|85050|MEGACOM|Yes|Business
+37.27.93.106:28763:VnSOGE:fMENRS|207.189.221.46|Canada|Ontario|Unknown|Unknown|46.221.189.207.static.addr.dsl4u.ca|No|Residential
+37.27.93.106:14692:4LSVCr:FJWaWX|166.150.132.127|United States|New Jersey|Unknown|Unknown|Verizon Business|Yes|Business
+37.27.93.106:56648:MaUbVL:aRVNbk|104.158.25.50|Canada|Ontario|Toronto|M5B|50.25.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:20203:Q8OAR4:bUA6D7|85.164.202.190|Norway|Oslo County|Oslo|1281|ti0185a400-2228.bb.online.no|Yes|Residential
+37.27.93.106:16054:UdgMeC:AU1IPo|95.246.19.43|Italy|Calabria|Catanzaro|88100|host-95-246-19-43.retail.telecomitalia.it|Yes|Business
+37.27.93.106:55895:my55za:CvPFmC|220.244.245.57|Australia|Western Australia|Perth|6155|220-244-245-57.static.tpgi.com.au|Yes|Business
+37.27.93.106:11070:53jm9j:iQVEKH|87.74.148.33|United Kingdom|England|Harringay|N22|static-87-74-148-33.vodafonexdsl.co.uk|Yes|Residential
+65.108.251.40:24806|46.251.104.156|Cyprus|Nicosia|Nicosia|Unknown|WAVESPEED|No|Residential
+37.27.93.106:59843:SaBCBq:8CqWQL|93.43.41.20|Italy|Basilicate|Paterno|85050|93-43-41-20.ip90.fastwebnet.it|Yes|Business
+152.53.164.59:11712:136DJz:hMtezM|108.39.247.72|United States|Pennsylvania|Pittsburgh|15227|pool-108-39-247-72.pitbpa.fios.verizon.net|Yes|Residential
+152.53.164.59:48375:MG89K8:az4gV2|82.6.177.175|United Kingdom|England|Nottingham|NG3|cpc86227-nott20-2-0-cust174.12-2.cable.virginm.net|Yes|Residential
+37.27.93.106:13590:E8xDxd:zLw86q|87.3.229.84|Italy|Lazio|Rome|00125|host-87-3-229-84.retail.telecomitalia.it|Yes|Residential
+37.27.93.106:15073:jfAFy7:n5QU5d|88.45.45.90|Italy|Tuscany|San Giovanni Valdarno|52027|host-88-45-45-90.business.telecomitalia.it|Yes|Business
+37.27.93.106:10828:dxBcuF:vJ9yzx|198.251.53.7|Canada|Ontario|Toronto|M6G|7.53.251.198.in-addr.arpa|Yes|Cellular
+37.27.93.106:40461:IXNwRv:uGTPCk|2.44.68.48|Italy|Emilia-Romagna|Forlì|47121|net-2-44-68-48.cust.vodafonedsl.it|Yes|Residential
+37.27.93.106:10777:Ss9vZY:s4WSFh|185.199.26.138|Italy|Apulia|Barletta|76121|ipv4-185-199-26-138.it.altitud.net|Yes|Business
+37.27.93.106:14726:RFo7Lt:73rxOe|198.251.60.206|Canada|Ontario|Mississauga|L5N|206.60.251.198.dynamic.vianetdsl.com|Yes|Cellular
+37.27.93.106:51990:WTfKgK:coGUMa|93.43.41.41|Italy|Basilicate|Paterno|85050|93-43-41-41.ip90.fastwebnet.it|Yes|Business
+37.27.93.106:46309:sIAe1a:jrVM8D|93.43.41.25|Italy|Basilicate|Paterno|85050|93-43-41-25.ip90.fastwebnet.it|Yes|Business
+37.27.93.106:34383:lC7heb:KfLmpz|93.51.226.119|Italy|Lombardy|Milan|20123|93-51-226-119.ip269.fastwebnet.it|Yes|Business
+37.27.93.106:56489:LDaEyp:m4dbhY|217.7.203.35|Germany|Saxony|Leipzig|04316|pd907cb23.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:29801:EiTkK3:zyJaFc|91.12.91.176|Germany|North Rhine-Westphalia|Bochum|44805|p5b0c5bb0.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:45768:cpcvN1:vzD1oo|124.168.124.220|Australia|New South Wales|Sydney|2204|124-168-124-220.tpgi.com.au|Yes|Business
+152.53.164.59:29486:kRc5V7:e5liqB|108.44.244.151|United States|Virginia|Round Hill|20141|pool-108-44-244-151.clppva.fios.verizon.net|Yes|Residential
+65.108.251.40:41029|156.57.28.220|Canada|Nova Scotia|Sydney|B1P|sydnns0115w-156-57-28-220.dhcp-dynamic.fibreop.ns.bellaliant.net|Yes|Residential
+65.108.251.40:57486|31.113.93.208|United Kingdom|England|Hatfield|AL10|British Telecommunications PLC|Yes|Business
+37.27.93.106:45422:d8I4oO:SSPnTj|206.248.184.109|Canada|Ontario|Toronto|M6S|206-248-184-109.dsl.teksavvy.com|Yes|Residential
+65.108.251.40:41264|69.31.219.186|Canada|Ontario|Nanticoke|N0A|ip-69-31-219-186.xplore.ca|Yes|Business
+65.108.251.40:39117|70.77.141.34|Canada|Alberta|Calgary|T2X|S0106a0ff70739c05.cg.shawcable.net|Yes|Residential
+65.108.251.40:23996|174.95.198.156|Canada|Ontario|Toronto|M4E|bras-base-toroon0418w-grc-50-174-95-198-156.dsl.bell.ca|No|Residential
+65.108.251.40:42759|82.34.44.111|United Kingdom|England|Southend-on-Sea|SS2|cpc114424-sout9-2-0-cust3182.20-1.cable.virginm.net|Yes|Residential
+65.108.251.40:45597|88.88.79.78|Norway|Akershus|Rykkin|1348|ti0108a400-2363.bb.online.no|Yes|Residential
+65.108.251.40:22370|158.248.1.0|Norway|Innlandet|Hamar|2318|0.158-248-1.customer.lyse.net|Yes|Business
+65.108.251.40:54409|70.31.198.47|Canada|Quebec|Repentigny|J5Y|bras-base-vlgdpq0609w-grc-71-70-31-198-47.dsl.bell.ca|Yes|Residential
+65.108.251.40:19855|124.56.115.29|South Korea|Daegu|Buk-gu|414|LG POWERCOMM|Yes|Business
+65.108.251.40:55698|84.167.175.218|Germany|North Rhine-Westphalia|Wuppertal|42119|p54a7afda.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:18414:fXSUW1:xkeVCO|198.251.52.149|Canada|Ontario|Hamilton|L8L|149.52.251.198.in-addr.arpa|Yes|Cellular
+65.108.251.40:25190|188.126.205.95|Norway|Oslo County|Oslo|0566|cm-188.126.205.95.get.no|Yes|Residential
+65.108.251.40:51334|92.77.200.28|Germany|Rheinland-Pfalz|Bitburg|54634|dslb-092-077-200-028.092.077.pools.vodafone-ip.de|Yes|Residential
+65.108.251.40:30099|91.1.127.119|Germany|Bavaria|Kitzingen|97318|p5b017f77.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:44558:Gub1re:wQVEfH|170.199.131.53|Canada|Nova Scotia|Lower Sackville|B4C|City Wide Communications Inc.|Yes|Business
+37.27.93.106:50386:c8hqbP:MHcqVp|104.158.32.89|Canada|Ontario|Ottawa|K1Y|89.32.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:50623:8I3YVI:wJhKjm|78.96.119.54|Romania|Prahova|Ploieşti|100012|Vodafone Romania S.A.|Yes|Business
+152.53.164.59:27646:uyWNpj:G51joK|95.222.29.41|Germany|Baden-Wurttemberg|Sindelfingen|71063|ip-095-222-029-041.um34.pools.vodafone-ip.de|Yes|Business
+152.53.164.59:20837:R8s3Km:1Hbp2P|77.98.184.201|United Kingdom|England|Wakefield|WF1|wake-09-b2-v4wan-172595-cust200.vm3.cable.virginm.net|Yes|Residential
+152.53.164.59:46712:plnRiX:81IYh4|217.238.59.28|Germany|North Rhine-Westphalia|Paderborn|33098|pd9ee3b1c.dip0.t-ipconnect.de|Yes|Residential
+152.53.164.59:43223:TuQIZK:cZl779|85.165.194.214|Norway|Akershus|Asker|1386|ti0071a400-3020.bb.online.no|Yes|Residential
+65.108.251.40:40367|79.219.56.41|Germany|Bavaria|Munich|81825|p4fdb3829.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:25803:zrOIi3:hZ7GUL|104.158.49.26|Canada|Ontario|Whitby|L1N|26.49.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:20079:b70EYP:6UI6mR|104.158.51.235|Canada|Ontario|Whitby|L1N|235.51.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:21669:kg2BCE:cssocb|84.238.92.245|Denmark|Capital Region|Copenhagen|2300|84-238-92-245.ptr.bnaa.dk|Yes|Business
+37.27.93.106:51802:OM5DsU:TXBM2H|198.251.61.139|Canada|Ontario|Brampton|L6Y|139.61.251.198.dynamic.vianetdsl.com|Yes|Cellular
+37.27.93.106:57005:BbumhC:ZYkt7G|120.159.200.95|Australia|South Australia|Adelaide|5037|cpe-120-159-200-95.dyn.belong.com.au|Yes|Business
+65.108.251.40:53731|46.223.163.40|Germany|Baden-Wurttemberg|Karlsruhe|76139|ip-046-223-163-040.um13.pools.vodafone-ip.de|Yes|Business
+37.27.93.106:16769:rogm25:Q9hfaM|198.251.54.8|Canada|Ontario|Toronto|M5A|8.54.251.198.in-addr.arpa|Yes|Cellular
+37.27.93.106:33193:d3BGgG:cvdrQP|115.70.4.211|Australia|Victoria|Melbourne|3173|211.4.70.115.static.exetel.com.au|Yes|Residential
+37.27.93.106:54003:rkcwIY:1ThasI|84.9.189.128|United Kingdom|England|Newcastle upon Tyne|NE1|static-84-9-189-128.vodafonexdsl.co.uk|Yes|Residential
+37.27.93.106:32962:cwgB0n:91EQxh|93.231.117.224|Germany|Lower Saxony|Goslar|38642|p5de775e0.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:47083|182.215.74.106|South Korea|Seoul|Yeongdeungpo-gu|074|LG POWERCOMM|Yes|Business
+65.108.251.40:18302|92.210.205.90|Germany|Hesse|Frankfurt am Main|60325|ipservice-092-210-205-090.092.210.pools.vodafone-ip.de|Yes|Business
+65.108.251.40:24802|81.99.26.132|United Kingdom|England|Newcastle upon Tyne|NE5|benw-12-b2-v4wan-169588-cust2691.vm8.cable.virginm.net|Yes|Residential
+65.108.251.40:11808|84.69.105.63|United Kingdom|England|Swadlincote|DE11|Vodafone Limited|Yes|Residential
+65.108.251.40:47898|92.221.47.139|Norway|Rogaland|Sandnes|4328|139.92-221-47.customer.lyse.net|Yes|Business
+65.108.251.40:37506|80.89.61.19|Norway|Nordland|Mosjøen|8663|80-89-61-19.inet.signal.no|Yes|Business
+65.108.251.40:25089|87.181.196.177|Germany|Baden-Wurttemberg|Gernsbach|76593|p57b5c4b1.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:16730|62.107.21.245|Denmark|Capital Region|Copenhagen|2200|62-107-21-245.norlyscustomer.net|Yes|Residential
+65.108.251.40:35881|79.253.65.191|Germany|Saxony-Anhalt|Köthen|06366|p4ffd41bf.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:13733:7dxOyk:yWxwQF|114.198.3.244|Australia|Western Australia|Perth|6107|114-198-3-244.tpgi.com.au|Yes|Business
+37.27.93.106:22596:0Qme13:hNMLZM|79.160.128.46|Norway|Telemark|Fyresdal|3870|46.79-160-128.customer.lyse.net|Yes|Business
+37.27.93.106:12249:8wGcmK:P1peGp|37.200.5.9|Norway|Vestland|Bergen|5011|ti0004q160-2538.bb.online.no|Yes|Residential
+65.108.251.40:14711|176.18.43.105|Saudi Arabia|Mecca Region|Jeddah|Unknown|Internet Broadband|No|Mobile
+152.53.164.59:28017:UuctlE:9aaYWs|91.45.208.215|Germany|Bavaria|Eckenhaid|90542|p5b2dd0d7.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:52445|219.255.108.26|South Korea|Seoul|Seoul|04524|SK Broadband Co Ltd|Yes|Residential
+37.27.93.106:11921:NmZqht:Fp2CTb|84.161.49.78|Germany|North Rhine-Westphalia|Porta Westfalica|32457|p54a1314e.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:52256:2p93fg:malDUx|79.161.138.244|Norway|Vestfold|Tønsberg|3113|244.79-161-138.customer.lyse.net|Yes|Business
+37.27.93.106:17372:itz8eI:qQZbCG|81.101.41.88|United Kingdom|Northern Ireland|Belfast|BT5|bele-10-b2-v4wan-169758-cust2391.vm9.cable.virginm.net|Yes|Residential
+37.27.93.106:28340:HjTJ81:3qOaJM|103.52.119.13|Australia|Unknown|Unknown|Unknown|5G NETWORK OPERATIONS PTY LTD|Yes|Business
+37.27.93.106:25453:5750JU:AA4Toh|115.69.15.5|Australia|Victoria|Melbourne|3121|115-69-15-5-cpe.spintel.net.au|Yes|Business
+152.53.164.59:51002:jFH2Q0:42MqFE|106.70.63.232|Australia|Victoria|Melbourne|3064|n106-70-63-232.sun21.vic.optusnet.com.au|Yes|Business
+65.108.251.40:57396|222.112.1.51|South Korea|Seoul|Gwanak-gu|088|Korea Telecom|No|Business
+37.27.93.106:58111:1oJqJc:T6TX4S|104.158.50.217|Canada|Ontario|Oakville|L6H|217.50.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:26481:OU2kT9:ENiIhd|80.254.46.248|Norway|Oslo County|Oslo|0622|ELEKTRON|Yes|Business
+65.108.251.40:22433|82.102.66.141|Cyprus|Pafos|Paphos|Unknown|PrimeTel PLC|No|Business
+37.27.93.106:15405:1Rarzp:XkmVpQ|110.175.220.250|Australia|Victoria|Melbourne|3078|110-175-220-250.static.tpgi.com.au|Yes|Business
+37.27.93.106:54250:4TLyLO:jUxFAS|80.254.46.232|Norway|Oslo County|Oslo|0622|ELEKTRON|No|Business
+65.108.251.40:32298|46.199.212.213|Cyprus|Limassol District|Limassol|Unknown|46-212-213.internethome.cytanet.com.cy|Yes|Business
+65.108.251.40:31500|174.117.6.78|Canada|New Brunswick|Riverview|E1B|pool-174-117-6-78.cpe.net.cable.rogers.com|Yes|Residential
+152.53.164.59:38607:QSK05R:SbEHeA|142.122.51.199|Canada|Quebec|Montreal|H1R|lnsm5-montreal02-142-122-51-199.internet.virginmobile.ca|Yes|Cellular
+37.27.93.106:11604:nM9AfW:flKduS|195.159.217.71|Norway|Oslo County|Oslo|1251|195-159-217-71.customer.powertech.no|Yes|Business
+37.27.93.106:50699:PNdeQG:mAmFkE|68.168.113.61|Canada|Quebec|Montreal|H4C|bbs.nasa-g0v.com|Yes|Hosting
+65.108.251.40:10490|87.228.238.28|Cyprus|Pafos|Paphos|Unknown|buscust82-28.static.cytanet.com.cy|Yes|Business
+152.53.164.59:38759:h5lIFi:EtD2zO|77.98.42.244|United Kingdom|England|Manchester|M20|bagu-19-b2-v4wan-170082-cust755.vm21.cable.virginm.net|Yes|Residential
+65.108.251.40:11920|61.69.214.188|Australia|New South Wales|Sydney|2009|61-69-214-188.static.tpgi.com.au|Yes|Business
+65.108.251.40:57616|115.128.217.159|Australia|New South Wales|Sydney|2048|115-128-217-159.tpgi.com.au|Yes|Cellular
+37.27.93.106:48813:2R2Hjz:j2shgI|198.251.59.37|Canada|Ontario|North York|M6A|37.59.251.198.in-addr.arpa|Yes|Cellular
+37.27.93.106:10052:geECge:fJEAim|210.8.243.150|Australia|Victoria|Saint Albans|3427|AAPT Limited|Yes|Business
+152.53.164.59:20142:47QFYH:CP8Y7B|77.102.232.2|United Kingdom|England|Scunthorpe|DN17|scun-10-b2-v4wan-172901-cust1.vm15.cable.virginm.net|Yes|Residential
+152.53.164.59:29952:3N8JFs:Kji0lC|86.22.76.155|United Kingdom|England|Leicester|LE3|leic-21-b2-v4wan-164750-cust1178.vm44.cable.virginm.net|Yes|Residential
+65.108.251.40:21569|109.247.166.28|Norway|Innlandet|Jaren|2770|28.109-247-166.customer.lyse.net|Yes|Business
+37.27.93.106:50628:fOl1Ec:cLlH3N|104.158.34.46|Canada|Ontario|Burlington|L7M|46.34.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:46922:gQOsi1:lpdscT|99.251.159.64|Canada|Ontario|Cambridge|N3C|pool-99-251-159-64.cpe.net.cable.rogers.com|Yes|Residential
+37.27.93.106:22640:SSACrZ:WWHCEA|104.158.24.236|Canada|Ontario|Scarborough|M1B|236.24.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:24514:hboFnV:Fc1scX|104.155.27.128|Belgium|Brussels Capital|Brussels|1000|128.27.155.104.bc.googleusercontent.com|Yes|Hosting
+65.108.251.40:52279|177.80.1.49|Brazil|São Paulo|Santo André|Unknown|b1500131.virtua.com.br|No|ISP/Mob
+65.108.251.40:11053|49.194.128.191|Australia|Western Australia|Perth|6056|n49-194-128-191.per2.wa.optusnet.com.au|Yes|Business
+65.108.251.40:58265|163.53.146.108|Australia|New South Wales|Sydney|2040|163-53-146-108.ip4.superloop.au|No|Business
+65.108.251.40:11003|184.146.37.53|Canada|Ontario|Windsor|N9G|bras-base-wndson1334w-grc-26-184-146-37-53.dsl.bell.ca|Yes|Residential
+65.108.251.40:11019|92.239.26.171|United Kingdom|England|Enfield|EN1|enfi-21-b2-v4wan-169794-cust2730.vm1.cable.virginm.net|Yes|Residential
+65.108.251.40:50873|116.91.217.65|Australia|Western Australia|Perth|6000|customer.prthaus1.pop.starlinkisp.net|No|Cellular
+65.108.251.40:12283|77.241.136.116|Denmark|Capital Region|Frederiksberg|2000|77.241.136.116.bredband.3.dk|Yes|Cellular
+65.108.251.40:30250|157.208.54.46|Canada|Quebec|Lac-Mégantic|G6B|157-208-54-46.mc.derytele.com|Yes|Business
+65.108.251.40:51035|31.94.26.40|United Kingdom|England|Sevenoaks|TN15|British Telecommunications PLC|Yes|Cellular
+65.108.251.40:36587|188.44.77.127|Belgium|Brussels Capital|Brussels|1080|188-44-77-127.access.telenet.be|No|Business
+65.108.251.40:55846|82.12.120.24|United Kingdom|Scotland|Bonnyrigg|EH19|sgyl-44-b2-v4wan-170594-cust23.vm6.cable.virginm.net|Yes|Residential
+65.108.251.40:42953|31.94.70.137|United Kingdom|England|Birmingham|B8|British Telecommunications PLC|Yes|Cellular
+65.108.251.40:40219|154.20.149.50|Canada|British Columbia|Chilliwack|V2R|d154-20-149-50.bchsia.telus.net|Yes|Residential
+65.108.251.40:26863|91.35.21.161|Germany|Bavaria|Munich|81827|p5b2315a1.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:24155|37.201.198.71|Germany|North Rhine-Westphalia|Duisburg|47057|ip-037-201-198-071.um10.pools.vodafone-ip.de|Yes|Cellular
+65.108.251.40:58692|95.113.41.125|Germany|Hamburg|Hamburg|22049|dynamic-095-113-041-125.95.113.pool.telefonica.de|Yes|Business
+65.108.251.40:44403|211.38.203.210|South Korea|Daegu|Daegu|41934|Korea Telecom|Yes|Business
+65.108.251.40:27754|109.130.41.17|Belgium|Wallonia|Liège|4000|17.41-130-109.adsl-dyn.isp.belgacom.be|Yes|Residential
+65.108.251.40:30906|79.240.29.181|Germany|Rheinland-Pfalz|Rieschweiler-Mühlbach|66509|p4ff01db5.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:32723|94.174.162.251|United Kingdom|England|Manchester|M21|bagu-19-b2-v4wan-170080-cust762.vm21.cable.virginm.net|Yes|Residential
+65.108.251.40:33399|79.216.45.124|Germany|Hamburg|Hamburg|22397|p4fd82d7c.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:42384|193.121.194.190|Belgium|Flanders|Ghent|9000|190.194-121-193.fia-dyn.isp.proximus.be|No|Residential
+65.108.251.40:35731|83.134.108.73|Belgium|Flanders|Antwerp|2000|73.108-134-83.fia-dyn.isp.proximus.be|Yes|Residential
+65.108.251.40:43261|69.159.86.36|Canada|Ontario|Newmarket|L3Y|bras-base-nwmkon8533w-grc-61-69-159-86-36.dsl.bell.ca|No|Residential
+65.108.251.40:42469|217.231.138.59|Germany|North Rhine-Westphalia|Wermelskirchen|42929|pd9e78a3b.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:28040|77.25.44.52|Germany|Lower Saxony|Hanover|30519|ip-77-25-44-52.web.vodafone.de|Yes|Business
+65.108.251.40:13847|58.76.169.135|South Korea|Seoul|Dongjak-gu|069|LG DACOM Corporation|Yes|Business
+65.108.251.40:57476|121.139.193.138|South Korea|Gyeonggi-do|Siheung-si|150|Korea Telecom|Yes|Business
+65.108.251.40:12102|95.91.216.248|Germany|Saarland|Saarbrücken|66111|ip5f5bd8f8.dynamic.kabel-deutschland.de|Yes|Residential
+65.108.251.40:34843|193.148.48.36|Germany|Unknown|Unknown|Unknown|Lycatel Distribution UK Limited|Yes|Cellular
+65.108.251.40:34233|176.199.209.2|Germany|Baden-Wurttemberg|Mannheim|68165|ip-176-199-209-002.um44.pools.vodafone-ip.de|Yes|Business
+65.108.251.40:32894|146.52.179.143|Germany|Bavaria|Abensberg|93326|ip9234b38f.dynamic.kabel-deutschland.de|Yes|Residential
+65.108.251.40:39917|64.229.176.146|Canada|Ontario|Trenton|K8V|bras-base-trenon4404w-grc-39-64-229-176-146.dsl.bell.ca|Yes|Residential
+65.108.251.40:55601|95.91.246.95|Germany|State of Berlin|Berlin|10965|ip5f5bf65f.dynamic.kabel-deutschland.de|Yes|Residential
+65.108.251.40:54213|142.114.233.99|Canada|Ontario|North York|M2R|bras-base-toroon6128w-grc-55-142-114-233-99.dsl.bell.ca|No|Residential
+65.108.251.40:14562|145.255.52.40|Germany|North Rhine-Westphalia|Coesfeld|48653|ip-145-255-52-40.muenet.net|Yes|Business
+65.108.251.40:35303|37.169.157.231|France|Unknown|Unknown|Unknown|Free Mobile SAS|Yes|Cellular
+65.108.251.40:38510|90.29.61.218|France|Normandy|Caen|14000|lfbn-cae-1-599-218.w90-29.abo.wanadoo.fr|Yes|Residential
+65.108.251.40:58297|176.180.30.254|France|Hauts-de-France|Annay|62880|i15-les03-ix2-176-180-30-254.dsl.dyn.abo.bbox.fr|Yes|Residential
+65.108.251.40:25402|92.140.36.85|France|Hauts-de-France|Lens|62300|amontsouris-199-1-62-85.w92-140.abo.wanadoo.fr|Yes|Residential
+65.108.251.40:57866|79.232.205.44|Germany|North Rhine-Westphalia|Waldbröl|51545|p4fe8cd2c.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:49893|31.94.58.238|United Kingdom|Wales|Cardiff|CF3|British Telecommunications PLC|Yes|Cellular
+65.108.251.40:39415|91.175.112.232|France|Hauts-de-France|Beauvais|60000|91-175-112-232.subs.proxad.net|Yes|Business
+65.108.251.40:24819|82.45.37.47|United Kingdom|England|Redditch|B98|brom-13-b2-v4wan-168470-cust1326.vm31.cable.virginm.net|Yes|Residential
+65.108.251.40:33238|81.65.116.217|France|Pays de la Loire|Le Mans|72000|217.116.65.81.rev.sfr.net|Yes|Residential
+152.53.164.59:28886:jwyAx3:tAeuto|37.65.162.252|France|Île-de-France|Paris|75015|252.162.65.37.rev.sfr.net|Yes|Business
+65.108.251.40:30940|86.25.49.128|United Kingdom|England|Norwich|NR3|nrwh-12-b2-v4wan-167351-cust383.vm23.cable.virginm.net|Yes|Residential
+152.53.164.59:37014:Y8dXOv:lrlAmB|82.9.112.155|United Kingdom|England|Stoke-on-Trent|ST1|stok-21-b2-v4wan-169554-cust154.vm21.cable.virginm.net|Yes|Residential
+65.108.251.40:50316|92.138.40.114|France|Grand Est|Lunéville|54300|lfbn-ncy-1-1088-114.w92-138.abo.wanadoo.fr|Yes|Residential
+65.108.251.40:23969|92.161.82.165|France|Auvergne-Rhône-Alpes|Belleville|69220|adijon-655-1-161-165.w92-161.abo.wanadoo.fr|Yes|Residential
+65.108.251.40:45717|88.180.187.130|France|Hauts-de-France|Bruay-la-Buissière|62700|88-180-187-130.subs.proxad.net|No|Residential
+65.108.251.40:16500|86.245.93.8|France|Île-de-France|Chatou|78400|lfbn-idf1-1-890-8.w86-245.abo.wanadoo.fr|Yes|Residential
+65.108.251.40:16471|211.208.55.124|South Korea|Gwangju|Buk-gu|610|SK Broadband Co Ltd|Yes|Business
+65.108.251.40:17888|89.185.187.40|France|Nouvelle-Aquitaine|Bayonne|64100|40.187.185.89.rev.sfr.net|Yes|Business
+65.108.251.40:54505|176.171.168.138|France|Provence-Alpes-Côte d'Azur|Vitrolles|13127|aqu33-h09-176-171-168-138.dsl.sta.abo.bbox.fr|Yes|Cellular
+37.27.93.106:13755:Ur31W6:OUXjIk|86.4.211.136|United Kingdom|England|Lewisham|SE6|86-4-211-136.pon.virginmedia.net|Yes|Business
+152.53.164.59:31153:vUqbA9:jdK8Vl|74.101.174.20|United States|New York|Valley Stream|11581|pool-74-101-174-20.nycmny.fios.verizon.net|Yes|Residential
+152.53.164.59:48931:qJpX6z:S41Z8e|212.195.255.203|France|Île-de-France|Paris|75007|i16-lef01-ix2-212-195-255-203.ft.lns.abo.bbox.fr|Yes|Residential
+152.53.164.59:21844:1UFMKx:mfznPP|88.172.245.21|France|Centre-Val de Loire|Jouet-sur-lAubois|18320|88-172-245-21.subs.proxad.net|No|Residential
+65.108.251.40:21271|85.132.234.42|Cyprus|Nicosia|Nicosia|Unknown|Cablenet Communication Systems plc|Yes|Business
+65.108.251.40:49861|82.5.92.38|United Kingdom|England|Birmingham|B11|smal-17-b2-v4wan-169618-cust37.vm20.cable.virginm.net|Yes|Residential
+65.108.251.40:28439|43.227.109.21|Australia|Victoria|Melbourne|3053|43-227-109-21.cgnat.flipnbn.com.au|Yes|Business
+65.108.251.40:52960|31.94.60.48|United Kingdom|England|Coventry|CV2|British Telecommunications PLC|Yes|Cellular
+65.108.251.40:39558|118.176.174.183|South Korea|Seoul|Nowon-gu|018|DLIVE|Yes|Residential
+37.27.93.106:52167:95L6SW:DWD5l2|60.241.6.200|Australia|New South Wales|Sydney|2000|60-241-6-200.static.tpgi.com.au|Yes|Business
+37.27.93.106:46073:SH05kc:oqpFky|27.116.37.226|Australia|Victoria|Melbourne|3025|ptr-27-116-37-226.0101.net.au|Yes|Business
+37.27.93.106:53882:7jpEU6:nrPtH7|193.69.97.104|Norway|Oslo County|Oslo|0572|c686145C1.dhcp.as2116.net|Yes|Business
+37.27.93.106:32834:FK3iUZ:14t3mI|95.130.165.3|Germany|Bavaria|Regensburg|93047|95-130-165-3.hsi.r-kom.net|Yes|Business
+37.27.93.106:50291:aCqvAi:iE6cx8|104.158.55.63|Canada|Ontario|Scarborough|M1L|63.55.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:34105:OFtZHK:2ncrAj|104.158.50.250|Canada|Ontario|Brampton|L6X|250.50.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:50359:1LJ2Sx:XBzH55|176.35.19.213|United Kingdom|England|Bracknell|RG12|176-35-19-213.ssebb.co.uk|Yes|Business
+37.27.93.106:37782:D0WcRn:68Cd8p|212.221.96.150|United Kingdom|England|Islington|EC1V|ip4.gtt.net|Yes|Business
+152.53.164.59:26068:QSIERh:vGNWof|82.16.130.115|United Kingdom|England|Middlesbrough|TS6|cpc82793-midd19-2-0-cust626.11-1.cable.virginm.net|Yes|Residential
+152.53.164.59:33045:66P317:ngvP3P|188.30.79.144|United Kingdom|England|Fareham|PO15|188.30.79.144.threembb.co.uk|Yes|Residential
+37.27.93.106:55530:64iyfD:LmFKk0|203.213.17.74|Australia|South Australia|Mount Gambier|5290|203-213-17-74.static.tpgi.com.au|Yes|Business
+65.108.251.40:41471|81.245.17.34|Belgium|Wallonia|Liège|4000|34.17-245-81.adsl-dyn.isp.belgacom.be|Yes|Residential
+152.53.164.59:13918:m1CjdV:d4gQwR|31.48.226.244|United Kingdom|England|Newton Abbot|TQ12|host31-48-226-244.range31-48.btcentralplus.com|Yes|Business
+37.27.93.106:54160:ogJhN4:EvT9ta|104.158.53.62|Canada|Ontario|Mississauga|L5A|62.53.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:35588:LtPVOz:jZUSi9|82.32.230.230|United Kingdom|Scotland|East Kilbride|G74|uddi-29-b2-v4wan-166599-cust1765.vm12.cable.virginm.net|Yes|Residential
+37.27.93.106:39257:sGvDBQ:7dxvZa|101.185.204.150|Australia|Western Australia|Perth|6000|cpe-101-185-204-150.wb06.wa.asp.telstra.net|Yes|Business
+37.27.93.106:21502:V5Qqml:pxdtsc|123.51.28.60|Australia|South Australia|Roxby Downs|5725|123-51-28-60.static.dsl.net.au|Yes|Business
+65.108.251.40:29798|92.29.159.53|United Kingdom|England|Sunderland|SR2|host-92-29-159-53.as13285.net|Yes|Residential
+37.27.93.106:45818:M0RQzd:PXxon1|180.150.67.57|Australia|New South Wales|Sydney|2170|180-150-67-57.b49643.syd.nbn.aussiebb.net|No|Residential
+152.53.164.59:32101:h4Bkrd:GBPxDJ|74.109.228.84|United States|Pennsylvania|Pittsburgh|15235|pool-74-109-228-84.pitbpa.fios.verizon.net|Yes|Residential
+152.53.164.59:11190:SWnJuk:AxW1fZ|82.30.200.46|United Kingdom|England|Harrogate|HG1|cpc75560-harg6-2-0-cust45.7-1.cable.virginm.net|Yes|Residential
+65.108.251.40:45252|189.144.199.82|Mexico|Mexico City|Gustavo Adolfo Madero|07170|dsl-82-199-144-189-dynamic.prod-infinitum.com.mx|No|Residential
+65.108.251.40:13073|93.109.122.4|Cyprus|Limassol District|Limassol|Unknown|93-122-4.netrun.cytanet.com.cy|Yes|Business
+65.108.251.40:52549|80.62.116.19|Denmark|Capital Region|Copenhagen|2200|80-62-116-19-mobile.dk.customer.tdc.net|Yes|Cellular
+65.108.251.40:15665|72.73.235.127|United States|New Jersey|Robbinsville|08691|pool-72-73-235-127.cmdnnj.fios.verizon.net|Yes|Residential
+65.108.251.40:42513|218.52.255.39|South Korea|Seoul|Guro-gu|082|SK Broadband Co Ltd|Yes|Residential
+37.27.93.106:25207:jhK0Ym:68yi81|143.238.66.165|Australia|New South Wales|Sydney|2088|cpe-143-238-66-165.nb07.nsw.asp.telstra.net|Yes|Business
+37.27.93.106:45901:9L19sj:TPXIg6|109.134.109.113|Belgium|Brussels Capital|Brussels|1050|113.109-134-109.adsl-dyn.isp.belgacom.be|Yes|Residential
+37.27.93.106:57945:Co7M1f:TXeuqZ|82.160.16.203|Poland|Greater Poland|Nowy Tomyśl|64-300|TK Telekom sp. z o.o|Yes|Business
+37.27.93.106:12342:XrwhGr:Uz0ctF|185.238.65.149|Poland|Podlasie|Łomża|18-400|65-149.swiatlowod.avito.pl|Yes|Business
+37.27.93.106:31697:F7OXDE:yIw44W|120.157.139.112|Australia|Victoria|Melbourne|3000|Telstra Internet|Yes|Business
+37.27.93.106:59063:fDbOEz:qyCfOt|84.214.61.228|Norway|Oslo County|Oslo|1253|cm-84.214.61.228.get.no|Yes|Residential
+37.27.93.106:39467:Evd405:ckedRB|69.181.60.207|United States|California|Hayward|94544|c-69-181-60-207.hsd1.ca.comcast.net|Yes|Residential
+37.27.93.106:45264:clGbDt:gOGprc|166.252.222.193|United States|Unknown|Unknown|Unknown|Verizon Business|Yes|Business
+37.27.93.106:48835:iDznP4:Xew4Cq|76.230.6.206|United States|North Carolina|Matthews|28104|AT&T Enterprises, LLC|Yes|Residential
+37.27.93.106:42633:47CyM5:qcp3ih|61.245.140.55|Australia|Western Australia|Perth|6007|61-245-140-55.3df58c.per.nbn.aussiebb.net|No|Residential
+37.27.93.106:44465:GK2b7W:qKNtIa|185.215.224.51|United States|Unknown|Unknown|Unknown|mailu.derewonko.com|Yes|Business
+37.27.93.106:18174:PPe6I1:vpQUMo|65.76.189.193|United States|California|Unknown|Unknown|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:44651:4Zkfso:u6ZsNF|208.180.246.41|United States|Texas|San Angelo|76903|Suddenlink Communications|Yes|Business
+37.27.93.106:30730:AgQPYe:7ryJ23|207.19.1.38|United States|Texas|Groom|79039|Verizon Business|Yes|Business
+37.27.93.106:36778:khd22P:ze7abq|73.189.179.23|United States|California|San Jose|95148|c-73-189-179-23.hsd1.ca.comcast.net|Yes|Residential
+37.27.93.106:41239:ujifj6:S4JbKa|67.218.73.102|United States|Wyoming|Hulett|82720|67-218-73-102.dynamic.range.net|Yes|Business
+37.27.93.106:32655:O5DT1v:eeJGzH|66.216.19.31|United States|Ohio|Cleveland|44113|BroadbandONE|Yes|Residential
+37.27.93.106:32233:LHTqXY:BQbf3K|67.169.129.248|United States|California|San Jose|95111|Comcast Cable Communications, LLC|Yes|Residential
+37.27.93.106:51863:Po4Hp7:R9eJ97|104.8.212.137|United States|Missouri|St Louis|63132|AT&T Enterprises, LLC|No|Business
+37.27.93.106:45784:GkiIAH:QjDaML|12.55.62.110|United States|Texas|Crowley|76036|AT&T Enterprises, LLC|Yes|Business
+37.27.93.106:15841:p1GQR5:2GiivE|110.174.55.210|Australia|New South Wales|Campbelltown|2560|110-174-55-210.tpgi.com.au|Yes|Business
+152.53.164.59:57469:8kSEnY:1TqBF5|71.187.100.11|United States|New Jersey|Morristown|07960|pool-71-187-100-11.nwrknj.fios.verizon.net|Yes|Residential
+152.53.164.59:38211:iADaXN:DEn5dc|96.239.28.143|United States|New York|Queens|11385|pool-96-239-28-143.nycmny.fios.verizon.net|Yes|Residential
+152.53.164.59:53656:dRe1Zg:s0GLRZ|98.113.133.240|United States|New York|East Northport|11731|pool-98-113-133-240.nycmny.fios.verizon.net|Yes|Residential
+152.53.164.59:36906:weE3In:KK8GXm|175.37.245.78|Australia|Victoria|Shepparton|3630|n175-37-245-78.sun2.vic.optusnet.com.au|Yes|Business
+65.108.251.40:31291|172.56.16.163|United States|Illinois|Chicago|60618|T-Mobile USA, Inc.|Yes|Cellular
+65.108.251.40:48025|96.236.204.196|United States|Pennsylvania|McKees Rocks|15136|pool-96-236-204-196.pitbpa.fios.verizon.net|Yes|Residential
+37.27.93.106:40381:68qQPa:FMedlo|176.96.147.81|Poland|Subcarpathia|Miejsce Piastowe|38-430|176-96-147-81.LAN4.mega-net.pl|Yes|Business
+37.27.93.106:49728:uWA5r6:kBoQ2C|178.117.235.173|Belgium|Flanders|Oudenaarde|9700|178-117-235-173.access.telenet.be|Yes|Business
+37.27.93.106:35252:ZoQ1Hn:BDWjjQ|180.150.100.29|Australia|Queensland|Brisbane|4000|180-150-100-29.b49664.bne.static.aussiebb.net|Yes|Residential
+37.27.93.106:24351:aRP19Y:rbwcf1|77.46.48.121|Poland|Podlasie|Bialystok|15-207|PC-77-46-48-121.euro-net.pl|Yes|Business
+37.27.93.106:51581:kzjD6C:wc1ZAX|176.20.84.180|Denmark|Central Jutland|Aarhus|8210|176-20-84-180-dynamic.dk.customer.tdc.net|No|Residential
+37.27.93.106:43716:cOKYFS:ZzJRjd|85.201.9.56|Belgium|Wallonia|Waterloo|1410|host-85-201-9-56.dynamic.voo.be|Yes|Business
+37.27.93.106:23053:RTlLjn:53HKqS|79.40.42.237|Italy|Tuscany|Florence|50143|host-79-40-42-237.business.telecomitalia.it|Yes|Residential
+37.27.93.106:50771:XUjBJk:DV1BYG|185.139.48.68|Italy|Basilicate|Marsicovetere|85050|MEGACOM|Yes|Business
+37.27.93.106:44708:jWOfCs:QFOPjZ|185.139.51.42|Italy|Basilicate|Brienza|85050|Roberto Cardone trading as Megacom|Yes|Business
+37.27.93.106:58398:infx7n:aVwEz5|93.49.171.51|Italy|Basilicate|Viggiano|85059|93-49-171-51.ip286.fastwebnet.it|Yes|Business
+37.27.93.106:30644:JIDBwv:X3oaZH|83.194.101.23|France|Grand Est|Bitche|57230|lfbn-ncy-1-5-23.w83-194.abo.wanadoo.fr|Yes|Residential
+152.53.164.59:53873:IDjCZX:GjKrw1|77.204.104.170|France|Île-de-France|Cachan|94230|170.104.204.77.rev.sfr.net|Yes|Cellular
+37.27.93.106:42721:6RGI6z:ss1eKb|176.23.164.233|Denmark|South Denmark|Middelfart|5500|176-23-164-233-dynamic.dk.customer.tdc.net|No|Residential
+37.27.93.106:17342:p6Dcb7:wHFIGO|185.117.37.59|France|Île-de-France|Paris|75019|185.117.37.59.not.updated.openip-cs.net|Yes|Residential
+37.27.93.106:39744:6dQIdL:6VjMX6|103.252.194.118|Australia|Victoria|Melbourne|3207|ip-103.252.194.118.neptune.net.au|Yes|Business
+37.27.93.106:11639:M30EJJ:ti8nQF|31.0.9.130|Poland|Kujawsko-Pomorskie|Bydgoszcz|85-880|apn-31-0-9-130.static.gprs.plus.pl|Yes|Cellular
+37.27.93.106:40889:bYGQZs:Re44EU|93.43.41.84|Italy|Basilicate|Paterno|85050|93-43-41-84.ip90.fastwebnet.it|Yes|Business
+37.27.93.106:13369:dJe27w:KqjfoI|185.139.48.63|Italy|Basilicate|Marsicovetere|85050|MEGACOM|Yes|Business
+37.27.93.106:46161:8Cq1Le:WMaLiU|185.139.48.87|Italy|Basilicate|Marsicovetere|85050|MEGACOM|Yes|Business
+65.108.251.40:35823|81.65.162.141|France|Provence-Alpes-Côte d'Azur|Nice|06000|141.162.65.81.rev.sfr.net|Yes|Residential
+65.108.251.40:45706|51.252.130.206|Saudi Arabia|Riyadh Region|Riyadh|Unknown|Saudinet|No|ISP/Mob
+65.108.251.40:39214|176.136.55.127|France|Grand Est|Mulhouse|68100|176-136-55-127.abo.bbox.fr|Yes|Residential
+152.53.164.59:40556:hf8srO:S7MAi4|5.49.93.70|France|Provence-Alpes-Côte d'Azur|Avignon|84000|5-49-93-70.hfc.dyn.abo.bbox.fr|Yes|Residential
+152.53.164.59:11825:VSi60p:9smbss|90.93.2.219|France|Pays de la Loire|Cholet|49300|lfbn-nan-1-1521-219.w90-93.abo.wanadoo.fr|Yes|Residential
+152.53.164.59:20808:80TXtA:YdruDT|92.162.177.207|France|Brittany|Lannion|22300|apoitiers-657-1-178-207.w92-162.abo.wanadoo.fr|Yes|Residential
+65.108.251.40:13289|92.94.252.179|France|Normandy|Gonfreville-lOrcher|76700|179.252.94.92.rev.sfr.net|No|Residential
+65.108.251.40:45454|94.109.204.67|Belgium|Brussels Capital|Brussels|1030|ptr-94-109-204-67.dyn.orange.be|Yes|Cellular
+37.27.93.106:28007:DNqmo5:upanv2|185.13.182.232|France|Pays de la Loire|Nantes|Unknown|MYSTREAM|Yes|Residential
+65.108.251.40:58659|37.191.159.159|Norway|Akershus|Drøbak|1445|GLOBALCONNECT|Yes|Business
+37.27.93.106:37086:8nrYhK:HeMB9E|198.251.59.170|Canada|Ontario|Toronto|M5R|170.59.251.198.in-addr.arpa|Yes|Cellular
+37.27.93.106:11380:Nm3Mzl:Qa1ONo|193.159.138.188|Germany|Bavaria|Vaterstetten|85591|pc19f8abc.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:23834:Ocu6tC:he2ym0|91.142.69.247|Italy|Lombardy|Castello di Brianza|23884|Opiquad SRL|Yes|Business
+37.27.93.106:48060:MQR0GV:2AIW0V|220.245.212.108|Australia|New South Wales|Sydney|2049|220-245-212-108.tpgi.com.au|Yes|Business
+37.27.93.106:33198:kQEdoh:eh5Q1X|50.98.211.65|Canada|British Columbia|Fernie|V0B|d50-98-211-65.bchsia.telus.net|Yes|Residential
+37.27.93.106:12950:jjQhag:vpdgs5|84.198.119.56|Belgium|Flanders|Antwerp|2000|84-198-119-56.access.telenet.be|Yes|Business
+37.27.93.106:38015:9E0Vbn:sdUY8s|72.1.216.198|Canada|Ontario|Ottawa|K2H|unallocated-static.rogers.com|Yes|Business
+37.27.93.106:11282:pOsitn:I4RugB|185.199.25.226|Italy|Apulia|Barletta|76121|ipv4-185-199-25-226.it.altitud.net|Yes|Business
+37.27.93.106:44520:depDBM:w8Hbmv|104.158.25.71|Canada|Ontario|Mississauga|L5L|71.25.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:57172:CVDNHY:kjLlzL|93.42.158.157|Italy|Basilicate|Marsico Nuovo|85052|93-42-158-157.ip87.fastwebnet.it|Yes|Business
+37.27.93.106:50666:Q4J9CT:uB9DnK|128.127.94.30|Poland|Lubusz|Gorzów Wielkopolski|66-400|host-a30.net.gecon.com.pl|Yes|Business
+37.27.93.106:17490:mS32E5:fIUEW6|31.199.10.46|Italy|Lazio|Rome|00197|host-31-199-10-46.business.telecomitalia.it|Yes|Business
+37.27.93.106:48029:5ppTgG:q89cnv|2.234.58.57|Italy|Emilia-Romagna|Bologna|40137|2-234-58-57.ip221.fastwebnet.it|No|Business
+37.27.93.106:59238:vLl8gp:qay8S5|185.139.48.195|Italy|Basilicate|Marsicovetere|85050|Fastweb SpA|Yes|Business
+37.27.93.106:24255:P5yKr0:GOS1Tz|93.43.41.10|Italy|Basilicate|Paterno|85050|93-43-41-10.ip90.fastwebnet.it|Yes|Business
+37.27.93.106:40672:WluVUs:l6QdzN|185.197.8.252|Italy|Basilicate|Bella|85051|Chorotech s.r.l|Yes|Business
+37.27.93.106:51122:8rE1NB:dMhv01|185.139.50.29|Italy|Basilicate|Brienza|85050|Roberto Cardone trading as Megacom|Yes|Business
+37.27.93.106:33146:MtksVE:EwNNJ3|198.251.60.243|Canada|Ontario|St. Catharines|L2N|243.60.251.198.dynamic.vianetdsl.com|Yes|Cellular
+37.27.93.106:20968:Jtbg2d:0HWFxt|185.139.48.80|Italy|Basilicate|Marsicovetere|85050|MEGACOM|Yes|Business
+37.27.93.106:19775:Y632I6:UAdq21|104.158.53.251|Canada|Ontario|York|M6E|251.53.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:39389:aMGa8p:R63H3Y|199.102.205.204|Canada|Quebec|Val-des-Monts|J8N|199-102-205-204.cpe.axion.ca|Yes|Residential
+37.27.93.106:40395:SNIvrC:Y83NSN|93.43.41.16|Italy|Basilicate|Paterno|85050|93-43-41-16.ip90.fastwebnet.it|Yes|Business
+37.27.93.106:27917:J3mNdc:SlePtr|2.192.118.14|Italy|Veneto|Jesolo|30016|Telecom Italia Mobile|Yes|Cellular
+37.27.93.106:42045:XkFDSk:7hlum1|198.251.56.232|Canada|Ontario|Toronto|M5A|232.56.251.198.in-addr.arpa|Yes|Cellular
+152.53.164.59:23819:q84o9e:FNqFuj|109.210.96.86|France|Provence-Alpes-Côte d'Azur|Le Cannet|06110|amontpellier-652-1-281-86.w109-210.abo.wanadoo.fr|Yes|Residential
+65.108.251.40:53607|84.212.241.46|Norway|Oslo County|Oslo|0350|cm-84.212.241.46.get.no|Yes|Residential
+65.108.251.40:11317|79.209.168.231|Germany|Bavaria|Schwandorf in Bayern|92421|p4fd1a8e7.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:40956|91.40.68.129|Germany|Bavaria|Bad Neustadt an der Saale|97616|p5b284481.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:34510|90.120.113.251|France|Nouvelle-Aquitaine|Belin-Béliet|33830|lfbn-bor-1-914-251.w90-120.abo.wanadoo.fr|Yes|Residential
+65.108.251.40:32519|88.122.161.220|France|Provence-Alpes-Côte d'Azur|Auriol|13390|88-122-161-220.subs.proxad.net|Yes|Residential
+65.108.251.40:11233|91.45.51.237|Germany|Brandenburg|Cottbus|03046|p5b2d33ed.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:22749|217.240.96.244|Germany|Baden-Wurttemberg|Riedhausen|88377|pd9f060f4.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:17538|81.171.72.137|France|Île-de-France|Paris|75000|Eweka Internet Services VOIP backbone|Yes|Business
+65.108.251.40:38435|91.16.193.132|Germany|North Rhine-Westphalia|Nettetal|41334|p5b10c184.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:12616:TljHtc:q9JOOB|212.210.32.252|Italy|Campania|Nusco|83051|host-212-210-32-252.business.telecomitalia.it|Yes|Business
+37.27.93.106:31335:vvRllw:dpvhK6|185.139.48.82|Italy|Basilicate|Marsicovetere|85050|MEGACOM|Yes|Business
+37.27.93.106:46434:Ujj0Ok:UKA86q|185.139.48.158|Italy|Basilicate|Marsicovetere|85050|Fastweb SpA|Yes|Business
+37.27.93.106:32344:EKMgyg:JgF8ZI|79.22.113.189|Italy|Calabria|Amantea|87032|host-79-22-113-189.retail.telecomitalia.it|Yes|Residential
+37.27.93.106:19384:mSFBaQ:DTwt23|31.182.115.204|Poland|Łódź Voivodeship|Konstantynów Łódzki|95-050|staticline-31-182-115-204.toya.net.pl|Yes|Business
+37.27.93.106:36421:9ScCVz:6aVHNx|80.21.130.99|Italy|Tuscany|Chianni|56034|host-80-21-130-99.business.telecomitalia.it|Yes|Business
+37.27.93.106:25076:ht5jAU:I3qvFI|104.158.35.13|Canada|Ontario|Hamilton|L8L|13.35.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:34132:FCnyfD:Bd8McZ|104.158.55.193|Canada|Ontario|Etobicoke|M8V|193.55.158.104.in-addr.arpa|Yes|Cellular
+37.27.93.106:53251:A5R4mI:3jJvlF|198.251.57.132|Canada|Ontario|Toronto|M5B|132.57.251.198.in-addr.arpa|Yes|Cellular
+37.27.93.106:56808:vZVzsU:OBkzxB|93.51.226.87|Italy|Lombardy|Milan|20123|93-51-226-87.ip269.fastwebnet.it|Yes|Business
+37.27.93.106:27913:e3nypP:7aNoxK|185.139.48.115|Italy|Basilicate|Marsicovetere|85050|MEGACOM|Yes|Business
+37.27.93.106:49877:AjYl4L:tHnyMB|81.21.25.75|Italy|Lombardy|Milan|20123|res-vox14913.ppp.twt.it|Yes|Residential
+37.27.93.106:45005:moI7AD:WzljCs|70.73.96.80|Canada|Alberta|Calgary|T2P|S0106a84e3fe53f13.cg.shawcable.net|Yes|Residential
+37.27.93.106:45565:N8Zifm:aeXr3D|158.75.69.249|Poland|Kujawsko-Pomorskie|Torun|87-100|Nicolaus Copernicus University in Torun|Yes|Business
+37.27.93.106:52593:KWyY7s:UA8nEN|150.254.36.247|Poland|Greater Poland|Poznan|60-867|POZMAN-EDU|Yes|Business
+152.53.164.59:12592:kJz6SS:pqfqNV|172.59.197.75|United States|Texas|Dallas|75220|T-Mobile USA, Inc.|Yes|Cellular
+65.108.251.40:23755|189.36.252.25|Brazil|Paraná|Fazenda Rio Grande|83820|25.252.capitalfibra.com.br|No|ISP/Mob
+65.108.251.40:20391|124.171.142.75|Australia|New South Wales|Sydney|2050|124-171-142-75.tpgi.com.au|Yes|Business
+65.108.251.40:42991|87.159.134.163|Germany|Brandenburg|Hennigsdorf|16761|p579f86a3.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:18287:IBSfdw:1jElix|91.17.191.132|Germany|Brandenburg|Frankfurt (Oder)|15234|p5b11bf84.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:52341:Yf1vZi:oy9Ty1|72.250.30.80|United States|Unknown|Unknown|Unknown|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:55413:3q3gCy:i2SOWm|93.228.234.42|Germany|Bavaria|Würzburg|97074|p5de4ea2a.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:48623:d0J4fG:hEbPy8|94.251.134.52|Poland|Pomerania|Kartuzy|83-300|host-94-251-134-52.dynamic.mm.pl|Yes|Business
+37.27.93.106:14743:ih3D09:QTC99D|65.76.45.42|United States|Colorado|Unknown|Unknown|T-Mobile USA, Inc.|Yes|Cellular
+152.53.164.59:12342:pas2tS:kWTDA7|176.22.164.88|Denmark|Capital Region|Hørsholm|2970|176-22-164-88-dynamic.dk.customer.tdc.net|No|Residential
+65.108.251.40:13291|177.86.148.227|Brazil|Minas Gerais|Montes Claros|39402|Plim Telecomunicacoes Ltda-me|No|ISP/Mob
+152.53.164.59:15215:7Fzhd6:ryPJ5g|84.186.99.175|Germany|Schleswig-Holstein|Kiel|24143|p54ba63af.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:11906|92.220.239.33|Norway|Nordland|Sandnessjøen|8803|33.92-220-239.customer.lyse.net|Yes|Business
+65.108.251.40:14650|93.234.253.71|Germany|Hesse|Schwalbach am Taunus|65824|p5deafd47.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:47783|93.254.208.7|Germany|Hesse|Bad Homburg|61350|p5dfed007.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:25581|93.242.255.191|Germany|Mecklenburg-Vorpommern|Röbel|17207|p5df2ffbf.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:52231|122.150.245.32|Australia|Queensland|Brisbane|4053|122-150-245-32.dyn.ip.vocus.au|Yes|Business
+37.27.93.106:26650:SwV5Gv:gonW7F|72.69.94.223|United States|New York|Brooklyn|11218|pool-72-69-94-223.nycmny.fios.verizon.net|Yes|Residential
+37.27.93.106:39383:dUqYT9:iMbZfk|72.250.31.61|United States|Unknown|Unknown|Unknown|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:28499:V7DmSV:lDMhgo|65.76.213.83|United States|California|Unknown|Unknown|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:30632:dHrHIl:cO0AJ2|142.134.228.223|Canada|Nova Scotia|Sydney|B1P|sydnns0115w-142-134-228-223.dhcp-dynamic.fibreop.ns.bellaliant.net|Yes|Residential
+152.53.164.59:20938:pETOZ0:IX0WXp|143.105.203.217|Canada|Ontario|Toronto|M5A|customer.mntlcan1.pop.starlinkisp.net|No|Cellular
+152.53.164.59:37959:H0xdqJ:wGa9CZ|115.64.125.6|Australia|Queensland|Brisbane|4075|115-64-125-6.static.tpgi.com.au|Yes|Business
+65.108.251.40:20736|199.19.217.20|Canada|Alberta|Ft Saskatchewan|T8L|accs-namao-199-19-217-20.net.albertacom.com|Yes|Hosting
+65.108.251.40:30658|121.45.114.247|Australia|Victoria|Melbourne|3101|121-45-114-247.tpgi.com.au|Yes|Business
+65.108.251.40:34683|24.150.156.225|Canada|Ontario|Chatham|N7L|d24-150-156-225.home.cgocable.net|Yes|Residential
+65.108.251.40:36388|172.59.219.17|United States|North Carolina|Charlotte|28273|T-Mobile USA, Inc.|Yes|Cellular
+65.108.251.40:54434|109.120.139.142|Netherlands|North Holland|Amsterdam|1012|puffy-talk.ptr.network|No|Hosting
+65.108.251.40:20683|142.112.179.169|Canada|Ontario|Ajax|L1Z|bras-base-toroon2720w-grc-08-142-112-179-169.dsl.bell.ca|No|Residential
+65.108.251.40:31947|82.216.116.40|France|Hauts-de-France|Douai|59500|40.116.216.82.rev.sfr.net|Yes|Residential
+65.108.251.40:55684|119.18.0.73|Australia|New South Wales|Sydney|2193|119-18-0-73.771200.syd.nbn.aussiebb.net|Yes|Residential
+65.108.251.40:19569|88.164.235.38|France|Île-de-France|Vigneux-sur-Seine|91270|88-164-235-38.subs.proxad.net|No|Residential
+37.27.93.106:51578:woDme2:nCHTr7|198.251.55.69|Canada|Ontario|Toronto|M4E|69.55.251.198.in-addr.arpa|Yes|Cellular
+37.27.93.106:19710:10yZVb:tdFnwn|155.4.112.119|Sweden|Södermanland County|Eskilstuna|633 51|h-155-4-112-119.A444.priv.bahnhof.se|No|Business
+37.27.93.106:10220:wmZDcG:WfiIOo|77.65.7.248|Poland|Greater Poland|Kuślin|64-316|d7-248.static.icpnet.pl|Yes|Business
+37.27.93.106:37513:OrwAB3:FOpVf0|216.126.81.66|Canada|Ontario|Etobicoke|M9V|Frontier Networks Inc|Yes|Business
+37.27.93.106:36979:kdcsbR:GCJG92|93.51.226.88|Italy|Lombardy|Milan|20123|93-51-226-88.ip269.fastwebnet.it|Yes|Business
+37.27.93.106:28719:sDpnYi:TPxb38|185.144.247.66|Poland|Warmia-Masuria|Iława|14-200|host66-185-144-247.ivendo.pl|Yes|Business
+37.27.93.106:33986:PsfAz6:YXWywp|193.119.52.230|Australia|Australian Capital Territory|Canberra|2615|193-119-52-230.tpgi.com.au|Yes|Business
+37.27.93.106:57763:WO7udF:SvUreY|213.236.160.24|Norway|Agder|Hamresanden|4656|213-236-160-24.telia-isp.no|Yes|Business
+37.27.93.106:16726:8qknOF:a1gIOD|77.159.56.204|France|Unknown|Unknown|Unknown|204.56.159.77.rev.sfr.net|Yes|Business
+37.27.93.106:28021:ToDTso:A6ZgRO|101.168.6.231|Australia|New South Wales|Rockdale|2216|Telstra Limited|Yes|Business
+37.27.93.106:45019:DGxuYu:LbYPEz|65.76.196.140|United States|Arizona|Phoenix|85022|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:16122:D3ZS4f:xMk5xK|173.183.119.129|Canada|British Columbia|New Westminster|V3L|d173-183-119-129.bchsia.telus.net|No|Business
+37.27.93.106:53293:68sjrE:uLPHyr|184.151.45.56|Canada|Ontario|Renfrew|K7V|Bell Canada|Yes|Cellular
+37.27.93.106:37575:G8nlvV:RK1r8Q|94.255.246.226|Sweden|Stockholm County|Stockholm|113 54|94-255-246-226.cust.bredband2.com|Yes|Business
+37.27.93.106:41841:xO0x1W:gV7tFp|185.139.48.70|Italy|Basilicate|Marsicovetere|85050|MEGACOM|Yes|Business
+152.53.164.59:50945:gFfrKB:k0ziN6|89.244.94.87|Germany|Rheinland-Pfalz|Trier|54292|i59F45E57.versanet.de|Yes|Business
+65.108.251.40:50569|88.152.9.62|Germany|North Rhine-Westphalia|Münster|48155|ip-088-152-009-062.um26.pools.vodafone-ip.de|Yes|Business
+65.108.251.40:54871|89.247.175.159|Germany|State of Berlin|Berlin|12157|i59F7AF9F.versanet.de|Yes|Business
+65.108.251.40:54886|95.90.241.24|Germany|State of Berlin|Berlin|10179|ip5f5af118.dynamic.kabel-deutschland.de|Yes|Residential
+65.108.251.40:39942|78.125.179.133|France|Auvergne-Rhône-Alpes|Savasse|26740|133.179.125.78.rev.sfr.net|Yes|Residential
+65.108.251.40:49740|91.60.246.68|Germany|Baden-Wurttemberg|Waldshut-Tiengen|79761|p5b3cf644.dip0.t-ipconnect.de|Yes|Residential
+65.108.251.40:31732|83.236.108.11|Germany|North Rhine-Westphalia|Frechen|50226|port-83-236-108-11.dynamic.as20676.net|Yes|Business
+65.108.251.40:47474|89.85.202.74|France|Auvergne-Rhône-Alpes|Saint-Etienne|42000|Bouygues Telecom ISP|Yes|Residential
+65.108.251.40:34401|37.66.57.206|France|Auvergne-Rhône-Alpes|Annecy|74000|206.57.66.37.rev.sfr.net|Yes|Business
+65.108.251.40:44703|95.113.179.64|Germany|Hamburg|Hamburg|20359|dynamic-095-113-179-064.95.113.pool.telefonica.de|Yes|Business
+65.108.251.40:43084|37.66.43.14|France|Provence-Alpes-Côte d'Azur|Marseille|13014|14.43.66.37.rev.sfr.net|Yes|Business
+65.108.251.40:39812|91.171.29.39|France|Provence-Alpes-Côte d'Azur|Saint-Martin-de-Crau|13310|91-171-29-39.subs.proxad.net|Yes|Business
+65.108.251.40:55492|172.59.223.119|United States|North Carolina|Charlotte|28203|T-Mobile USA, Inc.|Yes|Cellular
+65.108.251.40:26814|31.57.241.216|Germany|Hesse|Frankfurt am Main|60313|DASABO OU|No|Business
+65.108.251.40:14635|87.91.13.18|France|Île-de-France|Paris|75020|87-91-13-18.abo.bbox.fr|Yes|Residential
+65.108.251.40:40661|89.89.145.197|France|Auvergne-Rhône-Alpes|Lyon|69201|89-89-145-197.abo.bbox.fr|Yes|Residential
+65.108.251.40:22414|92.210.198.46|Germany|North Rhine-Westphalia|Essen|45127|ipservice-092-210-198-046.092.210.pools.vodafone-ip.de|Yes|Business
+65.108.251.40:54680|83.250.248.68|Sweden|Stockholm County|Spånga|163 67|c83-250-248-68.bredband.tele2.se|Yes|Residential
+65.108.251.40:26501|88.183.111.91|France|Provence-Alpes-Côte d'Azur|Sanary-sur-Mer|83110|88-183-111-91.subs.proxad.net|No|Residential
+65.108.251.40:44413|92.210.192.142|Germany|North Rhine-Westphalia|Mülheim|45472|ipservice-092-210-192-142.092.210.pools.vodafone-ip.de|Yes|Business
+65.108.251.40:21645|77.181.149.30|Germany|Hesse|Frankfurt am Main|60386|dynamic-077-181-149-030.77.181.pool.telefonica.de|Yes|Business
+65.108.251.40:19625|91.162.254.139|France|Île-de-France|Serris|77700|91-162-254-139.subs.proxad.net|Yes|Residential
+65.108.251.40:19876|46.114.105.23|Germany|North Rhine-Westphalia|Cologne|50968|dynamic-046-114-105-023.46.114.pool.telefonica.de|Yes|Cellular
+65.108.251.40:53631|79.238.109.109|Germany|North Rhine-Westphalia|Eschweiler|52249|p4fee6d6d.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:57624:XRUMqn:NiWfYX|81.234.99.209|Sweden|Uppsala County|Uppsala|741 74|81-234-99-209-no2663.tbcn.telia.com|No|Business
+37.27.93.106:17523:Y2p474:s68Dn9|88.90.176.173|Norway|Oslo County|Oslo|0977|ti0185a400-3732.bb.online.no|Yes|Residential
+37.27.93.106:36736:aDdgY8:f4HpD1|65.76.90.72|United States|California|Unknown|Unknown|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:14697:SCJHno:9sEfjH|46.162.103.50|Sweden|Skåne County|Malmo|217 41|46-162-103-50.cust.bredband2.com|Yes|Business
+37.27.93.106:51300:3bZlGP:IwgJ39|185.139.48.221|Italy|Basilicate|Marsicovetere|85050|Fastweb SpA|Yes|Business
+37.27.93.106:52751:y5fpTn:iWEL0V|185.139.48.235|Italy|Basilicate|Marsicovetere|85050|Fastweb SpA|Yes|Business
+37.27.93.106:15305:7qELEH:2YCDr9|93.228.214.49|Germany|Lower Saxony|Wilhelmshaven|26389|p5de4d631.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:27916:lGIImp:HBPL0G|185.139.48.175|Italy|Basilicate|Marsicovetere|85050|Fastweb SpA|Yes|Business
+37.27.93.106:47461:YNlpk0:OE7szx|217.61.175.33|Italy|Lombardy|Milan|20125|res-100030d.ppp.twt.it|No|Business
+37.27.93.106:24853:cIbDIk:5YUVA7|93.43.41.101|Italy|Basilicate|Paterno|85050|93-43-41-101.ip90.fastwebnet.it|Yes|Business
+37.27.93.106:10519:9ybdrN:1NoLZ9|79.247.30.87|Germany|Hesse|Wiesbaden|65195|p4ff71e57.dip0.t-ipconnect.de|Yes|Residential
+37.27.93.106:30183:N4ApNj:omBKwg|81.230.11.165|Sweden|Jämtland County|Östersund|831 36|81-230-11-165-no2664.tbcn.telia.com|No|Business
+37.27.93.106:54635:3hotSc:xjAZlA|185.30.44.192|Italy|Lazio|Rome|00124|185.30.44.192.customer.alconn.it|Yes|Business
+37.27.93.106:48376:I80mJR:4Si26U|84.33.105.196|Italy|Lombardy|Como|22100|84-33-105-196.static.eolo.it|Yes|Business
+37.27.93.106:43010:zmGKtL:A8vSRT|185.139.48.144|Italy|Basilicate|Marsicovetere|85050|Fastweb SpA|Yes|Business
+37.27.93.106:45180:TgxEn3:aMwWRw|185.139.48.253|Italy|Basilicate|Marsicovetere|85050|Fastweb SpA|Yes|Business
+37.27.93.106:39486:zoZy7u:VB2WjH|185.139.48.207|Italy|Basilicate|Marsicovetere|85050|Fastweb SpA|Yes|Business
+37.27.93.106:28111:g5AOm2:Ve2Bwu|185.139.49.15|Italy|Basilicate|Marsicovetere|85050|MEGACOM|Yes|Business
+37.27.93.106:43549:fM6Fy0:OTQKmY|93.49.171.62|Italy|Basilicate|Viggiano|85059|93-49-171-62.ip286.fastwebnet.it|Yes|Business
+152.53.164.59:35322:ppL4NA:tDYUwA|172.59.19.140|Puerto Rico|Unknown|San Juan|00907|T-Mobile USA, Inc.|Yes|Cellular
+65.108.251.40:57608|90.249.138.30|United Kingdom|England|Feltham|TW13|Vodafone|Yes|Business
+65.108.251.40:12221|109.43.51.16|Germany|Bavaria|Munich|80801|ip-109-43-51-16.web.vodafone.de|Yes|Cellular
+65.108.251.40:58274|2.206.59.32|Germany|Hesse|Frankfurt am Main|65929|dslb-002-206-059-032.002.206.pools.vodafone-ip.de|Yes|Residential
+65.108.251.40:48806|31.96.129.109|United Kingdom|England|Enfield|EN1|British Telecommunications PLC|Yes|Business
+65.108.251.40:14569|176.199.208.101|Germany|Baden-Wurttemberg|Mannheim|68165|ip-176-199-208-101.um44.pools.vodafone-ip.de|Yes|Business
+37.27.93.106:22573:0gyqh3:Dg8okx|185.136.226.131|Poland|Mazovia|Gózd Stary|26-806|ipd131.net.pieklo.org|Yes|Business
+152.53.164.59:56194:hfDVMu:ROUYpi|172.59.193.63|United States|Texas|Dallas|75220|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:45519:l8ecrx:5W7qLE|65.76.253.100|United States|Washington|Unknown|Unknown|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:44248:mMGExk:EYMCXS|213.113.57.120|Sweden|Östergötland County|Norrköping|602 21|c-213-113-57-120.bbcust.telenor.se|No|Residential
+37.27.93.106:55611:pyC5rl:BwWA9O|84.217.9.91|Sweden|Skåne County|Helsingborg|254 62|84-217-9-91.customers.ownit.se|No|Residential
+37.27.93.106:14639:cg3SNS:TptUDn|77.45.114.126|Poland|Greater Poland|Złotów|77-400|77-45-114-126.sta.asta-net.com.pl|Yes|Business
+37.27.93.106:57568:G6k8uU:1ltjm6|93.66.134.54|Italy|Veneto|Verona|37131|net-93-66-134-54.cust.vodafonedsl.it|Yes|Residential
+37.27.93.106:10233:ewrjsh:twI52q|91.224.185.231|Poland|Silesia|Pawłowice|43-250|ip-91-224-185-231.multi-telekom.pl|No|Residential
+37.27.93.106:21706:178HWu:KPO5jt|84.216.193.145|Sweden|Stockholm County|Stockholm|145 84|c-84-216-193-145.bbcust.telenor.se|No|Business
+37.27.93.106:36860:ZVcYVe:4WfNZE|188.216.41.126|Italy|Lombardy|Milan|20142|net-188-216-41-126.cust.vodafonedsl.it|Yes|Residential
+37.27.93.106:40501:EXTgBV:tg8Rpe|80.216.191.153|Sweden|Stockholm County|Stockholm|145 84|c80-216-191-153.bredband.tele2.se|No|Residential
+37.27.93.106:45995:T7LUMd:re0Wnf|77.53.61.47|Sweden|Västerbotten County|Vännäs|911 94|h77-53-61-47.cust.bredband2.com|Yes|Business
+37.27.93.106:46084:WFiJsY:Pkml4t|31.208.22.77|Sweden|Skåne County|Staffanstorp|245 38|31-208-22-77.cust.bredband2.com|Yes|Business
+65.108.251.40:51860|90.243.63.156|United Kingdom|England|Barnet|NW9|Vodafone Group PLC|Yes|Residential
+65.108.251.40:59029|92.72.54.186|Germany|Baden-Wurttemberg|Stuttgart|70184|dslb-092-072-054-186.092.072.pools.vodafone-ip.de|Yes|Cellular
+65.108.251.40:44327|184.54.202.99|United States|Indiana|Madison|47250|syn-184-054-202-099.res.spectrum.com|Yes|Business
+37.27.93.106:18176:seZZeR:pWOPLr|213.113.61.187|Sweden|Stockholm County|Stockholm|175 43|c-213-113-61-187.bbcust.telenor.se|No|Residential
+37.27.93.106:40841:JF0JQc:IM8pWg|72.250.24.191|United States|California|Sacramento|95831|T-Mobile USA, Inc.|Yes|Cellular
+37.27.93.106:12446:LAS6en:bIFzy3|63.40.80.208|United States|New York|Cold Spring|10516|host208.sub-63-40-80.myvzw.com|Yes|Business
+65.108.251.40:16548|90.251.121.186|United Kingdom|England|Ealing|W5|Vodafone Limited|Yes|Residential
