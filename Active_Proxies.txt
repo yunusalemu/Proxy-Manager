@@ -3,10 +3,10 @@
 152.53.171.242:20689|90.156.166.102|Uzbekistan|Tashkent|Tashkent||"Uzbektelekom" Joint Stock Company|Black List: No|Use Type: Residential
 152.53.171.242:35966|197.95.12.25|South Africa|Western Cape|Cape Town|7785|WEBAFRICA|Black List: No|Use Type: Residential
 152.53.171.242:53850|181.165.60.245|Argentina|Buenos Aires|Buenos Aires|1772|Telecom Argentina S.A|Black List: No|Use Type: Residential
-152.53.171.242:13667|179.8.115.129|Chile|Atacama|Vallenar||TELEFÓNICA CHILE S.A.|Black List: No|Use Type: Residential
 23.137.105.63:53360:DVS7Es6fdu:9uj9bUM|190.11.84.232|Bolivia|Departamento de Cochabamba|Cochabamba||Comteco Ltda|Black List: No|Use Type: Residential
 188.245.189.170:10182:DVSXEE0ZCP:sK4z9D|72.250.28.58|United States|Virginia|Ashburn|20149|T-Mobile USA, Inc.|Black List: No|Use Type: Cellular
 188.245.189.170:50458:DVSfM3PhVC:yffTe9|107.0.237.254|United States|Minnesota|Minneapolis|55449|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+23.137.105.63:45121:DVSbOJaAoO:aVa6BM0|37.103.154.200|Italy|Piedmont|Turin|10147|Managed By Flavio Palumbo|Black List: No|Use Type: Residential
 23.137.105.63:58106:DVSUDFwINZ:cyZKy3G|95.248.77.16|Italy|Tuscany|Fiesole|50014|Telecom Italia S.p.A.|Black List: No|Use Type: Residential
 23.137.105.63:32596:DVSWFzsvOK:00LQPMF|77.21.202.67|Germany|Saarland|Homburg|66424|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
 23.137.105.63:26314:DVSUfY9gX1:NJpQhxE|201.243.47.186|Venezuela|Distrito Federal|Caricuao||CANTV Servicios, Venezuela|Black List: No|Use Type: Residential
@@ -14,6 +14,7 @@
 23.137.105.63:32872:DVScv2pKRs:ZGqz6xV|179.90.249.78|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
 23.137.105.63:53412:DVSAHgg09B:94JqQsT|152.249.60.139|Brazil|São Paulo|Campinas|13000|Vivo|Black List: No|Use Type: Residential
 23.137.105.63:22982:DVSTEa3ppw:TM6Osqe|191.202.79.74|Brazil|Goiás|Rio Verde|75900|Vivo|Black List: No|Use Type: Residential
+23.137.105.63:41756:DVSSYLWjuW:O2XTCAs|181.176.103.215|Peru|Ancash|Huaraz||VIETTEL PERÚ S.A.C.|Black List: No|Use Type: Residential
 91.99.174.236:16993:DVSH98FXXS:cIPUhZW|176.125.148.111|Russia|Leningrad Oblast|Vyborg|188800|Success Network|Black List: No|Use Type: Residential
 188.245.189.170:40885:DVS4j6mS1D:2d0AxT|91.215.232.15|Russia|Stavropol Kray|Georgiyevsk|357820|SerDi TeleCom, LTD|Black List: No|Use Type: Residential
 23.137.105.63:53360:DVS7Es6fdu:9uj9bUM|190.11.84.232|Bolivia|Departamento de Cochabamba|Cochabamba||Comteco Ltda|Black List: No|Use Type: Residential
@@ -21,23 +22,25 @@
 152.53.171.242:19695|81.38.138.233|Spain|Andalusia|Alhaurín de la Torre|29130|Telefonica de Espana SAU|Black List: No|Use Type: Residential
 91.99.174.236:19336:DVSGY92ra4:5EOxLKw|184.23.46.168|United States|California|Hayward|94545|Sonic Telecom LLC|Black List: No|Use Type: Residential
 152.53.171.242:25762|181.115.172.242|Bolivia|La Paz Department|Achacachi||Entel S.A. - EntelNet|Black List: No|Use Type: Residential
-188.245.189.170:41340:DVSvW9rXkE:enOot4|65.76.118.219|United States|Washington|Bellevue|98006|T-Mobile USA, Inc.|Black List: No|Use Type: Cellular
 188.245.189.170:51952:DVSnixWmWU:Aoygee|135.180.7.155|United States|California|Alameda|94501|Sonic Telecom LLC|Black List: No|Use Type: Residential
+188.245.189.170:41340:DVSvW9rXkE:enOot4|65.76.118.219|United States|Washington|Bellevue|98006|T-Mobile USA, Inc.|Black List: No|Use Type: Cellular
 188.245.189.170:10182:DVSXEE0ZCP:sK4z9D|72.250.28.58|United States|Virginia|Ashburn|20149|T-Mobile USA, Inc.|Black List: No|Use Type: Cellular
 152.53.171.242:58168|188.135.33.243|Oman|Muscat|Seeb||Nawras ISP (Oman)|Black List: No|Use Type: Residential
+172.245.55.208:17997:DVSNWcVcNT:DOyFICb|51.36.233.94|Saudi Arabia|Mecca Region|Jeddah||Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
+152.53.171.242:33592|197.147.214.23|Morocco|Marrakesh-Safi|Marrakesh||Wana Corporate|Black List: No|Use Type: Residential
 152.53.171.242:21798|191.99.44.109|Ecuador|Guayas|Guayaquil||Ecuadortelecom S.A.|Black List: No|Use Type: Residential
-152.53.171.242:22618|196.127.89.247|Morocco|Casablanca-Settat|Casablanca||MEDITELECOM|Black List: No|Use Type: Residential
 23.137.105.63:45121:DVSbOJaAoO:aVa6BM0|37.103.154.200|Italy|Piedmont|Turin|10147|Managed By Flavio Palumbo|Black List: No|Use Type: Residential
-23.137.105.63:20528:DVSypdHyRz:IIPL1vc|181.4.8.131|Argentina|Cordoba|Córdoba|5000|Telecom Argentina S.A.|Black List: No|Use Type: Residential
 188.245.189.170:50458:DVSfM3PhVC:yffTe9|107.0.237.254|United States|Minnesota|Minneapolis|55449|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-23.137.105.63:12974:DVSLYuRW29:KSPnZuQ|79.20.194.119|Italy|Liguria|Savona|17100|INTERBUSINESS|Black List: No|Use Type: Residential
+23.137.105.63:20528:DVSypdHyRz:IIPL1vc|181.4.8.131|Argentina|Cordoba|Córdoba|5000|Telecom Argentina S.A.|Black List: No|Use Type: Residential
 23.137.105.63:58106:DVSUDFwINZ:cyZKy3G|95.248.77.16|Italy|Tuscany|Fiesole|50014|Telecom Italia S.p.A.|Black List: No|Use Type: Residential
 23.137.105.63:32596:DVSWFzsvOK:00LQPMF|77.21.202.67|Germany|Saarland|Homburg|66424|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
 23.137.105.63:26314:DVSUfY9gX1:NJpQhxE|201.243.47.186|Venezuela|Distrito Federal|Caricuao||CANTV Servicios, Venezuela|Black List: No|Use Type: Residential
 23.137.105.63:19999:DVSB9Vk8K9:CKU3CZ7|187.89.214.181|Brazil|Federal District|Brasília|70640|Vivo|Black List: No|Use Type: Residential
+23.137.105.63:41884:DVSZcZy7aA:katrj5a|50.60.112.189|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudi Telecom Company JSC|Black List: No|Use Type: Residential
 23.137.105.63:32872:DVScv2pKRs:ZGqz6xV|179.90.249.78|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
-23.137.105.63:22982:DVSTEa3ppw:TM6Osqe|191.202.79.74|Brazil|Goiás|Rio Verde|75900|Vivo|Black List: No|Use Type: Residential
 23.137.105.63:53412:DVSAHgg09B:94JqQsT|152.249.60.139|Brazil|São Paulo|Campinas|13000|Vivo|Black List: No|Use Type: Residential
+23.137.105.63:22982:DVSTEa3ppw:TM6Osqe|191.202.79.74|Brazil|Goiás|Rio Verde|75900|Vivo|Black List: No|Use Type: Residential
+23.137.105.63:41756:DVSSYLWjuW:O2XTCAs|181.176.103.215|Peru|Ancash|Huaraz||VIETTEL PERÚ S.A.C.|Black List: No|Use Type: Residential
 91.99.174.236:16993:DVSH98FXXS:cIPUhZW|176.125.148.111|Russia|Leningrad Oblast|Vyborg|188800|Success Network|Black List: No|Use Type: Residential
 188.245.189.170:14761:DVStvMBf1A:cUMPF5|82.193.128.198|Russia|Sverdlovsk Oblast|Yekaterinburg|620000|JSC "ER-Telecom Holding"|Black List: No|Use Type: Residential
 188.245.189.170:40885:DVS4j6mS1D:2d0AxT|91.215.232.15|Russia|Stavropol Kray|Georgiyevsk|357820|SerDi TeleCom, LTD|Black List: No|Use Type: Residential
@@ -51,17 +54,16 @@
 91.99.174.236:16180:DVSSz6DBDh:YsENQ3o|95.105.52.153|Russia|Bashkortostan Republic|Ufa||JSC "Ufanet"|Black List: No|Use Type: Residential
 23.137.105.63:26912:DVS21GXDqb:GQNErKu|177.136.218.96|Brazil|Paraná|São Miguel do Iguaçu|85877|M.A. Informática Ltda.|Black List: No|Use Type: Residential
 91.99.174.236:15552:DVSip1ngLO:XXbui8A|46.167.122.205|Russia|Chelyabinsk Oblast|Magnitogorsk|455033|MAGINFO|Black List: No|Use Type: Residential
+23.137.105.63:28070:DVS04Pok49:MPg5lpm|154.249.223.230|Algeria|Constantine|Constantine|25000|new|Black List: No|Use Type: Residential
 23.137.105.63:48213:DVSvLIokTV:ItI1t2e|156.202.226.152|Egypt|Red Sea|Hurghada||TE Data|Black List: No|Use Type: Residential
 91.99.174.236:33902:DVSNMTp7uU:FevtuCS|31.199.10.46|Italy|Lazio|Rome|00197|INTERBUSINESS|Black List: No|Use Type: Residential
 167.235.63.110:24043:DVSxBfPokJ:wzISV7b|99.229.217.102|Canada|Ontario|Toronto|M5A|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
 23.137.105.63:38413:DVSYs5fNN4:2YnJVJy|31.30.160.113|Czechia|Prague|Prague|120 00|Vodafone Czech Republic a.s.|Black List: No|Use Type: Residential
 23.137.105.63:34526:DVSTBDr7hm:jhpotMZ|197.205.149.111|Algeria|Blida|Blida|09000|4 djaweb de AS fawri|Black List: No|Use Type: Residential
-23.137.105.63:52662:DVSZ0QFCpK:hDmSMqJ|31.206.173.112|Türkiye|İzmir Province|Izmir|35600|Vodafone Net DSL - ACIBADEM|Black List: No|Use Type: Residential
-23.137.105.63:37012:DVSzKk7Bjw:ZM2zJdJ|186.249.198.40|Brazil|Santa Catarina|Florianópolis|88000|UNIFIQUE TELECOMUNICACOES S/A|Black List: No|Use Type: Residential
 23.137.105.63:19956:DVSeLHiYnz:YfBztuy|82.86.108.197|Venezuela|Distrito Federal|Caracas||Cable Norte CA.|Black List: No|Use Type: Residential
-23.137.105.63:57698:DVSSk42eQn:rvOR1if|41.232.150.84|Egypt|Cairo Governorate|Cairo||TE Data|Black List: No|Use Type: Residential
-23.137.105.63:53802:DVSHFY1Azm:c0vRCuY|187.91.83.165|Brazil|São Paulo|Taboão da Serra|06750|Vivo|Black List: No|Use Type: Residential
+23.137.105.63:52662:DVSZ0QFCpK:hDmSMqJ|31.206.173.112|Türkiye|İzmir Province|Izmir|35600|Vodafone Net DSL - ACIBADEM|Black List: No|Use Type: Residential
 91.99.174.236:27912:DVS4Olq8Lu:U2qF9xv|87.0.104.203|Italy|Lombardy|Coccaglio|25030|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
+23.137.105.63:53802:DVSHFY1Azm:c0vRCuY|187.91.83.165|Brazil|São Paulo|Taboão da Serra|06750|Vivo|Black List: No|Use Type: Residential
 91.99.174.236:27912:DVS4Olq8Lu:U2qF9xv|87.0.104.203|Italy|Lombardy|Coccaglio|25030|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
 91.99.174.236:20326:DVSmJvIeCy:k1afhFi|91.182.110.139|Belgium|Wallonia|Mellet|6211|Proximus|Black List: No|Use Type: Residential
 167.235.63.110:55636:DVSkzbUjTY:CrRa2XK|193.179.248.93|Czechia|Central Bohemia|Neratovice|277 11|T-Mobile Czech Republic|Black List: No|Use Type: Cellular
