@@ -2,7 +2,7 @@ name: Proxy Checker
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # every 6 minutes
+    - cron: "*/15 * * * *"   # every 15 minutes
   workflow_dispatch:
 
 permissions:
@@ -12,12 +12,13 @@ jobs:
   check-proxies:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0  # important for rebasing
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: "3.10"
 
@@ -27,18 +28,22 @@ jobs:
       - name: Run proxy checker
         run: python proxy_checker.py
 
+      - name: Debug output (optional)
+        run: |
+          echo "🗂️ Current files:"
+          ls -lah
+          echo
+          echo "📝 Active_Proxies.txt contents (first 10 lines):"
+          head -n 10 Active_Proxies.txt || echo "No Active_Proxies.txt found!"
+
       - name: Commit results
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Ensure git sees the latest repo before commit
+          git pull --rebase origin main || true
+
           git add Active_Proxies.txt
-          git commit -m "Update active proxies" || echo "No changes to commit"
-
-          # Rebase on latest main before pushing
-          git pull --rebase origin main || {
-            echo "⚠️ Rebase failed, aborting and resetting"
-            git rebase --abort || true
-            git reset --hard origin/main
-          }
-
-          git push
+          git diff --cached --quiet && echo "No changes to commit" || git commit -m "Update active proxies ($(date '+%Y-%m-%d %H:%M:%S'))"
+          git push || echo "⚠️ Push failed"
