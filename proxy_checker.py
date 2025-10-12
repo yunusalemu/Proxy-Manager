@@ -76,7 +76,7 @@ def test_proxy(proxy_line):
 
             geo = {}
             try:
-                r = requests.get("http://ip-api.com/json", proxies=proxies_dict, timeout=15)
+                r = requests.get("http://ip-api.com/json", proxies=proxies_dict, timeout=10)
                 geo = r.json() if r.status_code == 200 else {}
             except Exception:
                 pass  # don’t reject proxy if geo fails
@@ -109,14 +109,32 @@ def main():
         print("⚠️ No New_Proxies.txt found.")
         return
 
+    # 🧹 Automatically remove duplicates before checking
     with open("New_Proxies.txt", "r", encoding="utf-8", errors="ignore") as f:
-        proxies = [p.strip() for p in f if p.strip()]
+        raw_proxies = [clean_proxy_line(p) for p in f if p.strip()]
+
+    seen = set()
+    unique_proxies = []
+    for p in raw_proxies:
+        if p and p not in seen:
+            seen.add(p)
+            unique_proxies.append(p)
+
+    # Overwrite with cleaned list (optional, for GitHub tracking)
+    with open("New_Proxies.txt", "w", encoding="utf-8") as f:
+        f.write("\n".join(unique_proxies) + "\n")
+
+    print(f"🧽 Cleaned duplicates — {len(unique_proxies)} unique proxies found.\n")
 
     print("🔍 Checking new proxies...")
 
+    # 🚀 Faster multi-threaded checking
+    cpu_threads = os.cpu_count() or 4
+    max_workers = min(50, cpu_threads * 5)  # scale automatically but safely
+
     working = []
-    with concurrent.futures.ThreadPoolExecutor(max_workers=5) as executor:
-        futures = [executor.submit(test_proxy, p) for p in proxies]
+    with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
+        futures = [executor.submit(test_proxy, p) for p in unique_proxies]
         for future in concurrent.futures.as_completed(futures):
             ok, proxy, formatted = future.result()
             if ok:
