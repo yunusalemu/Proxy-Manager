@@ -87,7 +87,7 @@ def test_proxy(proxy_line):
             region = geo.get("regionName", "Unknown")
             city = geo.get("city", "Unknown")
             zip_code = geo.get("zip", "Unknown")
-            isp = geo.get("org", "Unknown")
+            isp = geo.get("isp", "Unknown")
             connection_type = classify_connection(isp if isp != "Unknown" else "")
 
             formatted = (
