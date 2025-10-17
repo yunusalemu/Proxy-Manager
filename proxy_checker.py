@@ -4,6 +4,7 @@ import concurrent.futures
 import requests
 import threading
 import os
+import json
 
 lock = threading.Lock()  # ensures file writes don't clash
 
@@ -56,7 +57,6 @@ def test_proxy(proxy_line):
     # Try SOCKS5, then SOCKS4
     for proxy_type in [socks.SOCKS5, socks.SOCKS4]:
         try:
-            # Test connection
             s = socks.socksocket()
             s.set_proxy(proxy_type, host, port, username=user, password=password)
             s.settimeout(5)
@@ -66,9 +66,8 @@ def test_proxy(proxy_line):
             s.close()
 
             if b"HTTP" not in data:
-                continue  # try next proxy type
+                continue
 
-            # If we got here → proxy works
             proxies_dict = {
                 "http": f"socks5h://{user+':'+password+'@' if user else ''}{host}:{port}",
                 "https": f"socks5h://{user+':'+password+'@' if user else ''}{host}:{port}",
@@ -79,9 +78,8 @@ def test_proxy(proxy_line):
                 r = requests.get("http://ip-api.com/json", proxies=proxies_dict, timeout=10)
                 geo = r.json() if r.status_code == 200 else {}
             except Exception:
-                pass  # don’t reject proxy if geo fails
+                pass
 
-            # Use geo data if available, else fallback to Unknown
             ip = geo.get("query", "Unknown")
             country = geo.get("country", "Unknown")
             region = geo.get("regionName", "Unknown")
@@ -99,9 +97,52 @@ def test_proxy(proxy_line):
             return True, proxy_line, formatted
 
         except Exception:
-            continue  # try next proxy type
+            continue
 
-    return False, proxy_line, None  # failed both SOCKS5 and SOCKS4
+    return False, proxy_line, None
+
+
+# ==================== GOOGLE SHEET UPLOAD (Apps Script) ====================
+
+def upload_to_google_sheet_via_webapp(working_data):
+    """Send the proxy info to Google Sheet via Apps Script WebApp endpoint."""
+    WEB_APP_URL = "https://script.google.com/macros/s/XXXXXXXXXXXXXXXXXXX/exec"  # <-- REPLACE THIS
+
+    rows = []
+    for item in working_data:
+        parts = item.split("|")
+        if len(parts) >= 8:
+            ip = parts[0].split("|")[0].strip().split(":")[0]  # extract host
+            proxy_full = parts[0].split("|")[0].strip() 
+            country = parts[2]
+            region = parts[3]
+            city = parts[4]
+            isp = parts[6]
+            proxy_type = parts[-1].split(":")[-1].strip()
+            
+            rows.append({
+            "ip": proxy_full,
+            "country": country,
+            "region": region,
+            "city": city,
+            "isp": isp,
+            "proxy_type": proxy_type
+        })
+
+    if not rows:
+        print("⚠️ No valid proxy data to upload.")
+        return
+
+    try:
+        response = requests.post(WEB_APP_URL, json=rows, timeout=20)
+        if response.ok:
+            print(f"📤 Uploaded {len(rows)} proxies to Google Sheet successfully.")
+        else:
+            print(f"❌ Failed to upload data: {response.status_code} {response.text}")
+    except Exception as e:
+        print(f"⚠️ Error uploading to Google Sheet: {e}")
+
+# ===========================================================================
 
 
 def main():
@@ -109,7 +150,6 @@ def main():
         print("⚠️ No New_Proxies.txt found.")
         return
 
-    # 🧹 Automatically remove duplicates before checking
     with open("New_Proxies.txt", "r", encoding="utf-8", errors="ignore") as f:
         raw_proxies = [clean_proxy_line(p) for p in f if p.strip()]
 
@@ -120,17 +160,14 @@ def main():
             seen.add(p)
             unique_proxies.append(p)
 
-    # Overwrite with cleaned list (optional, for GitHub tracking)
     with open("New_Proxies.txt", "w", encoding="utf-8") as f:
         f.write("\n".join(unique_proxies) + "\n")
 
     print(f"🧽 Cleaned duplicates — {len(unique_proxies)} unique proxies found.\n")
-
     print("🔍 Checking new proxies...")
 
-    # 🚀 Faster multi-threaded checking
     cpu_threads = os.cpu_count() or 4
-    max_workers = min(50, cpu_threads * 5)  # scale automatically but safely
+    max_workers = min(50, cpu_threads * 5)
 
     working = []
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
@@ -143,11 +180,11 @@ def main():
             else:
                 print(f"❌ {proxy.strip()} Inactive")
 
-    # Always overwrite Active_Proxies.txt
     if working:
         with open("Active_Proxies.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(working) + "\n")
         print(f"\n💾 Replaced Active_Proxies.txt with {len(working)} working proxies.")
+        upload_to_google_sheet_via_webapp(working)
     else:
         open("Active_Proxies.txt", "w").close()
         print("\n⚠️ No working proxies. Active_Proxies.txt has been cleared.")
