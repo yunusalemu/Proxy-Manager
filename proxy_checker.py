@@ -107,7 +107,7 @@ def test_proxy(proxy_line):
 
 def upload_to_google_sheet_via_webapp(working_data):
     """Send the proxy info to Google Sheet via Apps Script WebApp endpoint."""
-    WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzZ08wO082Ybhk5WIL_Kwo9qo_u-3rKXnC8jLSiuDABhgdueoduu0t00MPT51noBtgY/exec"  # <-- Replace with your deployed Web App URL
+    WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyOakii2qa1YwCNv_oxkgPg-QgL_HZMhGuUn6Wo7wIEoCc33unHoZKhk63QUDGae0yq/execc"  # <-- Replace with your deployed Web App URL
 
     timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
