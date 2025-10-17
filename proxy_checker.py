@@ -5,6 +5,7 @@ import requests
 import threading
 import os
 import json
+from datetime import datetime
 
 lock = threading.Lock()  # ensures file writes don't clash
 
@@ -106,41 +107,44 @@ def test_proxy(proxy_line):
 
 def upload_to_google_sheet_via_webapp(working_data):
     """Send the proxy info to Google Sheet via Apps Script WebApp endpoint."""
-    WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzZ08wO082Ybhk5WIL_Kwo9qo_u-3rKXnC8jLSiuDABhgdueoduu0t00MPT51noBtgY/exec"  # <-- REPLACE THIS
+    WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzZ08wO082Ybhk5WIL_Kwo9qo_u-3rKXnC8jLSiuDABhgdueoduu0t00MPT51noBtgY/exec"  # <-- Replace with your deployed Web App URL
+
+    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
     rows = []
     for item in working_data:
         parts = item.split("|")
         if len(parts) >= 8:
-            ip = parts[0].split("|")[0].strip().split(":")[0]  # extract host
-            proxy_full = parts[0].split("|")[0].strip() 
+            proxy_full = parts[0].strip()
             country = parts[2]
             region = parts[3]
             city = parts[4]
             isp = parts[6]
             proxy_type = parts[-1].split(":")[-1].strip()
-            
+
             rows.append({
-            "ipdata": proxy_full,
-            "country": country,
-            "region": region,
-            "city": city,
-            "isp": isp,
-            "proxy_type": proxy_type
-        })
+                "ipdata": proxy_full,
+                "country": country,
+                "region": region,
+                "city": city,
+                "isp": isp,
+                "proxy_type": proxy_type,
+                "last_updated": timestamp
+            })
 
     if not rows:
         print("⚠️ No valid proxy data to upload.")
         return
 
     try:
-        response = requests.post(WEB_APP_URL, json=rows, timeout=20)
+        response = requests.post(WEB_APP_URL, json=rows, timeout=30)
         if response.ok:
-            print(f"📤 Uploaded {len(rows)} proxies to Google Sheet successfully.")
+            print(f"📤 Uploaded {len(rows)} proxies to Google Sheet successfully at {timestamp}.")
         else:
             print(f"❌ Failed to upload data: {response.status_code} {response.text}")
     except Exception as e:
         print(f"⚠️ Error uploading to Google Sheet: {e}")
+
 
 # ===========================================================================
 
@@ -180,14 +184,16 @@ def main():
             else:
                 print(f"❌ {proxy.strip()} Inactive")
 
+    print("\n📦 Processing completed. Preparing to write and upload results...\n")
+
     if working:
         with open("Active_Proxies.txt", "w", encoding="utf-8") as f:
             f.write("\n".join(working) + "\n")
-        print(f"\n💾 Replaced Active_Proxies.txt with {len(working)} working proxies.")
+        print(f"💾 Replaced Active_Proxies.txt with {len(working)} working proxies.")
         upload_to_google_sheet_via_webapp(working)
     else:
         open("Active_Proxies.txt", "w").close()
-        print("\n⚠️ No working proxies. Active_Proxies.txt has been cleared.")
+        print("⚠️ No working proxies. Active_Proxies.txt has been cleared.")
 
 
 if __name__ == "__main__":
