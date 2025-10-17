@@ -106,7 +106,7 @@ def test_proxy(proxy_line):
 
 def upload_to_google_sheet_via_webapp(working_data):
     """Send the proxy info to Google Sheet via Apps Script WebApp endpoint."""
-    WEB_APP_URL = "https://script.google.com/macros/s/XXXXXXXXXXXXXXXXXXX/exec"  # <-- REPLACE THIS
+    WEB_APP_URL = "https://script.google.com/macros/s/AKfycbzZ08wO082Ybhk5WIL_Kwo9qo_u-3rKXnC8jLSiuDABhgdueoduu0t00MPT51noBtgY/exec"  # <-- REPLACE THIS
 
     rows = []
     for item in working_data:
@@ -121,7 +121,7 @@ def upload_to_google_sheet_via_webapp(working_data):
             proxy_type = parts[-1].split(":")[-1].strip()
             
             rows.append({
-            "ip": proxy_full,
+            "ipdata": proxy_full,
             "country": country,
             "region": region,
             "city": city,
