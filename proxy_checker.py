@@ -80,14 +80,43 @@ def test_proxy(proxy_line):
                 geo = r.json() if r.status_code == 200 else {}
             except Exception:
                 pass
-
+            
             ip = geo.get("query", "Unknown")
             country = geo.get("country", "Unknown")
             region = geo.get("regionName", "Unknown")
             city = geo.get("city", "Unknown")
             zip_code = geo.get("zip", "Unknown")
-            isp = geo.get("isp", "Unknown")
+            
+            # 🧠 Smart ISP/ORG/AS selection logic
+            org_val = geo.get("org", "").strip()
+            as_val = geo.get("as", "").strip()
+            isp_val = geo.get("isp", "").strip()
+            
+            if org_val:
+                isp = org_val
+            elif as_val:
+                isp = as_val.split(" ", 1)[1] if " " in as_val else as_val
+            elif isp_val:
+                isp = isp_val
+            else:
+                isp = "Unknown"
+            
             connection_type = classify_connection(isp if isp != "Unknown" else "")
+
+            # geo = {}
+            # try:
+            #     r = requests.get("http://ip-api.com/json", proxies=proxies_dict, timeout=10)
+            #     geo = r.json() if r.status_code == 200 else {}
+            # except Exception:
+            #     pass
+
+            # ip = geo.get("query", "Unknown")
+            # country = geo.get("country", "Unknown")
+            # region = geo.get("regionName", "Unknown")
+            # city = geo.get("city", "Unknown")
+            # zip_code = geo.get("zip", "Unknown")
+            # isp = geo.get("isp", "Unknown")
+            # connection_type = classify_connection(isp if isp != "Unknown" else "")
 
             formatted = (
                 f"{proxy_line}|"
