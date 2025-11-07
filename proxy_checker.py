@@ -92,10 +92,10 @@ def test_proxy(proxy_line):
             as_val = geo.get("as", "").strip()
             isp_val = geo.get("isp", "").strip()
             
-            if org_val:
-                isp = org_val
-            elif as_val:
+            if as_val:
                 isp = as_val.split(" ", 1)[1] if " " in as_val else as_val
+            elif org_val:
+                isp = org_val
             elif isp_val:
                 isp = isp_val
             else:
