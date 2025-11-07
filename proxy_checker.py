@@ -88,8 +88,8 @@ def test_proxy(proxy_line):
             zip_code = geo.get("zip", "Unknown")
             
             # 🧠 Smart ISP/ORG/AS selection logic
-            org_val = geo.get("as", "").strip()
-            as_val = geo.get("org", "").strip()
+            org_val = geo.get("org", "").strip()
+            as_val = geo.get("as", "").strip()
             isp_val = geo.get("isp", "").strip()
             
             if org_val:
