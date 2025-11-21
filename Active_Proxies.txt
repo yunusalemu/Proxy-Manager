@@ -1,600 +1,505 @@
-89.58.45.94:58779|109.152.233.125|United Kingdom|England|Brentwood|CM15|BT Public Internet Service|Black List: No|Use Type: Residential
-89.58.45.94:31624|35.151.13.5|United States|Alabama|Albertville|35950|Charter Communications|Black List: No|Use Type: Residential
-152.53.171.242:53027|91.106.16.91|Spain|Valencia|Valencia|46018|Xtra Telecom S.A.|Black List: No|Use Type: Residential
-89.58.45.94:29390|188.29.223.164|United Kingdom|England|Liverpool|L13|Hutchison 3G UK Ltd|Black List: No|Use Type: Residential
-89.58.45.94:37099|174.176.196.237|United States|Florida|Hialeah|33015|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-89.58.45.94:30042|76.110.83.72|United States|Florida|Palm Beach Gardens|33418|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-89.58.45.94:22479|65.184.229.196|United States|North Carolina|Wilmington|28411|Charter Communications|Black List: No|Use Type: Residential
-89.58.45.94:16913|82.36.145.51|United Kingdom|England|Hounslow|TW3|Virgin Media|Black List: No|Use Type: Residential
-89.58.45.94:28509|97.184.251.168|United States|Indiana|Indianapolis|46222|Verizon Business|Black List: No|Use Type: Residential
-89.58.45.94:20972|47.145.110.102|United States|California|Cerritos|90703|Frontier Communications Corporation|Black List: No|Use Type: Residential
-89.58.45.94:12834|73.223.94.29|United States|California|Fairfield|94534|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-89.58.45.94:38589|73.229.122.214|United States|Colorado|Boulder|80305|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-89.58.45.94:51525|104.174.196.51|United States|California|Covina|91722|Charter Communications|Black List: No|Use Type: Residential
-89.58.45.94:20739|47.144.187.66|United States|California|Redondo Beach|90278|Frontier Communications Corporation|Black List: No|Use Type: Residential
-89.58.45.94:29278|172.114.245.191|United States|California|Bell Gardens|90201|Charter Communications|Black List: No|Use Type: Residential
-89.58.45.94:55439|198.72.188.48|United States|California|Los Angeles|90039|Charter Communications|Black List: No|Use Type: Residential
-89.58.45.94:50829|86.17.191.234|United Kingdom|England|Darlington|DL3|Virgin Media Limited|Black List: No|Use Type: Residential
-89.58.45.94:29052|81.65.161.97|France|Provence-Alpes-Côte d'Azur|Nice|06200|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
-89.58.45.94:50645|2.37.166.253|Italy|Emilia-Romagna|Bologna|40138|Vodafone|Black List: No|Use Type: Residential
-89.58.45.94:29911|87.169.69.165|Germany|Bavaria|Parsberg|92331|Deutsche Telekom AG|Black List: No|Use Type: Residential
-89.58.45.94:12158|88.164.136.103|France|Occitanie|Aucamville|31140|Proxad / Free SAS|Black List: No|Use Type: Residential
-89.58.45.94:31596|99.227.43.233|Canada|Ontario|Scarborough|M1W|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-89.58.45.94:14456|50.89.178.156|United States|Florida|Clermont|34711|Charter Communications|Black List: No|Use Type: Residential
-89.58.45.94:12167|142.180.26.44|Canada|Ontario|Thornhill|L4J|Bell Canada|Black List: No|Use Type: Residential
-89.58.45.94:11989|84.64.211.242|United Kingdom|England|Manchester|M32|Vodafone|Black List: No|Use Type: Residential
-89.58.45.94:15377|99.224.82.155|Canada|Ontario|Toronto|M8X|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-89.58.45.94:51619|41.39.218.102|Egypt|Giza|Giza||TE Data|Black List: No|Use Type: Residential
-89.58.45.94:34429|82.84.12.146|Italy|Veneto|Padua|35125|Tiscali Italia SpA|Black List: No|Use Type: Residential
-89.58.45.94:13168|2.102.6.116|United Kingdom|England|Hackney|N1|TalkTalk|Black List: No|Use Type: Residential
-89.58.45.94:28763|187.108.212.138|Brazil|Santa Catarina|Rio do Sul|89160|UNIFIQUE TELECOMUNICACOES S/A|Black List: No|Use Type: Residential
-89.58.45.94:53399|76.117.174.241|United States|New Jersey|Vineland|08360|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-89.58.45.94:30610|92.18.3.248|United Kingdom|England|Middlesbrough|TS4|TalkTalk|Black List: No|Use Type: Residential
-89.58.45.94:23714|177.39.126.39|Brazil|Minas Gerais|Belo Horizonte|30666|Maxxnet Telecom|Black List: No|Use Type: Residential
-89.58.45.94:58883|68.230.123.55|United States|Arizona|Phoenix|85029|Cox Communications Inc.|Black List: No|Use Type: Residential
 89.58.45.94:45977|143.105.245.47|United States|Missouri|Kansas City||Space Exploration Technologies Corporation|Black List: No|Use Type: Residential
+89.58.45.94:58779|109.152.233.125|United Kingdom|England|Brentwood|CM15|BT Public Internet Service|Black List: No|Use Type: Residential
+89.58.45.94:16913|82.36.145.51|United Kingdom|England|Hounslow|TW3|Virgin Media|Black List: No|Use Type: Residential
+89.58.45.94:38589|73.229.122.214|United States|Colorado|Boulder|80305|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+89.58.45.94:28509|97.184.251.168|United States|Indiana|Indianapolis|46222|Verizon Business|Black List: No|Use Type: Residential
+89.58.45.94:37099|174.176.196.237|United States|Florida|Hialeah|33015|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+89.58.45.94:58883|68.230.123.55|United States|Arizona|Phoenix|85029|Cox Communications Inc.|Black List: No|Use Type: Residential
+89.58.45.94:22479|65.184.229.196|United States|North Carolina|Wilmington|28411|Charter Communications|Black List: No|Use Type: Residential
+89.58.45.94:12834|73.223.94.29|United States|California|Fairfield|94534|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+89.58.45.94:30042|76.110.83.72|United States|Florida|Palm Beach Gardens|33418|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+89.58.45.94:31624|35.151.13.5|United States|Alabama|Albertville|35950|Charter Communications|Black List: No|Use Type: Residential
+89.58.45.94:20972|47.145.110.102|United States|California|Cerritos|90703|Frontier Communications Corporation|Black List: No|Use Type: Residential
+89.58.45.94:29390|31.53.225.155|United Kingdom|England|Peterborough|PE1|BT Public Internet Service|Black List: No|Use Type: Residential
+89.58.45.94:55439|198.72.188.48|United States|California|Los Angeles|90039|Charter Communications|Black List: No|Use Type: Residential
+89.58.45.94:14456|50.89.178.156|United States|Florida|Clermont|34711|Charter Communications|Black List: No|Use Type: Residential
+89.58.45.94:29278|172.114.245.191|United States|California|Bell Gardens|90201|Charter Communications|Black List: No|Use Type: Residential
+89.58.45.94:50645|2.37.166.253|Italy|Emilia-Romagna|Bologna|40138|Vodafone|Black List: No|Use Type: Residential
+89.58.45.94:20739|47.144.187.66|United States|California|Redondo Beach|90278|Frontier Communications Corporation|Black List: No|Use Type: Residential
+89.58.45.94:29052|81.65.161.97|France|Provence-Alpes-Côte d'Azur|Nice|06200|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
+89.58.45.94:11989|84.64.211.242|United Kingdom|England|Manchester|M32|Vodafone|Black List: No|Use Type: Residential
+89.58.45.94:34429|82.84.12.146|Italy|Veneto|Padua|35125|Tiscali Italia SpA|Black List: No|Use Type: Residential
+89.58.45.94:12167|142.180.26.44|Canada|Ontario|Thornhill|L4J|Bell Canada|Black List: No|Use Type: Residential
+89.58.45.94:50829|86.17.191.234|United Kingdom|England|Darlington|DL3|Virgin Media Limited|Black List: No|Use Type: Residential
+89.58.45.94:12158|88.164.136.103|France|Occitanie|Aucamville|31140|Proxad / Free SAS|Black List: No|Use Type: Residential
+89.58.45.94:51619|41.39.218.102|Egypt|Giza|Giza||TE Data|Black List: No|Use Type: Residential
+89.58.45.94:31596|99.227.43.233|Canada|Ontario|Scarborough|M1W|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
+89.58.45.94:29911|87.169.69.165|Germany|Bavaria|Parsberg|92331|Deutsche Telekom AG|Black List: No|Use Type: Residential
+89.58.45.94:23714|177.39.126.39|Brazil|Minas Gerais|Belo Horizonte|30666|Maxxnet Telecom|Black List: No|Use Type: Residential
+89.58.45.94:28763|200.81.53.105|Brazil|Paraíba|Camalaú|58530|NewFast Telecom|Black List: No|Use Type: Residential
+89.58.45.94:15377|99.224.82.155|Canada|Ontario|Toronto|M8X|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
+89.58.45.94:30610|92.18.3.248|United Kingdom|England|Middlesbrough|TS4|TalkTalk|Black List: No|Use Type: Residential
+89.58.45.94:14233|201.216.102.146|Brazil|São Paulo|Andradina|16900|Vero S.A|Black List: No|Use Type: Residential
 89.58.45.94:28076|67.193.242.206|Canada|Ontario|Rockwood|N0B|Cogeco Communications Inc.|Black List: No|Use Type: Residential
-89.58.45.94:25293|46.40.34.143|Serbia|Vojvodina|Ada||SATTRAKT|Black List: No|Use Type: Residential
-89.58.45.94:28782|123.243.97.43|Australia|Victoria|Melbourne|3101|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
-89.58.45.94:17628|177.66.85.243|Brazil|Paraíba|Solânea|58225|Ambiente Virtual Sistemas e Conectividade Ltda|Black List: No|Use Type: Residential
+152.53.171.242:53027|92.185.139.85|Spain|Catalonia|Figueres|17600|UNI2-NET- Orange Spain Network|Black List: No|Use Type: Residential
 89.58.45.94:31110|47.187.72.234|United States|Texas|Lewisville|75067|Frontier Communications Solutions|Black List: No|Use Type: Residential
-89.58.45.94:28876|38.183.152.52|Dominican Republic|Santiago Province|Santiago de los Caballeros|11403|INVERSIONES BONAFER, SRL|Black List: No|Use Type: Residential
+152.53.171.242:20879|109.107.243.123|Jordan|Amman Governorate|Amman||Umniah Mobile Company|Black List: No|Use Type: Cellular
 89.58.45.94:49435|45.158.16.33|Serbia|Vojvodina|Subotica||Sat-Trakt D.O.O.|Black List: No|Use Type: Residential
-89.58.45.94:12508|139.135.192.148|Philippines|Ilocos|Espiritu||Converge Information and Communications Technology Solutions|Black List: No|Use Type: Residential
+89.58.45.94:25293|46.40.34.143|Serbia|Vojvodina|Ada||SATTRAKT|Black List: No|Use Type: Residential
+89.58.45.94:53399|76.117.174.241|United States|New Jersey|Vineland|08360|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+89.58.45.94:28782|123.243.97.43|Australia|Victoria|Melbourne|3101|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
+89.58.45.94:28876|38.183.152.52|Dominican Republic|Santiago Province|Santiago de los Caballeros|11403|INVERSIONES BONAFER, SRL|Black List: No|Use Type: Residential
+89.58.45.94:29041|181.127.64.180|Paraguay|Central Department|San Lorenzo||Telecel S.A.|Black List: No|Use Type: Residential
+89.58.45.94:52783|181.174.104.132|Guatemala|Guatemala|Guatemala City|01010|Servicios Innovadores de Comunicación y Entretenimiento, S.A.|Black List: No|Use Type: Residential
+89.58.45.94:41959|143.137.39.234|Brazil|São Paulo|Caçapava|12295|Vello Servicos de Telecomunicacoes Ltda|Black List: No|Use Type: Residential
 89.58.45.94:56099|161.184.143.6|Canada|Quebec|Saint-Raymond-de-Portneuf|G3L|TELUS Communications Inc|Black List: No|Use Type: Residential
+89.58.45.94:12508|136.158.51.105|Philippines|Metro Manila|Manila|1012|Converge Information and Communications Technology Solutions|Black List: No|Use Type: Residential
+89.58.45.94:36087|223.122.33.101|Hong Kong|Kwai Tsing|Kwai Chung||China Mobile Hong Kong Company Limited|Black List: No|Use Type: Cellular
 89.58.45.94:55941|24.85.144.51|Canada|British Columbia|Coquitlam|V3J|Shaw Communications Inc.|Black List: No|Use Type: Residential
-89.58.45.94:52783|181.209.152.147|Guatemala|Guatemala|Guatemala City|01010|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|Black List: No|Use Type: Residential
-89.58.45.94:42947|186.158.200.254|Paraguay|Central Department|Nemby||Techtel LMDS Comunicaciones Interactivas S.A.|Black List: No|Use Type: Residential
-89.58.45.94:22136|99.224.40.59|Canada|Ontario|Toronto|M6S|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-89.58.45.94:14381|83.87.211.132|The Netherlands|North Brabant|Roosendaal|4708|Vodafone Ziggo|Black List: No|Use Type: Residential
-89.58.45.94:11001|167.60.24.149|Uruguay|Montevideo Department|Montevideo|11100|Administracion Nacional de Telecomunicaciones|Black List: No|Use Type: Residential
-89.58.45.94:15083|103.106.239.78|Bangladesh|Rangpur Division|Nilphamari||Carnival Internet|Black List: No|Use Type: Residential
-152.53.171.242:55031|70.51.60.169|Canada|Ontario|Nepean|K2J|Bell Canada|Black List: No|Use Type: Residential
-89.58.45.94:11190|196.225.12.60|Tunisia|Ben Arous Governorate|Ben Arous||Orange Tunisie|Black List: No|Use Type: Residential
-89.58.45.94:24473|77.25.134.207|Malta|L-Imsida|Msida|MSD|Epic Communications Limited|Black List: No|Use Type: Residential
-89.58.45.94:37793|202.51.88.133|Nepal|Bagmati Province|Kathmandu||CCNEP|Black List: No|Use Type: Residential
+89.58.45.94:17628|177.66.85.243|Brazil|Paraíba|Solânea|58225|Ambiente Virtual Sistemas e Conectividade Ltda|Black List: No|Use Type: Residential
+89.58.45.94:14381|85.148.157.115|The Netherlands|North Holland|Amsterdam|1098|Euronet Communications B.V.|Black List: No|Use Type: Residential
 89.58.45.94:25915|86.108.20.157|Jordan|Amman Governorate|Amman||homeglobalfilter|Black List: No|Use Type: Cellular
-89.58.45.94:32933|181.119.179.229|Guatemala|Guatemala|Guatemala City|01051|IFX Networks Argentina S.R.L|Black List: No|Use Type: Residential
-89.58.45.94:15669|111.119.48.107|Nepal|Gandaki Pradesh|Dihi||C G Communications Pvt. Ltd|Black List: No|Use Type: Residential
-89.58.45.94:11493|45.181.86.109|Honduras|Cortés Department|San Pedro Sula||GRUPO MULTICABLES DE CORTES S.R.L de C.V|Black List: No|Use Type: Residential
-152.53.171.242:25079|74.12.59.162|Canada|Ontario|Downsview|M3H|Bell Canada|Black List: No|Use Type: Residential
+89.58.45.94:14861|182.253.164.242|Indonesia|East Kalimantan|Samarinda||Biznet Networks|Black List: No|Use Type: Residential
+89.58.45.94:22136|99.224.40.59|Canada|Ontario|Toronto|M6S|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
 89.58.45.94:37531|24.160.126.239|United States|Florida|Wesley Chapel|33543|Charter Communications|Black List: No|Use Type: Residential
 89.58.45.94:24892|186.62.6.117|Argentina|Chubut|Boca Toma|9100|Telefonica de Argentina|Black List: No|Use Type: Residential
-152.53.171.242:50549|79.51.159.229|Italy|Lombardy|Milan|20122|INTERBUSINESS|Black List: No|Use Type: Residential
-152.53.171.242:24585|205.217.255.164|Dominica|Saint George Parish|Roseau||Cable & Wireless Antigua and Barbuda Ltd|Black List: No|Use Type: Residential
+89.58.45.94:15669|111.119.48.107|Nepal|Gandaki Pradesh|Dihi||C G Communications Pvt. Ltd|Black List: No|Use Type: Residential
+89.58.45.94:32933|190.143.157.118|Guatemala|Guatemala|Guatemala City|01014|TELECOMUNICACIONES DE GUATEMALA, SOCIEDAD ANONIMA|Black List: No|Use Type: Residential
+89.58.45.94:11190|196.225.12.60|Tunisia|Ben Arous Governorate|Ben Arous||Orange Tunisie|Black List: No|Use Type: Residential
+89.58.45.94:15083|103.106.239.78|Bangladesh|Rangpur Division|Nilphamari||Carnival Internet|Black List: No|Use Type: Residential
+89.58.45.94:24473|77.25.134.207|Malta|L-Imsida|Msida|MSD|Epic Communications Limited|Black List: No|Use Type: Residential
 89.58.45.94:35971|27.34.69.206|Nepal|Bagmati Province|Kathmandu||WorldLink Communications|Black List: No|Use Type: Residential
-152.53.171.242:39361|85.72.254.211|Greece|Attica|Athens||OTEnet|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSKH6l2QS:mxRR3kp|51.39.229.193|Saudi Arabia|Riyadh Region|Riyadh|09848|Zain KSA|Black List: No|Use Type: Residential
-152.53.171.242:37551|185.33.2.112|Andorra|Andorra la Vella|Andorra la Vella||ANDORRA TELECOM, S.A.U.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVShYu5nYq:gjt2lF9|51.36.51.42|Saudi Arabia|Riyadh Region|Riyadh|09848|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
-159.69.37.39:35819:DVSc2qROu6:fVQDNgv|176.44.61.34|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet DSL|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVStBgnKwX:AoWvEGt|31.166.117.217|Saudi Arabia|Mecca Region|Jeddah||Etihad Etisalat|Black List: No|Use Type: Residential
-89.58.45.94:19268|178.120.9.233|Belarus|Brest|Brest|224000|Republican Unitary Telecommunication Enterprise Beltelecom|Black List: No|Use Type: Cellular
-152.53.170.41:26921:DVSPCgFYP6:8b3TusT|188.53.108.86|Saudi Arabia|Eastern Province|Dammam||Saudinet DSL|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSgq7necK:CsfxQiP|188.53.195.233|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet DSL|Black List: No|Use Type: Residential
+89.58.45.94:18152|197.249.50.54|Mozambique|Cidade de Maputo|Maputo||TVCABO Mocambique - Comunicacoes Multimedia|Black List: No|Use Type: Residential
+89.58.45.94:11493|45.181.86.109|Honduras|Cortés Department|San Pedro Sula||GRUPO MULTICABLES DE CORTES S.R.L de C.V|Black List: No|Use Type: Residential
 89.58.45.94:10575|178.120.10.189|Belarus|Brest|Brest|224000|Republican Unitary Telecommunication Enterprise Beltelecom|Black List: No|Use Type: Cellular
-152.53.171.242:18871|196.189.17.203|Ethiopia|Addis Ababa|Addis Ababa||Ethiotelecom|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSVKYrmGd:f0BQyj3|143.92.148.139|Saudi Arabia|Eastern Province|Dammam||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSggdxivq:8bMVF2a|128.234.145.183|Saudi Arabia|Mecca Region|Jeddah||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVS2SGyOL6:hGX2bVt|5.41.45.247|Saudi Arabia|Mecca Region|Jeddah||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSwo4jdTR:M6upXKt|188.55.17.28|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet|Black List: No|Use Type: Residential
+152.53.171.242:55031|70.51.60.169|Canada|Ontario|Nepean|K2J|Bell Canada|Black List: No|Use Type: Residential
+152.53.171.242:25079|74.12.59.162|Canada|Ontario|Downsview|M3H|Bell Canada|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSKH6l2QS:mxRR3kp|51.39.229.193|Saudi Arabia|Riyadh Region|Riyadh|09848|Zain KSA|Black List: No|Use Type: Residential
+152.53.171.242:50549|79.51.159.229|Italy|Lombardy|Milan|20122|INTERBUSINESS|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSgq7necK:CsfxQiP|188.53.195.233|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet DSL|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSDk8c7pw:FUuaokn|51.252.133.244|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSKqKyqJb:J3qFd1m|5.163.225.227|Saudi Arabia|Riyadh Region|Riyadh|09848|STC|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSIujwTdd:8PBrbJp|37.126.195.43|Saudi Arabia|Mecca Region|Jeddah||Internet BroadBand|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSK0GDRWP:vxWnOQu|167.100.207.234|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSRdyDaUE:ENaZp0p|51.36.227.166|Saudi Arabia|Riyadh Region|Riyadh|09848|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
-152.53.168.53:18801:DVSSyuvm6r:bNHGU3Z|142.189.59.94|Canada|Ontario|Ridgeway|L0S|Bell Canada|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSKw8kLm2:gwhlRFM|191.13.221.130|Brazil|São Paulo|Americana|13465|Vivo|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSf8oc71w:MqvXni3|187.89.179.156|Brazil|Mato Grosso|Cuiabá|78050|Vivo|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSx6mQsD2:GSCfyGJ|179.165.0.148|Brazil|São Paulo|Jacareí|12300|Vivo|Black List: No|Use Type: Residential
+89.58.45.94:19268|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSVKYrmGd:f0BQyj3|143.92.148.139|Saudi Arabia|Eastern Province|Dammam||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSPCgFYP6:8b3TusT|188.53.108.86|Saudi Arabia|Eastern Province|Dammam||Saudinet DSL|Black List: No|Use Type: Residential
+152.53.171.242:37551|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSc2qROu6:fVQDNgv|176.44.61.34|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet DSL|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSPN9sL6b:9Zc4I4F|187.91.216.169|Brazil|Rio Grande do Sul|Porto Alegre|90000|Vivo|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSj3mmj7M:oj5vG6A|191.205.228.159|Brazil|São Paulo|Araraquara|14800|Vivo|Black List: No|Use Type: Residential
-89.58.45.94:57315|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSSF8nsdz:oA7s4gl|179.144.58.187|Brazil|Ceará|Fortaleza|60000|Vivo|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSjd8kYjj:gLygBNA|99.253.238.50|Canada|Ontario|Newmarket|L3X|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSkbfSjfv:ay7PlLv|179.101.230.102|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVS2SGyOL6:hGX2bVt|5.41.45.247|Saudi Arabia|Mecca Region|Jeddah||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSMN2Vmjk:auC66wz|177.173.15.237|Brazil|São Paulo|Guarulhos|07000|Vivo|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSyhKQ67o:CgnyFYA|143.137.85.154|Brazil|Paraná|Ponta Grossa|84000|Hoinaski & Sklasky Ltda|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSD4iZkBz:yQhfywf|179.130.226.40|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVS9H6aAcv:ey7YsDs|186.219.142.79|Brazil|Rio Grande do Sul|São Leopoldo|93000|Sebratel Tecnologia Ltda|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSdf0BsdK:MDU3UUM|142.116.101.68|Canada|Ontario|Toronto|M4X|Bell Canada|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSZPehDWf:Arnp2Cx|24.150.33.70|Canada|Ontario|Burlington|L7N|Cogeco Communications Inc.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSFW7s5ru:e9el67G|170.78.83.126|Brazil|Pernambuco|Vitória de Santo Antão|55600|Dtel Telecom|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS8aqbNnB:e50I0jb|134.41.5.224|Canada|Nova Scotia|Halifax|B3M|Bell Canada|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSf8oc71w:MqvXni3|179.125.115.33|Brazil|Santa Catarina|Jaguaruna|88715|Tacnet Telecom|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSKw8kLm2:gwhlRFM|191.13.221.130|Brazil|São Paulo|Americana|13465|Vivo|Black List: No|Use Type: Residential
+152.53.168.53:18801:DVSSyuvm6r:bNHGU3Z|142.189.59.94|Canada|Ontario|Ridgeway|L0S|Bell Canada|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSIujwTdd:8PBrbJp|37.126.195.43|Saudi Arabia|Mecca Region|Jeddah||Internet BroadBand|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSx6mQsD2:GSCfyGJ|45.169.9.108|Brazil|Maranhão|Grajaú|65940|Webnet Banda Larga|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSKqKyqJb:J3qFd1m|5.163.225.227|Saudi Arabia|Riyadh Region|Riyadh|09848|STC|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVStBgnKwX:AoWvEGt|31.166.117.217|Saudi Arabia|Mecca Region|Jeddah||Etihad Etisalat|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSkbfSjfv:ay7PlLv|179.101.230.102|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSRn9RV6t:V3C3RyU|142.180.24.170|Canada|Ontario|Thornhill|L4J|Bell Canada|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSRdyDaUE:ENaZp0p|51.36.227.166|Saudi Arabia|Riyadh Region|Riyadh|09848|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
+152.53.170.41:26921:DVSwo4jdTR:M6upXKt|188.55.17.28|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSj3mmj7M:oj5vG6A|191.205.228.159|Brazil|São Paulo|Araraquara|14800|Vivo|Black List: No|Use Type: Residential
 152.53.168.53:18801:DVS4Ocm6KR:oKjjRwh|142.127.5.51|Canada|Ontario|Sundridge|P0A|Bell Canada|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSjd8kYjj:gLygBNA|99.253.238.50|Canada|Ontario|Newmarket|L3X|Rogers Communications Canada Inc.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSdf0BsdK:MDU3UUM|142.116.101.68|Canada|Ontario|Toronto|M4X|Bell Canada|Black List: No|Use Type: Residential
 152.53.168.53:18801:DVSiWkNvtS:T5JXEss|142.120.37.187|Canada|Ontario|Toronto|M5J|Bell Canada|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSMz9vK8g:KnUFrn5|69.41.206.210|Canada|Ontario|Tavistock|N0B|Mornington|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSchVjFdD:5EEzN0K|129.222.112.34|Canada|Manitoba|Winnipeg||SpaceX Starlink|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSnMjfCTZ:QvRcdtI|192.226.215.103|Canada|Quebec|Joliette|J6E|Le Groupe Videotron Ltee|Black List: No|Use Type: Cellular
-91.98.199.53:39163:DVSjrXjGPx:UYIJE4r|142.127.6.69|Canada|Ontario|Bancroft|K0L|Bell Canada|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSmoBaPu9:Yc2HSB9|24.87.133.250|Canada|British Columbia|North Vancouver|V7L|Shaw Communications Inc.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSLe2Lpss:cjFU8HL|142.189.136.8|Canada|Ontario|Windsor|N9G|Bell Canada|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVS7JcU3Cw:g0DizyD|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSD4iZkBz:yQhfywf|186.216.176.30|Brazil|Amapá|Macapá|68908|Voce Telecomunicacoes Ltda|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSZPehDWf:Arnp2Cx|24.150.33.70|Canada|Ontario|Burlington|L7N|Cogeco Communications Inc.|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSN9lq9JH:NLBDAZw|93.215.32.159|Germany|Bavaria|Sulzbach-Rosenberg|92237|Deutsche Telekom AG|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSxFM8J1L:9NM1siX|79.225.5.26|Germany|Lower Saxony|Holzminden|37603|Deutsche Telekom AG|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSnMjfCTZ:QvRcdtI|192.226.215.103|Canada|Quebec|Joliette|J6E|Le Groupe Videotron Ltee|Black List: No|Use Type: Cellular
 91.98.199.53:39163:DVSq9Iqs07:QMQoLif|154.50.14.132|Canada|Ontario|Toronto|M6P|TechMinds Enterprise Inc.|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSabRFhJd:oSTYeRO|142.180.185.211|Canada|Ontario|Windsor|N9E|Bell Canada|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSROktpmJ:mzRVBas|93.202.195.97|Germany|Hesse|Wiesbaden|65205|Deutsche Telekom AG|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSWLTtVvl:sFlbjm6|206.116.210.110|Canada|British Columbia|Vancouver|V6G|TELUS Communications Inc|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSzq5ueWi:4KzfTyo|154.20.139.226|Canada|British Columbia|Vancouver|V6S|TELUS Communications Inc.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSYddZnAN:qkQFT4n|77.21.67.74|Germany|Lower Saxony|Braunschweig|38100|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS8aqbNnB:e50I0jb|134.41.5.224|Canada|Nova Scotia|Halifax|B3M|Bell Canada|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSROktpmJ:mzRVBas|79.247.27.174|Germany|Hesse|Wiesbaden|65197|Deutsche Telekom AG|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSjrXjGPx:UYIJE4r|142.127.6.69|Canada|Ontario|Bancroft|K0L|Bell Canada|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSyh7PqdH:K5AEDdj|84.144.36.40|Germany|North Rhine-Westphalia|Höxter|37671|Deutsche Telekom AG|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSlAXpA4G:qMhtcMx|92.210.200.133|Germany|North Rhine-Westphalia|Essen|45277|Vodafone GmbH|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSE7ZkZmj:elfWoQA|79.201.241.164|Germany|Lower Saxony|Duderstadt|37115|Deutsche Telekom AG|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSKzgKWXp:pIHp9oP|87.186.32.158|Germany|Bavaria|Augsburg|86163|Deutsche Telekom AG|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSBDiDT5h:DiEA4fk|24.224.148.18|Canada|Nova Scotia|Coldbrook|B4R|EastLink|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSlAXpA4G:qMhtcMx|91.249.21.235|Germany|Lower Saxony|Hude|27798|EWE TEL GmbH|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS0ha5Ftu:S3qfzKK|178.27.246.91|Germany|Hamburg|Hamburg|22415|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS6YPVhZB:on6RmvN|91.37.243.154|Germany|Hamburg|Hamburg|22043|Deutsche Telekom AG|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSxglWaKD:zYPPJMT|87.141.39.3|Germany|State of Berlin|Berlin|10557|Deutsche Telekom AG|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSeYMU7kd:5z8mChG|88.72.136.30|Germany|North Rhine-Westphalia|Düsseldorf|40227|ARCOR-IP|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSiYClqDi:KvHcfWq|91.8.234.193|Germany|Lower Saxony|Nordenham|26954|Deutsche Telekom AG|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSU6KOl5U:cHTXBEg|77.0.53.237|Germany|Hamburg|Hamburg|22083|Telefonica Deutschland GmbH|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSmoBaPu9:Yc2HSB9|24.87.133.250|Canada|British Columbia|North Vancouver|V7L|Shaw Communications Inc.|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSS6bIKm7:jFmtCLr|84.167.76.171|Germany|Saxony-Anhalt|Staßfurt|39418|Deutsche Telekom AG|Black List: No|Use Type: Residential
 91.99.138.89:43747:DVSP0ZtDuS:kkdCOud|119.18.14.244|Australia|New South Wales|Sydney|2166|Aussie Broadband|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSRn9RV6t:V3C3RyU|142.180.24.170|Canada|Ontario|Thornhill|L4J|Bell Canada|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS6rgSX32:iNuzuZz|121.200.6.7|Australia|Victoria|Melbourne|3054|Aussie Broadband|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSxW4dTfz:OgLyrpq|14.203.129.42|Australia|New South Wales|Sydney|2000|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSxFM8J1L:9NM1siX|79.225.5.26|Germany|Lower Saxony|Holzminden|37603|Deutsche Telekom AG|Black List: No|Use Type: Residential
-152.53.168.53:18801:DVSrewBxxO:cTwgs9Y|117.20.68.93|Australia|Queensland|Brisbane|4000|Aussie Broadband|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSHXINk7H:ZJnwl45|86.27.197.105|United Kingdom|England|Poole|BH12|Virgin Media|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSzq5ueWi:4KzfTyo|154.20.139.226|Canada|British Columbia|Vancouver|V6S|TELUS Communications Inc.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSLe2Lpss:cjFU8HL|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSeYMU7kd:5z8mChG|88.72.136.30|Germany|North Rhine-Westphalia|Düsseldorf|40227|ARCOR-IP|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSxglWaKD:zYPPJMT|87.141.39.3|Germany|State of Berlin|Berlin|10557|Deutsche Telekom AG|Black List: No|Use Type: Residential
 91.99.194.5:36681:DVSWO4Ymb5:iSwThAc|203.129.23.1|Australia|New South Wales|Sydney|2131|Aussie Broadband|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS49jvnib:qf3kAsh|120.159.107.95|Australia|Victoria|Melbourne|3000|Telstra Internet|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSvIpHFby:nMjNau0|101.115.92.53|Australia|New South Wales|Sydney|2144|Vodafone Australia Pty Ltd|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSwAetucu:laKQiUK|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSArxcvzH:ce6ptZn|80.2.50.245|United Kingdom|England|Manchester|M11|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSywTflVs:SZ49V6q|167.179.159.61|Australia|New South Wales|Sydney|2200|Aussie Broadband|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSN2mkoX5:3CkCPAE|80.6.192.195|United Kingdom|England|Derby|DE24|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSJPVC4u6:e5VW4nw|117.20.68.93|Australia|Queensland|Brisbane|4000|Aussie Broadband|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSKzgKWXp:pIHp9oP|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.168.53:18801:DVSrewBxxO:cTwgs9Y|117.20.68.93|Australia|Queensland|Brisbane|4000|Aussie Broadband|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSrXxHbek:HaRZwSl|121.200.4.121|Australia|Victoria|Melbourne|3000|Aussie Broadband|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSbhRotrC:IM4xmWZ|121.200.5.70|Australia|Victoria|Melbourne|3000|Aussie Broadband|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSWQB0bzX:zhVnOle|180.150.80.154|Australia|Western Australia|Perth|6000|Aussie Broadband|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSay3q1Dg:1dZCM6v|82.19.59.35|United Kingdom|England|Leicester|LE3|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSg2txBlJ:E9JzGB3|122.150.221.219|Australia|Western Australia|Perth|6004|Vocus PTY LTD|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSKlihMFC:OGBlcJh|60.226.143.155|Australia|Queensland|Brisbane|4074|Telstra Limited|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSJsBSfHX:iS0OllY|81.103.248.181|United Kingdom|England|Rochdale|OL11|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSRCMJtgb:RWyE3Cw|86.26.152.183|United Kingdom|England|Gateshead|NE9|Virgin Media|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS6rgSX32:iNuzuZz|121.200.6.7|Australia|Victoria|Melbourne|3054|Aussie Broadband|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS6YPVhZB:on6RmvN|91.37.243.154|Germany|Hamburg|Hamburg|22043|Deutsche Telekom AG|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSw7KeZnH:XM66SVX|77.98.63.222|United Kingdom|England|Bradford|BD3|Virgin Media|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSdTXvjZC:99KbipY|75.155.229.85|Canada|British Columbia|Courtenay|V9N|TELUS Communications Inc.|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVST2DwaHR:PNKD1vS|81.100.239.150|United Kingdom|England|Scunthorpe|DN16|Virgin Media Limited|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSg31Mgw3:IHW4PTf|92.237.231.150|United Kingdom|England|Walsall|WS2|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSInT4hhz:89FjvkS|77.102.120.213|United Kingdom|England|Enfield|N13|Virgin Media Limited|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSFsefVs5:mPmf3vY|82.16.238.97|United Kingdom|England|Bolton|BL2|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSGZuQsRV:svmuAot|81.103.82.74|United Kingdom|England|Bolton|BL3|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSZ3HA3n9:vDeMEPK|203.129.63.39|Australia|Victoria|Melbourne|3975|IINET|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSxVNxaLP:yHOP4Pz|81.79.140.85|United Kingdom|England|Coventry|CV6|Energis UK|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSU6KOl5U:cHTXBEg|77.0.53.237|Germany|Hamburg|Hamburg|22083|Telefonica Deutschland GmbH|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSvIpHFby:nMjNau0|101.115.92.53|Australia|New South Wales|Sydney|2144|Vodafone Australia Pty Ltd|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSwAetucu:laKQiUK|14.203.129.42|Australia|New South Wales|Sydney|2000|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSN2mkoX5:3CkCPAE|80.6.192.195|United Kingdom|England|Derby|DE24|Virgin Media|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSHXINk7H:ZJnwl45|86.27.197.105|United Kingdom|England|Poole|BH12|Virgin Media|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS0ha5Ftu:S3qfzKK|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSay3q1Dg:1dZCM6v|82.19.59.35|United Kingdom|England|Leicester|LE3|Virgin Media|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSxW4dTfz:OgLyrpq|14.203.129.42|Australia|New South Wales|Sydney|2000|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSiWbS2dZ:ChThZzo|81.106.9.46|United Kingdom|England|Barnsley|S74|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSl1gCkLh:teK6Hwg|80.192.32.169|United Kingdom|England|Enfield|N9|Virgin Media|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSMHXmHmd:z5MUOp2|86.26.127.8|United Kingdom|England|Nottingham|NG5|Virgin Media|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSKlihMFC:OGBlcJh|60.226.143.155|Australia|Queensland|Brisbane|4074|Telstra Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSg2txBlJ:E9JzGB3|122.150.221.143|Australia|Western Australia|Perth|6004|Vocus PTY LTD|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSJsBSfHX:iS0OllY|81.103.248.181|United Kingdom|England|Rochdale|OL11|Virgin Media|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS49jvnib:qf3kAsh|120.159.107.95|Australia|Victoria|Melbourne|3000|Telstra Internet|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSywTflVs:SZ49V6q|167.179.159.61|Australia|New South Wales|Sydney|2200|Aussie Broadband|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSFsefVs5:mPmf3vY|82.16.238.97|United Kingdom|England|Bolton|BL2|Virgin Media|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSbhRotrC:IM4xmWZ|121.200.5.70|Australia|Victoria|Melbourne|3000|Aussie Broadband|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSdTXvjZC:99KbipY|75.155.229.85|Canada|British Columbia|Courtenay|V9N|TELUS Communications Inc.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSxVNxaLP:yHOP4Pz|81.79.140.85|United Kingdom|England|Coventry|CV6|Energis UK|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVST2DwaHR:PNKD1vS|81.100.239.150|United Kingdom|England|Scunthorpe|DN16|Virgin Media Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVScq47JzL:u2TRGBx|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSKuaYdPU:4KeERlw|86.30.128.168|United Kingdom|England|Coventry|CV6|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS8XLb3HB:eBiyVqO|88.97.194.129|United Kingdom|England|Stockton-on-Tees|TS19|YouFibre Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS8BlvSae:ApX6fHj|94.174.83.37|United Kingdom|England|Wolverhampton|WV3|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSMC6kiPo:h7X8e2n|142.116.218.166|Canada|Quebec|Montreal|H4N|Bell Canada|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSMHXmHmd:z5MUOp2|86.26.127.8|United Kingdom|England|Nottingham|NG5|Virgin Media|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSInT4hhz:89FjvkS|77.102.120.213|United Kingdom|England|Enfield|N13|Virgin Media Limited|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVShfhsNOG:6yVhwFc|80.3.208.123|United Kingdom|England|Gateshead|NE9|Virgin Media|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSg31Mgw3:IHW4PTf|92.237.231.150|United Kingdom|England|Walsall|WS2|Virgin Media Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSArxcvzH:ce6ptZn|80.2.50.245|United Kingdom|England|Manchester|M11|Virgin Media Limited|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSetN0Qu9:Ue4teLp|81.102.111.71|United Kingdom|England|Ipswich|IP1|Virgin Media Limited|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSNwhO7iX:ZeyDW1s|24.150.33.70|Canada|Ontario|Burlington|L7N|Cogeco Communications Inc.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSJ72BEXj:yFDWSjV|95.144.150.2|United Kingdom|England|Whittlesford|CB22|EE Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSkXcaucj:X8Q6Yf1|47.160.91.237|United States|Texas|San Angelo|76901|Frontier Communications Corporation|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS13xbibb:lKzt5ZW|136.33.153.174|United States|Missouri|Kansas City|64133|Google Fiber Inc.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSQTa6TG6:rQ0bze1|35.144.88.66|United States|Illinois|Belleville|62226|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS1UWOTNi:ucb3azd|172.59.97.34|United States|Wisconsin|Milwaukee|53204|T-Mobile USA, Inc.|Black List: No|Use Type: Cellular
-152.53.194.55:35913:DVS102vlJv:OXrlfKD|93.133.157.130|Germany|North Rhine-Westphalia|Essen|45143|Telefonica O2 Germany|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSGZuQsRV:svmuAot|81.103.82.74|United Kingdom|England|Bolton|BL3|Virgin Media Limited|Black List: No|Use Type: Residential
 91.99.194.5:36681:DVSUHuo1Iw:IQ0sZj4|86.4.179.236|United Kingdom|England|Alfreton|DE55|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVScnAN8H4:1oAX3k9|47.149.39.82|United States|California|Upland|91786|Frontier Communications Corporation|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSZOGTUy9:BhynDva|47.41.127.205|United States|Minnesota|Elk River|55330|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSW0VhOBf:HW0TluT|172.59.185.188|United States|Illinois|Chicago|60602|T-Mobile USA, Inc.|Black List: No|Use Type: Cellular
+152.53.194.55:35913:DVSNwhO7iX:ZeyDW1s|24.150.33.70|Canada|Ontario|Burlington|L7N|Cogeco Communications Inc.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSRCMJtgb:RWyE3Cw|86.26.152.183|United Kingdom|England|Gateshead|NE9|Virgin Media|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSMC6kiPo:h7X8e2n|142.116.218.166|Canada|Quebec|Montreal|H4N|Bell Canada|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSkXcaucj:X8Q6Yf1|47.160.91.237|United States|Texas|San Angelo|76901|Frontier Communications Corporation|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSQTa6TG6:rQ0bze1|35.144.88.66|United States|Illinois|Belleville|62226|Charter Communications|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSJVYhTjX:j5lOSZZ|88.97.194.129|United Kingdom|England|Stockton-on-Tees|TS19|YouFibre Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSea7D3H0:7e01w4d|45.25.200.40|United States|California|Sacramento|95822|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVScNEA9Oh:gVw32ZT|89.0.49.200|Germany|North Rhine-Westphalia|Cologne|50968|NetCologne Gesellschaft fur Telekommunikation mbH|Black List: No|Use Type: Business
+91.98.199.53:39163:DVSJ72BEXj:yFDWSjV|95.144.150.2|United Kingdom|England|Whittlesford|CB22|EE Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSW0VhOBf:HW0TluT|138.43.94.190|United States|Michigan|Cassopolis|49031|Midwest Energy & Communications|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSxdRJEV4:u1OgPP8|94.3.90.242|United Kingdom|England|Newcastle upon Tyne|NE6|Sky UK Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS7pLYCGf:kDMIG31|213.122.104.99|United Kingdom|Scotland|Dumfries|DG1|BT Public Internet Service|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVS4vaLyaI:m9MCCKN|80.43.77.120|United Kingdom|England|Camden|NW5|TalkTalk|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSv3EEnmL:1kCS8cs|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSSBxoYXl:xpGCJ09|73.86.240.189|United States|Maryland|Aberdeen|21001|Comcast Cable Communications|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVShfhsNOG:6yVhwFc|81.109.159.155|United Kingdom|England|Plymouth|PL9|Virgin Media Limited|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVS102vlJv:OXrlfKD|93.133.157.130|Germany|North Rhine-Westphalia|Essen|45143|Telefonica O2 Germany|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS1UWOTNi:ucb3azd|172.59.97.34|United States|Wisconsin|Milwaukee|53204|T-Mobile USA, Inc.|Black List: No|Use Type: Cellular
+91.98.199.53:39163:DVSea7D3H0:7e01w4d|45.25.200.40|United States|California|Sacramento|95822|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSZOGTUy9:BhynDva|47.41.127.205|United States|Minnesota|Elk River|55330|Charter Communications|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVS2bhfnS9:RXMZBcF|69.145.103.164|United States|Colorado|Sterling|80751|Charter Communications LLC|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSU7OEUyL:jVnaOQk|82.79.154.111|Romania|Constanța County|Ovidiu|905900|RCS & RDS|Black List: No|Use Type: Residential
-152.53.171.242:41065|197.249.114.15|Mozambique|Cidade de Maputo|Maputo||TVCABO Mocambique - Comunicacoes Multimedia|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSJRutEdk:QKGrgHO|128.127.121.126|Romania|Brăila County|Brăila|810116|DIALOG|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSHAuCN5i:esgwihP|188.26.84.53|Romania|București|Bucharest|021211|RCS & RDS|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS7pLYCGf:kDMIG31|213.122.104.99|United Kingdom|Scotland|Dumfries|DG1|BT Public Internet Service|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS13xbibb:lKzt5ZW|136.33.153.174|United States|Missouri|Kansas City|64133|Google Fiber Inc.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSv3EEnmL:1kCS8cs|73.53.124.42|United States|Washington|Kent|98031|Comcast Cable Communications|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSq8swoqh:ZqlcVh5|69.161.99.200|United States|Virginia|Heathsville|22473|Atlantic Broadband Finance|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSb3MSdfY:g5qPrYO|92.114.38.245|Romania|Ilfov|Voluntari|077190|Orange Romania Network|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSYwpHmtS:JUOP5d2|82.77.65.165|Romania|Dolj|Craiova|200008|RCS & RDS|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSSBxoYXl:xpGCJ09|73.86.240.189|United States|Maryland|Aberdeen|21001|Comcast Cable Communications|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSHAuCN5i:esgwihP|188.26.84.53|Romania|București|Bucharest|021211|RCS & RDS|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSU7OEUyL:jVnaOQk|82.79.154.111|Romania|Constanța County|Ovidiu|905900|RCS & RDS|Black List: No|Use Type: Residential
 159.69.37.39:35819:DVSHmLrX3E:u9WfZ7r|84.232.151.233|Romania|Botoșani County|Botoșani|710014|RCS & RDS|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSK4yULCb:JJn0Go2|136.158.11.252|Philippines|Metro Manila|Quezon City|1103|Converge Information and Communications Technology Solutions|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSNoRWfem:yx69JdN|106.71.9.206|Australia|Victoria|Melbourne|3046|SingTel Optus Pty Ltd|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSc3Jl1SM:UP5Po2z|98.5.226.201|United States|New York|Geneva|14456|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS4fmjJRV:TOcjp5w|58.166.129.33|Australia|New South Wales|Sydney|2045|Telstra Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSUwelHho:JQh7B3F|209.150.134.153|United States|Oklahoma|Tuttle|73089|Tuttle Development Authority|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSkpRvRS5:xFNRuoE|76.35.22.141|United States|Ohio|Strongsville|44136|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSQfsIy7J:J9aydbK|98.238.199.217|United States|California|Yuba City|95991|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+152.53.171.242:41065|197.249.114.15|Mozambique|Cidade de Maputo|Maputo||TVCABO Mocambique - Comunicacoes Multimedia|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSBW9e5O4:AfhM2y4|125.63.29.95|Australia|Western Australia|Perth|6000|SUPERLOOP (AUSTRALIA) PTY LTD|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS25Bjq7h:3KiqRgS|107.214.116.243|United States|California|Sacramento|95835|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSODn0Sl0:MDqOAlU|24.14.24.234|United States|Illinois|Blue Island|60406|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSNoRWfem:yx69JdN|106.71.9.206|Australia|Victoria|Melbourne|3046|SingTel Optus Pty Ltd|Black List: No|Use Type: Residential
 159.69.37.39:35819:DVSo9vOzpU:hx2rxv4|58.69.61.169|Philippines|Metro Manila|Mandaluyong|1550|Philippine Long Distance Telephone Co.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSc3Jl1SM:UP5Po2z|98.5.226.201|United States|New York|Geneva|14456|Charter Communications|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSb3MSdfY:g5qPrYO|92.114.38.245|Romania|Ilfov|Voluntari|077190|Orange Romania Network|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSK4yULCb:JJn0Go2|136.158.11.252|Philippines|Metro Manila|Quezon City|1103|Converge Information and Communications Technology Solutions|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVS1VswrlM:H7swtUd|24.184.108.187|United States|New Jersey|Whippany|07981|Cablevision Systems Corp.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSDHFARa4:w0P2eod|129.232.19.165|Lesotho|Maseru District|Maseru||Telecom Lesotho -Afrinic|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSVe3Fswd:p9hBTDC|68.38.221.232|United States|Indiana|Indianapolis|46239|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSV4qYEnV:VKIPxCX|64.130.143.26|United States|Kentucky|Edmonton|42129|South Central Rural Telecommunications Cooperative Inc.|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVScE85BDM:VltFOMd|107.128.246.210|United States|South Carolina|Greenville|29601|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSa1aN7JY:QnCUwBu|24.112.240.67|United States|Pennsylvania|Scottdale|15683|Armstrong|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSVe3Fswd:p9hBTDC|68.38.221.232|United States|Indiana|Indianapolis|46239|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSODn0Sl0:MDqOAlU|24.14.24.234|United States|Illinois|Blue Island|60406|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS4fmjJRV:TOcjp5w|58.166.129.33|Australia|New South Wales|Sydney|2045|Telstra Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSRPkPAhp:oekygOZ|98.42.97.16|United States|California|Pacifica|94044|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSkpRvRS5:xFNRuoE|76.35.22.141|United States|Ohio|Strongsville|44136|Charter Communications|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVS7QOZbXl:9dKuLTp|154.66.111.23|Lesotho|Maseru District|Maseru||Comnet Pty Ltd|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSDHFARa4:w0P2eod|129.232.19.165|Lesotho|Maseru District|Maseru||Telecom Lesotho -Afrinic|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSynbH3vP:dATppvm|67.170.18.150|United States|Washington|Seattle|98116|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSb7Fx97f:ijsBXNt|129.232.83.180|Lesotho|Maseru District|Maseru||Telecom Lesotho -Afrinic|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSV4qYEnV:VKIPxCX|64.130.143.26|United States|Kentucky|Edmonton|42129|South Central Rural Telecommunications Cooperative Inc.|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSUreevec:tBoCi4U|70.131.63.216|United States|Georgia|Brunswick|31525|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSRPkPAhp:oekygOZ|172.115.187.113|United States|California|San Bernardino|92410|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSazZbAv1:o73qFOo|73.8.212.135|United States|Illinois|Antioch|60002|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSxUzmwHl:xaMPThf|184.155.223.53|United States|Idaho|Idaho Falls|83401|CABLE ONE, INC.|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSahmpkfZ:TXuS5wl|100.14.102.60|United States|Pennsylvania|West Chester|19382|Verizon Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSkyuXtJr:IF3WZAd|173.52.75.178|United States|New York|The Bronx|10473|Verizon Business|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS25Bjq7h:3KiqRgS|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSazZbAv1:o73qFOo|73.8.212.135|United States|Illinois|Antioch|60002|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSiOYie5E:eIhOWAN|216.106.195.219|United States|South Dakota|Brookings|57006|SDN Communications Inc|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSJq2ISzw:1Lvbj1y|71.69.100.250|United States|South Carolina|Winnsboro|29180|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSR9dGTZY:YKiDRDv|45.30.148.253|United States|Florida|Oviedo|32765|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVStHuADWn:xeO2WhA|71.194.116.241|United States|Illinois|Morris|60450|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSzN6XYqe:J3mF9A1|73.8.133.41|United States|Illinois|Springfield|62704|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSWiwwnkk:pCLpMPs|73.11.88.213|United States|Oregon|Oregon City|97045|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVS0Ff0ihD:zolYG0a|47.32.186.70|United States|California|Arroyo Grande|93420|Charter Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSR9dGTZY:YKiDRDv|45.30.148.253|United States|Florida|Oviedo|32765|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSTjbKSZR:UeAxzTW|73.68.46.111|United States|Vermont|Essex Junction|05452|Comcast Cable Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSkyuXtJr:IF3WZAd|173.52.75.178|United States|New York|The Bronx|10473|Verizon Business|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVS07jlrg7:8drWTBj|162.154.161.52|United States|Ohio|Wellston|45692|Charter Communications Inc|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSwYb34KZ:eXXY13i|47.210.143.182|United States|Texas|Victoria|77901|Suddenlink Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSVjekcYG:08TxIH9|73.109.101.132|United States|Washington|Olympia|98512|Comcast Cable Communications|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVStHuADWn:xeO2WhA|71.194.116.241|United States|Illinois|Morris|60450|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSXkKeAh1:MJYRD5T|129.222.135.47|United States|Florida|Miami||SpaceX Starlink|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS3NIW8Yj:qv9TmmE|198.211.137.41|United States|Iowa|Remsen|51050|Aureon Network Services|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSt9nGyeG:bsrMR7g|72.239.242.215|United States|Florida|Merritt Island|32952|Charter Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSZyFmOcl:AO2G0g9|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSVjekcYG:08TxIH9|47.153.23.162|United States|California|Huntington Beach|92649|Frontier Communications Corporation|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSa1aN7JY:QnCUwBu|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSISNEMxe:wiasRdH|76.87.53.94|United States|California|Los Angeles|90011|Spectrum|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSeRm20MD:zeDXOEg|76.241.8.214|United States|California|Vacaville|95687|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSjT7vUQU:AGk4pOU|76.36.148.25|United States|North Carolina|Fayetteville|28306|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSe866jhz:zt2OiuH|76.34.118.7|United States|Ohio|Lima|45805|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVScbQ4hGz:TXJM4Rj|172.118.238.102|United States|California|South Gate|90280|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSdKJbfnF:secJnhH|24.48.168.40|United States|Texas|La Grange|78945|CABLE ONE, INC.|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSFVuars2:JPWl70D|174.61.217.190|United States|Washington|Olympia|98501|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSoL6VQtX:oDrTOQ1|73.190.104.87|United States|Oregon|Portland|97209|Comcast Cable Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSSOurDsz:OWxJgn5|107.12.143.99|United States|North Carolina|Jacksonville|28546|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVShmrtWhg:JL1eD0g|72.219.74.188|United States|California|Palos Verdes Estates|90274|Cox Communications Inc.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSfsLcHx7:Yj6CVAn|173.168.153.27|United States|Florida|Inverness|34452|Charter Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSwYb34KZ:eXXY13i|47.210.143.182|United States|Texas|Victoria|77901|Suddenlink Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSLxSSIaw:N4R8Jc0|70.170.232.4|United States|Nevada|Las Vegas|89119|Cox Communications Inc.|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSN5KgUI0:bNrzQGO|47.223.57.136|United States|Texas|Flint|75762|Suddenlink Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSXkKeAh1:MJYRD5T|129.222.135.47|United States|Florida|Miami||SpaceX Starlink|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVStNr1K3s:ikxmnCI|76.130.83.12|United States|Colorado|Denver|80220|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSLpEE8lG:Kxq4FIa|45.29.150.115|United States|Texas|Burleson|76028|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSXquuG5M:tXk8q1A|24.129.249.27|United States|Ohio|Youngstown|44515|Armstrong|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSF9vfbnW:hYI2UDZ|71.218.6.182|United States|Colorado|Denver|80211|CenturyLink Communications, LLC|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSjVZT8Pb:8t83Beu|35.144.114.57|United States|Missouri|St Louis|63111|Charter Communications|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVS7QOZbXl:9dKuLTp|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSfIldOZz:B4FKXDE|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSnCQ8WGl:P5OtJfF|108.195.176.171|United States|Alabama|Daphne|36526|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSW1xVx3J:scz7nYs|73.155.216.249|United States|Texas|Houston|77062|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSe866jhz:zt2OiuH|47.28.75.220|United States|California|Pasadena|91106|Charter Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSdKJbfnF:secJnhH|24.48.168.40|United States|Texas|La Grange|78945|CABLE ONE, INC.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSt9nGyeG:bsrMR7g|72.239.242.215|United States|Florida|Merritt Island|32952|Charter Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVScbQ4hGz:TXJM4Rj|172.118.238.102|United States|California|South Gate|90280|Charter Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSJq2ISzw:1Lvbj1y|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSFVuars2:JPWl70D|174.61.217.190|United States|Washington|Olympia|98501|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSSOurDsz:OWxJgn5|107.12.143.99|United States|North Carolina|Jacksonville|28546|Charter Communications|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSLpEE8lG:Kxq4FIa|45.29.150.115|United States|Texas|Burleson|76028|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSF9vfbnW:hYI2UDZ|71.218.6.182|United States|Colorado|Denver|80211|CenturyLink Communications, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSoL6VQtX:oDrTOQ1|73.190.104.87|United States|Oregon|Portland|97209|Comcast Cable Communications|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSeKihY3U:e15fP9V|73.81.162.178|United States|Pennsylvania|Morrisville|19067|Comcast Cable Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSbT7cd8M:1xutW7U|68.41.142.45|United States|Michigan|Grand Rapids|49505|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSDw33uyt:DpA83MX|107.116.89.19|United States|District of Columbia|Washington|20002|AT&T Enterprises, LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSXquuG5M:tXk8q1A|24.129.249.27|United States|Ohio|Youngstown|44515|Armstrong|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSfsLcHx7:Yj6CVAn|173.168.153.27|United States|Florida|Inverness|34452|Charter Communications|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSYKWetbG:DqBhd1J|174.105.33.63|United States|Ohio|Columbus|43228|Charter Communications|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSV68zySD:jtmj8am|92.237.231.150|United Kingdom|England|Walsall|WS2|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSMnTE8n1:iCMSSF2|72.226.123.163|United States|New York|New Windsor|12553|Charter Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSbT7cd8M:1xutW7U|68.41.142.45|United States|Michigan|Grand Rapids|49505|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVS0OtyCpU:EXPtzgW|73.165.93.32|United States|Pennsylvania|Philadelphia|19136|Comcast Cable Communications|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVS7FSaW2q:woBKx7T|176.115.145.66|Russia|Nizhny Novgorod Oblast|Nizhniy Novgorod|603087|Link Telecom NN Ltd|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSu8H1SDy:pnVkVKS|50.38.106.208|United States|Oregon|Albany|97321|Wholesail networks LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSYVhS2AR:mnhRDiJ|141.156.216.137|United States|District of Columbia|Washington|20002|Verizon Business|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSaBascbq:FPbbB7X|2.97.19.84|United Kingdom|England|Enfield|N18|TalkTalk|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSOgMOt2R:GXMkSZ1|62.49.210.232|United Kingdom|England|Wandsworth|SW17|Vodafone BB|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS7OFapBp:rZEmoxM|98.212.142.193|United States|Illinois|Park Ridge|60068|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSfWf5dOX:FpZGavE|217.46.76.6|United Kingdom|England|Felixstowe|IP11|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSOKu8QGQ:wsXtQdT|82.45.245.154|United Kingdom|England|Plymouth|PL3|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSoJgArnr:sanQiwm|185.74.53.14|United Kingdom|England|Glossop|SK13|Full Fibre Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSLIyL3fP:wHWx0kl|78.150.35.136|United Kingdom|England|Rushden|NN10|TalkTalk|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS7Ekxl96:svX5try|90.241.130.80|United Kingdom|England|Manchester|M27|Energis UK|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSA48pwOA:T28R5oo|80.41.141.217|United Kingdom|England|Brent|NW2|TalkTalk|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSP6SQv5o:GIkXXmT|81.78.6.81|United Kingdom|England|Coventry|CV1|Vodafone BB|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSnCQ8WGl:P5OtJfF|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSW1xVx3J:scz7nYs|73.155.216.249|United States|Texas|Houston|77062|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSV68zySD:jtmj8am|92.237.231.150|United Kingdom|England|Walsall|WS2|Virgin Media Limited|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVShHZEtgk:FSf1wTS|176.253.113.174|United Kingdom|England|Sale|M33|Sky UK Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSYVhS2AR:mnhRDiJ|141.156.216.137|United States|District of Columbia|Washington|20002|Verizon Business|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSOgMOt2R:GXMkSZ1|62.49.210.232|United Kingdom|England|Wandsworth|SW17|Vodafone BB|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSoJgArnr:sanQiwm|185.74.53.14|United Kingdom|England|Glossop|SK13|Full Fibre Limited|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSA48pwOA:T28R5oo|80.41.141.217|United Kingdom|England|Brent|NW2|TalkTalk|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSOKu8QGQ:wsXtQdT|82.45.245.154|United Kingdom|England|Plymouth|PL3|Virgin Media|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSPluP60S:S1Z28kt|82.35.167.45|United Kingdom|England|Birmingham|B37|Virgin Media|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS7Ekxl96:svX5try|90.241.130.80|United Kingdom|England|Manchester|M27|Energis UK|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVS0rQ9bxa:meXD4fu|77.101.132.111|United Kingdom|England|Slough|SL2|Virgin Media|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVS8GPU0ke:k1blNv0|78.150.84.155|United Kingdom|England|Bracknell|RG12|TalkTalk|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSeURcjyF:wc8nVKB|81.109.39.90|United Kingdom|England|Leeds|LS8|Virgin Media Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSP6SQv5o:GIkXXmT|81.78.6.81|United Kingdom|England|Coventry|CV1|Vodafone BB|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSppGDTlG:DyLAem6|81.77.55.153|United Kingdom|England|Leeds|LS12|Energis UK|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSr6jVBKz:Wc0VV3J|176.249.51.86|United Kingdom|England|Ilford|IG3|Sky UK Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSQDPYgkU:wFoQ2bk|83.105.143.73|United Kingdom|England|Wandsworth|SW15|VODAFONE|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSDjZhCWW:Losv4dP|212.228.141.70|United Kingdom|England|Nottingham|NG9|Vodafone Broadband Dynamic|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSLIyL3fP:wHWx0kl|78.150.35.136|United Kingdom|England|Rushden|NN10|TalkTalk|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSxbFCWxj:O4oIplo|213.122.149.69|United Kingdom|Scotland|Glasgow|G75|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSHUuEWRN:N0fLtgu|82.28.128.137|United Kingdom|Scotland|Alexandria|G83|Virgin Media Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSDjZhCWW:Losv4dP|212.228.141.70|United Kingdom|England|Nottingham|NG9|Vodafone Broadband Dynamic|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSQDPYgkU:wFoQ2bk|83.105.143.73|United Kingdom|England|Wandsworth|SW15|VODAFONE|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSIl5ySlw:p2wUSig|90.242.159.113|United Kingdom|England|Coventry|CV1|Vodafone Group PLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVStrKxQw5:6ro3rrs|84.71.154.99|United Kingdom|England|Milton Keynes|MK6|Vodafone Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSYnP9bGR:a3n4cLM|86.165.145.10|United Kingdom|England|Liversedge|WF15|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS14lq9Kr:UtfIEdO|86.130.131.247|United Kingdom|England|Newham|E13|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS2AiyxAk:lvVeB83|86.191.28.94|United Kingdom|England|Wantage|OX12|BT Public Internet Service|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSBH99qYW:5paTxo5|109.180.146.232|United Kingdom|England|Southampton|SO32|EE Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSzu4dhTz:m4ogLXH|92.24.213.4|United Kingdom|England|Ealing|W5|TalkTalk|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSFRL8YLQ:gP4BGCN|193.237.208.14|United Kingdom|England|Northampton|NN1|Vodafone|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSMCElVK6:mUS9Rwk|86.137.109.140|United Kingdom|England|Birmingham|B28|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSV7VTIpv:8l3D3yv|31.113.204.249|United Kingdom|England|Stansted Mountfitchet|CM24|British Telecommunications PLC|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSUHCAsm6:VX24rML|188.29.111.20|United Kingdom|England|Birmingham|B10|Hutchison 3G UK Ltd|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSJYzSABW:qPU5bfF|80.41.191.71|United Kingdom|England|Birmingham|B1|TalkTalk|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSmFGGFOY:oaBjqZI|86.164.187.184|United Kingdom|England|Gloucester|GL4|BT Public Internet Service|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVS7FSaW2q:woBKx7T|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVStrKxQw5:6ro3rrs|84.71.154.99|United Kingdom|England|Milton Keynes|MK6|Vodafone Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSfWf5dOX:FpZGavE|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSUHCAsm6:VX24rML|194.120.133.98|United Kingdom|England|Southall|UB1|F & W Networks Ltd|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS2AiyxAk:lvVeB83|86.191.28.94|United Kingdom|England|Wantage|OX12|BT Public Internet Service|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSYnP9bGR:a3n4cLM|86.165.145.10|United Kingdom|England|Liversedge|WF15|BT Public Internet Service|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSUhhDgqq:ZD6lDky|109.177.61.243|United Arab Emirates|Ajman|Ajman||Emirates Telecommunications Corporation|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSAX8mw9O:hzUCnNP|176.204.57.92|United Arab Emirates|Abu Dhabi|Abu Dhabi||EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSEyBkLPy:1xr9kcm|63.142.86.72|United States|Illinois|Greenville|62246|CABLE ONE, INC.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSzu4dhTz:m4ogLXH|92.24.213.4|United Kingdom|England|Ealing|W5|TalkTalk|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSIKVTefW:KxNVH7X|68.82.221.208|United States|Pennsylvania|Philadelphia|19135|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVS0dj0IOU:t55UOic|94.204.135.159|United Arab Emirates|Dubai|Dubai||Emirates Integrated Telecommunications Company PJSC|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVScv3ycwk:p95sEfW|81.232.61.156|Sweden|Stockholm County|Rönninge|144 63|Telia Company AB|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSHUuEWRN:N0fLtgu|82.28.128.137|United Kingdom|Scotland|Alexandria|G83|Virgin Media Limited|Black List: No|Use Type: Residential
 159.69.37.39:35819:DVSm8wPTr1:8kkG5fn|188.151.133.230|Sweden|Skåne County|Malmo|200 01|TELE2-BROADBAND|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS8fAFmqx:IbCi7gF|31.218.132.6|United Arab Emirates|Dubai|Dubai||EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSV7VTIpv:8l3D3yv|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSNCOYNPI:3Dyyxob|94.207.250.161|United Arab Emirates|Dubai|Dubai||Emirates Integrated Telecommunications Company PJSC|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSAX8mw9O:hzUCnNP|176.204.57.92|United Arab Emirates|Abu Dhabi|Abu Dhabi||EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSMCElVK6:mUS9Rwk|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSDiMxLsp:RdSQnRb|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVScv3ycwk:p95sEfW|81.232.61.156|Sweden|Stockholm County|Rönninge|144 63|Telia Company AB|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSKVnMlbu:TH1WksD|2.49.78.183|United Arab Emirates|Dubai|Dubai||Emirates Telecommunications Corporation|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSpYTWC91:J6tm4LC|91.73.12.191|United Arab Emirates|Dubai|Dubai||Emirates Integrated Telecommunications Company PJSC|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSoBuJosm:jZQLkvp|85.231.122.123|Sweden|Västra Götaland County|Landvetter|438 34|Bredbandsbolaget|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSCxOFMB6:fBgZ09G|84.217.177.179|Sweden|Södermanland County|Eskilstuna|633 51|Telenor AB|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSd9neYRZ:Q6aP7EV|83.216.100.74|Sweden|Gävleborg County|Sandviken|811 35|Sandviken Energi AB|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSEJCmiRh:zkUngoC|81.237.195.112|Sweden|Stockholm County|Täby|187 35|Telia Company AB|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSRiVwnia:ZeVb9va|188.149.135.187|Sweden|Stockholm County|Stockholm|145 84|Tele2 Sverige AB|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSPVk8NyN:HSO2BMp|87.117.53.214|Russia|Rostov Oblast|Rostov-on-Don|344006|Macroregional South|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSmCG6R3L:Xvahbwc|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSa6IYLEE:0GgkuuD|78.67.216.142|Sweden|Västra Götaland County|Borås|508 96|Telia Company AB|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVS0rQ9bxa:meXD4fu|77.101.132.111|United Kingdom|England|Slough|SL2|Virgin Media|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSVg8SP5j:1tnJPEz|83.251.175.65|Sweden|Skåne County|Lund|226 54|Tele2 Sverige AB|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSrpBu3Ga:BWEcpq0|83.255.157.3|Sweden|Jämtland County|Östersund|831 92|COMHEM|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSkMelwNs:lANmjvg|5.139.233.111|Russia|Krasnodar Krai|Krasnodar|350000|Karachaevo-Cherkesskelektrosvyaz|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSDTK8aw1:8QdYkaU|92.62.56.97|Russia|Leningrad Oblast|Kudrovo||Global Network Management Inc|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSbPvPSt2:fnyUiL4|93.181.203.106|Russia|Yaroslavl Oblast|Rybinsk|152900|Technical Unit of Telecommunication|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSmCG6R3L:Xvahbwc|62.148.157.178|Russia|Kaluga Oblast|Kaluga|248000|Rostelecom networks|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSNY1CZPu:f6lxRTr|31.130.252.240|Russia|Stavropol Kray|Nevinnomyssk|357100|Mobile Trend Ltd|Black List: No|Use Type: Cellular
-23.137.105.13:39473:DVSfl6C1r4:qSHNkn0|141.101.229.112|Russia|Rostov Oblast|Donetsk|346330|AirLink Ltd.|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVS5uOP1m1:HpmDnoc|45.14.21.98|Russia|Sverdlovsk Oblast|Yekaterinburg|620000|UralNet LLC|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSis4cKKP:4G1SZM2|91.211.237.114|Russia|Tomsk Oblast|Tomsk|634009|Fibrenet Ltd|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSINdvBA5:swE2wGC|37.113.69.237|Russia|Kurgan Oblast|Kurgan|640000|CJSC "ER-Telecom Holding" Kurgan branch|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSqDHstEc:WoZ7Ppx|85.202.98.154|Poland|Mazovia|Siedlce|08-110|"Domtel Telecom" Dariusz Dombek|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSoBuJosm:jZQLkvp|85.231.122.123|Sweden|Västra Götaland County|Landvetter|438 34|Bredbandsbolaget|Black List: No|Use Type: Residential
 159.69.37.39:35819:DVSIZggQSn:yAL8zbz|46.8.6.35|Russia|St.-Petersburg|St Petersburg|195213|P.A.K.T LLC|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSuKs4Oj4:reu4qLe|217.15.157.130|Russia|Yaroslavl Oblast|Yaroslavl|150048|Yaroslavl Unit of Telecommunication|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSPVk8NyN:HSO2BMp|87.117.53.214|Russia|Rostov Oblast|Rostov-on-Don|344006|Macroregional South|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSCxOFMB6:fBgZ09G|84.217.177.179|Sweden|Södermanland County|Eskilstuna|633 51|Telenor AB|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSDTK8aw1:8QdYkaU|92.62.56.97|Russia|Leningrad Oblast|Kudrovo||Global Network Management Inc|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSRiVwnia:ZeVb9va|188.149.135.187|Sweden|Stockholm County|Stockholm|145 84|Tele2 Sverige AB|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSa6IYLEE:0GgkuuD|78.67.216.142|Sweden|Västra Götaland County|Borås|508 96|Telia Company AB|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSEJCmiRh:zkUngoC|81.237.195.112|Sweden|Stockholm County|Täby|187 35|Telia Company AB|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSfl6C1r4:qSHNkn0|141.101.229.112|Russia|Rostov Oblast|Donetsk|346330|AirLink Ltd.|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSrpBu3Ga:BWEcpq0|83.255.157.3|Sweden|Jämtland County|Östersund|831 92|COMHEM|Black List: No|Use Type: Residential
 159.69.37.39:35819:DVSkceD7m0:22b7YyQ|95.24.172.113|Russia|Moscow|Moscow|101000|PJSC "Vimpelcom"|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSoxj52zF:L2Nb01J|83.23.126.3|Poland|Greater Poland|Swarzędz|62-020|Orange Polska Spolka Akcyjna|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSm8FCIRk:hZtYiJg|87.239.93.152|Poland|Lower Silesia|Wroclaw|52-131|PSSK Sp. z o.o.|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSP5Jf5gP:9eYVFEf|83.27.39.68|Poland|Lesser Poland|Krakow|31-202|Orange Polska Spolka Akcyjna|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSgtHkt51:SWv07hx|37.31.53.48|Poland|Lesser Poland|Krakow|30-059|T-Mobile Poland|Black List: No|Use Type: Cellular
+159.69.37.39:35819:DVSkMelwNs:lANmjvg|5.139.233.111|Russia|Krasnodar Krai|Krasnodar|350000|Karachaevo-Cherkesskelektrosvyaz|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSVg8SP5j:1tnJPEz|83.251.175.65|Sweden|Skåne County|Lund|226 54|Tele2 Sverige AB|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSqDHstEc:WoZ7Ppx|85.202.98.154|Poland|Mazovia|Siedlce|08-110|"Domtel Telecom" Dariusz Dombek|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSBo7hjFI:g0CetzC|84.40.156.252|Poland|Lesser Poland|Krakow|31-202|Netia SA|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVS8cAGgMO:uOi4G8i|46.112.234.117|Poland|Pomerania|Gdansk|80-980|P4 Sp. z o.o.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSuQnHc3y:VCm5OA5|89.151.16.211|Poland|Greater Poland|Poznan|61-827|Vectra S.A.|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVS7X7zTTl:owvbfeu|109.241.203.7|Poland|Pomerania|Gdansk|80-283|Vectra S.A.|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSINdvBA5:swE2wGC|37.113.69.237|Russia|Kurgan Oblast|Kurgan|640000|CJSC "ER-Telecom Holding" Kurgan branch|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSmowBKLw:JLrj4Py|190.235.116.79|Peru|Arequipa|Arequipa||TDP-GRS|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSis4cKKP:4G1SZM2|91.211.237.114|Russia|Tomsk Oblast|Tomsk|634009|Fibrenet Ltd|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSuQnHc3y:VCm5OA5|89.151.16.211|Poland|Greater Poland|Poznan|61-827|Vectra S.A.|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSP5Jf5gP:9eYVFEf|83.27.39.68|Poland|Lesser Poland|Krakow|31-202|Orange Polska Spolka Akcyjna|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVS8cAGgMO:uOi4G8i|46.112.234.117|Poland|Pomerania|Gdansk|80-980|P4 Sp. z o.o.|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVS7X7zTTl:owvbfeu|109.241.203.7|Poland|Pomerania|Gdansk|80-283|Vectra S.A.|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVS45iXkrZ:kWhgRuZ|185.183.227.139|Poland|Mazovia|Sierpc|09-200|JaworNet|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS4ZLmPeq:h0Zx9Jb|37.31.53.48|Poland|Lesser Poland|Krakow|30-059|T-Mobile Poland|Black List: No|Use Type: Cellular
-152.53.170.41:26921:DVS9nEvdd4:JxouNAa|93.159.61.59|Poland|Lubusz|Zielona Góra|65-305|Netia SA|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSZkT9W16:kta29i8|31.135.164.173|Poland|Kujawsko-Pomorskie|Brodnica|87-300|INM s. j. Tomasz Chomko, Mariusz Lisowski, Piotr Margol|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVS6d7yx6h:lX6Y1YS|132.251.2.123|Peru|Lima Province|Lima||Entel Peru S.A.|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSC4b0lUM:sGMD53e|51.175.214.222|Norway|Oslo County|Oslo|0490|Lyse Tele AS|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSQ8eJg79:StdtTDz|51.175.61.14|Norway|Buskerud|Drammen|3048|Lyse Tele AS|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSoxj52zF:L2Nb01J|83.23.126.3|Poland|Greater Poland|Swarzędz|62-020|Orange Polska Spolka Akcyjna|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVStBZbyeq:HjpYAqa|190.233.209.13|Peru|Lima Province|Lima||Telefonica Del Peru|Black List: No|Use Type: Residential
 159.69.37.39:35819:DVSlYfmNTr:d8vplM7|190.236.75.182|Peru|Lima Province|Lima||TDP-GRS|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVS6d7yx6h:lX6Y1YS|179.6.1.15|Peru|Lima Province|Lima||America Movil Peru S.A.C.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSWHhziep:EeO30jV|181.66.150.249|Peru|Lima Province|Lima||Telefonica del Peru S.A.A.|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVS4ZLmPeq:h0Zx9Jb|37.31.53.48|Poland|Lesser Poland|Krakow|30-059|T-Mobile Poland|Black List: No|Use Type: Cellular
+152.53.170.41:26921:DVSgtHkt51:SWv07hx|37.31.53.48|Poland|Lesser Poland|Krakow|30-059|T-Mobile Poland|Black List: No|Use Type: Cellular
+159.69.37.39:35819:DVSTUaq6mP:wm1QXS3|179.6.7.49|Peru|Lima Province|Lima||America Movil Peru S.A.C.|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSrs1HtYP:8o2V09g|191.97.61.248|Peru|Lima Province|Lima|15001|Internexa Peru S.A|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS9e9JpFP:fTiBh3I|179.6.101.219|Peru|Ancash|Buenos Aires||America Movil Peru S.A.C.|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSTUaq6mP:wm1QXS3|38.253.151.143|Peru|Lima Province|Lima||Wi-net Telecom S.A.C.|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSARsFEyf:WGfrnW8|38.250.159.109|Peru|Huánuco Department|Tingo María||Desarrollo De Infraestructura De Telecomunicaciones Peru S.A.C.|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVShvDIhw7:AM1Vcbf|38.25.53.9|Peru|Lima Province|Lima||Wi-net Telecom S.A.C.|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSd9oyvTV:pItshxN|38.255.104.167|Peru|Arequipa|Arequipa|04001|YOTTALAN|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSOqTXnnZ:D3FKIeg|81.166.174.234|Norway|Buskerud|Mjøndalen|3050|Altibox|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSkgR4OlK:xHLopSl|179.6.4.188|Peru|Lima Province|Lima||America Movil Peru S.A.C.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSk5C3EAA:XhtRVTH|38.25.24.33|Peru|Lima Province|Lima||Wi-net Telecom S.A.C.|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSQ8eJg79:StdtTDz|51.175.61.14|Norway|Buskerud|Drammen|3048|Lyse Tele AS|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSK40xvIz:JHqaUul|79.160.123.227|Norway|Østfold|Fredrikstad|1605|Altibox|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSLVd5tAX:R0Jix26|81.167.197.36|Norway|Vestfold|Sandefjord|3208|Altibox|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS6y1D9CL:hJ3aZJT|181.176.72.96|Peru|Lima Province|Lima||VIETTEL PERÚ S.A.C.|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSPQarMEx:1NWEpqY|83.108.111.98|Norway|Akershus|Lørenskog|1473|TELENOR-INTERNET|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVS6y1D9CL:hJ3aZJT|45.232.150.81|Peru|Lima region|Pativilca||Satelital Telecomunicaciones S.A.C|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSrHE4KtC:20tMQG9|81.95.89.57|Norway|Oslo County|Oslo|0566|Obos Opennet|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS4iPjZYp:tuTuOhN|141.0.112.33|Norway|Buskerud|Drammen|3027|Lyse Tele|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS41JRprX:vwyBjdx|83.108.191.144|Norway|Vestland|Bergen|5143|TELENOR-INTERNET|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSZkT9W16:kta29i8|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSannkggP:bQzNhq2|95.34.233.4|Norway|Akershus|Rykkin|1348|Telenor Norge|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSuZtkiPW:DYnfn7l|88.88.56.179|Norway|Østfold|Fredrikstad|1634|Telenor Norge|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSOdkdBFt:3ho9pZ8|178.232.133.150|Norway|Oslo County|Oslo|0666|Get AS|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVShvDIhw7:AM1Vcbf|38.25.53.9|Peru|Lima Province|Lima||Wi-net Telecom S.A.C.|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSk5C3EAA:XhtRVTH|148.222.231.211|Peru|Lima region|Carabayllo||Moreno Yanoc Nemias Bernardo|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVS9nEvdd4:JxouNAa|93.159.61.59|Poland|Lubusz|Zielona Góra|65-305|Netia SA|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVS9e9JpFP:fTiBh3I|179.6.101.219|Peru|Ancash|Buenos Aires||America Movil Peru S.A.C.|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSWHhziep:EeO30jV|190.108.85.106|Peru|Lima Province|Lima|15001|Internexa S.a. E.S.P|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSsU13Zrv:6Rg5mO3|88.88.97.246|Norway|Oslo County|Oslo|0566|Telenor Norge|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSWCbnDXz:VJfewIb|81.166.174.234|Norway|Buskerud|Mjøndalen|3050|Altibox|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSYPbxESr:MJ5v3g2|88.90.74.119|Norway|Oslo County|Oslo|0566|Telenor Norge|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSWd8aY35:PWt4Kct|121.99.75.89|New Zealand|Wellington Region|Wellington|6037|Two Degrees Mobile Limited|Black List: No|Use Type: Cellular
-152.53.170.41:26921:DVShEsnmOH:0fhS4Dh|161.29.10.129|New Zealand|Waikato Region|Hamilton|3210|FX VoIP Network|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSjN4tfJ6:xp7KnKD|150.107.174.8|New Zealand|Waikato Region|Hamilton|3210|Mercury NZ Limited|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS2iJClHA:6McZDHg|116.251.161.94|New Zealand|Auckland|Auckland|1023|TrustPower Ltd|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSPQarMEx:1NWEpqY|83.108.111.98|Norway|Akershus|Lørenskog|1473|TELENOR-INTERNET|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSOdkdBFt:3ho9pZ8|178.232.133.150|Norway|Oslo County|Oslo|0666|Get AS|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSdXL2fRB:GZSiU0j|125.236.157.165|New Zealand|Otago|Dunedin|9011|Spark New Zealand Trading Limited|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSEH4PEb4:sbkNJoN|14.137.18.245|New Zealand|Auckland|Auckland|0627|Mercury NZ Limited|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSdcSzrJP:Cy9YeVv|150.107.174.8|New Zealand|Waikato Region|Hamilton|3210|Mercury NZ Limited|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSk06B6Oz:vxdUQnX|14.137.18.245|New Zealand|Auckland|Auckland|0627|Mercury NZ Limited|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVS4iPjZYp:tuTuOhN|141.0.112.33|Norway|Buskerud|Drammen|3027|Lyse Tele|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVS9btujIq:KmRlEOA|203.211.106.188|New Zealand|Auckland|Auckland|1022|DEVOLI|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVStuICLHH:1z6ihCT|203.211.72.252|New Zealand|Auckland|Auckland|1071|Devoli LTD|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSzHKNd8k:1GGc1fa|84.104.160.234|The Netherlands|South Holland|Zoetermeer|2719|ZIGGO|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSjN4tfJ6:xp7KnKD|116.251.196.141|New Zealand|Auckland|Auckland|1052|TrustPower Ltd|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSYPbxESr:MJ5v3g2|88.90.74.119|Norway|Oslo County|Oslo|0566|Telenor Norge|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVS2iJClHA:6McZDHg|116.251.161.94|New Zealand|Auckland|Auckland|1023|TrustPower Ltd|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSuFY5xTH:b2ZUtTS|24.132.8.217|The Netherlands|North Holland|Zaandam|1504|Vodafone Ziggo|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSNBF89Jt:8f2mdrl|31.20.85.136|The Netherlands|North Brabant|Helmond|5708|TMONL|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSWd8aY35:PWt4Kct|121.99.75.89|New Zealand|Wellington Region|Wellington|6037|Two Degrees Mobile Limited|Black List: No|Use Type: Cellular
+152.53.170.41:26921:DVSdcSzrJP:Cy9YeVv|203.211.105.106|New Zealand|Auckland|Auckland|1022|DEVOLI|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSnUfWMNn:sxZqfpV|62.250.202.84|The Netherlands|North Holland|Amsterdam|1019|TMONL|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVS99IGHAS:K7NzuKk|77.249.218.35|The Netherlands|North Holland|Alkmaar|1825|Vodafone Ziggo|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSTrmJYHp:QKlqDuk|150.107.175.80|New Zealand|Waikato Region|Hamilton|3210|Mercury NZ Limited|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSRRMrVBs:oAGBwRv|62.45.97.127|The Netherlands|North Holland|Kudelstaart|1433|Caiway|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSk06B6Oz:vxdUQnX|14.137.18.245|New Zealand|Auckland|Auckland|0627|Mercury NZ Limited|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSq6KFegG:bWAPEHA|203.211.73.242|New Zealand|Auckland|Auckland|1071|Devoli LTD|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVS7hsTAny:h3wCBlc|161.29.138.161|New Zealand|Canterbury|Christchurch|8011|FX VoIP Network|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVS3qnELz2:MoueAyv|118.92.144.134|New Zealand|Auckland|Auckland|1021|One New Zealand Group Limited|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSAUu8UTT:Oyl4nD3|121.99.49.122|New Zealand|Canterbury|Christchurch|8024|Two Degrees Mobile Limited|Black List: No|Use Type: Cellular
-152.53.170.41:26921:DVSq6KFegG:bWAPEHA|203.211.73.242|New Zealand|Auckland|Auckland|1071|Devoli LTD|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSTrmJYHp:QKlqDuk|101.98.116.217|New Zealand|Auckland|Auckland|1010|Two Degrees Mobile Limited|Black List: No|Use Type: Cellular
-23.137.105.13:39473:DVSNBF89Jt:8f2mdrl|31.20.85.136|The Netherlands|North Brabant|Helmond|5708|TMONL|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVS99IGHAS:K7NzuKk|77.249.218.35|The Netherlands|North Holland|Alkmaar|1825|Vodafone Ziggo|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSzHKNd8k:1GGc1fa|84.104.160.234|The Netherlands|South Holland|Zoetermeer|2719|ZIGGO|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSRRMrVBs:oAGBwRv|62.45.97.127|The Netherlands|North Holland|Kudelstaart|1433|Caiway|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSuFY5xTH:b2ZUtTS|24.132.8.217|The Netherlands|North Holland|Zaandam|1504|Vodafone Ziggo|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSnUfWMNn:sxZqfpV|62.250.202.84|The Netherlands|North Holland|Amsterdam|1019|TMONL|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSwUm0nSZ:2kfA0pj|113.32.127.124|Japan|Tokyo|Katsushika|124-0011|UCOM Corp.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSmm9VwZ2:Nj9JaZD|118.0.104.2|Japan|Chiba|Sakura|285-0021|NTT Communications Corporation|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSAUu8UTT:Oyl4nD3|203.211.104.134|New Zealand|Auckland|Auckland|1022|DEVOLI|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSEH4PEb4:sbkNJoN|14.137.18.245|New Zealand|Auckland|Auckland|0627|Mercury NZ Limited|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVStuICLHH:1z6ihCT|203.211.72.252|New Zealand|Auckland|Auckland|1071|Devoli LTD|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSMjScD7z:rbJZjoR|106.73.204.0|Japan|Ibaraki|Tsukuba|305-0811|JPNE-IP4|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSujG28sC:Jn91uQi|160.249.15.201|Japan|Osaka|Osaka|530-0041|NTT DOCOMO, INC.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSozeRm2j:PUFJbte|180.22.153.223|Japan|Yamaguchi|Yamaguchi|753-0071|NTT Communications Corporation|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSU6REwqz:LsRMKyG|113.32.127.124|Japan|Tokyo|Katsushika|124-0011|UCOM Corp.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSz2D3x9R:TpvDr1i|111.169.152.0|Japan|Wakayama|Wakayama|640-8231|BIGLOBE Inc.|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVS0LVUGs8:hR5ttOo|87.21.141.164|Italy|Campania|Naples|80147|Telecom Italia S.p.A. TIN EASY LITE|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSVQYYyBz:1pEZESm|153.166.135.202|Japan|Shizuoka|Fukuroi|437-0061|NTT Communications Corporation|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSN5Ijj7J:ZQ95K3t|79.26.58.35|Italy|Emilia-Romagna|Bologna|40132|INTERBUSINESS|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSBGoJBde:ZDU98A0|217.178.122.7|Japan|Osaka|Ōsaka-sayama|589-0032|Internet Multifeed CO.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS6rlVTPU:uk2Zlyc|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSSFaNeAU:UwnRfAc|84.33.176.79|Italy|Lombardy|Agnadello|26020|EOLO S.p.A.|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSwUm0nSZ:2kfA0pj|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSFhoTqAa:Ltpxisx|115.124.187.99|Japan|Fukuoka|Minami|830-0051|QTnet, Inc.|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSN5Ijj7J:ZQ95K3t|79.26.58.35|Italy|Emilia-Romagna|Bologna|40132|INTERBUSINESS|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSfp8qyaA:dnqXOBJ|88.184.87.183|France|Auvergne-Rhône-Alpes|La Ricamarie|42150|ProXad network / Free SAS|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSz2D3x9R:TpvDr1i|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSBudKDRE:hqahbLe|94.239.74.241|France|Île-de-France|Vitry-sur-Seine|94400|Bouygues Telecom ISP|Black List: No|Use Type: Residential
 159.69.37.39:35819:DVSHu240CI:n9d7kny|146.241.152.24|Italy|Lombardy|Lecco|23900|EOLO S.p.A|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSe0cugCf:06SUOgH|2.39.121.148|Italy|Lazio|Rome|00166|VODAFONE|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSl1AcGXM:HqzzTs8|188.217.49.136|Italy|Tuscany|Florence|50123|Vodafone|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSR86nOU6:Feu014Z|93.70.103.34|Italy|Veneto|Padua|35142|Vodafone|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSBudKDRE:hqahbLe|94.239.74.241|France|Île-de-France|Vitry-sur-Seine|94400|Bouygues Telecom ISP|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSYKv7Qnq:LNL7cJ0|82.125.8.30|France|Nouvelle-Aquitaine|Les Mathes|17570|France Telecom|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSoBzC6SX:JjD8sON|109.23.73.3|France|Pays de la Loire|Saint-Herblain|44800|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSbVQFLTM:LoIPFw3|92.151.9.25|France|Île-de-France|Vaucresson|92420|France Telecom Orange|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSF0cseGI:nRXVz1n|93.148.244.17|Italy|Campania|Naples|80127|Vodafone|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSfp8qyaA:dnqXOBJ|88.184.87.183|France|Auvergne-Rhône-Alpes|La Ricamarie|42150|ProXad network / Free SAS|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSoBzC6SX:JjD8sON|109.23.73.3|France|Pays de la Loire|Saint-Herblain|44800|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSpFIbKI6:9RfmESB|46.193.66.251|France|Île-de-France|Aubervilliers|93300|Wifirst Networks|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS9MNynaV:INdVtKm|151.61.215.154|Italy|Emilia-Romagna|Modena|41121|INFOSTRADA|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSiz8D6kG:re6eKcA|37.65.6.75|France|Nouvelle-Aquitaine|Bordeaux|33000|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSYKv7Qnq:LNL7cJ0|82.125.8.30|France|Nouvelle-Aquitaine|Les Mathes|17570|France Telecom|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS0BlZaLa:B03VL8c|2.7.173.147|France|Auvergne-Rhône-Alpes|Aix-les-Bains|73100|Orange|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSUwH1Cgd:Jjj6Jn2|37.65.111.215|France|Occitanie|Toulouse|31000|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSZ4csPGA:Gt15OD5|37.67.125.169|France|Île-de-France|Saint-Denis|93200|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSlLRAmnR:gHVnCDj|91.169.9.66|France|Île-de-France|Saint-Denis|93200|Free|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSf61CHjZ:ueswq4p|78.120.132.128|France|Auvergne-Rhône-Alpes|Grenoble|38000|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSR86nOU6:Feu014Z|93.70.103.34|Italy|Veneto|Padua|35142|Vodafone|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSVFhMjHK:4gbhMIM|176.189.253.11|France|Nouvelle-Aquitaine|Anglet|64600|BOUYGUES Telecom|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS5xwdioM:PyyOxjH|91.163.179.151|France|Île-de-France|Melun|77000|Free SAS|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSFf4iPnm:Ld7xCIX|2.13.214.121|France|Île-de-France|Villemomble|93250|Orange S.A|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS0og1OmR:midCVNq|79.90.222.151|France|Nouvelle-Aquitaine|Bordeaux|33000|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSdmYYeAo:xquCdgv|178.51.226.235|Belgium|Wallonia|Liège|4000|Orange Belgium SA|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS4hpBw6U:pQygAl6|78.199.150.64|France|Île-de-France|Paris|75006|ProXad network / Free|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSji40rqF:FpgWRTG|81.65.161.179|France|Provence-Alpes-Côte d'Azur|Nice|06200|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSiT8idIy:znOMVYb|88.120.240.16|France|Bourgogne-Franche-Comté|Montbéliard|25200|Free SAS|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVS0EwXyuL:2mLgPXA|86.196.83.97|France|Centre-Val de Loire|Nogent-le-Rotrou|28400|France Telecom|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSfgshqpw:35au31D|176.173.63.63|France|Auvergne-Rhône-Alpes|Lyon|69000|BOUYGUES Telecom|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS4hpBw6U:pQygAl6|78.199.150.64|France|Île-de-France|Paris|75006|ProXad network / Free|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSdmYYeAo:xquCdgv|178.51.226.235|Belgium|Wallonia|Liège|4000|Orange Belgium SA|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSji40rqF:FpgWRTG|81.65.161.179|France|Provence-Alpes-Côte d'Azur|Nice|06200|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSjsH0ZdA:3PHXRkf|91.167.107.141|France|Hauts-de-France|Amiens|80080|Free|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS1cd7BLD:kEm4BnY|109.137.186.30|Belgium|Wallonia|Liège|4000|Proximus NV|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSUOjXfFL:ClPGwYp|81.247.134.225|Belgium|Flanders|Antwerp|2600|Proximus|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSI3qW7Hq:nm5o27f|178.51.75.119|Belgium|Brussels Capital|Brussels|1020|Orange Belgium SA|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSYm9me5P:UABBYCS|178.51.58.215|Belgium|Brussels Capital|Brussels|1000|Orange Belgium SA|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSn357YvC:QdTVtH1|109.132.146.140|Belgium|Flanders|Schoten|2900|Proximus|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVS2uOHnYb:mmH0Fim|91.179.167.139|Belgium|Flanders|Antwerp|2600|Proximus|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSd07JNaI:Nh3A0wh|109.137.186.30|Belgium|Wallonia|Liège|4000|Proximus NV|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSP9VOahQ:MdaLFsf|87.67.14.158|Belgium|Flanders|Ghent|9000|Proximus|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSsmdX6pE:3DWBdA8|91.178.105.217|Belgium|Brussels Capital|Brussels|1000|Proximus|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSjepkKXa:e2phMNG|91.178.105.217|Belgium|Brussels Capital|Brussels|1000|Proximus|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVScA1NsTK:iQCf9Ei|91.177.29.112|Belgium|Flanders|Schoten|2900|Proximus|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSlJ1bYOt:yzIbeuq|47.61.65.123|Spain|Catalonia|Barcelona|08080|Vodafone Global Enterprise Inc.|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVS9MNynaV:INdVtKm|151.61.215.154|Italy|Emilia-Romagna|Modena|41121|INFOSTRADA|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSFf4iPnm:Ld7xCIX|2.13.214.121|France|Île-de-France|Villemomble|93250|Orange S.A|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSf61CHjZ:ueswq4p|78.120.132.128|France|Auvergne-Rhône-Alpes|Grenoble|38000|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS5xwdioM:PyyOxjH|91.163.179.151|France|Île-de-France|Melun|77000|Free SAS|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSCXcMrGE:Z88YdcN|178.51.70.106|Belgium|Brussels Capital|Brussels|1020|Orange Belgium SA|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSKxACumv:WOt92Jt|185.74.195.121|Spain|Castille and León|Valdestillas|47240|Fibergreen Tecnologicas S.L.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSS1b7MEE:Ln8aMaC|37.223.52.248|Spain|Catalonia|Barcelona|08015|Vodafone Espana S.A.U.|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS093n4Qt:GtqKEaB|78.21.71.229|Belgium|Flanders|Zottegem|9620|Telenet operaties N.V.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSiT8idIy:znOMVYb|88.120.240.16|France|Bourgogne-Franche-Comté|Montbéliard|25200|Free SAS|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVS1cd7BLD:kEm4BnY|109.137.186.30|Belgium|Wallonia|Liège|4000|Proximus NV|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSI3qW7Hq:nm5o27f|178.51.75.119|Belgium|Brussels Capital|Brussels|1020|Orange Belgium SA|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS0og1OmR:midCVNq|79.90.222.151|France|Nouvelle-Aquitaine|Bordeaux|33000|Societe Francaise Du Radiotelephone - SFR SA|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSZ4csPGA:Gt15OD5|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSsmdX6pE:3DWBdA8|91.178.105.217|Belgium|Brussels Capital|Brussels|1000|Proximus|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVS2uOHnYb:mmH0Fim|91.179.167.139|Belgium|Flanders|Antwerp|2600|Proximus|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSP9VOahQ:MdaLFsf|87.67.14.158|Belgium|Flanders|Ghent|9000|Proximus|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSjepkKXa:e2phMNG|91.178.105.217|Belgium|Brussels Capital|Brussels|1000|Proximus|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSn357YvC:QdTVtH1|109.132.146.140|Belgium|Flanders|Schoten|2900|Proximus|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSoMmOIMC:M614LWE|37.133.233.170|Spain|Catalonia|Sant Vicenç dels Horts|08620|Orange Spain|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSd07JNaI:Nh3A0wh|109.137.186.30|Belgium|Wallonia|Liège|4000|Proximus NV|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSlJ1bYOt:yzIbeuq|47.61.65.123|Spain|Catalonia|Barcelona|08080|Vodafone Global Enterprise Inc.|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSoaitWIZ:8tXWoMV|197.167.211.68|Egypt|Cairo Governorate|Cairo||Link Egypt (Link.NET)|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSLeFaBku:Wu4IYN6|37.14.128.194|Spain|Catalonia|Mollet del Vallès|08100|Jazz Telecom S.A|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSlPN9yS9:gkXjAlc|88.148.49.10|Spain|Murcia|Molina de Segura|30500|Generacion Tecnologica De Comunicaciones, Sociedad Limitada.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS2M0Xkbb:850IfsN|46.25.21.114|Spain|Canary Islands|Las Palmas de Gran Canaria|35014|Vodafone Espana S.A.U.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSaIjRyo5:u3jVYUy|92.177.224.132|Spain|Catalonia|Barcelona|08080|UNI2|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSoaitWIZ:8tXWoMV|197.43.81.30|Egypt|Gharbia|Al Maḩallah al Kubrá||TE Data|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSDgAz87p:RTEMpd2|197.54.192.223|Egypt|Cairo Governorate|Cairo||TE Data|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSZXEGr4A:DGphWEq|102.44.133.5|Egypt|Cairo Governorate|Cairo||TE Data|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSeXIQEMM:TXs1M2M|141.179.11.122|Saudi Arabia|Eastern Province|Dammam||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS2M0Xkbb:850IfsN|79.116.129.71|Spain|Basque Country|Bilbao|48011|Digi Spain Telecom S.L.U.|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSDgAz87p:RTEMpd2|154.177.21.224|Egypt|Cairo Governorate|Cairo||TE Data|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSWDGivZh:LPrpxWb|94.98.245.204|Saudi Arabia|Al-Qassim Region|Buraidah||Saudinet DSL|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSCw6379A:53sWgPu|153.94.81.17|Saudi Arabia|Mecca Region|Jeddah||STC FBB|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSGuOKw7k:jH5T20W|94.99.25.169|Saudi Arabia|Al-Qassim Region|Buraidah||Saudinet DSL|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSlPN9yS9:gkXjAlc|88.148.49.10|Spain|Murcia|Molina de Segura|30500|Generacion Tecnologica De Comunicaciones, Sociedad Limitada.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSS1b7MEE:Ln8aMaC|81.61.201.52|Spain|Madrid|Madrid|28031|Ono|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSKxACumv:WOt92Jt|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSXg6kpvd:G8h8AfX|188.51.3.138|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudinet DSL|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVS70mw7gc:EjqXdiy|149.109.136.40|Saudi Arabia|Medina Region|Medina||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSCjbQ7un:TD8n6eL|2.90.254.19|Saudi Arabia|Mecca Region|Jeddah||Saudinet|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSVorl1mN:kA91WVr|139.64.6.219|Saudi Arabia|Eastern Province|Dammam||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSeXIQEMM:TXs1M2M|141.179.11.122|Saudi Arabia|Eastern Province|Dammam||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSGuOKw7k:jH5T20W|94.99.25.169|Saudi Arabia|Al-Qassim Region|Buraidah||Saudinet DSL|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSCw6379A:53sWgPu|153.94.81.17|Saudi Arabia|Mecca Region|Jeddah||STC FBB|Black List: No|Use Type: Residential
 159.69.37.39:35819:DVSmNjSJ5T:BhFq4NH|37.106.218.183|Saudi Arabia|Mecca Region|Jeddah||Saudinet|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSwjoHZqx:aLzMSVU|142.154.16.90|Saudi Arabia|Mecca Region|Jeddah||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSqGK8P72:JLl7swT|139.64.7.183|Saudi Arabia|Eastern Province|Dammam||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSnxff4tP:CJq3CIz|51.36.232.148|Saudi Arabia|Mecca Region|Jeddah||Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
-152.53.170.41:26921:DVSKojiwOc:XIQrGHj|5.41.135.143|Saudi Arabia|Mecca Region|Jeddah||SaudiNet|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSqeMrh06:LHW6NkC|175.110.185.82|Saudi Arabia|Mecca Region|Jeddah||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVS35LvCMB:S2IwbhP|176.17.122.158|Saudi Arabia|Riyadh Region|Riyadh|09848|Internet Broadband|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSZXEGr4A:DGphWEq|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSVorl1mN:kA91WVr|139.64.6.219|Saudi Arabia|Eastern Province|Dammam||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
 159.69.37.39:35819:DVSaUYSGZL:1M15aT7|178.86.243.187|Saudi Arabia|Riyadh Region|Riyadh|09848|Saudi Telecom Company JSC|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSf5x6agP:vqCQj1A|200.9.19.125|Brazil|Goiás|Goiânia|74000|Internet Ultra Ltda|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVS3FlZa8b:F6UFqZX|168.90.250.88|Brazil|Goiás|Indiara|75955|GR TELECOMUNICAÇÕES LTDA ME|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSscKB1gQ:p1jfu38|45.226.127.71|Brazil|São Paulo|Cotia|06708|G M DA COSTA INTERNET|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSs7npECj:ds2AYw8|2.90.45.144|Saudi Arabia|Mecca Region|Jeddah||Saudinet|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSCg0OlOD:PrCpZSq|50.119.43.76|Saudi Arabia|Riyadh Region|Riyadh|09848|STC FBB|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSkNa4F9G:1CkS6vD|178.73.73.174|Saudi Arabia|Mecca Region|Jeddah||Bayanat Al-Oula Network Services|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVScgbU65D:I5pV4Zr|186.216.176.30|Brazil|Amapá|Macapá|68908|Voce Telecomunicacoes Ltda|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVS0VMgH0q:eTqGq5j|186.216.255.82|Brazil|Rio Grande do Sul|Porto Alegre|90000|UNIFIQUE TELECOMUNICACOES S/A|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSXWbfjRg:JfLmQbX|177.55.205.29|Brazil|Rio de Janeiro|Rio de Janeiro|22790|Giga Mais Fibra Telecomunicacoes S.A.|Black List: No|Use Type: Residential
-159.69.37.39:35819:DVSiW1QFOo:8NkxDTv|179.109.141.158|Brazil|Espírito Santo|Alegre|29500|Digital NET RJ Telecom Eireli|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSl4uPZCQ:IqIWvnG|189.36.251.191|Brazil|Paraná|Colombo|83400|NETCOL - SERVIÇO DE PROVEDORES DE ACESSO LTDA|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSGFF6QV0:a7KwHlv|177.60.125.199|Brazil|São Paulo|São Paulo|01000|Vivo|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSPjOHcv0:NmvTrEl|190.89.94.167|Brazil|Minas Gerais|São Gonçalo do Sapucaí|37490|SS TECNOLOGIA LTDA|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSezLevbg:pwqsO87|177.129.251.137|Brazil|São Paulo|Penápolis|16300|Maxcomm Ltda EPP|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVS6cBzxYg:LQHSg7Z|114.74.102.184|Australia|New South Wales|Albury|2640|SingTel Optus Pty Ltd|Black List: No|Use Type: Residential
 159.69.37.39:35819:DVSxVtd8nW:ysoDCvk|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSscKB1gQ:p1jfu38|45.226.127.71|Brazil|São Paulo|Cotia|06708|G M DA COSTA INTERNET|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVS3FlZa8b:F6UFqZX|168.90.250.88|Brazil|Goiás|Indiara|75955|GR TELECOMUNICAÇÕES LTDA ME|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSKojiwOc:XIQrGHj|5.41.135.143|Saudi Arabia|Mecca Region|Jeddah||SaudiNet|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSCg0OlOD:PrCpZSq|50.119.43.76|Saudi Arabia|Riyadh Region|Riyadh|09848|STC FBB|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVScgbU65D:I5pV4Zr|186.216.176.30|Brazil|Amapá|Macapá|68908|Voce Telecomunicacoes Ltda|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVS35LvCMB:S2IwbhP|51.39.231.197|Saudi Arabia|Riyadh Region|Riyadh|09848|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Black List: No|Use Type: Cellular
+159.69.37.39:35819:DVSgBLWz9P:EBsaaag|179.216.241.109|Brazil|São Paulo|Valparaíso|16880|Claro NXT Telecomunicacoes Ltda|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVS70mw7gc:EjqXdiy|149.109.136.40|Saudi Arabia|Medina Region|Medina||Saudi Telecom Company JSC|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSXWbfjRg:JfLmQbX|177.55.205.29|Brazil|Rio de Janeiro|Rio de Janeiro|22790|Giga Mais Fibra Telecomunicacoes S.A.|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSHvvK8Gh:781US4Q|110.149.150.212|Australia|New South Wales|Sydney|2170|Telstra Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS7vtOghR:4QZfJbI|14.200.15.74|Australia|Victoria|Melbourne|3000|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSZXLqqre:YXAwAAT|124.190.45.67|Australia|Victoria|Melbourne|3037|Telstra Internet|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSldaF81Y:glmNJZA|45.180.211.93|Brazil|São Paulo|Santa Cruz das Palmeiras|13650|BS News Informática SCM Ltda ME|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS07NltkH:g4JFw1s|101.115.11.65|Australia|New South Wales|Sydney|2127|Vodafone Australia Pty Ltd|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSDpqTPdF:5uaB2sw|115.70.62.54|Australia|Victoria|Melbourne|3029|EXETEL-Broadband|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSeEK44Ag:3ddZcvd|122.150.189.240|Australia|Victoria|Melbourne|3084|Vocus PTY LTD|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSymOlOc5:ZJndbcQ|58.96.84.25|Australia|Victoria|Melbourne|3000|SUPERLOOP (AUSTRALIA) PTY LTD|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSamenJGK:zGXoMAg|58.161.28.175|Australia|New South Wales|Sydney|2176|Telstra Limited|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVS2gfXQoB:q0Mk4eD|110.144.138.25|Australia|New South Wales|Sydney|2190|Telstra Limited|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSHga1O8g:22De4FK|194.193.202.237|Australia|New South Wales|Sydney|2017|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
+159.69.37.39:35819:DVSiW1QFOo:8NkxDTv|177.66.142.182|Brazil|Santa Catarina|Criciúma|88800|Clonix Telecom Eireli ME|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSC4bIw4i:dyd0j72|211.27.83.84|Australia|Victoria|Melbourne|3042|Vocus PTY LTD|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSIFAKmjb:WOylFnO|88.134.135.19|Germany|Schleswig-Holstein|Norderstedt|22848|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSPrTn9A9:p9qirQP|177.124.14.133|Brazil|São Paulo|Pindamonhangaba|12400|Vivas Telecomunicacoes Ltda|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVS2gfXQoB:q0Mk4eD|110.144.138.25|Australia|New South Wales|Sydney|2190|Telstra Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSZXLqqre:YXAwAAT|124.190.45.67|Australia|Victoria|Melbourne|3037|Telstra Internet|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS7vtOghR:4QZfJbI|14.200.15.74|Australia|Victoria|Melbourne|3000|TPG Internet Pty Ltd|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSamenJGK:zGXoMAg|58.161.28.175|Australia|New South Wales|Sydney|2176|Telstra Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSymOlOc5:ZJndbcQ|58.96.84.25|Australia|Victoria|Melbourne|3000|SUPERLOOP (AUSTRALIA) PTY LTD|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSqdYx72d:uJX9fzN|1.145.28.208|Australia|New South Wales|Sydney|2200|Telstra Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSIw0YSbz:XfcGQJh|167.179.159.61|Australia|New South Wales|Sydney|2200|Aussie Broadband|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS06fZzJy:r043WDV|122.150.140.41|Australia|New South Wales|Sydney|2145|Vocus PTY LTD|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVStZqRKbV:5I4isTZ|175.37.147.82|Australia|Victoria|Melbourne|3073|SingTel Optus Pty Ltd|Black List: No|Use Type: Residential
-89.58.45.94:26058|212.58.102.172|Georgia|Tbilisi|Tbilisi||Caucasus Online LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSnivmN4K:Xj74YDE|115.186.214.30|Australia|New South Wales|Sydney|2000|SUPERLOOP (AUSTRALIA) PTY LTD|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS1kO9JHh:71S3U8d|89.0.119.187|Germany|North Rhine-Westphalia|Cologne|51063|NetCologne Gesellschaft fur Telekommunikation mbH|Black List: No|Use Type: Business
+91.98.199.53:39163:DVSeEK44Ag:3ddZcvd|122.150.189.90|Australia|Victoria|Melbourne|3084|Vocus PTY LTD|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS06fZzJy:r043WDV|122.150.140.44|Australia|New South Wales|Sydney|2145|Vocus PTY LTD|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSDpqTPdF:5uaB2sw|115.70.62.54|Australia|Victoria|Melbourne|3029|EXETEL-Broadband|Black List: No|Use Type: Residential
+152.53.171.242:38567|112.201.105.225|Philippines|Metro Manila|Quezon City|1103|Philippine Long Distance Telephone Co.|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSIFAKmjb:WOylFnO|88.134.135.19|Germany|Schleswig-Holstein|Norderstedt|22848|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSezLevbg:pwqsO87|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVS7oBGF2U:dJpyVYG|91.60.130.199|Germany|North Rhine-Westphalia|Leverkusen|51373|Deutsche Telekom AG|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSVXkhsiQ:VOcld7E|93.234.252.172|Germany|Hesse|Schwalbach am Taunus|65824|Deutsche Telekom AG|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSPi0EUCv:NSGfIw9|103.224.52.151|Australia|Victoria|Melbourne|3066|SUPERLOOP (AUSTRALIA) PTY LTD|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSvbpzJuR:3mDxmLN|95.88.84.137|Germany|Saarland|Neunkirchen|66538|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSbU54m92:D4HN0te|207.89.120.58|Germany|State of Berlin|Berlin|12103|TELE AG|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSIw0YSbz:XfcGQJh|167.179.159.61|Australia|New South Wales|Sydney|2200|Aussie Broadband|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSldaF81Y:glmNJZA|45.180.211.93|Brazil|São Paulo|Santa Cruz das Palmeiras|13650|BS News Informática SCM Ltda ME|Black List: No|Use Type: Residential
+89.58.45.94:26058|212.58.102.172|Georgia|Tbilisi|Tbilisi||Caucasus Online LLC|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSyaGjXjc:RODxH4k|84.60.45.136|Germany|North Rhine-Westphalia|Kleve|47533|ARCOR-IP|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSUYdJ54O:RulKuJk|58.111.75.216|Australia|New South Wales|Sydney|2148|SingTel Optus Pty Ltd|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSOCvIxGq:7T77YK0|92.78.204.51|Germany|Baden-Wurttemberg|Stuttgart|70469|ARCOR-IP|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSHClkh3v:EhzBOvr|84.143.152.56|Germany|State of Berlin|Berlin|10785|Deutsche Telekom AG|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSA8owsMR:lGvqOgX|185.90.200.154|Germany|Bavaria|Schweinfurt|97424|RegioNet Schweinfurt GmbH|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSA9qpzgD:uVylpUR|185.90.200.154|Germany|Bavaria|Schweinfurt|97424|RegioNet Schweinfurt GmbH|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSjBaEZA9:mDVjhCx|93.239.57.81|Germany|North Rhine-Westphalia|Hamm|59071|Deutsche Telekom AG|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVS3RR29S9:usBOpWe|66.222.173.223|Canada|Ontario|Toronto|M4G|TELUS Communications Inc|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSis0wbX1:11EykcW|91.18.143.167|Germany|North Rhine-Westphalia|Meerbusch|40670|Deutsche Telekom AG|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS07NltkH:g4JFw1s|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSjBaEZA9:mDVjhCx|93.239.57.81|Germany|North Rhine-Westphalia|Hamm|59071|Deutsche Telekom AG|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSRTdl80b:WIWqYLj|24.57.171.178|Canada|Ontario|Oakville|L6M|Cogeco Connexion Inc.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSvbpzJuR:3mDxmLN|95.88.84.137|Germany|Saarland|Neunkirchen|66538|Vodafone Kabel Deutschland|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSis0wbX1:11EykcW|91.18.143.167|Germany|North Rhine-Westphalia|Meerbusch|40670|Deutsche Telekom AG|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSsUr6kXE:ELFpoBq|184.147.184.24|Canada|Ontario|Toronto|M2N|Bell Canada|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSa1yz6Al:6m7rKNc|45.74.101.11|Canada|Ontario|London|N5X|Start Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSs9zmM6I:kwYYubq|66.222.173.223|Canada|Ontario|Toronto|M4G|TELUS Communications Inc|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSz4DEn49:Zba6nD8|142.90.242.67|Canada|Ontario|Brampton|L6Y|Altima Telecom|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSA9qpzgD:uVylpUR|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVS8jq10zp:CKSSiG5|86.132.185.120|United Kingdom|England|Liverpool|L36|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSjzwSIlP:7y6pAFW|80.249.128.32|United Kingdom|England|High Wycombe|HP12|F & W Networks Ltd|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS2VZuUId:XPDQCxL|149.36.18.54|United Kingdom|England|Fulham|W14|ITS Technology Group Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSb5lQn02:SDWisMd|86.27.167.187|United Kingdom|Northern Ireland|Newtownabbey|BT36|Virgin Media Limited|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSGrkTwVo:CsQ7eP4|82.5.56.173|United Kingdom|England|Hoddesdon|EN11|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSXIDeBOs:6JTtZYo|92.236.189.89|United Kingdom|Scotland|Edinburgh|EH7|Virgin Media Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSOCvIxGq:7T77YK0|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSmG7orHb:YWDpejc|90.192.18.150|United Kingdom|England|Woking|GU22|Sky UK Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSInc6U8c:t0fphAX|134.41.195.112|Canada|Nova Scotia|Halifax|B3K|Bell Canada|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSDk3q8gV:0myYX6K|82.42.156.50|United Kingdom|England|Norwich|NR3|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSo3xZgfB:cH8i58x|96.20.78.175|Canada|Quebec|Brossard|J4Y|Le Groupe Videotron Ltee|Black List: No|Use Type: Cellular
+91.98.199.53:39163:DVSb5lQn02:SDWisMd|86.27.167.187|United Kingdom|Northern Ireland|Newtownabbey|BT36|Virgin Media Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSs9zmM6I:kwYYubq|66.222.173.223|Canada|Ontario|Toronto|M4G|TELUS Communications Inc|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSHsgeD9j:yDjfZUk|86.174.207.51|United Kingdom|England|Colchester|CO2|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSX4GSQAq:K83TaSb|86.145.147.237|United Kingdom|England|Bedworth|CV12|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSR7m2ODP:tzeCJD9|31.96.9.233|United Kingdom|England|Riseley|MK44|British Telecommunications PLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSInc6U8c:t0fphAX|134.41.195.112|Canada|Nova Scotia|Halifax|B3K|Bell Canada|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSa1yz6Al:6m7rKNc|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSbU54m92:D4HN0te|207.89.120.58|Germany|State of Berlin|Berlin|12103|TELE AG|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSWySs1eS:DQSSf2c|82.13.228.228|United Kingdom|England|Kensington|W11|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS8WnJafk:hXqJaa5|84.69.103.251|United Kingdom|England|Birmingham|B20|Vodafone Limited|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVSgTtGAIW:b3WweW4|80.249.128.53|United Kingdom|England|High Wycombe|HP12|F & W Networks Ltd|Black List: No|Use Type: Residential
-152.53.194.55:35913:DVS1aOen83:PIEZFW7|188.30.159.18|United Kingdom|England|Northampton|NN3|Hutchison 3G UK Ltd|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSsXDGbu0:9qvksaQ|81.107.38.145|United Kingdom|England|Liverpool|L4|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSRx1guvo:kwy8MKV|86.30.137.140|United Kingdom|England|Coventry|CV6|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSDf1eU93:RrwDwnD|217.43.87.89|United Kingdom|Scotland|Glasgow|G69|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSLqVjBA5:mVqmOrB|86.174.180.220|United Kingdom|England|Wednesbury|WS10|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSTQpxqeK:v82P4T1|109.153.254.188|United Kingdom|England|Gateshead|NE8|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSNkkZAlJ:fw0GSed|82.11.243.230|United Kingdom|England|Middlesbrough|TS6|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSN7FySeI:IYV4ORw|82.28.20.12|United Kingdom|England|Liverpool|L18|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSkGc7X57:Z7aWu0Q|82.10.67.227|United Kingdom|England|Bradford|BD7|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS0xcl08V:RKqLvac|80.7.192.180|United Kingdom|England|Manchester|M8|Virgin Media Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSXIDeBOs:6JTtZYo|92.236.189.89|United Kingdom|Scotland|Edinburgh|EH7|Virgin Media Limited|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSo8QoiH0:lO9fJ3P|86.28.97.244|United Kingdom|England|Leeds|LS6|Virgin Media Limited|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSGrkTwVo:CsQ7eP4|82.5.56.173|United Kingdom|England|Hoddesdon|EN11|Virgin Media Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS2VZuUId:XPDQCxL|149.36.18.54|United Kingdom|England|Fulham|W14|ITS Technology Group Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSo3xZgfB:cH8i58x|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVS1aOen83:PIEZFW7|188.30.159.18|United Kingdom|England|Northampton|NN3|Hutchison 3G UK Ltd|Black List: No|Use Type: Residential
+152.53.194.55:35913:DVSgTtGAIW:b3WweW4|80.249.128.21|United Kingdom|England|High Wycombe|HP12|F & W Networks Ltd|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSjzwSIlP:7y6pAFW|80.249.128.32|United Kingdom|England|High Wycombe|HP12|F & W Networks Ltd|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSsXDGbu0:9qvksaQ|81.107.38.145|United Kingdom|England|Liverpool|L4|Virgin Media Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSLqVjBA5:mVqmOrB|86.174.180.220|United Kingdom|England|Wednesbury|WS10|BT Public Internet Service|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSX4GSQAq:K83TaSb|86.145.147.237|United Kingdom|England|Bedworth|CV12|BT Public Internet Service|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS8WnJafk:hXqJaa5|84.69.103.251|United Kingdom|England|Birmingham|B20|Vodafone Limited|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSRx1guvo:kwy8MKV|86.30.137.140|United Kingdom|England|Coventry|CV6|Virgin Media|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSzquwG5A:M4awfr3|82.16.132.100|United Kingdom|England|Kidlington|OX5|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSaTAesp0:YZFDbvT|80.235.132.215|United Kingdom|England|Wolverhampton|WV10|Virgin Media|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSzzgHDmJ:m5vTKQb|51.14.157.35|United Kingdom|Northern Ireland|Belfast|BT14|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSTwwBQED:JaL3X5f|92.238.69.68|United Kingdom|England|Prescot|L35|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSuCiOubc:RByp7Vf|82.30.63.36|United Kingdom|England|Leeds|LS8|Virgin Media Limited|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSlxQeLHM:IVQVOat|109.149.79.39|United Kingdom|England|Crawley|RH10|BT Public Internet Service|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSWe50rxb:mXIE9Qm|47.161.155.214|United States|Texas|Fort Worth|76244|Frontier Communications of America, Inc.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSTAqxIah:2nTxOrl|134.22.112.183|United States|Georgia|Tifton|31794|Clearwave Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSR7m2ODP:tzeCJD9|31.96.9.233|United Kingdom|England|Riseley|MK44|British Telecommunications PLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSTQpxqeK:v82P4T1|109.153.254.188|United Kingdom|England|Gateshead|NE8|BT Public Internet Service|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSPqf8QXJ:L8x3Kl4|73.149.135.249|United States|Massachusetts|Attleboro|02703|Comcast Cable Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSCkWjbWR:aToSOTd|158.80.224.11|United States|Mississippi|Oak Vale|39656|PearlComm|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSTwwBQED:JaL3X5f|92.238.69.68|United Kingdom|England|Prescot|L35|Virgin Media Limited|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSLAc6lJp:EXFHViL|73.25.5.56|United States|Oregon|Salem|97302|Comcast Cable Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSk73aoyV:g3LwxBV|104.32.40.36|United States|California|Lawndale|90260|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSopm1wZT:PNLYLDF|108.14.108.99|United States|New York|Long Beach|11561|Verizon Business|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSy0lJ3AI:OXb9Syr|72.201.213.189|United States|Arizona|Phoenix|85083|Cox Communications Inc.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSYDPfjlR:DJHMhbx|69.246.30.134|United States|Mississippi|Hattiesburg|39402|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS8DYdxv4:WnonUDm|70.179.112.133|United States|Kansas|Wichita|67216|Cox Communications Inc.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSpQ2Z6rs:QDExqzj|47.147.83.228|United States|California|Long Beach|90807|Frontier Communications Solutions|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSRwjq3A3:9sySGWw|24.2.129.51|United States|Massachusetts|Jamaica Plain|02130|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSOojLnL5:99Q1pIW|173.48.248.62|United States|Massachusetts|North Easton|02356|Verizon Business|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSNkkZAlJ:fw0GSed|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSkGc7X57:Z7aWu0Q|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVS9kO9bef:s8SH0wD|73.111.146.87|United States|Indiana|Valparaiso|46385|Comcast Cable Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS0xcl08V:RKqLvac|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSlxQeLHM:IVQVOat|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSWe50rxb:mXIE9Qm|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 152.53.194.55:35913:DVSLfa9nTH:w9t1CML|209.188.32.54|United States|North Carolina|Leland|28451|Focus Broadband|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSls5oABp:0iH9E8e|192.84.4.170|United States|Tennessee|Bluff City|37618|Bristol Tennessee Essential Services|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVS00W4USB:TfqhOlw|46.110.3.71|United States|Ohio|Englewood|45322|Metronet|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSN6rgN03:zh2eHJz|186.82.99.7|Colombia|Cundinamarca|La Calera|251201|Telmex Colombia S.A.|Black List: No|Use Type: Business
+91.98.199.53:39163:DVSy0lJ3AI:OXb9Syr|72.201.213.189|United States|Arizona|Phoenix|85083|Cox Communications Inc.|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSuCiOubc:RByp7Vf|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSYDPfjlR:DJHMhbx|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSOojLnL5:99Q1pIW|173.48.248.62|United States|Massachusetts|North Easton|02356|Verizon Business|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSDneDo9p:wjCm0SM|73.223.72.36|United States|California|Mountain View|94043|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSpdEhOKo:fwpeO1O|76.174.52.140|United States|California|Corona|92882|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSQY9gUAu:3HEbxR6|76.175.233.151|United States|California|Lynwood|90262|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSrCzirdS:cw7o1gH|72.184.151.160|United States|Florida|Tampa|33602|Charter Communications|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSzFRPxsG:BK8oVlU|50.35.10.179|United States|Washington|Redmond|98052|Wholesail networks LLC|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSopm1wZT:PNLYLDF|108.14.108.99|United States|New York|Long Beach|11561|Verizon Business|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSpQ2Z6rs:QDExqzj|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSqFUWLhn:0y9GrJg|68.229.167.30|United States|Nebraska|Fort Calhoun|68023|Cox Communications Inc.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSk8VhhjP:auzGlFx|135.26.154.222|United States|California|Roseville|95747|Consolidated Communications, Inc.|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSWXmUMWH:whJ483Z|75.169.9.234|United States|Utah|Salt Lake City|84123|CenturyLink Communications, LLC|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVSfILQPci:BoXOqAy|174.182.42.166|United States|Indiana|Shelbyville|46176|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
 91.98.199.53:39163:DVSYUpwAm6:z8ATT3H|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSf9IVgp1:Phmkm6c|182.62.199.130|Malaysia|Kuala Lumpur|Kuala Lumpur|50480|DiGi Telecommunications Sdn Bhd., Digi Internet Exchange|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSQY9gUAu:3HEbxR6|76.175.233.151|United States|California|Lynwood|90262|Charter Communications|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSRDFUpYz:ZUx9fwA|180.75.46.37|Malaysia|Penang|George Town|10150|TM TECHNOLOGY SERVICES SDN BHD|Black List: No|Use Type: Residential
-91.98.199.53:39163:DVShWmdCv7:hecppW0|69.255.51.221|United States|Virginia|Alexandria|22304|Comcast Cable Communications, LLC|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSPNb0WZv:33UWZ2c|175.140.77.164|Malaysia|Kuala Lumpur|Kuala Lumpur|50515|Telekom Malaysia Berhad|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSgV2OmJE:OceCwtn|180.74.175.203|Malaysia|Sabah|Kota Kinabalu|88300|TM TECHNOLOGY SERVICES SDN BHD|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSEYXvPi4:FY8L6Wg|27.125.243.71|Malaysia|Selangor|Puchong Batu Dua Belas|47100|UM Public|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSf7aMPr0:RuB2HnW|161.142.246.234|Malaysia|Penang|George Town|10300|TT DOTCOM SDN BHD|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSNaQkeYi:1hXjtoE|60.53.34.166|Malaysia|Negeri Sembilan|Seremban|70400|TM TECHNOLOGY SERVICES SDN BHD|Black List: No|Use Type: Residential
-152.53.170.41:26921:DVSTVRUOvN:zapV2ym|180.75.252.73|Malaysia|Kuala Lumpur|Kuala Lumpur|52200|TM TECHNOLOGY SERVICES SDN BHD|Black List: No|Use Type: Residential
-23.137.105.13:39473:DVSFKwbJko:TpmmzfD|168.228.194.142|Honduras|Cortés Department|San Pedro Sula||Multicable De Honduras|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSrCzirdS:cw7o1gH|72.184.151.160|United States|Florida|Tampa|33602|Charter Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSpdEhOKo:fwpeO1O|76.174.52.140|United States|California|Corona|92882|Charter Communications|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVSzFRPxsG:BK8oVlU|50.35.10.179|United States|Washington|Redmond|98052|Wholesail networks LLC|Black List: No|Use Type: Residential
 23.137.105.13:39473:DVSOtrRLZC:THFwnoP|115.133.96.101|Malaysia|Selangor|Cyberjaya|63100|TM TECHNOLOGY SERVICES SDN BHD|Black List: No|Use Type: Residential
+91.98.199.53:39163:DVS00W4USB:TfqhOlw|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+23.137.105.13:39473:DVSFKwbJko:TpmmzfD|190.61.80.34|Honduras|Francisco Morazán Department|Tegucigalpa|11101|Ufinet Panama S.A.|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSf7aMPr0:RuB2HnW|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSEYXvPi4:FY8L6Wg|175.136.143.177|Malaysia|Sarawak|Kuching|93350|TM TECHNOLOGY SERVICES SDN BHD|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSTVRUOvN:zapV2ym|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
+152.53.170.41:26921:DVSgV2OmJE:OceCwtn|180.74.175.203|Malaysia|Sabah|Kota Kinabalu|88300|TM TECHNOLOGY SERVICES SDN BHD|Black List: No|Use Type: Residential
 152.53.170.41:26921:DVSzyVac8Y:hcUg7gt|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Black List: No|Use Type: Residential
