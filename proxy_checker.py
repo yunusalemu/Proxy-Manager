@@ -1,24 +1,65 @@
 import socks
-import socket
 import concurrent.futures
 import requests
 import threading
 import os
-import json
+import base64
 from datetime import datetime
 
-lock = threading.Lock()  # ensures file writes don't clash
+lock = threading.Lock()
+
+# ===================== ENCRYPTION =====================
+
+ENCRYPT_KEY         = "socksproxysupport"  # ✅ Must match Unity ProxyLookUp key exactly
+ENCRYPT_CREDENTIALS = False                 # 👈 Toggle — True = encrypted, False = plaintext
+
+def xor_encrypt(text):
+    """XOR encrypt then Base64 encode."""
+    if not text:
+        return ""
+    result = []
+    for i, c in enumerate(text):
+        result.append(chr(ord(c) ^ ord(ENCRYPT_KEY[i % len(ENCRYPT_KEY)])))
+    return base64.b64encode("".join(result).encode("latin-1")).decode("utf-8")
+
+def xor_decrypt(encoded):
+    """Base64 decode then XOR decrypt — used locally for verification and Active_Proxies.txt."""
+    if not encoded:
+        return ""
+    # Strip ENC: prefix if present before decrypting
+    if encoded.startswith("ENC:"):
+        encoded = encoded[4:]
+    try:
+        decoded = base64.b64decode(encoded.encode("utf-8")).decode("latin-1")
+        result  = []
+        for i, c in enumerate(decoded):
+            result.append(chr(ord(c) ^ ord(ENCRYPT_KEY[i % len(ENCRYPT_KEY)])))
+        return "".join(result)
+    except Exception:
+        return encoded
+
+def maybe_encrypt(text):
+    """
+    Encrypts and adds ENC: prefix if ENCRYPT_CREDENTIALS is True.
+    Unity SafeDecrypt() looks for ENC: prefix to know it needs decrypting.
+    Returns plaintext as-is if encryption is disabled.
+    """
+    if not text:
+        return ""
+    if ENCRYPT_CREDENTIALS:
+        return "ENC:" + xor_encrypt(text)  # ✅ Prefix required for Unity detection
+    return text
+
+# ======================================================
 
 
 def clean_proxy_line(line):
-    """Strip off everything after host:port:user:pass (or host:port)."""
+    """Strip off metadata — keep only host:port:user:pass or host:port."""
     line = line.strip()
     if not line:
         return ""
-
-    if "|" in line:  # remove metadata if present
+    if "|" in line:
         line = line.split("|")[0]
-
     return line
 
 
@@ -52,10 +93,10 @@ def classify_connection(isp_name):
 def test_proxy(proxy_line):
     proxy_line = clean_proxy_line(proxy_line)
     host, port, user, password = parse_proxy_line(proxy_line)
+
     if not host or not port:
         return False, proxy_line, None
 
-    # Try SOCKS5, then SOCKS4
     for proxy_type in [socks.SOCKS5, socks.SOCKS4]:
         try:
             s = socks.socksocket()
@@ -70,61 +111,54 @@ def test_proxy(proxy_line):
                 continue
 
             proxies_dict = {
-                "http": f"socks5h://{user+':'+password+'@' if user else ''}{host}:{port}",
-                "https": f"socks5h://{user+':'+password+'@' if user else ''}{host}:{port}",
+                "http":  f"socks5h://{user + ':' + password + '@' if user else ''}{host}:{port}",
+                "https": f"socks5h://{user + ':' + password + '@' if user else ''}{host}:{port}",
             }
-
-            # geo = {}
-            # try:
-            #     r = requests.get("http://ip-api.com/json", proxies=proxies_dict, timeout=10)
-            #     geo = r.json() if r.status_code == 200 else {}
-            # except Exception:
-            #     pass
-            
-            # ip = geo.get("query", "Unknown")
-            # country = geo.get("country", "Unknown")
-            # region = geo.get("regionName", "Unknown")
-            # city = geo.get("city", "Unknown")
-            # zip_code = geo.get("zip", "Unknown")
-            
-            # # 🧠 Smart ISP/ORG/AS selection logic
-            # org_val = geo.get("org", "").strip()
-            # as_val = geo.get("as", "").strip()
-            # isp_val = geo.get("isp", "").strip()
-            
-            # if as_val:
-            #     isp = as_val.split(" ", 1)[1] if " " in as_val else as_val
-            # elif org_val:
-            #     isp = org_val
-            # elif isp_val:
-            #     isp = isp_val
-            # else:
-            #     isp = "Unknown"
-            
-            # connection_type = classify_connection(isp if isp != "Unknown" else "")
 
             geo = {}
             try:
-                r = requests.get("http://ip-api.com/json", proxies=proxies_dict, timeout=10)
+                r   = requests.get("http://ip-api.com/json", proxies=proxies_dict, timeout=10)
                 geo = r.json() if r.status_code == 200 else {}
             except Exception:
                 pass
 
-            ip = geo.get("query", "Unknown")
-            country = geo.get("country", "Unknown")
-            region = geo.get("regionName", "Unknown")
-            city = geo.get("city", "Unknown")
-            zip_code = geo.get("zip", "Unknown")
-            isp = geo.get("isp", "Unknown")
+            country         = geo.get("country",    "Unknown")
+            region          = geo.get("regionName", "Unknown")
+            city            = geo.get("city",        "Unknown")
+            zip_code        = geo.get("zip",         "Unknown")
+            isp             = geo.get("isp",         "Unknown")
             connection_type = classify_connection(isp if isp != "Unknown" else "")
 
-            formatted = (
-                f"{proxy_line}|"
-                f"{ip}|{country}|{region}|{city}|{zip_code}|{isp}|"
-                f"Black List: No|Use Type: {connection_type}"
-            )
+            # Encrypt or keep plaintext based on toggle
+            enc_user = maybe_encrypt(user)     if user     else ""
+            enc_pass = maybe_encrypt(password) if password else ""
 
-            return True, proxy_line, formatted
+            # Verify encryption round-trips correctly when enabled
+            if ENCRYPT_CREDENTIALS and user:
+                verified = xor_decrypt(enc_user)
+                if verified != user:
+                    print(f"⚠️ Encryption verification failed for: {host}:{port}")
+                    return False, proxy_line, None
+
+            # host:port only goes in ipdata — credentials are separate
+            ip_data_clean = f"{host}:{port}"
+
+            mode = "🔐 Encrypted" if ENCRYPT_CREDENTIALS else "🔓 Plaintext"
+            print(f"✅ {host}:{port} | {country} / {region} | {isp} | {mode}")
+
+            result = {
+                "ip_data_clean": ip_data_clean,
+                "enc_user":      enc_user,
+                "enc_pass":      enc_pass,
+                "country":       country,
+                "region":        region,
+                "city":          city,
+                "zip_code":      zip_code,
+                "isp":           isp,
+                "proxy_type":    connection_type,
+            }
+
+            return True, proxy_line, result
 
         except Exception:
             continue
@@ -132,34 +166,24 @@ def test_proxy(proxy_line):
     return False, proxy_line, None
 
 
-# ==================== GOOGLE SHEET UPLOAD (Apps Script) ====================
-
-def upload_to_google_sheet_via_webapp(working_data):
-    """Send the proxy info to Google Sheet via Apps Script WebApp endpoint."""
-    WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyOakii2qa1YwCNv_oxkgPg-QgL_HZMhGuUn6Wo7wIEoCc33unHoZKhk63QUDGae0yq/exec"  # <-- Replace with your deployed Web App URL
-
-    timestamp = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
+def upload_to_google_sheet(working_results):
+    """Send proxy data to Google Sheet via Apps Script WebApp endpoint."""
+    WEB_APP_URL = "YOUR_NEW_WEB_APP_URL_HERE"  # 👈 Replace with your deployed Web App URL
+    timestamp   = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
     rows = []
-    for item in working_data:
-        parts = item.split("|")
-        if len(parts) >= 8:
-            proxy_full = parts[0].strip()
-            country = parts[2]
-            region = parts[3]
-            city = parts[4]
-            isp = parts[6]
-            proxy_type = parts[-1].split(":")[-1].strip()
-
-            rows.append({
-                "ipdata": proxy_full,
-                "country": country,
-                "region": region,
-                "city": city,
-                "isp": isp,
-                "proxy_type": proxy_type,
-                "last_updated": timestamp
-            })
+    for r in working_results:
+        rows.append({
+            "ipdata":       r["ip_data_clean"],  # host:port only — no credentials exposed
+            "enc_user":     r["enc_user"],        # ENC:xxxxxx or plaintext depending on toggle
+            "enc_pass":     r["enc_pass"],        # ENC:xxxxxx or plaintext depending on toggle
+            "country":      r["country"],
+            "region":       r["region"],
+            "city":         r["city"],
+            "isp":          r["isp"],
+            "proxy_type":   r["proxy_type"],
+            "last_updated": timestamp
+        })
 
     if not rows:
         print("⚠️ No valid proxy data to upload.")
@@ -168,14 +192,12 @@ def upload_to_google_sheet_via_webapp(working_data):
     try:
         response = requests.post(WEB_APP_URL, json=rows, timeout=30)
         if response.ok:
-            print(f"📤 Uploaded {len(rows)} proxies to Google Sheet successfully at {timestamp}.")
+            mode = "encrypted" if ENCRYPT_CREDENTIALS else "plaintext"
+            print(f"📤 Uploaded {len(rows)} proxies ({mode}) at {timestamp}.")
         else:
-            print(f"❌ Failed to upload data: {response.status_code} {response.text}")
-    except Exception as e:
-        print(f"⚠️ Error uploading to Google Sheet: {e}")
-
-
-# ===========================================================================
+            print(f"❌ Upload failed: {response.status_code} {response.text}")
+    except Exception as ex:
+        print(f"⚠️ Upload error: {ex}")
 
 
 def main():
@@ -183,11 +205,17 @@ def main():
         print("⚠️ No New_Proxies.txt found.")
         return
 
+    mode = "🔐 ENCRYPTION ENABLED" if ENCRYPT_CREDENTIALS else "🔓 ENCRYPTION DISABLED (plaintext)"
+    print(f"\n{'='*55}")
+    print(f"  Key:             {ENCRYPT_KEY}")
+    print(f"  Credential Mode: {mode}")
+    print(f"{'='*55}\n")
+
     with open("New_Proxies.txt", "r", encoding="utf-8", errors="ignore") as f:
         raw_proxies = [clean_proxy_line(p) for p in f if p.strip()]
 
-    seen = set()
-    unique_proxies = []
+    # Deduplicate
+    seen, unique_proxies = set(), []
     for p in raw_proxies:
         if p and p not in seen:
             seen.add(p)
@@ -197,32 +225,44 @@ def main():
         f.write("\n".join(unique_proxies) + "\n")
 
     print(f"🧽 Cleaned duplicates — {len(unique_proxies)} unique proxies found.\n")
-    print("🔍 Checking new proxies...")
+    print("🔍 Testing proxies...\n")
 
     cpu_threads = os.cpu_count() or 4
     max_workers = min(50, cpu_threads * 5)
 
-    working = []
+    working_results = []
+
     with concurrent.futures.ThreadPoolExecutor(max_workers=max_workers) as executor:
         futures = [executor.submit(test_proxy, p) for p in unique_proxies]
         for future in concurrent.futures.as_completed(futures):
-            ok, proxy, formatted = future.result()
-            if ok:
-                working.append(formatted)
-                print(f"✅ {formatted}")
+            ok, proxy, result = future.result()
+            if ok and result:
+                working_results.append(result)
             else:
-                print(f"❌ {proxy.strip()} Inactive")
+                print(f"❌ Dead: {proxy.strip()}")
 
-    print("\n📦 Processing completed. Preparing to write and upload results...\n")
+    print(f"\n📦 Done. {len(working_results)} working proxies.\n")
 
-    if working:
+    if working_results:
+        # Local Active_Proxies.txt always written in plaintext for easy reading
         with open("Active_Proxies.txt", "w", encoding="utf-8") as f:
-            f.write("\n".join(working) + "\n")
-        print(f"💾 Replaced Active_Proxies.txt with {len(working)} working proxies.")
-        upload_to_google_sheet_via_webapp(working)
+            for r in working_results:
+                # Always decrypt for local file — plaintext readable backup
+                plain_user = xor_decrypt(r["enc_user"]) if r["enc_user"] else ""
+                plain_pass = xor_decrypt(r["enc_pass"]) if r["enc_pass"] else ""
+                f.write(
+                    f"{r['ip_data_clean']}|"
+                    f"{plain_user}|"
+                    f"{plain_pass}|"
+                    f"{r['country']}|{r['region']}|{r['city']}|"
+                    f"{r['isp']}|{r['proxy_type']}\n"
+                )
+
+        print(f"💾 Active_Proxies.txt written ({len(working_results)} proxies) — plaintext locally.")
+        upload_to_google_sheet(working_results)
     else:
         open("Active_Proxies.txt", "w").close()
-        print("⚠️ No working proxies. Active_Proxies.txt has been cleared.")
+        print("⚠️ No working proxies. Active_Proxies.txt cleared.")
 
 
 if __name__ == "__main__":
