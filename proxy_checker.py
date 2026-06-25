@@ -159,7 +159,7 @@ def test_proxy(proxy_line):
 
 
 def upload_to_google_sheet(working_results):
-    WEB_APP_URL = "YOUR_WEB_APP_URL_HERE"  # 👈 Replace with your deployed Web App URL
+    WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyOakii2qa1YwCNv_oxkgPg-QgL_HZMhGuUn6Wo7wIEoCc33unHoZKhk63QUDGae0yq/exec"  # 👈 Replace with your deployed Web App URL
     timestamp   = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
     rows = []
