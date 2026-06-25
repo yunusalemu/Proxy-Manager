@@ -11,7 +11,7 @@ lock = threading.Lock()
 # ===================== ENCRYPTION =====================
 
 ENCRYPT_KEY         = "socksproxysupport"  # ✅ Must match Unity ProxyLookUp key exactly
-ENCRYPT_CREDENTIALS = False                 # 👈 Toggle — True = encrypted, False = plaintext
+ENCRYPT_CREDENTIALS = True                 # 👈 Toggle — True = encrypted, False = plaintext
 
 def xor_encrypt(text):
     if not text:
