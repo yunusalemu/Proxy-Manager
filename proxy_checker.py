@@ -14,7 +14,6 @@ ENCRYPT_KEY         = "socksproxysupport"  # ✅ Must match Unity ProxyLookUp ke
 ENCRYPT_CREDENTIALS = False                 # 👈 Toggle — True = encrypted, False = plaintext
 
 def xor_encrypt(text):
-    """XOR encrypt then Base64 encode."""
     if not text:
         return ""
     result = []
@@ -23,10 +22,8 @@ def xor_encrypt(text):
     return base64.b64encode("".join(result).encode("latin-1")).decode("utf-8")
 
 def xor_decrypt(encoded):
-    """Base64 decode then XOR decrypt — used locally for verification and Active_Proxies.txt."""
     if not encoded:
         return ""
-    # Strip ENC: prefix if present before decrypting
     if encoded.startswith("ENC:"):
         encoded = encoded[4:]
     try:
@@ -39,22 +36,16 @@ def xor_decrypt(encoded):
         return encoded
 
 def maybe_encrypt(text):
-    """
-    Encrypts and adds ENC: prefix if ENCRYPT_CREDENTIALS is True.
-    Unity SafeDecrypt() looks for ENC: prefix to know it needs decrypting.
-    Returns plaintext as-is if encryption is disabled.
-    """
     if not text:
         return ""
     if ENCRYPT_CREDENTIALS:
-        return "ENC:" + xor_encrypt(text)  # ✅ Prefix required for Unity detection
+        return "ENC:" + xor_encrypt(text)
     return text
 
 # ======================================================
 
 
 def clean_proxy_line(line):
-    """Strip off metadata — keep only host:port:user:pass or host:port."""
     line = line.strip()
     if not line:
         return ""
@@ -129,27 +120,28 @@ def test_proxy(proxy_line):
             isp             = geo.get("isp",         "Unknown")
             connection_type = classify_connection(isp if isp != "Unknown" else "")
 
-            # Encrypt or keep plaintext based on toggle
-            enc_user = maybe_encrypt(user)     if user     else ""
-            enc_pass = maybe_encrypt(password) if password else ""
+            # Build ipdata string — same format as before but credentials may be encrypted
+            if user and password:
+                enc_user = maybe_encrypt(user)
+                enc_pass = maybe_encrypt(password)
 
-            # Verify encryption round-trips correctly when enabled
-            if ENCRYPT_CREDENTIALS and user:
-                verified = xor_decrypt(enc_user)
-                if verified != user:
-                    print(f"⚠️ Encryption verification failed for: {host}:{port}")
-                    return False, proxy_line, None
+                # Verify encryption round-trips correctly when enabled
+                if ENCRYPT_CREDENTIALS:
+                    if xor_decrypt(enc_user) != user or xor_decrypt(enc_pass) != password:
+                        print(f"⚠️ Encryption verification failed for: {host}:{port}")
+                        return False, proxy_line, None
 
-            # host:port only goes in ipdata — credentials are separate
-            ip_data_clean = f"{host}:{port}"
+                # Format: host:port:ENC:xxxxx:ENC:xxxxx (encrypted)
+                #      or host:port:user:pass            (plaintext)
+                ip_data_clean = f"{host}:{port}:{enc_user}:{enc_pass}"
+            else:
+                ip_data_clean = f"{host}:{port}"
 
             mode = "🔐 Encrypted" if ENCRYPT_CREDENTIALS else "🔓 Plaintext"
             print(f"✅ {host}:{port} | {country} / {region} | {isp} | {mode}")
 
             result = {
                 "ip_data_clean": ip_data_clean,
-                "enc_user":      enc_user,
-                "enc_pass":      enc_pass,
                 "country":       country,
                 "region":        region,
                 "city":          city,
@@ -167,16 +159,13 @@ def test_proxy(proxy_line):
 
 
 def upload_to_google_sheet(working_results):
-    """Send proxy data to Google Sheet via Apps Script WebApp endpoint."""
-    WEB_APP_URL = "YOUR_NEW_WEB_APP_URL_HERE"  # 👈 Replace with your deployed Web App URL
+    WEB_APP_URL = "YOUR_WEB_APP_URL_HERE"  # 👈 Replace with your deployed Web App URL
     timestamp   = datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC")
 
     rows = []
     for r in working_results:
         rows.append({
-            "ipdata":       r["ip_data_clean"],  # host:port only — no credentials exposed
-            "enc_user":     r["enc_user"],        # ENC:xxxxxx or plaintext depending on toggle
-            "enc_pass":     r["enc_pass"],        # ENC:xxxxxx or plaintext depending on toggle
+            "ipdata":       r["ip_data_clean"],  # same column as before — sheet unchanged
             "country":      r["country"],
             "region":       r["region"],
             "city":         r["city"],
@@ -214,7 +203,6 @@ def main():
     with open("New_Proxies.txt", "r", encoding="utf-8", errors="ignore") as f:
         raw_proxies = [clean_proxy_line(p) for p in f if p.strip()]
 
-    # Deduplicate
     seen, unique_proxies = set(), []
     for p in raw_proxies:
         if p and p not in seen:
@@ -244,21 +232,14 @@ def main():
     print(f"\n📦 Done. {len(working_results)} working proxies.\n")
 
     if working_results:
-        # Local Active_Proxies.txt always written in plaintext for easy reading
         with open("Active_Proxies.txt", "w", encoding="utf-8") as f:
             for r in working_results:
-                # Always decrypt for local file — plaintext readable backup
-                plain_user = xor_decrypt(r["enc_user"]) if r["enc_user"] else ""
-                plain_pass = xor_decrypt(r["enc_pass"]) if r["enc_pass"] else ""
                 f.write(
                     f"{r['ip_data_clean']}|"
-                    f"{plain_user}|"
-                    f"{plain_pass}|"
                     f"{r['country']}|{r['region']}|{r['city']}|"
                     f"{r['isp']}|{r['proxy_type']}\n"
                 )
-
-        print(f"💾 Active_Proxies.txt written ({len(working_results)} proxies) — plaintext locally.")
+        print(f"💾 Active_Proxies.txt written ({len(working_results)} proxies).")
         upload_to_google_sheet(working_results)
     else:
         open("Active_Proxies.txt", "w").close()
