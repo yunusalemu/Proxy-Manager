@@ -1,705 +1,811 @@
-172.93.103.132:43143:DVSp70m0o4:aLVC8Qu|United Kingdom|Scotland|Edinburgh|Hydra Communications Ltd|Residential
-172.93.105.207:40513:DVS0yztn0p:fbzm5R9|United Kingdom|England|Leeds|Virgin Media Limited|Residential
-172.93.105.207:40513:DVSjgmep1c:SkDyb8I|Belgium|Wallonia|Jemappes|Proximus|Residential
-172.93.103.132:43143:DVSy37bvfg:PQQLbas|United Kingdom|England|Luton|BT Public Internet Service|Residential
-172.93.103.132:43143:DVSnevbhge:LXMb2Er|United Kingdom|England|Liverpool|TalkTalk|Residential
-104.219.238.228:37337:DVS0jqrxvn:5ztQZrB|United Kingdom|England|Burngreave|AllPoints Fibre Limited|Residential
-104.219.238.238:46671:DVS7j9jn03:ZW1DajM|United Kingdom|England|Wigan|Vodafone Limited|Residential
-172.93.103.132:43143:DVSizzu3h8:R0K0HVG|United Kingdom|England|Telford|Sky UK Limited|Residential
-104.219.238.238:46671:DVSlsvk08m:NBIuoBe|United Kingdom|England|Runcorn|Virgin Media|Residential
-172.93.103.132:43143:DVSmb4hohs:HfGXarb|United Kingdom|England|Birmingham|BRSK Limited|Residential
-104.219.238.238:46671:DVSar9qcka:lMEA7Y2|United Kingdom|England|Leeds|BT Public Internet Service|Residential
-172.93.103.132:43143:DVSduwhk5t:J4c3Q1p|United States|North Carolina|Washington|Wilkes Communications, Inc|Residential
-172.93.103.132:43143:DVSukwymku:y6SumRC|United Kingdom|England|Peterborough|Sky UK Limited|Residential
+104.219.238.229:38107:DVSagv96xw:keknIzE|Denmark|Capital Region|Copenhagen|Norlys Digital A/S|Residential
+104.219.238.229:38107:DVScpn8bzx:SbKoXNv|Denmark|Central Jutland|Aarhus|Antenneforeningen Aarhus|Residential
+104.219.238.229:38107:DVSju2rmf7:353PXET|Denmark|Central Jutland|Aarhus|TDC Holding A/S|Residential
+104.219.238.229:38107:DVSch32o5h:CdqdM1H|Denmark|Zealand|Næstved|TDC Holding A/S|Residential
+104.219.238.229:38107:DVS68u79mz:nWecsG1|Denmark|Central Jutland|Tilst|Telenor Denmark|Residential
+104.219.238.229:38107:DVSfljsxh7:njDMkTR|Denmark|Central Jutland|Aarhus|FIBIA P/S|Residential
+104.219.238.229:38107:DVSj6btuc0:rXb4sdK|Denmark|Capital Region|Copenhagen|Telenor Denmark|Residential
+104.219.238.229:38107:DVSm68xpzj:HIkEGMa|Denmark|Zealand|Klinteby Frihed|Hi3G Access AB|Residential
+104.219.238.229:38107:DVSdzvmg9a:yNqJEcp|Denmark|Capital Region|Brøndby Strand|Dansk Kabel TV|Residential
+104.219.238.229:38107:DVSifa3nav:R5S1Fn1|Denmark|Capital Region|Copenhagen|Parknet F.M.B.A.|Residential
+104.219.238.229:38107:DVS2aq455y:0y6xi3Z|Denmark|Capital Region|Frederiksberg|TDC Holding A/S|Residential
+104.219.238.229:38107:DVSe6kwb7c:rGRYNws|Denmark|Capital Region|Kokkedal|TDC Holding A/S|Residential
+104.219.238.229:38107:DVS3097prm:Bwd5VlY|Denmark|Zealand|Greve|Hiper A/S|Residential
+104.219.238.229:38107:DVSd8jkxf6:0Pdv1gC|Norway|Oslo|Oslo|GLOBALCONNECT|Residential
+104.219.238.229:38107:DVStieab2i:yzigfaH|Norway|Vestfold|Tjøme|Telenor Norge|Residential
+104.219.238.229:38107:DVSzyvdsdj:GX1MDr5|Norway|Østfold|Grålum|Lyse Tele AS|Residential
+104.219.238.229:38107:DVSkd0l6xk:VL3B20U|Norway|Vestfold|Nøtterøy|Lyse Tele AS|Residential
+104.219.238.229:38107:DVStmrqv3j:Niob74j|Norway|Oslo|Oslo|Telenor Business Solutions|Residential
+104.219.238.229:38107:DVS9q7rxji:3uJ7P5y|Norway|Oslo|Oslo|NextGenTel|Residential
+104.219.238.229:38107:DVSo4xusm4:llTDY5p|Denmark|South Denmark|Vejle|TDC Holding A/S|Residential
+104.219.238.229:38107:DVS6fo2wf2:NfscS1M|Denmark|Capital Region|Copenhagen|TDC Holding A/S|Residential
+104.219.238.229:38107:DVSe4lldoj:Dgq4RmP|Norway|Møre og Romsdal|Nedre Frei|NONEAS|Residential
+104.219.238.229:38107:DVSakr4bkd:DcOObbG|Norway|Oslo|Oslo|NetCom Mobile Broadband|Cellular
+104.219.238.229:38107:DVS8y7lmir:FVTyZ61|Norway|Buskerud|Hokksund|Altibox|Residential
+104.219.238.229:38107:DVSife3lpp:w97Hvyt|Norway|Rogaland|Stavanger|Lyse Tele AS|Residential
+104.219.238.229:38107:DVSx6i7j0r:Wxfqubl|Norway|Akershus|Minnesund|Telenor Norge|Residential
+104.219.238.229:38107:DVSmhbjlpl:f4yMyUT|Norway|Akershus|Skotbu|GLOBALCONNECT|Residential
+104.219.238.229:38107:DVSgpi9c4k:EKVe2QY|Norway|Oslo|Oslo|Get AS|Residential
+104.219.238.229:38107:DVSffn70sz:IgvU0q7|Norway|Oslo|Oslo|Get AS|Residential
+104.219.238.229:38107:DVSmia0jtt:IGqo3YE|Norway|Akershus|Lørenskog|Telenor Norge|Residential
+104.219.238.229:38107:DVSx7gohf1:AOxT8nL|Norway|Oslo|Oslo|Get AS|Residential
+104.219.238.229:38107:DVSmnkua2z:bKCMyJh|Norway|Telemark|Porsgrunn|Lyse Tele AS|Residential
+104.219.238.229:38107:DVS53632xp:FjINv9b|Norway|Oslo|Oslo|TELENOR-INTERNET|Residential
+104.219.238.229:38107:DVS6ga7cab:lAg4a9L|Norway|Oslo|Oslo|NetCom Mobile Broadband|Cellular
+104.219.238.229:38107:DVSodo0cyg:GmKXBq6|Norway|Oslo|Oslo|GLOBALCONNECT|Residential
+104.219.238.229:38107:DVSus162ir:WZer9P5|Norway|Østfold|Greåker|Altibox|Residential
+104.219.238.229:38107:DVSx3wir5o:Afai5m8|Norway|Østfold|Fredrikstad|Lyse Tele AS|Residential
+104.219.238.229:38107:DVS8atp20f:AqP2WYQ|Norway|Oslo|Oslo|NextGenTel|Residential
+104.219.238.229:38107:DVSvcm4il1:R9QH2Xy|Norway|Akershus|Eidsvoll|BROADNET|Residential
+104.219.238.229:38107:DVSrh4x52l:Mu0LFZq|Norway|Oslo|Oslo|Lyse Tele AS|Residential
+104.219.238.229:38107:DVSwgi7a2k:OYjnwSX|Norway|Trøndelag|Trondheim|Telenor Norge|Residential
+104.219.238.229:38107:DVS82dh0nq:P6PQlTO|Norway|Buskerud|Drammen|Telia Norge|Residential
+104.219.238.229:38107:DVSdsb8ss4:TlVbsgq|Norway|Buskerud|Drammen|Telenor Norge|Residential
+104.219.238.229:38107:DVSnj0jfzx:BnqZnyE|Norway|Buskerud|Drammen|Altibox|Residential
+104.219.238.229:38107:DVSgstskur:nd1P8qB|Norway|Akershus|Bjørkelangen|RBB DSL|Residential
+104.219.238.229:38107:DVS2gx64uo:EVOVM4R|Norway|Vestfold|Sandefjord|Altibox|Residential
+104.219.238.229:38107:DVS1a1iwaz:0ziKRPT|Norway|Akershus|Kjeller|Get AS|Residential
+104.219.238.229:38107:DVS1w9jdv7:yZ871dC|Norway|Buskerud|Drammen|Lyse Tele AS|Residential
+104.219.238.229:38107:DVSifc3nxq:n6RoXcp|Norway|Oslo|Oslo|NextGenTel|Residential
+172.93.104.126:35747:DVShcmwdf8:RKH7Drt|United States|Pennsylvania|Mars|Armstrong|Residential
+172.93.104.126:35747:DVSqe07ukx:b6Ht8mX|United States|Ohio|Youngstown|Armstrong|Residential
+172.93.103.121:45877:DVSn6b1vjf:V8vwcRl|United States|Ohio|Medina|Armstrong|Residential
+172.93.104.126:35747:DVS6g4n6cp:xz9lRpQ|United States|Ohio|Youngstown|Armstrong|Residential
+172.93.104.126:35747:DVS8dxjfz2:xoNfrgP|United States|West Virginia|Petroleum|Armstrong|Residential
+172.93.104.126:35747:DVSndfmuj9:XjmIXCi|United States|Ohio|Wellington|Armstrong|Residential
+172.93.103.121:45877:DVSonxks4g:Nj7hlHG|United States|Maryland|Elkton|Armstrong|Residential
+172.93.106.93:46369:DVSn1gtlv5:6S4c9aP|United States|Ohio|Austintown|Armstrong|Residential
+172.93.103.121:45877:DVSaans04a:TkS6E4j|United States|Maryland|Street|Armstrong|Residential
+172.93.103.121:45877:DVSbaa8aol:N6GJvJj|United States|Ohio|Austintown|Armstrong|Residential
+104.219.238.227:37039:DVS4b8p5st:OQZzjuq|United States|West Virginia|Kenova|Armstrong|Residential
+172.93.104.126:35747:DVS5n8s3af:6d7y1ZX|United States|Pennsylvania|Hadley|Armstrong|Residential
+172.93.103.121:45877:DVSry48ebn:DcbPloO|United States|Pennsylvania|Saxonburg|Armstrong|Residential
+172.93.104.126:35747:DVSkgrdhuw:Ld37IQ3|United States|Pennsylvania|Titusville|Armstrong|Residential
+104.219.238.227:37039:DVSailglq2:YSl2uYE|United States|Pennsylvania|Mount Pleasant|Armstrong|Residential
+172.93.104.126:35747:DVSi2io2th:sSQoNkZ|United States|Pennsylvania|Ellwood City|Armstrong|Residential
+172.93.104.126:35747:DVSxgepcfa:ze9hylR|United States|Kentucky|Greenup|Armstrong|Residential
+172.93.103.121:45877:DVStlxm4lj:0QSuwrt|United States|West Virginia|Kenova|Armstrong|Residential
+172.93.104.126:35747:DVSddm55jn:v6Ybgwz|United States|Pennsylvania|Connellsville|Armstrong|Residential
+172.93.103.121:45877:DVSsy8zw3v:fCIueMe|United States|New Jersey|Newark|T-Mobile USA, Inc.|Cellular
+104.219.238.238:46671:DVS447kb83:ofCrBt8|United States|Florida|Tampa|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSmcz5gfr:ATmKFGF|United States|Missouri|St Louis|Charter Communications|Residential
+172.93.103.121:45877:DVSahqomrx:b8yoHdY|United States|California|Stockton|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSoupa2e7:iUU2ulp|United States|Nevada|Las Vegas|T-Mobile USA, Inc.|Cellular
+172.93.103.132:43143:DVSyr7v25h:Y0UAbqz|United States|New Jersey|Newark|T-Mobile USA, Inc.|Cellular
+104.219.238.238:46671:DVSxoga6do:qlferOb|United States|Tennessee|Murfreesboro|T-Mobile USA, Inc.|Cellular
+172.93.103.132:43143:DVSvkuyqkm:ozRqiJJ|United States|Florida|Tampa|T-Mobile USA, Inc.|Cellular
+104.219.238.238:46671:DVStvlwpbu:kj5rreO|United States|Pennsylvania|Pittsburgh|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSz0wsb32:i194oXi|United States|Arizona|Phoenix|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSazr3u5t:IO5AsnB|United States|Kentucky|Louisville|T-Mobile USA, Inc.|Cellular
+104.219.238.238:46671:DVS4btge16:B1vsNt6|United States|Arizona|Tempe Junction|T-Mobile USA, Inc.|Cellular
+104.219.238.238:46671:DVS2ledl70:Qzmcffh|United States|New York|Brooklyn|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSxp205wq:Vqn8IKs|United States|Minnesota|Blaine|Comcast Cable Communications, LLC|Residential
+172.93.103.121:45877:DVS95l8rzm:WoORhHh|United States|Kentucky|Louisville|T-Mobile USA, Inc.|Cellular
+172.93.106.93:46369:DVSogt5ctv:nWG8j0Z|United States|California|Santa Ana|T-Mobile USA, Inc.|Cellular
+104.219.238.230:33281:DVSfjzd5ti:ZZKQKDD|United States|Texas|Dallas|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSunflvuk:t370OgL|United States|Florida|Jacksonville|T-Mobile USA, Inc.|Cellular
+104.219.238.230:33281:DVSd204tsm:KBFhsoR|United States|California|San Diego|Cox Communications Inc.|Residential
+104.219.238.230:33281:DVSmctmnpg:NOoq1FB|United States|New York|Brooklyn|T-Mobile USA, Inc.|Cellular
+104.219.238.238:46671:DVS7s6xs2a:yRBJmLS|United States|Texas|Houston|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSuigxe1c:mm13DEf|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.106.93:46369:DVSzl6qme3:JIiVA4x|United States|Virginia|Chesapeake|T-Mobile USA, Inc.|Cellular
+172.93.106.93:46369:DVS01wi7ne:UVuzj24|United States|Texas|San Antonio|T-Mobile USA, Inc.|Cellular
+104.219.238.230:33281:DVSot4idou:0bw3Pqx|United States|California|Los Angeles|T-Mobile USA, Inc.|Cellular
+172.93.103.132:43143:DVSzqoxrp9:7KIRySd|United States|Texas|Houston|T-Mobile USA, Inc.|Cellular
+172.93.106.93:46369:DVS7g0nuuy:S0Jxhqk|United States|Georgia|Atlanta|T-Mobile USA, Inc.|Cellular
+172.93.106.93:46369:DVS3zdelze:wNBI8jH|United States|Georgia|Tucker|T-Mobile USA, Inc.|Cellular
+172.93.106.93:46369:DVS11h1jkp:YsvADQf|United States|Illinois|Chicago|T-Mobile USA, Inc.|Cellular
+172.93.106.93:46369:DVS4g95fey:rejbyEJ|United States|Pennsylvania|Pittsburgh|T-Mobile USA, Inc.|Cellular
+104.219.238.230:33281:DVS0tjglnv:jO3f72J|United States|Florida|Tampa|T-Mobile USA, Inc.|Cellular
+104.219.238.230:33281:DVS3e71fpp:TVY4hyg|United States|District of Columbia|Washington|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSaxhcin9:Ew4L2lq|United States|Georgia|Atlanta|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVS2wcglll:ONaJYux|United States|Rhode Island|Pawtucket|T-Mobile USA, Inc.|Cellular
+172.93.106.93:46369:DVScehjt3n:xgOXVLO|United States|Colorado|Denver|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSfe5a7vl:wFVMj80|United States|California|Pacoima|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVSf7y17ln:W1Thpii|United States|Florida|Miami|T-Mobile USA, Inc.|Cellular
+172.93.106.93:46369:DVSxxjv6ds:Z3WLQe3|United States|Wisconsin|Appleton|Charter Communications|Residential
+172.93.104.126:35747:DVSckey49k:GUHQTBx|United States|New Jersey|Newark|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVSgjnfvno:CADDlkg|United States|Massachusetts|Chelsea|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVShpl9x0k:FwsVPWr|United States|Georgia|Atlanta|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVSk00papn:atNiBIU|United States|Texas|Dallas|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVS7opqaoa:UuBdbFc|United States|Wisconsin|Milwaukee|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVS8pjthu8:NtUFmUJ|United States|New Jersey|Newark|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVS23envw3:ZqQopqv|United States|Pennsylvania|Pittsburgh|T-Mobile USA, Inc.|Cellular
+104.219.238.233:32771:DVSg807pgv:RV8cFTD|United States|Minnesota|Minneapolis|CenturyLink|Residential
+104.219.238.230:33281:DVSzhedszk:E8stZh2|United States|Alabama|Birmingham|T-Mobile USA, Inc.|Cellular
+104.219.238.230:33281:DVS2tsdx6z:ZWzQkWE|United States|Pennsylvania|Philadelphia|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVSbw6mr56:5aaU2I4|United States|District of Columbia|Washington|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSr70raxz:oKyyApT|United States|Texas|White Oak|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVSx0b8pgh:hz6B3zn|United States|Arizona|Phoenix|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVS0zakvnh:1MArenE|United States|Florida|Jacksonville|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVScgwu5ei:UMqiJwR|United States|Illinois|Chicago|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVSavofoc7:CtXARrS|United States|Illinois|Chicago|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVSlo3rp79:53cJqw7|United States|Pennsylvania|Philadelphia|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVSr0r54o7:QXYgir8|United States|Tennessee|La Vergne|T-Mobile USA, Inc.|Cellular
+104.219.238.233:32771:DVS7wcgo1e:3Eqq5bi|United States|Tennessee|Berry Hill|T-Mobile USA, Inc.|Cellular
+104.219.238.230:33281:DVSz1v9dtg:BR4PwAY|United States|New Jersey|Newark|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVSpahjmmq:DfPgpjk|United States|Kentucky|Louisville|T-Mobile USA, Inc.|Cellular
+104.219.238.230:33281:DVSpv0rsmd:EXdehDW|United States|Missouri|St Louis|T-Mobile USA, Inc.|Cellular
+172.93.103.121:45877:DVS0xsew02:mKjkA8B|United States|Kentucky|Louisville|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVS4fbjmoh:1wJmd0v|United States|Oklahoma|The Village|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVSjozlqg6:OF9ztPR|United States|Wisconsin|Milwaukee|T-Mobile USA, Inc.|Cellular
+104.219.238.238:46671:DVSm7lznxn:3gV0tEJ|United Kingdom|England|Leytonstone|Community Fibre Limited|Residential
+104.219.238.238:46671:DVS4eprcfp:d1Hm4ZM|United Kingdom|England|Wandsworth|Community Fibre Limited|Residential
+104.219.238.238:46671:DVSmqogpan:WKrL9Ok|United Kingdom|England|London|Community Fibre Limited|Residential
+172.93.103.132:43143:DVSfeaffdb:k90l63S|United Kingdom|England|Hitchin|YouFibre Limited|Residential
+172.93.104.126:35747:DVS7lhu4kt:gwEUNA3|United States|Florida|Jacksonville|T-Mobile USA, Inc.|Cellular
+172.93.104.126:35747:DVSk6eh8by:RT8kteM|United Kingdom|England|London|Community Fibre Limited|Residential
+172.93.103.132:43143:DVSbk34hi1:ikTBH9l|United States|Florida|Jacksonville|T-Mobile USA, Inc.|Cellular
+104.219.238.238:46671:DVSxgmt1m9:1fBBg6K|United Kingdom|England|Evesham|BT Public Internet Service|Residential
+104.219.238.238:46671:DVSggxrpss:7HuZz3c|United Kingdom|England|Rossendale|BT Public Internet Service|Residential
+172.93.103.121:45877:DVS1s9gdl9:bJEwDs1|United Kingdom|England|Rainham|Community Fibre Limited|Residential
+104.219.238.233:32771:DVSfgkehqg:ApZdhgI|United Kingdom|England|Manor Park|Community Fibre Limited|Residential
+104.219.238.238:46671:DVSweoa264:AX3Pg3Y|United Kingdom|England|Manchester|Hyperoptic Ltd|Residential
+172.93.104.126:35747:DVSxb66jrm:0mUZVnZ|United Kingdom|England|Birmingham|BRSK Limited|Residential
+172.93.106.93:46369:DVSs9kyvcm:E31s8KR|United States|West Virginia|Parkersburg|Community Antenna Service, Inc.|Residential
+104.219.238.229:38107:DVSflpmolf:bHrfRHu|Denmark|South Denmark|Odense|Dyrup-Sanderum Antenneforening|Residential
+104.219.238.229:38107:DVS3d4wtlt:Tc68TAD|Norway|Akershus|Fjerdingby|GLOBALCONNECT|Residential
+104.219.238.229:38107:DVS3vtzrxx:DdjlHSs|Denmark|Central Jutland|Randers|TDC Holding A/S|Residential
+172.93.103.132:43143:DVSgzkihgk:hRk9cKv|United Kingdom|England|Poole|BT Public Internet Service|Residential
+104.219.238.229:38107:DVSx1r8fz2:qteAPZs|Norway|Oslo|Oslo|Telia Norge|Residential
+172.93.103.132:43143:DVSd0zorhq:hKlHtmR|United Kingdom|Wales|Bridgend|PlusNet plc.|Residential
+104.219.238.238:46671:DVSd4vz45t:EkGslac|United Kingdom|England|Lambeth|Zen Internet Ltd|Residential
+172.93.103.121:45877:DVSw7hgu1p:ME4MIeN|United Kingdom|England|London|Community Fibre Limited|Residential
+172.93.103.132:43143:DVS4v97pws:922Hj8t|United Kingdom|England|Carlisle|Virgin Media|Residential
+172.93.103.132:43143:DVSdfj542y:VHNh8Td|United Kingdom|England|Southsea|TalkTalk|Residential
+172.93.103.132:43143:DVSubwncnw:nXGt3M6|United Kingdom|England|Wandsworth|Community Fibre Limited|Residential
+172.93.103.132:43143:DVSduwhk5t:J4c3Q1p|United States|Florida|Hollywood|Comcast Cable Communications, LLC|Residential
+104.219.238.238:46671:DVS8xb7ar2:8H8kf9f|United Kingdom|England|Preston|BT Public Internet Service|Residential
+172.93.103.132:43143:DVSk1ge9ys:8HOLPtM|United Kingdom|England|Manchester|Zen Internet Ltd|Residential
+172.93.105.207:40513:DVS0yztn0p:fbzm5R9|United Kingdom|Northern Ireland|Belfast|BT Public Internet Service|Residential
+172.93.103.132:43143:DVSp70m0o4:aLVC8Qu|United Kingdom|England|Manchester|BT Public Internet Service|Residential
+104.219.238.228:37337:DVS0jqrxvn:5ztQZrB|United Kingdom|England|Durham|TalkTalk|Residential
+172.93.103.132:43143:DVSln8lkov:3fOpj6I|Canada|Ontario|Breslau|Bell Canada|Residential
+104.219.238.238:46671:DVSar9qcka:lMEA7Y2|United Kingdom|Scotland|Edinburgh|Hydra Communications Ltd|Residential
+172.93.103.132:43143:DVSnevbhge:LXMb2Er|United Kingdom|England|Skelmersdale|TalkTalk|Residential
 104.219.238.238:46671:DVSgwm36ry:0VkiM9y|United Kingdom|England|Norwich|Virgin Media Limited|Residential
-172.93.103.132:43143:DVSx54igjc:uJMgUjt|United Kingdom|England|Southampton|BT Public Internet Service|Residential
-172.93.104.131:39603:shi0mhbd42:L10Mkr8KV3|United Kingdom|England|Sittingbourne|Sky UK Limited|Residential
-172.93.103.132:43143:DVS9pft80c:vDxNp2R|United Kingdom|England|Hull|Connexin Limited|Residential
-172.93.104.131:39603:77rm7do2hp:lGHgujqBjC|United States|Rhode Island|Pawtucket|T-Mobile USA, Inc.|Cellular
-172.93.104.131:39603:3ouurrp8r9:QouwkBwX9W|Brazil|São Paulo|Cosmópolis|ALGAR TELECOM S/A|Residential
-172.93.104.131:39603:vczji9mkru:0uZFSXXkS5|United Kingdom|Wales|Cardiff|VODAFONE|Residential
-172.93.104.131:39603:39xp8qheh8:3qe2f0arlR|United States|California|San Diego|T-Mobile USA, Inc.|Cellular
-172.93.104.131:39603:sgffvhfmdt:lTvK70LTu2|United Kingdom|England|Northampton|BT Public Internet Service|Residential
-172.93.103.132:43143:DVS1gz1y07:tOxptcT|United Kingdom|England|Richmond|Vodafone Limited|Residential
-172.93.104.131:39603:cn6f8e8gyp:RV1Gk6ahJ1|United States|Tennessee|Blountville|Charter Communications LLC|Residential
-172.93.104.131:39603:r9n6hffzuc:QD8Ju2MRm8|United States|Rhode Island|Pawtucket|T-Mobile USA, Inc.|Cellular
-172.93.104.131:39603:0ohj9jq4co:U4VpRzQTQ0|United Kingdom|England|Dudley|BT Public Internet Service|Residential
-172.93.104.131:39603:ccta68ygq5:ckzYJXCd44|United Kingdom|England|Manchester|Clouvider Limited|Residential
+172.93.103.132:43143:DVSukwymku:y6SumRC|United Kingdom|England|Morecambe|Virgin Media|Residential
+172.93.103.132:43143:DVSizzu3h8:R0K0HVG|United Kingdom|England|Scunthorpe|TalkTalk|Residential
+172.93.103.132:43143:DVS9pft80c:vDxNp2R|United Kingdom|England|Southall|Sky UK Limited|Residential
+104.219.238.238:46671:DVS7j9jn03:ZW1DajM|United Kingdom|England|City of London|BT Public Internet Service|Residential
+172.93.103.132:43143:DVS5cfwsx7:ZBs41qM|United Kingdom|Scotland|Dundee|Virgin Media|Residential
+172.93.103.132:43143:DVSx54igjc:uJMgUjt|United Kingdom|Scotland|Forres|BT Public Internet Service|Residential
+172.93.103.132:43143:DVSf61kg1a:QjRVP5S|United Kingdom|England|Southampton|TalkTalk|Residential
+172.93.104.131:39603:shi0mhbd42:L10Mkr8KV3|United Kingdom|England|Lewisham|Vodafone Limited|Residential
+172.93.104.131:39603:1h4hs69zwc:TxvWwxPZ9r|Brazil|Minas Gerais|Itaúna|Sonik Serviços de Comunicação LTDA|Residential
+172.93.104.131:39603:0t3mmbz1lr:MOX4UFeNlI|Brazil|Rio de Janeiro|Rio Bonito|Conect Provedor de Acesso a Internet Ltda Me|Residential
+172.93.104.131:39603:vczji9mkru:0uZFSXXkS5|United Kingdom|England|Nelson|BT Public Internet Service|Residential
+172.93.104.131:39603:02lysp39jm:SUyCR5ekjs|Brazil|Paraná|Curitiba|V tal|Residential
+172.93.104.131:39603:77rm7do2hp:lGHgujqBjC|United States|Rhode Island|Providence|Verizon Online LLC|Residential
+172.93.104.131:39603:ccta68ygq5:ckzYJXCd44|United Kingdom|England|Woking|British Telecommunications PLC|Residential
+172.93.104.131:39603:f8sek9uxwo:s6DLht50CE|United States|Colorado|Windsor|Lightgig Communications LLC|Residential
+172.93.104.131:39603:0b8ehqmt9k:sfQs2SDzIV|Brazil|São Paulo|São Paulo|Vivo|Residential
+172.93.104.131:39603:r9n6hffzuc:QD8Ju2MRm8|United States|Connecticut|Manchester|Cox Communications Inc.|Residential
+172.93.104.131:39603:sgffvhfmdt:lTvK70LTu2|Austria|State of Vienna|Vienna|FDCservers.net|Business
+172.93.104.131:39603:0ohj9jq4co:U4VpRzQTQ0|United Kingdom|England|Macclesfield|BT Public Internet Service|Residential
+172.93.105.208:43159:ru84m2x6ys:XJfMCMqe2k|United Kingdom|England|Hackney|BSkyB Broadband|Residential
 172.93.104.131:39603:xlt7rzhyv9:hI8Eg2A34O|United States|Connecticut|Broad Brook|Cox Communications Inc.|Residential
-172.93.104.131:39603:f8sek9uxwo:s6DLht50CE|United States|Colorado|Colorado Springs|Comcast Cable Communications, LLC|Residential
-172.93.103.132:43143:DVSf61kg1a:QjRVP5S|United Kingdom|Wales|Mountain Ash|BSkyB Broadband|Residential
-172.93.105.208:43159:ru84m2x6ys:XJfMCMqe2k|United Kingdom|England|Ashton-under-Lyne|PlusNet plc|Residential
-172.93.104.131:39603:k06h0iu6sd:H4dyfDMwPM|United States|Massachusetts|Upton|Charter Communications|Residential
-172.93.104.131:39603:inn2jkkb6o:AibWnka3vl|United States|Ohio|Hicksville|Metalink Technologies, Inc.|Residential
-172.93.104.131:39603:lbfn354f66:2EL83csACT|United Arab Emirates|Emirate of Sharjah|Sharjah|Emirates Telecommunications Corporation|Residential
-172.93.105.208:43159:jjwctoax2p:N448CTtlGD|United Kingdom|England|Rochdale|Sky UK Limited|Residential
-172.93.104.131:39603:ngc54yu76l:Z9qGYxeEwm|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Telecommunications Corporation|Residential
 172.93.104.131:39603:82smyy32m6:YmKIObBmef|Brazil|Minas Gerais|Nova Lima|Claro NXT Telecomunicacoes Ltda|Residential
-172.93.104.131:39603:fmjrs1ta27:T1si0KTVkj|Brazil|São Paulo|Osasco|Grupo WCM net|Residential
-172.93.104.131:39603:51oyhza89i:ZE5wunWz3a|Brazil|São Paulo|São Paulo|Claro NXT Telecomunicacoes Ltda|Residential
-172.93.104.131:39603:rkprbkrkum:YXSm4Ntfwi|United States|Alabama|Winfield|Tombigbee Communications, LLC|Residential
 172.93.104.131:39603:1xzv7gt76x:SHBuUW0T9m|United States|North Carolina|Garner|Charter Communications Inc|Residential
+172.93.105.208:43159:jjwctoax2p:N448CTtlGD|United Kingdom|England|Lymington|BT Public Internet Service|Residential
+172.93.104.131:39603:k06h0iu6sd:H4dyfDMwPM|United States|Massachusetts|Upton|Charter Communications|Residential
+172.93.104.131:39603:51oyhza89i:ZE5wunWz3a|Brazil|Minas Gerais|Montes Claros|UWBR VOX Telecomunicações S/A|Residential
+172.93.104.131:39603:ngc54yu76l:Z9qGYxeEwm|United Arab Emirates|Emirate of Sharjah|Sharjah|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
 172.93.104.131:39603:fb0r2yfn2f:0R7oHLZx9f|United Arab Emirates|Emirate of Sharjah|Sharjah|Emirates Integrated Telecommunications Company PJSC|Residential
+172.93.104.131:39603:rkprbkrkum:YXSm4Ntfwi|United States|Alabama|Birmingham|Verizon Business|Residential
+172.93.104.131:39603:xl27mmqoj5:scX6FiHsbj|Brazil|Rio Grande do Norte|Natal|Brisanet Servicos De Telecomunicacoes S.A|Residential
+172.93.104.131:39603:s6tvkegn6g:uCngXeE47b|United States|Iowa|Des Moines|Google Fiber Inc.|Residential
 172.93.104.131:39603:jiy2oxmmbi:sDeihDozIn|United Arab Emirates|Dubai|Dubai|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.104.131:39603:xl27mmqoj5:scX6FiHsbj|Brazil|São Paulo|São Paulo|ga de matos|Residential
 172.93.104.131:39603:8xvckeabcf:9KfNuq0Wzn|United Arab Emirates|Dubai|Dubai|Emirates Telecommunications Corporation|Residential
-172.93.104.131:39603:3bc25mmplh:oxoiPqBPp0|Brazil|Rio de Janeiro|Teresópolis|Claro NXT Telecomunicacoes Ltda|Residential
-172.93.104.131:39603:s6tvkegn6g:uCngXeE47b|United States|Iowa|Des Moines|Mediacom Communications|Residential
-172.93.104.131:39603:mh5t5b2krr:Md4AOF8SzC|United States|Washington|Redmond|Comcast Cable Communications, LLC|Residential
-172.93.104.131:39603:xijp490vke:AB9ywCWUVQ|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.104.131:39603:mh5t5b2krr:Md4AOF8SzC|United States|Washington|Tacoma|Comcast Cable Communications|Residential
 172.93.104.131:39603:ng264lhil8:01adVhtN7h|Brazil|São Paulo|São José dos Campos|Vivo|Residential
-172.93.104.131:39603:n3v1xl6qg1:iaVCHu0kjR|Brazil|Paraná|Ponta Grossa|Hoinaski & Sklasky Ltda|Residential
+172.93.104.131:39603:xijp490vke:AB9ywCWUVQ|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.104.131:39603:n3v1xl6qg1:iaVCHu0kjR|Brazil|Rio Grande do Sul|Chuí|Eber Dejani Pereira De Albernaz CIA Ltda|Residential
+172.93.104.131:39603:uu5x7l8ujm:KjC0u3wnoV|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.104.131:39603:960wcwgefa:P75aVUTh65|Brazil|Sergipe|Aracaju|Vivo|Residential
+172.93.105.208:43159:2klk3oxf2y:KxeqzyS8tF|United Kingdom|England|Stevenage|Virgin Media Limited|Residential
 172.93.104.131:39603:wx4fvr4o37:KtHebO6gFS|United Kingdom|England|Lewisham|Hyperoptic Ltd|Residential
-172.93.104.131:39603:960wcwgefa:P75aVUTh65|Brazil|Bahia|Entre Rios|infotec- serviços de provedor da internet ltda|Residential
-172.93.105.208:43159:2klk3oxf2y:KxeqzyS8tF|United Kingdom|England|London|Community Fibre Limited|Residential
-172.93.104.131:39603:vzc9u81zzg:ycDZFDkRhb|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.104.131:39603:vkcbirdzvu:r45UZhJCXq|United Arab Emirates|Emirate of Sharjah|Sharjah|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
-172.93.105.208:43159:w7t3f0ixpx:SkTLGr80Ug|United Kingdom|England|New Malden|Virgin Media|Residential
-172.93.105.208:43159:q9n9lx1f77:YOFMxwfvS1|United Kingdom|England|London|Vodafone Limited|Residential
 172.93.104.131:39603:i7l6mpyn2a:UhgDm72ltI|United Arab Emirates|Dubai|Dubai|Emirates Telecommunications Corporation|Residential
-172.93.104.131:39603:tl0kkvufak:lSNVj8NlJT|United States|Delaware|Lewes|Verizon Business|Residential
-172.93.104.131:39603:dt3m84ow6c:RZ8gkRdZ3f|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Telecommunications Corporation|Residential
-172.93.104.131:39603:uu5x7l8ujm:KjC0u3wnoV|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Telecommunications Corporation|Residential
+172.93.105.208:43159:ayl93ikktj:bfjCCv9d7x|United Kingdom|England|Greenwich|BT Public Internet Service|Residential
+172.93.104.131:39603:vzc9u81zzg:ycDZFDkRhb|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.105.208:43159:2vt325t2bt:iqvWNbYoxc|United Kingdom|England|Wigan|Virgin Media|Residential
+172.93.105.208:43159:dca2991gdl:EiItdkqOAS|United Kingdom|England|Portsmouth|Toob Limited|Residential
 172.93.105.208:43159:ukrjna3oph:cNYI4hmKcp|United Kingdom|England|Ossett|BV ADSL|Residential
+172.93.104.131:39603:tl0kkvufak:lSNVj8NlJT|United States|Delaware|Seaford|Comcast Cable Communications, LLC|Residential
+172.93.104.131:39603:vkcbirdzvu:r45UZhJCXq|United Arab Emirates|Emirate of Sharjah|Sharjah|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
 172.93.105.208:43159:otceuobr6w:0IBryJAyyd|United Kingdom|England|Enfield|Virgin Media|Residential
-172.93.105.208:43159:ayl93ikktj:bfjCCv9d7x|United Kingdom|Northern Ireland|Bangor|BT Public Internet Service|Residential
-172.93.105.208:43159:76ehb3iulp:lqtQPxuA4J|United Kingdom|England|Doncaster|TalkTalk|Residential
-172.93.105.208:43159:dca2991gdl:EiItdkqOAS|United Kingdom|England|Gateshead|Virgin Media|Residential
-172.93.104.131:39603:vd557wwa28:zwbWloDCIE|Australia|Australian Capital Territory|Canberra|Telstra Limited|Residential
-172.93.105.208:43159:fubstxtqm3:3EgzCT9xkt|United Kingdom|England|Hartlepool|Virgin Media Limited|Residential
-172.93.105.208:43159:914mop4ad9:j74Yxrkh8q|United Kingdom|England|Burntwood|BT Public Internet Service|Residential
+172.93.104.131:39603:dt3m84ow6c:RZ8gkRdZ3f|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.105.208:43159:76ehb3iulp:lqtQPxuA4J|United Kingdom|England|Ormskirk|BT Public Internet Service|Residential
+172.93.105.208:43159:914mop4ad9:j74Yxrkh8q|United Kingdom|England|Derby|Sky UK Limited|Residential
+172.93.105.208:43159:fubstxtqm3:3EgzCT9xkt|United Kingdom|Scotland|Glasgow|BT Public Internet Service|Residential
 172.93.104.131:39603:qf3thr4rh3:5F68jRF7Ql|Brazil|Pará|Capanema|SEA TELECOM LTDA|Residential
+172.93.104.131:39603:vd557wwa28:zwbWloDCIE|Australia|Australian Capital Territory|Canberra|SingTel Optus Pty Ltd|Residential
+172.93.105.208:43159:txx1pw8g8d:bOHWGCKeXj|United Kingdom|Scotland|Eyemouth|BT Public Internet Service|Residential
 172.93.105.208:43159:9bahjev5v5:5qFyfcoRVy|United Kingdom|Scotland|Dumfries|BT Public Internet Service|Residential
-172.93.105.208:43159:j02muhik09:GlAXMHMGiy|Australia|New South Wales|Sydney|Telstra Limited|Residential
-172.93.104.131:39603:k4ej5mddmh:zVrr3xjmd5|Australia|New South Wales|Sydney|TPG Internet Pty Ltd|Residential
-172.93.104.131:39603:jnbr55v3ze:dWoswR5qNf|United States|Delaware|Claymont|Verizon Business|Residential
-172.93.104.131:39603:kl4s5ja5ai:NuxfKuGAgn|Australia|Queensland|Brisbane|TPG Internet Pty Ltd|Residential
-172.93.104.131:39603:g4w6qo0b22:Xro18gfOko|Australia|Queensland|Brisbane|Aussie Broadband|Residential
+172.93.105.208:43159:q9n9lx1f77:YOFMxwfvS1|United Kingdom|England|Manchester|Sky UK Limited|Residential
+172.93.104.131:39603:lkfc11tkjo:zVsxyxEJ3T|Brazil|São Paulo|Carapicuíba|Vivo|Residential
+172.93.104.131:39603:jnbr55v3ze:dWoswR5qNf|United States|New Jersey|Woodbury|Verizon Business|Residential
+172.93.104.131:39603:xacb63sfkf:BfAw6JuPAn|Australia|New South Wales|Sydney|SingTel Optus Pty Ltd|Residential
+172.93.104.131:39603:7xzir3cd49:RigqDcE20D|United States|Washington|Bellevue|Comcast Cable Communications, LLC|Residential
 172.93.104.131:39603:q385vdc50m:NbVXDzKmwY|Australia|Western Australia|Perth|TPG Internet Pty Ltd|Residential
-172.93.105.208:43159:qp6gad5ee9:kguFYcULZC|United Kingdom|Wales|Newport|Sky UK Limited|Residential
-172.93.104.131:39603:xacb63sfkf:BfAw6JuPAn|Australia|Victoria|Melbourne|Wideband Networks Pty Ltd|Residential
-172.93.104.131:39603:0xj895n7od:2MQ6XpEE6Y|Australia|South Australia|Adelaide|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
-172.93.104.131:39603:6gmjzub1ve:3tw438ApGp|Australia|Western Australia|Perth|Telstra Limited|Residential
+172.93.104.131:39603:0xj895n7od:2MQ6XpEE6Y|Australia|South Australia|Adelaide|TPG Internet Pty Ltd|Residential
 172.93.104.131:39603:v6pywycs75:rqlizag4Go|United States|North Carolina|Winston-Salem|Road Runner|Residential
-172.93.105.208:43159:inhf3h016g:5xKr1k5zth|United Kingdom|Scotland|Glasgow|EE Limited|Residential
+172.93.104.131:39603:6gmjzub1ve:3tw438ApGp|Australia|Western Australia|Perth|TPG Internet Pty Ltd|Residential
+172.93.104.131:39603:2xtmsdvlg4:H5zEputkGl|Australia|Queensland|Brisbane|TPG Internet Pty Ltd|Residential
+172.93.105.208:43159:qp6gad5ee9:kguFYcULZC|United Kingdom|England|Poole|BSkyB Broadband|Residential
 172.93.104.131:39603:kdsg7ws24n:NjUt5A7JUC|Brazil|Minas Gerais|Montes Claros|Vivo|Residential
-172.93.105.208:43159:ndd0vqn87u:6ZuUuPsl6X|United Kingdom|Northern Ireland|Belfast|BT Public Internet Service|Residential
-172.93.105.208:43159:6jk5or9jli:ssDYBfRkcQ|United Kingdom|England|Lambeth|Sky UK Limited|Residential
-172.93.104.131:39603:8ja1oyb434:Wmpmvazolr|Brazil|Rio Grande do Sul|Tupanciretã|FG INTERLIGA LTDA|Residential
-172.93.104.131:39603:vb51iy7i6s:HHe7u5CI7Q|Australia|South Australia|Adelaide|Telstra Limited|Residential
-172.93.104.131:39603:rbifww6uw8:BhwfVTnG7r|Australia|Western Australia|Perth|ACN 166 783 286 PTY LTD|Residential
 172.93.104.131:39603:l6hsybtbht:9011BX2ePh|Australia|Western Australia|Perth|Telstra Limited|Residential
-172.93.105.208:43159:5ajpbw9e4q:9sA9Y99DY5|United Kingdom|England|Coventry|Vodafone Group PLC|Residential
+172.93.104.131:39603:vb51iy7i6s:HHe7u5CI7Q|Australia|New South Wales|Sydney|Southern Phone Company Ltd|Residential
+172.93.105.208:43159:6jk5or9jli:ssDYBfRkcQ|United Kingdom|England|Corby|BT Public Internet Service|Residential
+172.93.104.131:39603:8ja1oyb434:Wmpmvazolr|Brazil|Minas Gerais|Ipatinga|Brnet Telecomunicacoes LTDA - ME|Residential
+172.93.104.131:39603:wzdvhnb7ld:sfQHViSDXd|Australia|New South Wales|Sydney|SingTel Optus Pty Ltd|Residential
 172.93.104.131:39603:k9j135w9mj:KXWVVDeSob|Australia|Western Australia|Perth|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
-172.93.105.208:43159:fq4i9qdm27:38wN01cEIF|Australia|Victoria|Melbourne|SingTel Optus Pty Ltd|Residential
+172.93.105.208:43159:5ajpbw9e4q:9sA9Y99DY5|United Kingdom|England|Cambridge|BT Public Internet Service|Residential
+172.93.105.208:43159:zd2ezg1djc:L5d130LPc0|United Kingdom|England|Liverpool|Vodafone Group PLC|Residential
+172.93.105.208:43159:4dvwgi0tag:NMHOqV6rqu|United Kingdom|England|Nottingham|Sky UK Limited|Residential
 172.93.104.131:39603:jvjw82o4bd:rAWQI75HUW|Australia|Victoria|Melbourne|Freedom Internet Holdings PTY LTD|Residential
 172.93.104.131:39603:lnbyszcxnt:UW5Bekq7Eu|Australia|Queensland|Brisbane|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
-172.93.105.208:43159:zd2ezg1djc:L5d130LPc0|United Kingdom|Wales|Pontypool|BT Public Internet Service|Residential
-172.93.104.131:39603:wzdvhnb7ld:sfQHViSDXd|Australia|New South Wales|Sydney|SingTel Optus Pty Ltd|Residential
-172.93.105.208:43159:jg6ur2z0p8:1qXAa0sSKL|United Kingdom|England|Basingstoke|Energis UK|Residential
-172.93.105.208:43159:ph3kam70xm:a6YPIpHlVO|United Kingdom|England|Solihull|BT Public Internet Service|Residential
+172.93.105.208:43159:ph3kam70xm:a6YPIpHlVO|United Kingdom|England|Kings Lynn|O2 Online|Residential
+172.93.105.208:43159:8dym4ezo4c:zfMfuS5aqL|United Kingdom|England|Nottingham|Virgin Media Limited|Residential
 172.93.105.208:43159:cafjlg6xiz:PMhkWFfxrP|Australia|Victoria|Melbourne|SingTel Optus Pty Ltd|Residential
-172.93.104.131:39603:9ad4da2jnc:S9FRd7ppBi|Australia|New South Wales|Sydney|Telstra Limited|Residential
-172.93.105.208:43159:8dym4ezo4c:zfMfuS5aqL|United Kingdom|Wales|Cardiff|Virgin Media|Residential
-172.93.105.208:43159:4dvwgi0tag:NMHOqV6rqu|United Kingdom|England|Hornchurch|BT Public Internet Service|Residential
-172.93.105.208:43159:3oujo7xlbk:vcyY9EOn4d|United Kingdom|England|Sheffield|Sky UK Limited|Residential
-172.93.104.131:39603:d1adal6r95:CxE6GHkKXQ|Brazil|Rio de Janeiro|Rio de Janeiro|Giga Mais Fibra Telecomunicacoes S.A.|Residential
-104.219.238.237:43645:e2su96zptj:g7bycBao57|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.105.208:43159:0d1xxkaoik:alosvnYJtn|Australia|Victoria|Melbourne|SingTel Optus Pty Ltd|Residential
-172.93.105.208:43159:2ye0wqx8r9:2FNiO0iFi1|Australia|Victoria|Melbourne|M2-DODO|Residential
-172.93.105.208:43159:5u0712iajq:d4cUzEMnjM|United Kingdom|England|Scunthorpe|Virgin Media Limited|Residential
-172.93.105.208:43159:khre4jyeuv:xLGhbfk8nS|Germany|Saxony|Chemnitz|Deutsche Telekom AG|Residential
+172.93.104.131:39603:kl4s5ja5ai:NuxfKuGAgn|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.104.131:39603:9ad4da2jnc:S9FRd7ppBi|Australia|New South Wales|Sydney|Telstra Internet|Residential
+172.93.104.131:39603:qutqmf1xau:xOsuzKUK1a|Australia|Victoria|Melbourne|Spintel Pty Ltd|Residential
+172.93.105.208:43159:jg6ur2z0p8:1qXAa0sSKL|United Kingdom|England|Basingstoke|Energis UK|Residential
+172.93.104.131:39603:d1adal6r95:CxE6GHkKXQ|Brazil|Mato Grosso do Sul|Naviraí|Claro NXT Telecomunicacoes Ltda|Residential
+172.93.105.208:43159:swcpsurq5s:odJ255YIoV|United Kingdom|Scotland|Glasgow|TalkTalk|Residential
+172.93.105.208:43159:5u0712iajq:d4cUzEMnjM|United Kingdom|England|City of London|BT Public Internet Service|Residential
+172.93.105.208:43159:2ye0wqx8r9:2FNiO0iFi1|Australia|Victoria|Melbourne|Telstra Internet|Residential
 172.93.104.131:39603:37azj3hvzz:16N3CtuOgb|Australia|New South Wales|Sydney|Telstra Limited|Residential
+172.93.105.208:43159:khre4jyeuv:xLGhbfk8nS|Germany|Free and Hanseatic City of Hamburg|Hamburg|1&1 Versatel GmbH|Residential
 172.93.104.131:39603:s69p0zll1b:KrhK1lEoMf|Australia|New South Wales|Sydney|Wideband Networks Pty Ltd|Residential
-172.93.105.208:43159:kj2baxvg6j:5TsIkZGWpk|Australia|Queensland|Brisbane|Telstra Limited|Residential
-172.93.104.131:39603:y3nnh3lfpc:Avp1qbWSoF|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Telecommunications Corporation|Residential
+172.93.104.131:39603:e2sp5qbnbf:bkHWz6EzYi|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.105.208:43159:utuw30wut0:Tgz3NAfKpD|France|Rhône-Alpes|Sciez|BOUYGUES Telecom ISP Wireline|Residential
 172.93.104.131:39603:8vhiagiaxy:rMSzaRnYdv|Australia|Queensland|Brisbane|Telstra Internet|Residential
-172.93.105.208:43159:swcpsurq5s:odJ255YIoV|United Kingdom|England|St Helens|Sky UK Limited|Residential
-172.93.104.131:39603:b5rmwe7pmd:yzPjuHUvPC|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
-172.93.105.208:43159:48k5mg0f1c:EEkoTcVXO2|Australia|Victoria|Melbourne|SingTel Optus Pty Ltd|Residential
-172.93.104.131:39603:2vpfyudwxb:xwsdKyHtJi|Australia|New South Wales|Sydney|Telair Pty Ltd|Residential
+172.93.105.208:43159:sg7acw95d2:KQL9JRcidX|Germany|Lower Saxony|Hanover|Deutsche Telekom AG|Residential
+172.93.105.208:43159:48k5mg0f1c:EEkoTcVXO2|Australia|Victoria|Melbourne|Wideband Networks Pty Ltd|Residential
+172.93.104.131:39603:gpyw74o3gu:EkmSq9otTD|Australia|New South Wales|Sydney|TPG Internet Pty Ltd|Residential
+172.93.104.131:39603:b5rmwe7pmd:yzPjuHUvPC|United Arab Emirates|Emirate of Ras Al Khaimah|Ras al-Khaimah|Emirates Integrated Telecommunications Company PJSC|Residential
+172.93.104.131:39603:2vpfyudwxb:xwsdKyHtJi|Australia|New South Wales|Sydney|Aussie Broadband|Residential
+172.93.104.131:39603:97gh2q2ixa:0m2Vgao3bS|United States|Washington|Tacoma|Verizon Business|Residential
+172.93.104.131:39603:lc482oiuqr:MzvJlhIljx|United States|Michigan|Saginaw|Charter Communications|Residential
+172.93.105.208:43159:tepno26ap3:KXQ5tFMPCS|United States|Indiana|Lafayette|Wintek Corporation|Residential
 172.93.104.131:39603:qjrf18pgvx:AiKtQrQdSe|United Kingdom|Wales|Wrexham|BT Public Internet Service|Residential
-172.93.104.131:39603:lc482oiuqr:MzvJlhIljx|United States|Michigan|Sturgis|Charter Communications|Residential
-172.93.104.131:39603:s3o38419sk:HaFgR9Ubpd|Australia|Victoria|Melbourne|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
-172.93.105.208:43159:sg7acw95d2:KQL9JRcidX|Germany|North Rhine-Westphalia|Essen|Vodafone GmbH|Residential
-172.93.104.131:39603:dcd1y2roo0:i0XyhYVDzK|Australia|New South Wales|Sydney|Buroserv Australia Pty Ltd|Residential
-172.93.104.131:39603:gpyw74o3gu:EkmSq9otTD|Pakistan|Punjab|Faisalabad|N/A|Residential
-172.93.104.131:39603:ocgj5odfu6:yiaqHQU7UM|United Arab Emirates|Ajman|Ajman|Emirates Telecommunications Corporation|Residential
-172.93.104.131:39603:qutqmf1xau:xOsuzKUK1a|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:cgbpbuj4m3:8qN8MKa57G|Australia|New South Wales|Sydney|Space Exploration Technologies Corporation|Residential
-172.93.105.208:43159:rmatsc5o42:9LTNXTkDyx|Australia|New South Wales|Newcastle|SingTel Optus Pty Ltd|Residential
+172.93.105.208:43159:rmatsc5o42:9LTNXTkDyx|Australia|Queensland|Brisbane|TPG Internet Pty Ltd|Residential
 172.93.105.208:43159:f98u42qrtd:NFeoOFWmPp|Germany|North Rhine-Westphalia|Cologne|NetCologne Gesellschaft fur Telekommunikation mbH|Business
-172.93.104.131:39603:2ob7hsyd79:GiAeHJUx4f|Germany|Free and Hanseatic City of Hamburg|Hamburg|Vodafone Kabel Deutschland|Residential
-172.93.104.131:39603:ig4m5enn33:TgStulp8QV|France|Hauts-de-France|Wattrelos|Societe Francaise Du Radiotelephone - SFR SA|Residential
+172.93.104.131:39603:cgbpbuj4m3:8qN8MKa57G|Australia|New South Wales|Sydney|Space Exploration Technologies Corporation|Residential
+172.93.104.131:39603:s3o38419sk:HaFgR9Ubpd|Australia|Victoria|Melbourne|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
+172.93.104.131:39603:ocgj5odfu6:yiaqHQU7UM|United Arab Emirates|Abu Dhabi|Abu Dhabi|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.104.131:39603:2ob7hsyd79:GiAeHJUx4f|Germany|Free and Hanseatic City of Hamburg|Hamburg|Telefonica Germany GmbH & Co. OHG|Residential
+172.93.104.131:39603:ig4m5enn33:TgStulp8QV|France|Normandy|Darnétal|Proxad / Free SAS|Residential
+172.93.104.131:39603:ttekdq41oh:uVzCSjerqL|Brazil|Paraíba|Campina Grande|Proxxima Telecomunicacoes Ltda|Residential
+172.93.104.131:39603:n6pl4gobf4:KQ5iR3UbJc|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.104.131:39603:x68vw5sm9n:QwhirT6Imt|Australia|Queensland|Brisbane|Aussie Broadband|Residential
+172.93.104.131:39603:lou1k37d1d:Z1oIUzWkq7|United Arab Emirates|Abu Dhabi|Al Ain City|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.104.131:39603:0qk69huh2e:jnHwGGCS7p|Australia|Western Australia|Perth|Telstra Limited|Residential
+172.93.104.131:39603:ig4r6cf95w:McAjKIFXmg|France|Pays de la Loire|Nantes|Orange|Residential
 172.93.105.208:43159:1tfyjzzndv:bTItNTRIbb|Germany|Baden-Wurttemberg|Stuttgart|Vodafone GmbH|Residential
-172.93.104.131:39603:0qk69huh2e:jnHwGGCS7p|Australia|Western Australia|Perth|Aussie Broadband|Residential
-172.93.104.131:39603:ttekdq41oh:uVzCSjerqL|Brazil|Minas Gerais|Belo Horizonte|BTT TELECOMUNICACOES S.A.|Residential
-172.93.104.131:39603:n6pl4gobf4:KQ5iR3UbJc|United Arab Emirates|Emirate of Sharjah|Sharjah|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.104.131:39603:lou1k37d1d:Z1oIUzWkq7|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.104.131:39603:7ggxk0tbem:PezWXpeUwP|Australia|New South Wales|Sydney|Aussie Broadband|Residential
-172.93.104.131:39603:ig4r6cf95w:McAjKIFXmg|France|Île-de-France|Argenteuil|Proxad / Free SAS|Residential
-172.93.104.131:39603:aam86v1mxe:PC0AygFodV|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
-172.93.105.208:43159:exw5rzacdj:P1vi3q97bw|Canada|British Columbia|Vancouver|Cyberzone S.A.|Residential
-172.93.104.131:39603:ib1ok35g2u:6SSs004Ai8|Australia|South Australia|Adelaide|Vocus PTY LTD|Residential
-172.93.104.131:39603:mf9n3u8u1r:jnu87JJaKL|Australia|Western Australia|Perth|Wideband Networks Pty Ltd|Residential
+172.93.104.131:39603:ib1ok35g2u:6SSs004Ai8|Australia|South Australia|Adelaide|SingTel Optus Pty Ltd|Residential
+172.93.104.131:39603:a8vric16vo:df440XVtpf|Australia|New South Wales|Sydney|Vocus PTY LTD|Residential
+172.93.104.131:39603:rn434dgxr4:sI1VTzhy6Q|Australia|Western Australia|Perth|Vocus PTY LTD|Residential
 172.93.104.131:39603:okw6iqqpsr:wc8fiWnCAI|Brazil|São Paulo|Bauru|AONET SERVIÇOS DE COMUNICACÃO LTDA|Residential
-172.93.105.208:43159:c4sgoq5msa:i3OX4uwTD8|Australia|New South Wales|Newcastle|SingTel Optus Pty Ltd|Residential
-172.93.104.131:39603:chivjur9kn:DfhDlOobk4|Brazil|Paraná|Curitiba|Ggnet Telecom Backbone|Residential
-172.93.104.131:39603:rn434dgxr4:sI1VTzhy6Q|Australia|Western Australia|Perth|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
-172.93.104.131:39603:5b4ivwwnaw:laj9VHp75T|Australia|Queensland|Brisbane|Space Exploration Technologies Corporation|Residential
-172.93.104.131:39603:g548opak2s:vLMGSdaBGE|France|Hauts-de-France|Saint-Quentin|Proxad / Free SAS|Residential
+172.93.104.131:39603:g548opak2s:vLMGSdaBGE|France|Île-de-France|Corbeil-Essonnes|Proxad / Free SAS|Residential
+172.93.105.208:43159:c4sgoq5msa:i3OX4uwTD8|Australia|Victoria|Melbourne|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
 172.93.104.131:39603:ezfaghc7hf:zehCPE6GLb|France|Brittany|Domalain|Proxad / Free SAS|Residential
-172.93.105.208:43159:aforopynbw:4Xo1FAKqsZ|Germany|North Rhine-Westphalia|Gelsenkirchen|1&1 Versatel GmbH|Residential
-172.93.105.208:43159:555lhxn8r4:wWtiIliJeW|Canada|Ontario|Brampton|Rogers Communications Canada Inc.|Residential
-172.93.105.208:43159:rbrfjli48k:EZ9DvwtnAq|Canada|Manitoba|Brandon|Bell Canada|Residential
-172.93.105.208:43159:k84sn9mnlx:ZN6eHjfp0q|Canada|British Columbia|Vancouver|GLOBALTELEHOST Corp.|Cellular
-172.93.105.208:43159:t1leovy4b5:UOwStJo8Gp|Canada|Ontario|Toronto|Rogers Communications Canada Inc.|Residential
+172.93.104.131:39603:5b4ivwwnaw:laj9VHp75T|Australia|Queensland|Brisbane|Space Exploration Technologies Corporation|Residential
+172.93.105.208:43159:aforopynbw:4Xo1FAKqsZ|Germany|Bavaria|Hof|Deutsche Telekom AG|Residential
+172.93.105.208:43159:k84sn9mnlx:ZN6eHjfp0q|Canada|Ontario|Mississauga|Bell Canada|Residential
+172.93.105.208:43159:w3x4g5cy0d:swc3hli2gm|Canada|British Columbia|Langley|Shaw Communications|Residential
 172.93.105.208:43159:i84cqu5iah:TsT7TsHV8c|Canada|Ontario|Toronto|Bell Canada|Residential
-172.93.105.208:43159:bifxlznvab:hzdysIX7tF|Canada|Ontario|Orléans|Bell Canada|Residential
-172.93.104.131:39603:ntc0fbnd00:svTwjhG8ng|France|Île-de-France|Bondy|Societe Francaise Du Radiotelephone - SFR SA|Residential
-172.93.104.131:39603:d7a75kd2zu:ohczBPCjME|Canada|New Brunswick|Edmundston|Rogers Communications Canada Inc.|Residential
+172.93.104.131:39603:2enqhltn70:rTN617QroZ|Canada|Quebec|Gatineau|Bell Canada|Residential
+172.93.104.131:39603:ntc0fbnd00:svTwjhG8ng|France|Pays de la Loire|Le Mans|Free SAS|Residential
+172.93.104.131:39603:d7a75kd2zu:ohczBPCjME|Canada|New Brunswick|Moncton|Rogers Communications Canada Inc.|Residential
+172.93.105.208:43159:t1leovy4b5:UOwStJo8Gp|Canada|Ontario|Toronto|Rogers Communications Canada Inc.|Residential
+172.93.104.131:39603:svy9x8yx70:dtrx1fKD4P|Canada|Manitoba|Winkler|Valley Fiber Ltd.|Residential
 172.93.104.131:39603:i2mvfkv5ho:76AD7xwikk|Canada|Nova Scotia|Glace Bay|Bell Canada|Residential
-172.93.104.131:39603:2enqhltn70:rTN617QroZ|Canada|Quebec|Montreal|EBOX|Residential
-172.93.104.131:39603:svy9x8yx70:dtrx1fKD4P|Canada|Manitoba|Winnipeg|Shaw Communications|Residential
-172.93.104.131:39603:69t2b6xdrg:dlnEnReuuM|Canada|Ontario|Toronto|Rogers Communications Canada Inc.|Residential
-172.93.104.131:39603:x68vw5sm9n:QwhirT6Imt|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:my26fclmkh:hVso0iVx38|Brazil|Paraná|Ponta Grossa|Hoinaski & Sklasky Ltda|Residential
-172.93.104.131:39603:gnp67ci3c9:VBTKclIN4L|Brazil|Santa Catarina|São Francisco do Sul|Palmasnet Informática LTDA|Residential
-172.93.104.131:39603:815ieizbae:TK0Uy85PhG|Canada|Nova Scotia|Pugwash|Xplore Inc.|Residential
-172.93.104.131:39603:x8vxces4dg:zbGCR1qKST|United Arab Emirates|Abu Dhabi|Abu Dhabi|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
-172.93.104.131:39603:m9xahy6u0v:ssg7stBvjq|United Arab Emirates|Emirate of Sharjah|Sharjah|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.104.131:39603:69t2b6xdrg:dlnEnReuuM|Canada|Ontario|Binbrook|Bell Canada|Residential
+172.93.104.131:39603:gnp67ci3c9:VBTKclIN4L|Brazil|São Paulo|São Paulo|Netfi serviços de comunicações ltda epp|Residential
+172.93.104.131:39603:my26fclmkh:hVso0iVx38|Brazil|Goiás|Valparaíso de Goiás|Fernando Net e Telecomunicações Ltda|Residential
+172.93.105.208:43159:bifxlznvab:hzdysIX7tF|Canada|Ontario|Mississauga|Rogers Communications Canada Inc.|Residential
+172.93.104.131:39603:815ieizbae:TK0Uy85PhG|Canada|Prince Edward Island|Charlottetown|EastLink|Residential
 172.93.104.131:39603:i086o8c6b8:K3T2Fb0fSl|Canada|Quebec|Québec|Bell Canada|Residential
+172.93.104.131:39603:m9xahy6u0v:ssg7stBvjq|United Arab Emirates|Emirate of Sharjah|Sharjah|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
 172.93.104.131:39603:t3yl9sxyfl:K66x1swQOy|Canada|Alberta|Wainwright|TELUS Communications Inc.|Residential
-172.93.104.131:39603:a8vric16vo:df440XVtpf|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:99a8j9im2s:jd7tsIdJa6|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.104.131:39603:p365o99hvy:V6sYFYzPr1|United Arab Emirates|Emirate of Sharjah|Sharjah|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.105.208:43159:ojjkcwn5ez:7GYaDKAUsh|Canada|Ontario|St. Catharines|Cogeco Connexion Inc.|Residential
-172.93.104.131:39603:1l07pjsoku:HOZgvBFU54|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.105.208:43159:ikbszkrysh:dpZI3NjB5A|Canada|Ontario|Niagara-on-the-Lake|Bell Canada|Residential
-172.93.105.208:43159:kc9bkt4p5m:P6CtwVmUXA|Canada|Manitoba|Winnipeg|Shaw Communications|Residential
-172.93.105.208:43159:ri4ikd5c4x:hSjj1P9WbM|Germany|Baden-Wurttemberg|Stuttgart|Vodafone GmbH|Residential
+172.93.104.131:39603:x8vxces4dg:zbGCR1qKST|United Arab Emirates|Abu Dhabi|Abu Dhabi|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.104.131:39603:99a8j9im2s:jd7tsIdJa6|United Arab Emirates|Emirate of Sharjah|Sharjah|Emirates Telecommunications Corporation|Residential
+172.93.104.131:39603:p365o99hvy:V6sYFYzPr1|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.105.208:43159:0zaictwmgd:ZNU3oBeWQD|Canada|New Brunswick|Saint John|Bell Canada|Residential
+172.93.105.208:43159:ri4ikd5c4x:hSjj1P9WbM|Germany|Free and Hanseatic City of Hamburg|Hamburg|Vodafone Kabel Deutschland|Residential
+172.93.105.208:43159:kc9bkt4p5m:P6CtwVmUXA|Canada|Ontario|Kingston|Bell Canada|Residential
+172.93.105.208:43159:ezurhwsi0g:dcGG5CxzFa|Germany|Hesse|Fulda|Deutsche Telekom AG|Residential
+172.93.105.208:43159:ojjkcwn5ez:7GYaDKAUsh|Canada|Ontario|Scarborough|InnSys Incorporated|Residential
 172.93.105.208:43159:oe9s5bw70m:YJOJ6ZkpMr|United Kingdom|Wales|Swansea|Virgin Media Limited|Residential
 172.93.104.131:39603:hcui7pjgu1:Dy6QxBP5yY|Canada|Manitoba|Winnipeg|Bell Canada|Residential
+172.93.104.131:39603:1l07pjsoku:HOZgvBFU54|Unknown|Unknown|Unknown|Unknown|Residential
 172.93.105.208:43159:6ux72s09mb:13ahgfl5dT|Canada|Ontario|Seaforth|Mitchell Seaforth Cable T. V. Ltd.|Residential
-172.93.105.208:43159:sf6f2m9oup:1feUWArh3z|United Kingdom|England|London|DSV Communications Limited|Residential
-172.93.104.131:39603:i7s8431mms:UTfgRNziAz|France|New Aquitaine|Cenon|Bouygues Telecom ISP Wireline|Residential
-172.93.104.131:39603:pd2bbjbazq:uVi4usebTS|Canada|Manitoba|Winnipeg|Shaw Communications|Residential
-172.93.104.131:39603:f49axdi3lo:Uva6DPnA6t|Canada|Alberta|Calgary|Shaw Communications|Residential
-172.93.104.131:39603:p8gdmjz85z:xKSZ8Ivcbe|Canada|Quebec|Westmount|Videotron Ltee|Cellular
-172.93.104.131:39603:xscgn6llw9:yf4aDNzwxp|United States|Nevada|Las Vegas|Strong Technology|Residential
-172.93.104.131:39603:1b8nxoom4n:tZFHPkVFck|Canada|Alberta|Fort Macleod|TELUS Communications Inc|Residential
-172.93.104.131:39603:usylmwoutk:B5f7ZDlZkk|Canada|Saskatchewan|Regina|Space Exploration Technologies Corporation|Residential
-172.93.104.131:39603:wyju4hwtjj:lLJR9HbgSq|Germany|Baden-Wurttemberg|Metzingen|Vodafone|Residential
+172.93.104.131:39603:pd2bbjbazq:uVi4usebTS|Canada|Manitoba|Winnipeg|Bell Canada|Residential
+172.93.105.208:43159:qd7p611x3z:Oh8X5XwQOC|Canada|Ontario|Toronto|Bell Canada|Residential
+172.93.104.131:39603:p8gdmjz85z:xKSZ8Ivcbe|Canada|Quebec|Montreal|Bell Canada|Residential
+172.93.104.131:39603:f49axdi3lo:Uva6DPnA6t|Canada|Alberta|Calgary|Space Exploration Technologies Corporation|Residential
+172.93.104.131:39603:xscgn6llw9:yf4aDNzwxp|United States|Nevada|Las Vegas|Cox Communications Inc.|Residential
+172.93.104.131:39603:1b8nxoom4n:tZFHPkVFck|Canada|Alberta|Edmonton|Videotron Ltee|Cellular
+172.93.104.131:39603:usylmwoutk:B5f7ZDlZkk|Canada|Saskatchewan|Regina|Access Communications Co-operative Limited|Residential
+172.93.104.131:39603:3yiar1qo7j:i81EqeJnfN|Brazil|Bahia|Ilhéus|Henet Telecomunicacoes Ltda|Residential
 172.93.104.131:39603:vrdrxcunrx:R8fwRfbun5|Germany|Bavaria|Nuremberg|Vodafone Kabel Deutschland|Residential
-172.93.105.208:43159:f1c7i0x9ze:r3gylSxjCG|United Kingdom|England|Manchester|TalkTalk|Residential
-172.93.104.131:39603:mg09i5otxv:413esVXIT3|United States|New Mexico|Clovis|Plateau Telecommunications Incorporated|Residential
-172.93.105.208:43159:81lw43083h:ZBCOpdVJgP|Germany|Bavaria|Munich|Telefonica Deutschland GmbH|Residential
 172.93.105.208:43159:swlbzay094:RdIJjcJTdK|United Kingdom|Scotland|Glasgow|Hydra Communications Ltd|Residential
+172.93.105.208:43159:f1c7i0x9ze:r3gylSxjCG|United Kingdom|England|Mansfield|Virgin Media|Residential
+172.93.104.131:39603:mg09i5otxv:413esVXIT3|United States|New Mexico|Clovis|Plateau Telecommunications Incorporated|Residential
 172.93.104.131:39603:9w1onsz5zx:49BCWHnVlz|United Arab Emirates|Dubai|Dubai|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.105.208:43159:jpfsntx81i:bWYFgDKTUz|United Kingdom|Wales|Cardiff|TalkTalk|Residential
-172.93.104.131:39603:wp6mn0gpxb:054NG5MFsY|United Arab Emirates|Emirate of Sharjah|Sharjah|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.105.208:43159:4jfaf5q8cw:OSCcgpygTW|United Kingdom|England|Nottingham|Sky UK Limited|Residential
-172.93.104.131:39603:l14z31q0vn:MPjfCffHpB|United States|Florida|Kissimmee|Charter Communications|Residential
-172.93.105.208:43159:hl19um53uy:R9walVbgid|United Kingdom|England|Bishop's Stortford|BT Public Internet Service|Residential
-172.93.105.208:43159:27bzihyasr:aDAOzvInVF|United Kingdom|England|Nottingham|Hutchison 3G UK Ltd|Residential
-172.93.105.208:43159:cynphza5sp:ZwlQZ9L7cX|United Kingdom|England|Addlestone|Hutchison 3G UK Ltd|Residential
-172.93.104.131:39603:xqs3slvfum:heCSj7rZtc|Brazil|Rio Grande do Sul|Torres|Digitotal Networks Telecomunicações ltda|Residential
-172.93.104.131:39603:gh9puo3sd2:9S8iCfuVUx|Brazil|Rio Grande do Sul|Taquari|Seitel - Seixas Telecomunicações|Residential
-172.93.105.208:43159:7zptrkhdys:urOGBBEax0|United Kingdom|England|Waltham Cross|Virgin Media Limited|Residential
-172.93.104.131:39603:woxewdx80l:3ymBUp8qlJ|Georgia|Tbilisi|Tbilisi|Caucasus Online LLC|Residential
-172.93.104.131:39603:52s4ph7mou:mDTUGWjTe3|Brazil|São Paulo|Sao Paulo|Starlink Chile SPA|Residential
-172.93.104.131:39603:btrdl0qeuo:CQ9cACr05Y|Indonesia|Banten|Tangerang|PT. TELKOM INDONESIA|Residential
-172.93.104.131:39603:m2tecy7t3j:hhmuaKMLxk|Malaysia|Sarawak|Kuching|TM TECHNOLOGY SERVICES SDN BHD|Residential
+172.93.105.208:43159:cynphza5sp:ZwlQZ9L7cX|United Kingdom|England|Fulham|EE Limited|Residential
+172.93.105.208:43159:jpfsntx81i:bWYFgDKTUz|United Kingdom|England|Wirral|TalkTalk|Residential
+172.93.104.131:39603:l14z31q0vn:MPjfCffHpB|United States|Florida|Tarpon Springs|Charter Communications|Residential
+172.93.105.208:43159:hl19um53uy:R9walVbgid|United Kingdom|England|Walsall|Sky UK Limited|Residential
+172.93.105.208:43159:27bzihyasr:aDAOzvInVF|United Kingdom|England|London|British Telecommunications PLC|Residential
+172.93.105.208:43159:7zptrkhdys:urOGBBEax0|United Kingdom|England|Reading|Sky UK Limited|Residential
+172.93.104.131:39603:xqs3slvfum:heCSj7rZtc|Brazil|São Paulo|São Bernardo do Campo|Iwnet Telecom Ltda ME|Residential
+172.93.104.131:39603:cqvyfr6jgx:bi5xmmPFKs|Brazil|São Paulo|Itapira|Claro NXT Telecomunicacoes Ltda|Residential
+172.93.104.131:39603:v4n3tfnagu:nqjp2Pxrxd|Brazil|São Paulo|São Paulo|Vivo|Residential
+172.93.104.131:39603:woxewdx80l:3ymBUp8qlJ|Georgia|Tbilisi|Tbilisi|Magticom|Residential
+172.93.104.131:39603:52s4ph7mou:mDTUGWjTe3|Brazil|Rio Grande do Sul|Canoas|V tal|Residential
+172.93.104.131:39603:wp6mn0gpxb:054NG5MFsY|United Arab Emirates|Dubai|Dubai|Emirates Integrated Telecommunications Company PJSC|Residential
 172.93.104.131:39603:i7l4718szf:HAylG5Tcwm|Malaysia|Kuala Lumpur|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:iaby19ohyf:q1ewZH3N5r|Brazil|São Paulo|São Joaquim da Barra|Impactnet Telecomunicacoes LTDA|Residential
-172.93.104.131:39603:hwaaft87so:ksvZ0Fawkx|Brazil|Bahia|Feira de Santana|new core tecnologia e informatica eirelli|Residential
-172.93.104.131:39603:vymf1y42l3:UynHD6YAMb|Malaysia|Selangor|Kajang|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:7ui9p994bg:PWF0RRkW9R|Georgia|Adjara|Batumi|JSC "Silknet"|Residential
-172.93.104.131:39603:kaodnswt4d:D5OE7R2qn4|Brazil|Pernambuco|Recife|Brisanet Servicos De Telecomunicacoes S.A|Residential
-172.93.104.131:39603:y02diplv5z:yhOfJrN9No|Malaysia|Kuala Lumpur|Kuala Lumpur|DiGi Telecommunications Sdn Bhd., Digi Internet Exchange|Residential
+172.93.104.131:39603:m2tecy7t3j:hhmuaKMLxk|Malaysia|Sarawak|Kuching|TM TECHNOLOGY SERVICES SDN BHD|Residential
+172.93.104.131:39603:vymf1y42l3:UynHD6YAMb|Malaysia|Sabah|Kota Kinabalu|TM TECHNOLOGY SERVICES SDN BHD|Residential
 172.93.104.131:39603:6qdjak9cb8:zHdRxNUD2j|Indonesia|East Java|Surabaya|PT. INDOSAT Tbk|Residential
-172.93.104.131:39603:otnb54u2kb:yVUa8BtIeW|Brazil|Paraíba|Campina Grande|Claro NXT Telecomunicacoes Ltda|Residential
-172.93.104.131:39603:cqvyfr6jgx:bi5xmmPFKs|Brazil|Rio de Janeiro|Queimados|WTD TELECOM|Residential
-172.93.104.131:39603:fg8siu08qf:XdpOLGgucP|Brazil|São Paulo|Osasco|Claro NXT Telecomunicacoes Ltda|Residential
+172.93.104.131:39603:4kbrx6m1yr:CpIvrW52Kp|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.104.131:39603:iaby19ohyf:q1ewZH3N5r|Brazil|São Paulo|São Joaquim da Barra|Impactnet Telecomunicacoes LTDA|Residential
+172.93.104.131:39603:kaodnswt4d:D5OE7R2qn4|Brazil|Pernambuco|Recife|Brisanet Servicos De Telecomunicacoes S.A|Residential
 172.93.104.131:39603:g9d8cd1q0e:vxo1pj98VD|Brazil|São Paulo|Jundiaí|Pombonet Telecomunicações e Informática|Residential
-172.93.104.131:39603:fm26xupyso:pDFVNLEIPZ|Brazil|Paraná|Curitiba|Direct Wifi Telecom Ltda|Residential
-172.93.104.131:39603:ngdg5wspxw:WutraJ1hqu|Saudi Arabia|Medina Region|Medina|Saudi Telecom Company JSC|Residential
-172.93.104.131:39603:blzvx293sf:l57OcnSrwG|Saudi Arabia|Eastern Province|Dammam|Etihad Salam Telecom CJSC|Residential
-172.93.104.131:39603:19yt8y9c1m:DZHSndpKbL|South Africa|Gauteng|Johannesburg|Telkom SA Ltd.|Residential
-172.93.104.131:39603:fw8nesprij:C3ZcCrDJQ4|Brazil|São Paulo|São Paulo|Irantec Informatica|Residential
-172.93.104.131:39603:ym3sautl7v:jBclgkkoP3|Saudi Arabia|Mecca Region|Makkah|Saudinet|Residential
-172.93.104.131:39603:q4n34gamov:wV87gJaVfV|Italy|Lazio|Rome|Telecom Italia S.p.A. TIN EASY LITE|Residential
-172.93.104.131:39603:uvqaix4f8r:cMciufLaGn|Saudi Arabia|Mecca Region|Jeddah|Etihad Salam Telecom CJSC|Residential
+172.93.104.131:39603:otnb54u2kb:yVUa8BtIeW|Brazil|Paraíba|Campina Grande|Claro NXT Telecomunicacoes Ltda|Residential
+172.93.104.131:39603:fg8siu08qf:XdpOLGgucP|Brazil|São Paulo|Osasco|Claro NXT Telecomunicacoes Ltda|Residential
+172.93.104.131:39603:ngdg5wspxw:WutraJ1hqu|Saudi Arabia|Riyadh Region|Riyadh|Etihad Etisalat|Residential
+172.93.104.131:39603:fm26xupyso:pDFVNLEIPZ|Brazil|Minas Gerais|Monte Carmelo|Lucas Mendes Alvarenga E CIA Ltda|Residential
+172.93.104.131:39603:blzvx293sf:l57OcnSrwG|Saudi Arabia|Mecca Region|Jeddah|Saudi Telecom Company JSC|Residential
+172.93.104.131:39603:fw8nesprij:C3ZcCrDJQ4|Brazil|Minas Gerais|Divinópolis|Rede Brasileira de Comunicacao S/A|Residential
+172.93.104.131:39603:oek54jfg0d:xRlcRNRjpD|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.104.131:39603:q4n34gamov:wV87gJaVfV|Italy|Emilia-Romagna|Ferrara|Vodafone|Residential
 172.93.104.131:39603:at212o0f2h:TYu3KgRl3A|Brazil|Rio Grande do Sul|Pelotas|Vivo|Residential
 172.93.104.131:39603:0yx9pdvlnv:C3zPumCFWE|Italy|Lazio|Rome|Telecom Italia S.p.A. TIN EASY LITE|Residential
-172.93.104.131:39603:p6bcyb86sc:IARxeP2Pty|The Netherlands|South Holland|Rotterdam|KPN N.V.|Residential
-172.93.104.131:39603:hre81vqoby:MZrh0D5s3l|Georgia|Tbilisi|Tbilisi|JSC "Silknet"|Residential
-172.93.104.131:39603:0sgmg6a8y2:nOacvDNikH|Italy|Apulia|Mola di Bari|Wind TRE S.P.A|Residential
-172.93.104.131:39603:gxz5sz7g6u:Ie28eIirJy|Saudi Arabia|'Asir Region|Abha|Internet Broadband|Residential
-172.93.104.131:39603:v25ei2gx3c:i4WdfJdoXw|Italy|Apulia|Bari|VODAFONE|Residential
-172.93.104.131:39603:xv2y5ejh5s:MzXQElvDgG|Saudi Arabia|'Asir Region|Bisha|Saudi Telecom Company JSC|Residential
-172.93.104.131:39603:isnswtbhgl:Ksg2sFhhNQ|Saudi Arabia|Mecca Region|Jeddah|Internet Broadband|Residential
-172.93.104.131:39603:pdl2tazgc0:4314pXhZNg|Italy|Lombardy|Milan|INTERBUSINESS|Residential
-172.93.104.131:39603:qm0202bd36:j4Tv81P869|Saudi Arabia|Mecca Region|Jeddah|Saudi Telecom Company JSC|Residential
-172.93.104.131:39603:exkucmpteh:6Q3m8x044H|Italy|Lombardy|Milano|Iliad Italia|Residential
-172.93.104.131:39603:5uki8rq8fq:MhtyKcaK4A|Italy|Campania|Nola|Telecom Italia S.p.A|Residential
+172.93.104.131:39603:p6bcyb86sc:IARxeP2Pty|The Netherlands|South Holland|Capelle aan den IJssel|KPN B.V.|Residential
+172.93.104.131:39603:hre81vqoby:MZrh0D5s3l|Georgia|Abkhazia|Sukhumi|JV A-Mobile Ltd.|Cellular
+172.93.104.131:39603:0sgmg6a8y2:nOacvDNikH|Italy|Calabria|Reggio Calabria|INFOSTRADA|Residential
+172.93.104.131:39603:pdl2tazgc0:4314pXhZNg|Italy|Abruzzo|Pescara|VODAFONE|Residential
+172.93.104.131:39603:exkucmpteh:6Q3m8x044H|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.104.131:39603:isnswtbhgl:Ksg2sFhhNQ|Saudi Arabia|Mecca Region|Jeddah|Saudi Telecom Company JSC|Residential
+172.93.104.131:39603:qm0202bd36:j4Tv81P869|Saudi Arabia|Mecca Region|Jeddah|Internet Broadband|Residential
+172.93.104.131:39603:xv2y5ejh5s:MzXQElvDgG|Saudi Arabia|Eastern Province|Dammam|Internet BroadBand|Residential
+172.93.104.131:39603:0ruh5uosvu:fmuSRKeXvc|Italy|Lombardy|Brescia|INFOSTRADA|Residential
+172.93.104.131:39603:5uki8rq8fq:MhtyKcaK4A|Italy|Trentino-Alto Adige|Trento|Telecom Italia S.p.A. TIN EASY LITE|Residential
 172.93.104.131:39603:fwgk5x4otp:0WIN8P1Ggn|Italy|Sicily|Palermo|Telecom Italia S.p.A. TIN EASY LITE|Residential
-172.93.104.131:39603:a7xta6n9j3:AInukR3ASH|Georgia|Tbilisi|Tbilisi|Magticom|Residential
-172.93.104.131:39603:66x20dsb5x:XZVRli6DE9|Germany|Saarland|Saarbrücken|Vodafone Kabel Deutschland|Residential
+172.93.104.131:39603:0kxtecy8q9:uQjqIYDoZv|Italy|Lombardy|Buccinasco|Fastweb Networks|Residential
 172.93.104.131:39603:wcucxkd7h4:UCEu5skeoY|Italy|Sicily|Palermo|ENEL S.p.A. - Enel.it Milano|Residential
-172.93.104.131:39603:0ruh5uosvu:fmuSRKeXvc|Italy|Lombardy|Milan|Starlink Mlnnita1|Residential
-172.93.104.131:39603:zfyrir5ui1:Fa9R1ky0xl|Indonesia|Jakarta|Central Jakarta|SMART-TELECOM|Residential
-172.93.104.131:39603:4cnsdbd83m:fQyZEI1hIg|Malaysia|Sarawak|Kuching|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:0kxtecy8q9:uQjqIYDoZv|Italy|Campania|Frattaminore|VODAFONE|Residential
+172.93.104.131:39603:a7xta6n9j3:AInukR3ASH|Georgia|Tbilisi|Tbilisi|JSC "Global Erty"|Residential
+172.93.104.131:39603:66x20dsb5x:XZVRli6DE9|Unknown|Unknown|Unknown|Unknown|Residential
 172.93.104.131:39603:6jywsr924x:9Sg6ZlA7iX|Malaysia|Perak|Ipoh|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:s0n4nacohl:faNBfrlwMy|Malaysia|Kuala Lumpur|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|Residential
+172.93.104.131:39603:ldy22jbsyv:L0d0HJCdKf|Germany|Baden-Wurttemberg|Stuttgart|Vodafone GmbH|Residential
+172.93.104.131:39603:4cnsdbd83m:fQyZEI1hIg|Malaysia|Sarawak|Kuching|TM TECHNOLOGY SERVICES SDN BHD|Residential
 172.93.104.131:39603:vg79csa7vf:HfkyM1niU6|Malaysia|Johor|Johor Bahru|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:9sywtbtob0:nAXxmgvC0R|Indonesia|West Java|Sukabumi|PT Rajasa Sinergi Komunikasi|Residential
-172.93.104.131:39603:j6uqz63ki8:JVaFaeh9mz|India|Tamil Nadu|Perumānallūr|Wbs Internet Services Private Limited|Residential
-172.93.104.131:39603:rplo3snm1u:Tey0o1U2Hk|Malaysia|Melaka|Malacca|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:eymsnkpmxc:54omc70DzZ|South Africa|Free State|Kroonstad|HERO TELECOMS (PTY) LTD|Residential
-172.93.104.131:39603:itw3toobv8:fqj0B1g3ZJ|Mexico|Mexico City|Iztapalapa|Total Play Telecomunicaciones SA De CV|Residential
-172.93.104.131:39603:ylkishcr4k:Lb9SG5X6KA|South Africa|Western Cape|Cape Town|Telkom SA Ltd.|Residential
+172.93.104.131:39603:zfyrir5ui1:Fa9R1ky0xl|Indonesia|West Java|Cileungsir|PT Runnet Media Utama|Residential
+172.93.104.131:39603:s0n4nacohl:faNBfrlwMy|Malaysia|Kuala Lumpur|Taman Tun Dr Ismail|Maxis Broadband Sdn.Bhd|Residential
+172.93.104.131:39603:ylkishcr4k:Lb9SG5X6KA|South Africa|Western Cape|Cape Town|MTNBUSINESS|Residential
+172.93.104.131:39603:eymsnkpmxc:54omc70DzZ|Kenya|Nairobi County|Nairobi|Liquid Telecommunications Ltd|Residential
+172.93.104.131:39603:rplo3snm1u:Tey0o1U2Hk|Malaysia|Penang|Tasek Gelugor|TM TECHNOLOGY SERVICES SDN BHD|Residential
 172.93.104.131:39603:kgq91tuy5w:46TCJTCW01|Indonesia|North Sumatra|Medan|PT. TELKOM INDONESIA|Residential
+172.93.104.131:39603:itw3toobv8:fqj0B1g3ZJ|Mexico|Mexico City|Benito Juarez|Total Play Telecomunicaciones SA De CV|Residential
+172.93.104.131:39603:j6uqz63ki8:JVaFaeh9mz|India|Uttar Pradesh|Lucknow|Bharti Airtel|Residential
 172.93.104.131:39603:9nrrkbbxwn:Dg6kSAf26t|Germany|Hesse|Frankfurt am Main|Deutsche Telekom AG|Residential
-172.93.105.208:43159:hxi0fq46u7:IN6ZFRx2gB|United Kingdom|England|London|Space Exploration Technologies Corporation|Residential
-172.93.104.131:39603:db0yhjmh23:8rzkVzsiTa|Saudi Arabia|Mecca Region|Jeddah|Saudinet|Residential
-172.93.104.131:39603:3wu88w3th3:2JK1PeThmD|Brazil|Ceará|Fortaleza|Claro NXT Telecomunicacoes Ltda|Residential
-172.93.104.131:39603:dk7p2x20r4:tyff3L59fa|United Kingdom|England|Thornton Heath|Community Fibre Limited|Residential
-172.93.104.131:39603:9mky7fuiex:u7wICjYvRn|Germany|Free and Hanseatic City of Hamburg|Hamburg|Deutsche Telekom AG|Residential
-172.93.105.208:43159:iqeb3holo5:UYIsBBYANe|United Kingdom|England|Coulsdon|BT Public Internet Service|Residential
-172.93.104.131:39603:6u2be2cbf6:Y05O53bR6d|Malaysia|Selangor|Cyberjaya|Allo Technology Sdn. Bhd.|Residential
-172.93.104.131:39603:r18o02mta9:dsBoJ4EsZb|Italy|Lombardy|Milano|Iliad Italia|Residential
+172.93.105.208:43159:hxi0fq46u7:IN6ZFRx2gB|United Kingdom|England|Witney|Vodafone|Residential
+172.93.104.131:39603:db0yhjmh23:8rzkVzsiTa|Saudi Arabia|Riyadh Region|Riyadh|Saudinet DSL|Residential
+172.93.104.131:39603:dk7p2x20r4:tyff3L59fa|United Kingdom|England|Wilmslow|Virgin Media Limited|Residential
+172.93.104.131:39603:yrv1satlic:iuWMvlcG35|Mexico|Yucatán|Mérida|UNINET|Residential
+172.93.104.131:39603:bzmsrsm10b:UKQXwXXQLF|Indonesia|East Java|Kedungsumur|PT Wifipedia Sinergi Telematika|Residential
+172.93.105.208:43159:iqeb3holo5:UYIsBBYANe|United Kingdom|England|Birmingham|Sky UK Limited|Residential
+172.93.104.131:39603:r18o02mta9:dsBoJ4EsZb|Italy|Lombardy|Vigevano|Telecom Italia S.p.A., E@sy.ip service in OSPF Area 11, Wholesale service for ISP|Residential
+172.93.104.131:39603:3wu88w3th3:2JK1PeThmD|Brazil|São Paulo|Sumaré|Desktop Sigmanet Comunicação Multimídia SA|Residential
 172.93.104.131:39603:hyix0crfro:VrPPHTtp7M|Italy|Veneto|Verona|Vodafone|Residential
-172.93.104.131:39603:1axsas5brb:ApKImsKfqE|Italy|Lombardy|Milano|Iliad Italia|Residential
-172.93.104.131:39603:6fqoyfdo1z:KAVfpLu0VB|Malaysia|Kuala Lumpur|Kuala Lumpur|DiGi Telecommunications Sdn Bhd|Residential
-172.93.104.131:39603:jlzx52k6pq:Pn6yiI7a07|Saudi Arabia|Mecca Region|Jeddah|Saudi Telecom Company JSC|Residential
-172.93.104.131:39603:1xnz2xxkpx:at0yCtqveP|Saudi Arabia|Medina Region|Medina|STC FBB|Residential
-172.93.104.131:39603:er5rk21p7m:Vb6SaJV7Zq|Philippines|Calabarzon|San Pablo|Converge Information and Communications Technology Solutions|Residential
-172.93.104.131:39603:jonee5kpba:Ph5hHGx2vL|Mexico|México|La Paz|Uninet S.A. de C.V.|Residential
-172.93.104.131:39603:tbr5tvf30n:3H5PLUbMmq|Mexico|Michoacán|Morelia|Mega Cable, S.A. de C.V.|Residential
-172.93.104.131:39603:v2vkfqez70:L28XBqXdwL|Mexico|Chiapas|Tuxtla Gutiérrez|Mega Cable, S.A. de C.V.|Residential
-172.93.104.131:39603:td60fypli5:2yoGOuktxN|Saudi Arabia|Riyadh Region|Riyadh|Bayanat Al-Oula Network Services|Residential
-172.93.104.131:39603:5pjsaxoxbr:U6ichLmeVm|Brazil|São Paulo|Araçatuba|Vero S.A|Residential
-172.93.104.131:39603:95bc96l8xj:g0r9tHlkoS|Philippines|Metro Manila|Mandaluyong|Smart Broadband, Inc.|Residential
-172.93.104.131:39603:jijo1z9kk1:mAbhXc52EO|Saudi Arabia|Eastern Province|Dammam|Saudi Telecom Company JSC|Residential
-172.93.104.131:39603:74wz1is8oz:22l6Jwfynd|Mexico|Puebla|Huejotzingo|Mega Cable, S.A. de C.V.|Residential
-172.93.104.131:39603:q62g54vbba:eYpEe4Z9O4|Brazil|Rio de Janeiro|Magé|Fibralink Internet E Telecomunicacoes Ltda|Residential
-172.93.105.208:43159:m7q8gz1ul5:6mEnarEeb8|United Kingdom|Scotland|Blairgowrie|British Telecommunications PLC|Residential
-172.93.104.131:39603:ngnzduunob:dwjTIZDh1K|France|Hauts-de-France|Hénin-Beaumont|Societe Francaise Du Radiotelephone - SFR SA|Residential
-104.219.238.237:43645:ji9v1pot59:jw1edb6hGW|France|Occitanie|Montpellier|BOUYGUES Telecom ISP|Residential
+172.93.104.131:39603:6fqoyfdo1z:KAVfpLu0VB|Malaysia|Johor|Iskandar Puteri|TMnet|Residential
+172.93.104.131:39603:jonee5kpba:Ph5hHGx2vL|Mexico|Nuevo León|Santa Rosa|Total Play Telecomunicaciones SA De CV|Residential
+172.93.104.131:39603:1axsas5brb:ApKImsKfqE|Italy|Friuli Venezia Giulia|Basaldella|Telecom Italia Mobile|Cellular
+172.93.104.131:39603:td60fypli5:2yoGOuktxN|Saudi Arabia|Mecca Region|Jeddah|STC MBB|Residential
+172.93.104.131:39603:1xnz2xxkpx:at0yCtqveP|Saudi Arabia|Eastern Province|Dammam|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Cellular
+172.93.104.131:39603:er5rk21p7m:Vb6SaJV7Zq|Philippines|Metro Manila|Caloocan|Philippine Long Distance Telephone Co.|Residential
+172.93.104.131:39603:jlzx52k6pq:Pn6yiI7a07|Saudi Arabia|Medina Region|Medina|Saudi Telecom Company JSC|Residential
+172.93.104.131:39603:5pjsaxoxbr:U6ichLmeVm|Brazil|São Paulo|São Paulo|AZZA TELECOM SERVIÇOS EM TELECOMUNICAÇÕES LTDA|Residential
+172.93.104.131:39603:tbr5tvf30n:3H5PLUbMmq|Mexico|Veracruz|Fortín de las Flores|Uninet S.A. de C.V.|Residential
+172.93.104.131:39603:74wz1is8oz:22l6Jwfynd|Mexico|Veracruz|Xalapa|Mega Cable, S.A. de C.V.|Residential
+172.93.104.131:39603:v2vkfqez70:L28XBqXdwL|Mexico|Mexico City|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|Residential
+172.93.104.131:39603:95bc96l8xj:g0r9tHlkoS|Philippines|Davao Region|Davao City|Philippine Long Distance Telephone Co.|Residential
+172.93.105.208:43159:m7q8gz1ul5:6mEnarEeb8|United Kingdom|England|Liverpool|Virgin Media|Residential
+172.93.104.131:39603:jijo1z9kk1:mAbhXc52EO|Saudi Arabia|Riyadh Region|Riyadh|STC|Residential
+104.219.238.237:43645:ji9v1pot59:jw1edb6hGW|France|Occitanie|Saint-Jory|Proxad / Free SAS|Residential
 172.93.104.131:39603:b8pshb75py:Mp2o1D9pgq|Malaysia|Johor|Johor Bahru|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:7j1rq1be1s:svUjBqvZI9|Australia|Victoria|Melbourne|Wideband Networks Pty Ltd|Residential
-172.93.104.131:39603:bish4azs08:jthc7uGbzY|Saudi Arabia|Mecca Region|Jeddah|Internet Broadband|Residential
-172.93.104.131:39603:ekrtj80cot:H5gT6kpYR8|Italy|Tuscany|San Donnino|Telecom Italia S.p.A. TIN EASY LITE|Residential
-172.93.104.131:39603:eh6h8yrkyb:wfOhEMMDPA|Saudi Arabia|Eastern Province|Dammam|Saudinet DSL|Residential
-172.93.104.131:39603:0j5w7t63u3:n1XXZkDJHO|Australia|South Australia|Adelaide|Telstra Corporation (Belong)|Residential
-172.93.104.131:39603:qzy0ifca2v:fRKFNn4cts|Australia|Victoria|Melbourne|Aussie Broadband|Residential
+172.93.104.131:39603:ngnzduunob:dwjTIZDh1K|France|Hauts-de-France|Lille|Bouygues Telecom ISP|Residential
+172.93.104.131:39603:ekrtj80cot:H5gT6kpYR8|Italy|Apulia|Lucera|Vodafone|Residential
+172.93.104.131:39603:9mky7fuiex:u7wICjYvRn|Unknown|Unknown|Unknown|Unknown|Residential
 172.93.104.131:39603:wgi5vhk3su:PEvw3XXfqj|France|Hauts-de-France|Cucq|Proxad / Free SAS|Residential
-172.93.104.131:39603:hzwq17ht8y:frqJQvK2EJ|Australia|Western Australia|Perth|Telstra Internet|Residential
-172.93.104.131:39603:68lgy7lbxf:98GoDcGP4v|Australia|New South Wales|Sydney|Telstra Limited|Residential
-172.93.104.131:39603:kgb5m9mu0g:iDJhMh0FVO|Australia|Victoria|Melbourne|Telstra Limited|Residential
-172.93.104.131:39603:j9tgxesmkh:LVLBKdlZJF|Australia|Victoria|Melbourne|SingTel Optus Pty Ltd|Residential
-172.93.104.131:39603:oly923luu0:aWB34rFdwh|Australia|New South Wales|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
-172.93.104.131:39603:kmadahs6k8:X7YSO5Q0KZ|Mexico|Oaxaca|Villa de Zaachila|Transtelco Inc|Residential
-172.93.104.131:39603:ykr8keyic3:VGWOG6X3mI|France|Grand Est|Sainte-Marie-aux-Mines|Vialis Saem|Residential
-172.93.104.131:39603:dwe6f7w1z6:hePyEutsU0|Australia|Western Australia|Perth|TPG Internet Pty Ltd|Residential
+172.93.104.131:39603:qzy0ifca2v:fRKFNn4cts|Australia|Victoria|Melbourne|TPG Internet Pty Ltd|Residential
+172.93.104.131:39603:hzwq17ht8y:frqJQvK2EJ|Australia|Western Australia|Perth|Spintel Pty Ltd|Residential
+172.93.104.131:39603:j9tgxesmkh:LVLBKdlZJF|Australia|Queensland|Brisbane|TPG Internet Pty Ltd|Residential
+172.93.104.131:39603:oly923luu0:aWB34rFdwh|Australia|New South Wales|Sydney|Vocus PTY LTD|Residential
+172.93.104.131:39603:nnfzqqq7i2:wpT7bk5ubx|Philippines|Metro Manila|Quezon City|Globe Telecom|Residential
+172.93.104.131:39603:68lgy7lbxf:98GoDcGP4v|Indonesia|Banten|Panyirapan|PT PANHA NETWORK SOLUTION|Residential
+172.93.104.131:39603:kgb5m9mu0g:iDJhMh0FVO|Australia|Victoria|Melbourne|Dgtek PTY LTD|Residential
+172.93.104.131:39603:ykr8keyic3:VGWOG6X3mI|France|Grand Est|Givet|Orange|Residential
+172.93.104.131:39603:dwe6f7w1z6:hePyEutsU0|Australia|Western Australia|Perth|Aussie Broadband|Residential
+172.93.104.131:39603:kmadahs6k8:X7YSO5Q0KZ|Mexico|Hidalgo|Pachuca|Cogent Communications|Residential
+172.93.104.131:39603:md86a0tk33:wbnAk1qMgx|Saudi Arabia|Medina Region|Medina|Saudi Telecom Company JSC|Residential
+172.93.104.131:39603:rn4k4zom71:VQG8awV1In|Mexico|Michoacán|Uruapan|Mega Cable, S.A. de C.V.|Residential
+172.93.104.131:39603:r4c23liqga:GkkBHZ7zMa|Mexico|Mexico City|Mexico City|Total Play Telecomunicaciones SA De CV|Residential
 172.93.104.131:39603:hytn9js74e:6aW5Uw0xtk|Saudi Arabia|Mecca Region|Jeddah|Etihad Etisalat|Residential
-172.93.104.131:39603:knhgp0afq5:fV4lCoGNsb|Australia|New South Wales|Sydney|Telstra Internet|Residential
-172.93.104.131:39603:rn4k4zom71:VQG8awV1In|Mexico|Veracruz|Veracruz|Uninet S.A. de C.V.|Residential
 172.93.104.131:39603:4ovwk1ki15:7ZjNHfLmkX|Mexico|Jalisco|Tonalá|Mega Cable, S.A. de C.V.|Residential
-172.93.104.131:39603:7gjeqtl1ua:F0za3irXwU|Georgia|Tbilisi|Tbilisi|TELENETCANOPYREG|Residential
-172.93.104.131:39603:0fw7iyeseb:FgpjNmWPp0|Mexico|México|Apaxco de Ocampo|Cogent Communications|Residential
-172.93.104.131:39603:yl07qcvjyv:BOxqnNhafb|Australia|Western Australia|Perth|Telstra Limited|Residential
+172.93.104.131:39603:hw0d21k6vc:QppaQcrFk0|Mexico|Mexico City|Azcapotzalco|Cablevisión, S.A. de C.V.|Residential
 172.93.104.131:39603:6swj60uibp:zrb0lyiEvX|Australia|New South Wales|Sydney|SingTel Optus Pty Ltd|Residential
-172.93.104.131:39603:f46kryqegv:EgsComWBln|Mexico|Guanajuato|Celaya|Mega Cable, S.A. de C.V.|Residential
+172.93.104.131:39603:auvjeevzp0:XtCvKNsoCO|France|Brittany|Kervignac|France Telecom Orange|Residential
 172.93.104.131:39603:64rar6kh7a:ecZIHmwHfY|Brazil|Mato Grosso do Sul|Três Lagoas|Vero S.A|Residential
+172.93.104.131:39603:u638g240ig:z86WAkoE7b|Saudi Arabia|Eastern Province|Dammam|Etihad Etisalat|Residential
+172.93.104.131:39603:0fw7iyeseb:FgpjNmWPp0|Mexico|Quintana Roo|Juárez|Total Play Telecomunicaciones SA De CV|Residential
+172.93.104.131:39603:f46kryqegv:EgsComWBln|Mexico|Durango|Durango|UNINET|Residential
+172.93.104.131:39603:lrd9ipfnvy:88c7sHB1bY|Saudi Arabia|Mecca Region|Jeddah|Saudi Telecom Company JSC|Residential
+172.93.104.131:39603:b25xqduff3:9ocwHgFpe6|Australia|Queensland|Brisbane|Telstra Limited|Residential
 172.93.104.131:39603:mds3h7rczy:kORLI6V8pz|Australia|Victoria|Melbourne|Vocus PTY LTD|Residential
-172.93.104.131:39603:auvjeevzp0:XtCvKNsoCO|France|Hauts-de-France|Roye|France Telecom Orange|Residential
-172.93.104.131:39603:hw0d21k6vc:QppaQcrFk0|Mexico|Jalisco|Tlajomulco de Zúñiga|Mega Cable, S.A. de C.V.|Residential
-172.93.104.131:39603:lrd9ipfnvy:88c7sHB1bY|Saudi Arabia|Mecca Region|Ta'if|Saudinet|Residential
+172.93.104.131:39603:7gjeqtl1ua:F0za3irXwU|Georgia|Tbilisi|Tbilisi|Magticom Ltd.|Residential
 172.93.104.131:39603:pll7gdi2wm:zgxCf9n7s0|Germany|North Rhine-Westphalia|Plettenberg|Deutsche Telekom AG|Residential
-172.93.104.131:39603:sqeedkog1b:xFZ9gI99zD|Australia|Victoria|Melbourne|EXETEL-Broadband|Residential
+172.93.104.131:39603:sqeedkog1b:xFZ9gI99zD|Australia|Queensland|Brisbane|TPG Internet Pty Ltd|Residential
 172.93.104.131:39603:rg8q0a56wx:AwNHN2oGWn|France|Île-de-France|Serris|Orange S.A|Residential
 172.93.104.131:39603:q4rrib4s02:kIjqLP95Dr|France|Hauts-de-France|Vitry-en-Artois|Proxad / Free SAS|Residential
+172.93.104.131:39603:jr60qyrncp:qGb6WaTLa8|Russia|Krasnodar Krai|Sochi|JV A-Mobile Ltd.|Cellular
 172.93.104.131:39603:muu3ag29hr:mJ49224IE7|Germany|Lower Saxony|Hildesheim|Vodafone Kabel Deutschland|Residential
 172.93.104.131:39603:q9njd58m85:wBqFNVdYNR|Canada|Quebec|Montreal|Bell Canada|Residential
-172.93.104.131:39603:md86a0tk33:wbnAk1qMgx|Unknown|Unknown|Unknown|Unknown|Residential
 172.93.105.208:43159:leuwp2kmap:0XMva4n30A|Canada|New Brunswick|Saint John|Rogers Communications Canada Inc.|Residential
-172.93.104.131:39603:lpcjipj50a:L3vzQMdMqa|South Africa|Gauteng|Johannesburg|Vox Telecom Ltd|Residential
-172.93.104.131:39603:m4ieuhhsk6:ddzvY06OzI|Australia|Western Australia|Yanchep|SingTel Optus Pty Ltd|Residential
+172.93.105.208:43159:nufupk18a6:tnxu0QcHDJ|Canada|Ontario|Chatham|TekSavvy Solutions Inc.|Residential
+172.93.104.131:39603:nvkmrujwb1:81jnQboopG|France|Hauts-de-France|Cambrai|Orange|Residential
 172.93.104.131:39603:bpv0irzx89:GDMqqXvPbJ|Australia|Western Australia|Perth|Telstra Limited|Residential
 172.93.104.131:39603:g3t4morsfe:psnxV7z7wW|Canada|Manitoba|Winnipeg|Bell Canada|Residential
-172.93.105.208:43159:nufupk18a6:tnxu0QcHDJ|Canada|Ontario|Chatham|TekSavvy Solutions Inc.|Residential
-172.93.104.131:39603:nvkmrujwb1:81jnQboopG|France|Hauts-de-France|Lille|France Telecom Orange|Residential
-172.93.105.208:43159:hvf0mlyw1r:N4gD5xlV1L|Canada|Ontario|Mississauga|Rogers Communications Canada Inc.|Residential
 172.93.104.131:39603:8x5k4d9qzv:E7q2TJwVXB|Canada|British Columbia|Victoria|TELUS Communications Inc|Residential
-172.93.105.208:43159:urqg1ekwjz:wPfv2oPT6Q|Canada|Ontario|Baden|Rogers Communications Canada Inc.|Residential
 172.93.105.208:43159:l9hkim8axi:26LlrVpoup|Canada|Ontario|Tottenham|Rogers Communications Canada Inc.|Residential
-172.93.104.131:39603:1c3f3rs5di:aHTI3crNAF|Canada|Quebec|Beloeil|Le Groupe Videotron Ltee|Cellular
-172.93.105.208:43159:i78djbz3cd:adsaCyLTW7|Canada|Ontario|Oshawa|Bell Canada|Residential
-104.219.238.237:43645:mqzmqpdvvo:rM3OUwQTga|Canada|Saskatchewan|Regina|Saskatchewan Telecommunications|Residential
-172.93.104.131:39603:zxak62lfur:eZFlRSGHCN|Canada|British Columbia|Chilliwack|Shaw Communications|Residential
+172.93.105.208:43159:hvf0mlyw1r:N4gD5xlV1L|Canada|British Columbia|Burnaby|Shaw Communications|Residential
+172.93.104.131:39603:r7q4glmhjn:NxD9ujaht0|South Africa|Gauteng|Randburg|MTNSA|Residential
+172.93.104.131:39603:zxak62lfur:eZFlRSGHCN|Canada|British Columbia|Vernon|TELUS Communications Inc.|Residential
+104.219.238.237:43645:mqzmqpdvvo:rM3OUwQTga|Canada|Saskatchewan|Regina|Access Communications Co-operative Limited|Residential
+172.93.105.208:43159:i78djbz3cd:adsaCyLTW7|Canada|Nova Scotia|Dartmouth|Bell Canada|Residential
 172.93.105.208:43159:lya3grzc4u:8jhk8EumRV|Canada|Nova Scotia|Halifax|Bell Canada|Residential
-172.93.104.131:39603:fznq2qpwxv:GJWWn5RvbZ|Kenya|Nairobi County|Nairobi|Jamii Telecommunications Limited|Residential
-172.93.105.208:43159:fyixyf2quu:kXgtvZpxbq|Germany|North Rhine-Westphalia|Hamm|1&1 Versatel GmbH|Residential
-172.93.104.131:39603:mys8yeg4h3:VMNzcOJE6P|Germany|Lower Saxony|Garbsen|Vodafone Kabel Deutschland|Residential
-172.93.104.131:39603:npbeir5nfq:4nFbAvoFUt|South Africa|North West|Mahikeng|Telkom SA Ltd.|Residential
+172.93.104.131:39603:1c3f3rs5di:aHTI3crNAF|Canada|Quebec|Beloeil|Le Groupe Videotron Ltee|Cellular
+172.93.104.131:39603:s4mgszya5q:uJVt2PuLIh|The Netherlands|North Holland|Diemen|KPN B.V.|Residential
+172.93.104.131:39603:m4ieuhhsk6:ddzvY06OzI|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.104.131:39603:fznq2qpwxv:GJWWn5RvbZ|Kenya|Bungoma County|Bungoma|Mawingu Networks|Residential
+172.93.104.131:39603:9437200l6i:AUzu4Ihbpr|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.104.131:39603:nle1m7r0kf:bhLmYM3aGS|The Netherlands|North Holland|Aalsmeer|Caiway|Residential
+172.93.104.131:39603:ve38u9ud15:EIhgqkIJKU|Mexico|Mexico City|Venustiano Carranza|Uninet S.A. de C.V.|Residential
+172.93.104.131:39603:mys8yeg4h3:VMNzcOJE6P|Unknown|Unknown|Unknown|Unknown|Residential
 172.93.104.131:39603:gkbd1qf7zo:Z2HfgTwiT9|Malaysia|Kuala Lumpur|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.105.208:43159:tlbdfov3l5:oN6sI59f0P|Germany|Hesse|Frankfurt am Main|Vodafone|Residential
-172.93.104.131:39603:18a4x1c035:CTi8MkEplF|Malaysia|Selangor|Puchong|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:r7q4glmhjn:NxD9ujaht0|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:zj4pn2k4or:6mvkZC4Ujv|India|Uttarakhand|Dehradun|Reliance Jio Infocomm Limited|Residential
-172.93.104.131:39603:vwz8q2n7uo:FTUr25eHG5|Malaysia|Kuala Lumpur|Kuala Lumpur|DiGi Telecommunications Sdn Bhd., Digi Internet Exchange|Residential
+172.93.105.208:43159:tlbdfov3l5:oN6sI59f0P|Germany|Free and Hanseatic City of Hamburg|Hamburg|Telefonica Deutschland GmbH|Residential
+172.93.104.131:39603:npbeir5nfq:4nFbAvoFUt|South Africa|Western Cape|Cape Town|RAIN GROUP HOLDINGS (PTY) LTD|Residential
+172.93.104.131:39603:zj4pn2k4or:6mvkZC4Ujv|India|Andhra Pradesh|Vijayawada|Reliance Jio Infocomm Limited|Residential
+172.93.104.131:39603:4qasc84m2e:Yt5GOIfkJp|Kenya|Nairobi County|Nairobi|Airtel KE Mobile & Fixed Internet|Cellular
 172.93.104.131:39603:2mbescy00z:3lsyxE8FKQ|Saudi Arabia|Riyadh Region|Riyadh|Saudinet DSL|Residential
-172.93.104.131:39603:2xu5ablmxt:saKAQJP5mU|Kenya|Nairobi County|Nairobi|Safaricom Limited|Residential
+172.93.104.131:39603:vwz8q2n7uo:FTUr25eHG5|Malaysia|Kuala Lumpur|Kuala Lumpur|Maxis Broadband Sdn.Bhd|Residential
+172.93.104.131:39603:ph6p5apg44:yViIqMRxEW|Malaysia|Selangor|Puchong|TM TECHNOLOGY SERVICES SDN BHD|Residential
 172.93.104.131:39603:kmq3wvl01h:nWpODZAI9I|Saudi Arabia|Eastern Province|Dammam|Saudinet|Residential
-172.93.104.131:39603:ph6p5apg44:yViIqMRxEW|Malaysia|Johor|Johor Bahru|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:e9xj5urx23:KtUKxqu6Ac|Philippines|Metro Manila|Mandaluyong|Philippine Long Distance Telephone Co.|Residential
-172.93.105.208:43159:xayjr9243f:ZCv8a94e5y|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:kwdwrtrmkc:YrC8ZaVeT7|Philippines|Metro Manila|Manila|ComClark Network & Technology Corp|Residential
-172.93.104.131:39603:phw45gqxax:fZtEZjDwJ8|France|Hauts-de-France|Rinxent|France Telecom|Residential
-172.93.104.131:39603:8c8u3ybpca:8zimWvY8Ja|Mexico|Michoacán|Morelia|Mega Cable, S.A. de C.V.|Residential
-172.93.104.131:39603:yyhg8o4fyi:Dy5hq3w5nE|Mexico|Nuevo León|Santa Catarina|Total Play Telecomunicaciones SA De CV|Residential
-172.93.104.131:39603:1tzd50hw8l:2TvuHn9qvW|France|Occitanie|Launaguet|Free SAS|Residential
-172.93.104.131:39603:qk2qbiqmnx:f06gFn2pxP|The Netherlands|Groningen|Veendam|Netvisit B.V.|Residential
-172.93.104.131:39603:jphyl98iz3:MaLsOZLbO6|Philippines|Northern Mindanao|Cagayan de Oro|Globe Telecom|Residential
-172.93.104.131:39603:q7ye57yykf:WbXthOqFD8|The Netherlands|North Brabant|Oisterwijk|KPN B.V|Residential
-172.93.104.131:39603:tzz1cjkg4d:cCMfjEUYNJ|Serbia|Vojvodina|Temerin|Sat-Trakt D.O.O.|Residential
-172.93.104.131:39603:9wamf09dtm:G1ihar4Fn6|Mexico|Chihuahua|Ciudad Juárez|Mega Cable, S.A. de C.V.|Residential
-172.93.104.131:39603:x353hlzu0t:3wSkx3jIuN|France|Occitanie|Quint-Fonsegrives|Orange|Residential
-172.93.104.131:39603:816y9zmvbk:gZtpcjsDYP|The Netherlands|North Brabant|Mierlo|KPN B.V.|Residential
-172.93.104.131:39603:84qpu9kynz:tKMMTR9DcX|Malaysia|Selangor|Puchong|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:2xcjer7jgu:X306urhlfj|Malaysia|Johor|Johor Bahru|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:8faulcawne:UrMyhfAKiZ|Serbia|Zlatibor|Sjenica|Orion Telekom ISP IP Network|Residential
-172.93.104.131:39603:er1crsm68r:lTfOKYWCNv|Kenya|Nairobi County|Nairobi|Wananchi Group (K) LTD|Residential
+172.93.104.131:39603:wxlijkifya:AXSCJv9BXA|France|Île-de-France|Aulnay-sous-Bois|Proxad / Free SAS|Residential
+172.93.105.208:43159:xayjr9243f:ZCv8a94e5y|Germany|North Rhine-Westphalia|Düren|SOCO Network Solutions GmbH|Residential
+172.93.104.131:39603:8c8u3ybpca:8zimWvY8Ja|Mexico|México|Toluca|Mega Cable, S.A. de C.V.|Residential
+172.93.104.131:39603:kwdwrtrmkc:YrC8ZaVeT7|Philippines|Davao Region|Davao City|Philippine Long Distance Telephone Co.|Residential
+172.93.104.131:39603:phw45gqxax:fZtEZjDwJ8|France|Occitanie|Saint-André-de-Sangonis|Proxad / Free SAS|Residential
+172.93.104.131:39603:jphyl98iz3:MaLsOZLbO6|Philippines|Metro Manila|Quezon City|Smart Broadband, Inc.|Residential
+172.93.104.131:39603:e9xj5urx23:KtUKxqu6Ac|Philippines|Central Luzon|Clark|ComClark Network & Technology Corp|Residential
+172.93.104.131:39603:yyhg8o4fyi:Dy5hq3w5nE|Mexico|Mexico City|Gustavo Adolfo Madero|UNINET|Residential
+172.93.104.131:39603:x353hlzu0t:3wSkx3jIuN|France|Île-de-France|Morsang-sur-Orge|Proxad / Free SAS|Residential
+172.93.104.131:39603:9wamf09dtm:G1ihar4Fn6|Mexico|México|Tlalnepantla|Uninet S.A. de C.V.|Residential
+172.93.104.131:39603:tzz1cjkg4d:cCMfjEUYNJ|Serbia|Branicevo|Kučevo|TELEKOM SRBIJA a.d.|Residential
+172.93.104.131:39603:84qpu9kynz:tKMMTR9DcX|Malaysia|Perak|Ipoh|TM TECHNOLOGY SERVICES SDN BHD|Residential
 172.93.104.131:39603:nasbbbxo4q:hLsUAzVO7q|Serbia|Vojvodina|Bački Petrovac|SAT-TRAKT Telecommunications|Residential
-172.93.104.131:39603:e2r5usu6xg:C05LnE73kT|South Africa|Western Cape|Cape Town|RAIN GROUP HOLDINGS (PTY) LTD|Residential
+172.93.104.131:39603:816y9zmvbk:gZtpcjsDYP|The Netherlands|North Holland|Amsterdam|KPN B.V.|Residential
+172.93.104.131:39603:er1crsm68r:lTfOKYWCNv|Kenya|Nairobi County|Nairobi|Wananchi Group (K) LTD|Residential
+172.93.104.131:39603:8faulcawne:UrMyhfAKiZ|Serbia|Pomoravlje|Jagodina|Telekom Srbija Internet Backbone Network|Residential
 172.93.104.131:39603:pfaki8sol9:3uWtojUqAb|Malaysia|Selangor|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|Residential
-172.93.104.131:39603:66c8arn0v4:URmHjBhIaA|South Africa|Gauteng|Johannesburg|RAIN GROUP HOLDINGS (PTY) LTD|Residential
-172.93.104.131:39603:l145xjmplp:J1bnH2oexz|Serbia|Pčinja|Bujanovc|TELEKOM-SRBIJA|Residential
-172.93.105.208:43159:4l2uu5s6fy:v8Ap2dpcHF|United Kingdom|England|Bilston|Sky UK Limited|Residential
-172.93.104.131:39603:ju2ytvkws7:D4HzWmogvb|Saudi Arabia|Mecca Region|Jeddah|Internet Broadband|Residential
-172.93.104.131:39603:cfacwwdafb:iHarKQW70q|The Netherlands|Limburg|Tegelen|Vodafone Ziggo|Residential
-172.93.104.131:39603:mfyd9gsxd3:Kqg7j70g88|Saudi Arabia|Mecca Region|Jeddah|STC FBB|Residential
-172.93.104.131:39603:aeddcxjl9i:1UYYsOGMyy|Saudi Arabia|Riyadh Region|Riyadh|Saudi Telecom Company JSC|Residential
-172.93.104.131:39603:4ylemox9zg:55f2W6Llbx|Mexico|México|La Paz|Uninet S.A. de C.V.|Residential
-172.93.104.131:39603:ob8k8cwsw7:pCYTpv167P|Malaysia|Kuala Lumpur|Kuala Lumpur|MEASAT Broadcast Network Systems Sdn. Bhd.|Residential
-172.93.105.208:43159:uhq38ni6bd:RK3CcuHWN0|United Kingdom|England|Walsall|Virgin Media Limited|Residential
-172.93.104.131:39603:npp91t3739:BQhyPKtsu4|Malaysia|Kuala Lumpur|Kuala Lumpur|DiGi Telecommunications Sdn Bhd., Digi Internet Exchange|Residential
+172.93.104.131:39603:2xcjer7jgu:X306urhlfj|Malaysia|Selangor|Puchong|TM TECHNOLOGY SERVICES SDN BHD|Residential
+172.93.104.131:39603:66c8arn0v4:URmHjBhIaA|South Africa|Limpopo|Polokwane|Telkom SA Ltd.|Residential
+172.93.104.131:39603:l145xjmplp:J1bnH2oexz|Serbia|Belgrade|Belgrade|Telenor d.o.o Beograd|Residential
+172.93.105.208:43159:4l2uu5s6fy:v8Ap2dpcHF|United Kingdom|England|Martlesham|EE route|Residential
+172.93.105.208:43159:uhq38ni6bd:RK3CcuHWN0|United Kingdom|England|Lincoln|BT Public Internet Service|Residential
+172.93.104.131:39603:ob8k8cwsw7:pCYTpv167P|Malaysia|Kuala Lumpur|Kuala Lumpur|TM TECHNOLOGY SERVICES SDN BHD|Residential
+172.93.104.131:39603:npp91t3739:BQhyPKtsu4|Malaysia|Selangor|Subang Jaya|Maxis Broadband Sdn.Bhd|Residential
+172.93.104.131:39603:w2d4584u79:6SIkQLdQ8j|Malaysia|Selangor|Cyberjaya|TM TECHNOLOGY SERVICES SDN BHD|Residential
+172.93.104.131:39603:h83pgrzfcj:3mGyh9tc15|Philippines|Metro Manila|Taguig|Philippine Long Distance Telephone Co.|Residential
 172.93.104.131:39603:f1sv6e8nef:xYRn6Ip4VZ|Philippines|Central Visayas|Cebu City|Converge ICT|Residential
-172.93.104.131:39603:5b8fiqaxiy:eSmj26E9sE|The Netherlands|Friesland|Stiens|Odido Netherlands B.V.|Residential
-172.93.104.131:39603:ulsbnn85nv:r7Swp4uWMO|Serbia|Central Serbia|Bogatić|Orion Telekom - Glusci|Residential
 172.93.104.131:39603:enysy2hctj:9eU4GT4UFw|Mexico|Michoacán|Morelia|Uninet S.A. de C.V.|Residential
-172.93.104.131:39603:a6p5vcexeh:7RU6e4R7Jz|Saudi Arabia|Mecca Region|Jeddah|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Cellular
-172.93.104.131:39603:ru3j7pwkjv:I6gOl2m2Sx|Serbia|Vojvodina|Novi Sad|TELEKOM-SRBIJA|Residential
+172.93.104.131:39603:5b8fiqaxiy:eSmj26E9sE|The Netherlands|Friesland|Stiens|Odido Netherlands B.V.|Residential
+172.93.104.131:39603:byrgwnvoks:4la9PJwO4U|Saudi Arabia|Mecca Region|Jeddah|Internet Broadband|Residential
 172.93.104.131:39603:3rt3v85mjh:zXq6vPYRXE|United Arab Emirates|Abu Dhabi|Al Ain City|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
-172.93.104.131:39603:byrgwnvoks:4la9PJwO4U|Saudi Arabia|Eastern Province|Dammam|Saudi Telecom Company JSC|Residential
-172.93.104.131:39603:8fzqzibzpg:eLRTFWyEUQ|Philippines|Metro Manila|Manila|ComClark Network & Technology Corp|Residential
-172.93.104.131:39603:h654522qua:O28oBR5ETy|Philippines|Calabarzon|Biñan|Philippine Long Distance Telephone Co.|Residential
-172.93.104.131:39603:vl69jql22d:INHXxakFVy|Serbia|Belgrade|Belgrade|CETIN Ltd. Belgrade|Residential
-172.93.104.131:39603:r9mxzq9sto:a6hqWj1JN5|South Africa|KwaZulu-Natal|Newcastle|Telkom SA Ltd.|Residential
-172.93.104.131:39603:5wj5t56ne9:srxgPEM9J8|Serbia|Belgrade|Belgrade|Serbian BroadBand|Residential
-172.93.104.131:39603:9ih25e1ecq:bROCOtufcx|Serbia|Pomoravlje|Paraćin|TELEKOM-BB|Residential
-172.93.105.208:43159:bstn11zm5j:t3VIY6t4qd|Spain|Valencia|Santa Pola|Free Technologies Excom S.L.|Residential
+172.93.104.131:39603:ulsbnn85nv:r7Swp4uWMO|Serbia|Central Serbia|Bogatić|Orion Telekom - Glusci|Residential
+172.93.104.131:39603:h654522qua:O28oBR5ETy|Philippines|Calabarzon|Calamba|Royal Cablevision Corporation|Residential
+172.93.104.131:39603:5wj5t56ne9:srxgPEM9J8|Serbia|Belgrade|Belgrade|TELEKOM SRBIJA a.d.|Residential
+172.93.104.131:39603:r9mxzq9sto:a6hqWj1JN5|South Africa|Western Cape|Wellington|IBITS Internet (pty) Ltd|Residential
+172.93.104.131:39603:9ih25e1ecq:bROCOtufcx|Serbia|Belgrade|Belgrade|CETIN Ltd. Belgrade|Residential
 172.93.104.131:39603:nqhytlgdgf:SxvEFDCVTd|United Arab Emirates|Dubai|Dubai|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.104.131:39603:iknoxo2uky:EoazTVGVIj|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
-172.93.104.131:39603:h83pgrzfcj:3mGyh9tc15|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.105.208:43159:metbtbojj8:RKGhywAuAl|Spain|Valencia|Orihuela Costa|AVATEL TELECOM, SA|Residential
-172.93.105.208:43159:hlcrfjeivt:04GyVcn0aD|Spain|Andalusia|Lucena|World Wide Web Ibercom|Residential
-172.93.105.208:43159:4lbyasb6g3:BPhHX2rm3y|United Kingdom|England|Northampton|Sky UK Limited|Residential
-172.93.104.131:39603:ichcqxkfiv:V6fJnCbgKj|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
-172.93.105.208:43159:fr0ifgyblt:UZV4HWDQ1t|United Kingdom|England|Swindon|TalkTalk|Residential
+172.93.105.208:43159:metbtbojj8:RKGhywAuAl|Spain|Andalusia|Cuevas del Almanzora|Aire Networks Del Mediterraneo SL Unipersonal|Residential
+172.93.104.131:39603:ichcqxkfiv:V6fJnCbgKj|United Arab Emirates|Abu Dhabi|Al Ain City|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
 172.93.104.131:39603:hd5rpb82h9:9okXOq29NN|Spain|La Rioja|Alfaro|Telefonica de Espana SAU|Residential
+172.93.105.208:43159:bstn11zm5j:t3VIY6t4qd|Spain|Andalusia|Fuengirola|AVATEL|Residential
+172.93.104.131:39603:iknoxo2uky:EoazTVGVIj|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
 172.93.104.131:39603:pwufvxizqo:h6FTS3JCEi|Serbia|Vojvodina|Ruma|Moja Supernova DOO|Residential
-172.93.105.208:43159:0mtsxqs1z2:lLc6KoRcOO|United Kingdom|England|Altrincham|EE Limited|Residential
 172.93.104.131:39603:pnem8ybk2g:sG3CJJ41yq|Spain|Andalusia|Seville|Xtra Telecom S.A|Residential
-172.93.104.131:39603:suwt6gttub:EloRhutdjo|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.105.208:43159:6rq48doxgj:s1J2xouFL8|United Kingdom|England|Oldbury|Sky UK Limited|Residential
-172.93.105.208:43159:dt5vsvhhya:l0zRY0eEc3|United Kingdom|England|Luton|TalkTalk|Residential
+172.93.105.208:43159:hlcrfjeivt:04GyVcn0aD|Spain|Valencia|Callosa de Segura|AVATEL TELECOM, SA|Residential
+172.93.105.208:43159:4lbyasb6g3:BPhHX2rm3y|United Kingdom|England|Salisbury|Sky UK Limited|Residential
 172.93.104.131:39603:r7kcmez8fo:b8r590oIUc|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Telecommunications Corporation|Residential
-172.93.105.208:43159:me6fgfgfpg:xObjxs2qCs|United Kingdom|England|Cradley Heath|Sky UK Limited|Residential
-172.93.104.131:39603:hcix9m1bum:ZW41tBBPCV|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
 172.93.104.131:39603:1dwaozieqz:ysqFiVhDW2|United Arab Emirates|Ajman|Ajman|Emirates Telecommunications Corporation|Residential
-172.93.105.208:43159:ao5nx5n10t:U7bkzU8mEf|United Kingdom|Northern Ireland|Larne|Labtech Systems Ltd|Residential
-172.93.105.208:43159:iw8i649wrx:8WGVPXMuun|United Kingdom|Wales|Cardiff|Energis UK|Residential
-172.93.105.208:43159:y0u16czcwr:SKeBzh5wwv|United Kingdom|England|Great Crosby|BT Public Internet Service|Residential
-172.93.104.131:39603:an204vfoti:aHacTrhWko|Saudi Arabia|Mecca Region|Jeddah|Etihad Etisalat|Residential
-172.93.104.131:39603:fnj7sxfhjt:rCbZV73TZv|Saudi Arabia|Mecca Region|Jeddah|Saudinet DSL|Residential
-172.93.104.131:39603:prg24ierbq:gRIha0yAGZ|Saudi Arabia|Riyadh Region|Riyadh|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Cellular
-172.93.104.131:39603:zvqtgj95uo:uRIMyip8If|Saudi Arabia|Riyadh Region|Riyadh|Etihad Etisalat|Residential
-172.93.104.131:39603:a5e2jcvca0:8hjgCQyCmY|Saudi Arabia|Medina Region|Medina|Saudinet DSL|Residential
-172.93.104.131:39603:jhh3jugzyn:8Mcyelqd1a|Saudi Arabia|Eastern Province|Dammam|Saudinet DSL|Residential
-172.93.104.131:39603:igvi70e7sw:vOtHjFHyih|Saudi Arabia|Mecca Region|Jeddah|Saudinet|Residential
+172.93.104.131:39603:hcix9m1bum:ZW41tBBPCV|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.105.208:43159:me6fgfgfpg:xObjxs2qCs|United Kingdom|England|London|BT Public Internet Service|Residential
+172.93.105.208:43159:fr0ifgyblt:UZV4HWDQ1t|United Kingdom|England|Dewsbury|Virgin Media Limited|Residential
+172.93.105.208:43159:dt5vsvhhya:l0zRY0eEc3|United Kingdom|England|Manchester|Zen Internet Ltd|Residential
+172.93.105.208:43159:6rq48doxgj:s1J2xouFL8|United Kingdom|England|Canterbury|Sky UK Limited|Residential
+172.93.105.208:43159:iw8i649wrx:8WGVPXMuun|United Kingdom|England|Walsall|TalkTalk|Residential
+172.93.105.208:43159:0mtsxqs1z2:lLc6KoRcOO|United Kingdom|England|Hayes|Virgin Media|Residential
+172.93.105.208:43159:ao5nx5n10t:U7bkzU8mEf|United Kingdom|England|Fulham|Hyperoptic Ltd|Residential
+172.93.104.131:39603:zvqtgj95uo:uRIMyip8If|Saudi Arabia|Riyadh Region|Riyadh|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Cellular
+172.93.104.131:39603:prg24ierbq:gRIha0yAGZ|Saudi Arabia|Riyadh Region|Riyadh|Zain KSA|Residential
+172.93.104.131:39603:a5e2jcvca0:8hjgCQyCmY|Saudi Arabia|Mecca Region|Jeddah|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Cellular
+172.93.104.131:39603:fnj7sxfhjt:rCbZV73TZv|Saudi Arabia|Riyadh Region|Riyadh|Saudinet|Residential
+172.93.104.131:39603:igvi70e7sw:vOtHjFHyih|Saudi Arabia|Mecca Region|Jeddah|Saudi Telecom Company JSC|Residential
+172.93.104.131:39603:8fx3rcgbxg:AYG8IPPhNj|Saudi Arabia|Eastern Province|Dammam|Saudi Telecom Company JSC|Residential
+172.93.104.131:39603:jhh3jugzyn:8Mcyelqd1a|Saudi Arabia|Eastern Province|Dammam|Internet BroadBand|Residential
+172.93.104.131:39603:an204vfoti:aHacTrhWko|Saudi Arabia|Riyadh Region|Riyadh|Saudi Telecom Company JSC|Residential
 172.93.104.131:39603:k8z3u1bz91:7wR2F47Fmi|Australia|New South Wales|Sydney|Telstra Limited|Residential
-172.93.104.131:39603:8fx3rcgbxg:AYG8IPPhNj|Saudi Arabia|Mecca Region|Jeddah|Saudi Telecom Company JSC|Residential
-172.93.104.131:39603:hbag9tbhi4:DdiMZeIz5V|Saudi Arabia|Mecca Region|Jeddah|Saudi Arabia backbone and local registry / STC|Residential
-172.93.104.131:39603:wvpaanpo0i:b6lzHs57cM|Pakistan|Punjab|Rawalpindi|Khan Telecommunications PVT LTD|Residential
+172.93.104.131:39603:hbag9tbhi4:DdiMZeIz5V|Saudi Arabia|Riyadh Region|Riyadh|Zain KSA|Residential
 172.93.104.131:39603:dqwnscbpqp:xAuUxEbfcy|Australia|South Australia|Adelaide|TPG Internet Pty Ltd|Residential
-172.93.104.131:39603:1j8tsldj0y:OFSeDYNxed|Australia|South Australia|Adelaide|Aussie Broadband|Residential
+172.93.104.131:39603:s2wlf803mz:HAG8dhjAXA|Saudi Arabia|Riyadh Region|Riyadh|Saudinet|Residential
 172.93.104.131:39603:7figlwdyxp:VkNb8eZusq|Austria|Burgenland|Mattersburg|A1 Telekom Austria AG|Residential
-172.93.104.131:39603:o3qxtukxt6:gn6KDTFd98|Indonesia|East Java|Jember|PT. TELKOM INDONESIA|Residential
+172.93.104.131:39603:1j8tsldj0y:OFSeDYNxed|Australia|South Australia|Adelaide|Telstra Limited|Residential
 172.93.104.131:39603:k1tj0ocq9m:R5ED2BDF9t|Indonesia|South Kalimantan|Kelua|PT Indonesia Comnets Plus|Residential
-172.93.104.131:39603:uc9mp4o5rm:8BIg0uio3v|Austria|Salzburg|Saalbach|SALZBURG AG fur Energie, Verkehr und Telekommunikation|Residential
-172.93.104.131:39603:r69gh0ldiv:ZTONB6s0sS|Australia|Western Australia|Perth|TPG Internet Pty Ltd|Residential
-172.93.104.131:39603:yn4yf19z2r:jMDxv5ZZwV|Australia|Victoria|Melbourne|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
-172.93.104.131:39603:s2wlf803mz:HAG8dhjAXA|Saudi Arabia|Mecca Region|Jeddah|Saudi Arabia backbone and local registry / STC|Residential
 172.93.105.208:43159:w0x9mdtp1a:4wTtucYlhb|Canada|Ontario|Wasaga Beach|Rogers Communications Canada Inc.|Residential
-172.93.104.131:39603:j0xifowrfj:fZgOq06oVC|Australia|New South Wales|Sydney|Telstra Limited|Residential
-172.93.104.131:39603:rvk1459yan:IdnRmHJeCm|Australia|Queensland|Brisbane|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
+172.93.104.131:39603:r69gh0ldiv:ZTONB6s0sS|Australia|Western Australia|Perth|TPG Internet Pty Ltd|Residential
 172.93.104.131:39603:krtjttmmw3:kMCuMHZnhj|Austria|Styria|Oberwölz Stadt|HIGHWAY194|Residential
 172.93.104.131:39603:1uheavglex:51TxwEVdGQ|Saudi Arabia|Riyadh Region|Riyadh|Saudi Telecom Company JSC|Residential
-172.93.105.208:43159:r3klekenj9:TtuLnnUBnx|United States|Georgia|Atlanta|Comcast Cable Communications|Residential
-172.93.104.131:39603:bkz6ksrnqc:WhTcpXrfUh|Australia|Western Australia|Perth|Telstra Limited|Residential
+172.93.104.131:39603:rvk1459yan:IdnRmHJeCm|Australia|Queensland|Brisbane|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
+172.93.105.208:43159:r3klekenj9:TtuLnnUBnx|United States|Connecticut|Enfield|Cox Communications Inc.|Residential
+172.93.104.131:39603:bkz6ksrnqc:WhTcpXrfUh|Australia|Western Australia|Perth|TPG Internet Pty Ltd|Residential
 172.93.104.131:39603:eb5yix9vg3:RxFFOPeTF7|Australia|New South Wales|Sydney|SingTel Optus Pty Ltd|Residential
-172.93.104.131:39603:xpynuu293z:VZDkQlR6tj|Italy|Apulia|Molfetta|ENEL S.p.A|Residential
-172.93.104.131:39603:qsqzlfo6w0:17cIP2heHe|Italy|Umbria|Perugia|VODAFONE-IT into|Residential
 172.93.104.131:39603:8twsy2bgj5:5m18JWUrFm|Saudi Arabia|Riyadh Region|Riyadh|Etihad Salam Telecom CJSC|Residential
-172.93.104.131:39603:lxv343t486:1ibEbnj8BJ|Australia|Western Australia|Perth|Pentanet Limited|Residential
+172.93.104.131:39603:qsqzlfo6w0:17cIP2heHe|Italy|Umbria|Perugia|VODAFONE-IT into|Residential
+172.93.104.131:39603:xpynuu293z:VZDkQlR6tj|Italy|Emilia-Romagna|Bologna|Sky Italia|Residential
 172.93.104.131:39603:wlgp59mj0x:za2fganbv2|Brazil|Rio de Janeiro|Niterói|Claro NXT Telecomunicacoes Ltda|Residential
+172.93.104.131:39603:lxv343t486:1ibEbnj8BJ|Australia|Western Australia|Perth|Telstra Limited|Residential
+172.93.104.131:39603:3ez1dt8h3g:4uA68FTXDT|United States|Tennessee|Antioch|Comcast Cable Communications, LLC|Residential
 172.93.104.131:39603:t8d0kboqpg:CUHC0RKUZb|Italy|Tuscany|Florence|INFOSTRADA|Residential
-172.93.104.131:39603:3ez1dt8h3g:4uA68FTXDT|United States|Tennessee|Columbia|Charter Communications|Residential
-172.93.104.131:39603:50rnq7fda2:YDmhVfYhLx|Brazil|São Paulo|Presidente Prudente|Silva Moraes Serv De Comun Multimidia-scm Eireli|Residential
-172.93.104.131:39603:d41l5bbvg9:QFrPZ21fZA|Italy|Abruzzo|Pescara|Telecom Italia S.p.A.|Residential
-172.93.104.131:39603:vl29ldjz50:eWaUq7xQ6t|Mexico|Baja California|Ensenada|Uninet S.A. de C.V.|Residential
+172.93.104.131:39603:50rnq7fda2:YDmhVfYhLx|Brazil|Rio de Janeiro|Seropédica|V1 Telecomunicacoes e Informatica LTDA|Residential
+172.93.104.131:39603:d41l5bbvg9:QFrPZ21fZA|Italy|Umbria|Santa Maria degli Angeli|INTERBUSINESS|Residential
 172.93.104.131:39603:occqjlg1o1:x67hdUvq0A|Mexico|Mexico City|Iztapalapa|Total Play Telecomunicaciones SA De CV|Residential
-172.93.104.131:39603:0q7y2igtt7:Sjf0cADFp5|Brazil|Rio de Janeiro|Rio de Janeiro|Tvanet Telecom Ltda|Residential
-172.93.104.131:39603:j11ndm4cti:vttGYq3Yjo|Mexico|Jalisco|Guadalajara|Television Internacional, S.A. de C.V.|Residential
+172.93.104.131:39603:vl29ldjz50:eWaUq7xQ6t|Mexico|Mexico City|Tláhuac|Uninet S.A. de C.V.|Residential
 172.93.104.131:39603:20h1nx1pz4:jRpP8CZOIe|Brazil|Federal District|Brasília|Claro NXT Telecomunicacoes Ltda|Residential
+172.93.104.131:39603:j11ndm4cti:vttGYq3Yjo|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.104.131:39603:0q7y2igtt7:Sjf0cADFp5|Brazil|Rio de Janeiro|Rio de Janeiro|Tvanet Telecom Ltda|Residential
 172.93.104.131:39603:86mbb7qswk:pWC0Nehq4G|Mexico|Mexico City|Benito Juarez|Total Play Telecomunicaciones SA De CV|Residential
-172.93.104.131:39603:ga4823us6a:b8lwmyv4rL|Brazil|Minas Gerais|Rio Pardo de Minas|Nortetel Telecomunicacoes Ltda|Residential
-172.93.104.131:39603:c5jkc3sdwb:Ga1YEbX0MD|Ecuador|Pichincha|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|Residential
-172.93.104.131:39603:n8n0ocse1d:BYSn02ZSKz|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:gv3bhm2zco:7zBkIS3rjb|Lebanon|South Governorate|Sidon|MASCO|Residential
+172.93.104.131:39603:j0xifowrfj:fZgOq06oVC|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.104.131:39603:0ek6dvcgrd:AQrsbNa3B5|United States|Iowa|Bettendorf|Geneseo Telephone Company|Residential
 172.93.105.208:43159:ql57jd3ptq:fDfxoJHN4Y|Canada|Manitoba|Winnipeg|Shaw Communications|Residential
-172.93.104.131:39603:0ek6dvcgrd:AQrsbNa3B5|United States|Iowa|Cedar Rapids|CenturyLink|Residential
-172.93.104.131:39603:78uv02pjz8:XRmNoxUWbz|Mexico|Michoacán|Zamora|UNINET|Residential
+172.93.104.131:39603:c5jkc3sdwb:Ga1YEbX0MD|Ecuador|Pichincha|Quito|Corporacion Nacional De Telecomunicaciones - CNT EP|Residential
+172.93.104.131:39603:gv3bhm2zco:7zBkIS3rjb|Lebanon|Mount Lebanon|Chhîm|VIP GROUP (S.A.R.L)|Residential
+172.93.104.131:39603:78uv02pjz8:XRmNoxUWbz|Mexico|Chiapas|Tuxtla Gutiérrez|UNINET|Residential
 172.93.104.131:39603:qngog3k3he:VuBhFnX9zX|Australia|New South Wales|Sydney|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
+172.93.105.208:43159:01uxxw1nd5:8USVxLofvq|Canada|Ontario|Brantford|Rogers Communications Canada Inc.|Residential
 172.93.104.131:39603:6ghk33ox9s:0znz8I6SQs|Australia|South Australia|Adelaide|SingTel Optus Pty Ltd|Residential
-172.93.105.208:43159:01uxxw1nd5:8USVxLofvq|Canada|Quebec|Montreal|Videotron Ltee|Cellular
-172.93.104.131:39603:96byh95v53:rB4jmmufxa|Mexico|Aguascalientes|Aguascalientes|Uninet S.A. de C.V.|Residential
-172.93.104.131:39603:njgd8i36mx:JygYPCEbj8|Brazil|São Paulo|Bariri|Conexao Networks Provedor de Internet|Residential
 172.93.105.208:43159:gznborg2qh:4DtboF3Gl7|Canada|Ontario|Avonmore|Bell Canada|Residential
-172.93.104.131:39603:dstud9u4x9:agiWetAKtU|Chile|Maule Region|Constitución|TELEFÓNICA CHILE S.A.|Residential
-172.93.105.208:43159:ypxdjzh0or:roUD2rJ22I|Canada|Ontario|Delhi|Execulink Telecom Inc|Residential
-172.93.104.131:39603:tf594ogzk0:LuXMKjfyRX|Brazil|Sergipe|Aracaju|master net ltda-me|Residential
+172.93.104.131:39603:96byh95v53:rB4jmmufxa|Mexico|Puebla|Puebla City|UNINET|Residential
 172.93.104.131:39603:dh9gwip7nd:zV5xBAr0Jp|Saudi Arabia|Riyadh Region|Riyadh|Saudinet|Residential
-172.93.104.131:39603:dcqnp4if52:tsFQWoyPlU|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Telecommunications Corporation|Residential
+172.93.105.208:43159:ypxdjzh0or:roUD2rJ22I|Canada|Ontario|Tillsonburg|Execulink Telecom Inc.|Residential
+172.93.104.131:39603:nmys87kv60:hOC8ONirqw|India|National Capital Territory of Delhi|Delhi|SKYAERO|Residential
+172.93.104.131:39603:dstud9u4x9:agiWetAKtU|Chile|Santiago Metropolitan|Santiago|Entel Chile S.A.|Residential
+172.93.104.131:39603:tf594ogzk0:LuXMKjfyRX|Brazil|São Paulo|Limeira|Cabo Servicos De Telecomunicacoes Ltda|Residential
+172.93.104.131:39603:dcqnp4if52:tsFQWoyPlU|United Arab Emirates|Dubai|Dubai|Emirates Integrated Telecommunications Company PJSC|Residential
+172.93.104.131:39603:n8n0ocse1d:BYSn02ZSKz|Unknown|Unknown|Unknown|Unknown|Residential
 172.93.104.131:39603:fc4fhnrcr3:UEm3ZopkEg|Nicaragua|Managua Department|Managua|Telgua|Residential
-172.93.104.131:39603:o5899gflb0:seihyHMVir|Australia|Western Australia|Perth|Aussie Broadband|Residential
+172.93.104.131:39603:o5899gflb0:seihyHMVir|Australia|Western Australia|Perth|CiFi Pty Ltd|Residential
 172.93.104.131:39603:7dr2ypciqf:k62QLiGOYa|Austria|Lower Austria|Wiener Neudorf|kabelplus GmbH|Residential
-172.93.105.208:43159:i00y9e6uwx:q5eAoiGYqD|Canada|Ontario|Port Elgin|EastLink|Residential
-172.93.104.131:39603:x2hkaqbzaj:AQXETu7Kjm|Saudi Arabia|Riyadh Region|Riyadh|Saudi Telecom Company JSC|Residential
-172.93.105.208:43159:luyjawln8t:eFkwDk6hJR|Canada|Ontario|Toronto|Beanfield Technologies Inc.|Residential
-172.93.104.131:39603:zbltt1ux8x:G9JI6X2cmz|Indonesia|Jakarta|West Jakarta|PT. TELKOM INDONESIA|Residential
-172.93.104.131:39603:20h11vbvub:32UUDTFHEw|Canada|Ontario|Windsor|Altima Telecom|Residential
-172.93.104.131:39603:ierx9nzhv9:dpjThWGiyE|Oman|Muscat|Muscat|Awaser Oman LLC|Residential
-172.93.104.131:39603:90hs39r35g:mqUD1Isplb|Paraguay|Alto Paraná Department|Ciudad del Este|Aranda Cardozo Lider Ramon|Residential
-172.93.104.131:39603:0uii8xr1pd:WwJQ9KOMUx|Kuwait|Al Asimah|Kuwait City|Gprs Network|Residential
-172.93.104.131:39603:nmys87kv60:hOC8ONirqw|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.105.208:43159:4qb9mw8bbj:nFyQWmS07A|United States|Georgia|Nashville|Windstream Communications LLC|Residential
+172.93.105.208:43159:i00y9e6uwx:q5eAoiGYqD|Canada|Ontario|Scarborough|Altima Telecom|Residential
+172.93.104.131:39603:zbltt1ux8x:G9JI6X2cmz|Indonesia|West Java|Bandung|PT Telekomunikasi Selular Indonesia|Residential
+172.93.104.131:39603:x2hkaqbzaj:AQXETu7Kjm|Saudi Arabia|Riyadh Region|Riyadh|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Cellular
+172.93.105.208:43159:luyjawln8t:eFkwDk6hJR|Canada|Ontario|Kingston|Bell Canada|Residential
+172.93.104.131:39603:20h11vbvub:32UUDTFHEw|Canada|Ontario|Keswick|Bell Canada|Residential
 172.93.105.208:43159:y633e4lwj6:Yoh4CuIBhO|Canada|Ontario|Hawkesbury|netXpoint|Residential
-172.93.104.131:39603:31qh0ba9e7:uy2KNkignK|Mexico|Guerrero|Ixtapa-Zihuatanejo|Mega Cable, S.A. de C.V.|Residential
-172.93.104.131:39603:fk9oieg2x7:IHyNT4gHjR|South Africa|Gauteng|Johannesburg|Liquid Telecommunications Operations Limited|Residential
+172.93.104.131:39603:90hs39r35g:mqUD1Isplb|Paraguay|Alto Paraná Department|Ciudad del Este|Aranda Cardozo Lider Ramon|Residential
+172.93.105.208:43159:s0l32qc61a:5XcXQwzSz6|Canada|Ontario|Mississauga|Rogers Communications Canada Inc.|Residential
+172.93.104.131:39603:ou45qpjmgw:LJyLT9DNX1|Italy|Apulia|Taranto|ENEL S.p.A. - Enel.it Milano|Residential
 172.93.104.131:39603:f9gt2d3l9l:0lDSqLBrpE|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:r9hmmv7a7t:k5TuOyikFF|Saudi Arabia|Eastern Province|Dammam|Internet Broadband|Residential
-172.93.104.131:39603:m4cm8uxorb:pVkW4UUI0B|Mexico|Sonora|Nogales|UNINET|Residential
-172.93.104.131:39603:wzs2359qfy:EKNr57pM4H|Brazil|Rio Grande do Sul|Novo Hamburgo|V tal|Residential
-172.93.104.131:39603:dsfuolt150:5JXczxL695|Canada|Ontario|Toronto|Bell Canada|Residential
-172.93.104.131:39603:qaxgun7r8d:fQg70YMtEM|Italy|Sicily|Gravina di Catania|VODAFONE|Residential
-172.93.104.131:39603:782fdjy4ye:4bUu2bCp8n|Saudi Arabia|Al-Qassim Region|Buraidah|Saudinet DSL|Residential
-172.93.104.131:39603:4qf77wvicu:ErMW4Ajz5G|Canada|Ontario|Mississauga|Rogers Communications Canada Inc.|Residential
-172.93.104.131:39603:jn8wh0gxf1:3UdPeqFyaz|Kuwait|Al Asimah|Kuwait City|Kuwait Telecommunication Company (Under Association)|Residential
-172.93.104.131:39603:vc1g395j6w:2MDV2PGqrR|Saudi Arabia|Riyadh Region|Riyadh|Saudi Telecom Company JSC|Residential
-172.93.105.208:43159:k8fkd4v1sr:fArcl5dWhM|Canada|Ontario|Ajax|Rogers Communications Canada Inc.|Residential
-172.93.104.131:39603:wz4va176ih:KGRJAAe1To|Canada|Ontario|Kanata|Rogers Communications Canada Inc.|Residential
-172.93.104.131:39603:6645ea4f0a:Ta1eO90X8s|Spain|Catalonia|Barcelona|UNI2-NET- Orange Spain Network|Residential
-172.93.104.131:39603:ou45qpjmgw:LJyLT9DNX1|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:bt87gvyz6e:QyBxhYKKpi|Bahrain|Manama|Manama|Nuetel Communications B.S.C|Residential
-172.93.104.131:39603:pn1jqw7ai3:0TGudcCJYz|Mexico|Mexico City|Azcapotzalco|Cablevisión, S.A. de C.V.|Residential
+172.93.104.131:39603:fk9oieg2x7:IHyNT4gHjR|South Africa|Gauteng|Pretoria|Liquid Telecommunications Operations Limited|Residential
 172.93.104.131:39603:500ch6iqnr:nnyj5BFTzY|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:91otwt8d73:IeWiLqJc9y|United Arab Emirates|Dubai|Dubai|Emirates Integrated Telecommunications Company PJSC|Residential
-172.93.104.131:39603:5d22gl3s16:JGErbwu8oK|Serbia|Belgrade|Belgrade|Orion telekom - DPI Sid|Residential
-172.93.105.208:43159:ilfs3nfbl7:4DEAkIoLfz|United Kingdom|England|Tower Hamlets|BT Public Internet Service|Residential
-172.93.104.131:39603:rmjh2oo1pk:HKDpFzRghC|Canada|New Brunswick|Moncton|Rogers Communications Canada Inc.|Residential
-172.93.104.131:39603:tnhwgq5bc8:EqATQhyBfL|Saudi Arabia|Eastern Province|Dammam|Saudi Telecom Company JSC|Residential
+172.93.104.131:39603:qaxgun7r8d:fQg70YMtEM|Italy|Piedmont|Turin|INFOSTRADA|Residential
+172.93.104.131:39603:m4cm8uxorb:pVkW4UUI0B|Mexico|Mexico City|Benito Juarez|Total Play Telecomunicaciones SA De CV|Residential
+172.93.104.131:39603:dsfuolt150:5JXczxL695|Canada|Ontario|Toronto|Bell Canada|Residential
+172.93.104.131:39603:r44pos1q9s:F1LFB97xHy|Italy|Campania|Sorrento|VODAFONE|Residential
+172.93.104.131:39603:wzs2359qfy:EKNr57pM4H|Brazil|Minas Gerais|Conselheiro Lafaiete|Claro NXT Telecomunicacoes Ltda|Residential
+172.93.104.131:39603:782fdjy4ye:4bUu2bCp8n|Saudi Arabia|Riyadh Region|Riyadh|Saudi Telecom Company JSC|Residential
+172.93.104.131:39603:4qf77wvicu:ErMW4Ajz5G|Canada|Ontario|East York|CIK Telecom INC|Residential
+172.93.105.208:43159:k8fkd4v1sr:fArcl5dWhM|Canada|Alberta|Calgary|Shaw Communications|Residential
+172.93.104.131:39603:jn8wh0gxf1:3UdPeqFyaz|Kuwait|Al Asimah|Kuwait City|HSPA+|Residential
+172.93.104.131:39603:vc1g395j6w:2MDV2PGqrR|Saudi Arabia|Riyadh Region|Riyadh|Mobile Telecommunication Company Saudi Arabia Joint-Stock company|Cellular
+172.93.104.131:39603:6645ea4f0a:Ta1eO90X8s|Spain|Andalusia|Cadiz|Orange Spain|Residential
+172.93.104.131:39603:wz4va176ih:KGRJAAe1To|Canada|Ontario|Kanata|Rogers Communications Canada Inc.|Residential
 172.93.105.208:43159:g7kfkopjh1:QNk3nE3gby|Canada|Ontario|Hamilton|Videotron Ltee|Cellular
-172.93.104.131:39603:gfjqrm5wc3:y7abvzyJWE|Lebanon|Beirut|Beirut|Smart Networks S.a.r.l|Residential
+172.93.104.131:39603:pn1jqw7ai3:0TGudcCJYz|Mexico|Sonora|Hermosillo|Mega Cable, S.A. de C.V.|Residential
+172.93.104.131:39603:bt87gvyz6e:QyBxhYKKpi|Bahrain|Manama|Manama|Nuetel Communications B.S.C|Residential
+172.93.105.208:43159:ilfs3nfbl7:4DEAkIoLfz|United Kingdom|England|Islington|British Telecommunications PLC|Residential
+172.93.104.131:39603:5d22gl3s16:JGErbwu8oK|Serbia|Belgrade|Belgrade|Serbian BroadBand|Residential
+172.93.104.131:39603:91otwt8d73:IeWiLqJc9y|United Arab Emirates|Dubai|Dubai|Emirates Integrated Telecommunications Company PJSC|Residential
+172.93.104.131:39603:tnhwgq5bc8:EqATQhyBfL|Saudi Arabia|Eastern Province|Dammam|Saudi Telecom Company JSC|Residential
 172.93.104.131:39603:2uhdhw4cgm:cND28NlawY|Uruguay|Montevideo Department|Montevideo|Administracion Nacional de Telecomunicaciones|Residential
-172.93.104.131:39603:exr6xjoe5i:mhQAQmk5uK|Italy|Apulia|Marina di Ginosa|INFOSTRADA|Residential
+172.93.104.131:39603:gfjqrm5wc3:y7abvzyJWE|Lebanon|Bekaa|Zahle|Net Pro sarl|Residential
+172.93.104.131:39603:exr6xjoe5i:mhQAQmk5uK|Italy|Lombardy|Milan|Starlink Mlnnita1|Residential
 172.93.104.131:39603:fl9dydjgza:xTWX9RaBNZ|Mexico|Mexico City|Cuauhtémoc|Total Play Telecomunicaciones SA De CV|Residential
-172.93.104.131:39603:e821qmz3a6:hbMUvqvFQB|Brazil|São Paulo|Amparo|Vivo|Residential
-172.93.104.131:39603:43zt1j16w1:4bY2pB64WN|United States|Rhode Island|North Kingstown|Verizon Business|Residential
-172.93.104.131:39603:umm6ik3jdo:0dTec5HXzB|Oman|Muscat|Muscat|OmanMobile Telecommunication company LLC|Cellular
-172.93.104.131:39603:hbznzm6ja0:l8xF1ExbQC|Spain|Madrid|Madrid|Telefonica de Espana SAU|Residential
+172.93.104.131:39603:43zt1j16w1:4bY2pB64WN|United States|Rhode Island|Warwick|Verizon Business|Residential
+172.93.104.131:39603:vlriopo4wb:NmgrKVIY4U|Canada|Quebec|Montreal|TELUS Communications Inc|Residential
+172.93.105.208:43159:kem1p222be:ptZMl6glC7|Spain|Murcia|Los Alcázares|AVATEL TELECOM, SA|Residential
 172.93.104.131:39603:ttlpvt9oac:0LxBPtUFZe|Spain|Andalusia|Linares|Telefonica de Espana SAU|Residential
+172.93.104.131:39603:hbznzm6ja0:l8xF1ExbQC|Spain|Madrid|Madrid|Vodafone Global Enterprise Inc.|Residential
+172.93.104.131:39603:kf4p3bpgun:io7tflzQW2|Italy|Campania|Naples|Telecom Italia S.p.A. TIN EASY LITE|Residential
 172.93.105.208:43159:y28bvf6zhx:CUFqc32xzq|Canada|Alberta|Stettler|TELUS Communications Inc|Residential
 172.93.105.208:43159:nyxlvwtwwg:Ghro1SLIfM|Canada|Ontario|North Bay|ViaNet Internet Solutions|Residential
-172.93.104.131:39603:kf4p3bpgun:io7tflzQW2|Italy|Lombardy|Monza|Fastweb Networks|Residential
-172.93.105.208:43159:2byt06m557:RxzOYJeQpM|United Kingdom|England|Bristol|TalkTalk|Residential
-172.93.105.208:43159:cibdwnoi2t:YNodUVVu3E|United Kingdom|England|Dagenham|Virgin Media Limited|Residential
-172.93.104.131:39603:yfdal9rb0f:WUJYMVGlrN|The Netherlands|Limburg|Sittard|Vodafone Ziggo|Residential
-172.93.105.208:43159:stjh22duv0:NURhwAqFGw|United Kingdom|England|Spalding|BT Public Internet Service|Residential
-172.93.104.131:39603:sfkjrnfase:q9cgsRTV0U|Canada|Ontario|Greater Sudbury|Bell Canada|Residential
-172.93.104.131:39603:qh6em725lh:fFglnUWHps|United Arab Emirates|Emirate of Sharjah|Sharjah|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.105.208:43159:cibdwnoi2t:YNodUVVu3E|United Kingdom|England|London|Community Fibre Limited|Residential
+172.93.105.208:43159:2byt06m557:RxzOYJeQpM|United Kingdom|Wales|Llanymynech|BT Public Internet Service|Residential
+172.93.105.208:43159:9xcuwlwf93:7Ty3TKecWy|Canada|Saskatchewan|Neuanlage|FlexNetworks|Residential
 172.93.104.131:39603:ooqv2ptj34:RGWl07pfhI|Kuwait|Al Asimah|Kuwait City|Mobile Telecommunications Company|Cellular
+172.93.105.208:43159:stjh22duv0:NURhwAqFGw|United Kingdom|England|Sheffield|Virgin Media|Residential
+172.93.104.131:39603:sfkjrnfase:q9cgsRTV0U|Canada|Ontario|Toronto|Bell Canada|Residential
+172.93.104.131:39603:qh6em725lh:fFglnUWHps|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Telecommunications Corporation|Residential
 172.93.104.131:39603:iy5pxcev6s:OnaI7IKrBF|The Netherlands|Utrecht|Nieuwegein|KPN B.V|Residential
+172.93.104.131:39603:qlxzuo85dn:PWQ0Morpmq|Nicaragua|Managua Department|Managua|Yota De Nicaragua|Residential
 172.93.104.131:39603:ohw7uduki1:r6bpclI4Qo|Australia|Victoria|Melbourne|Southern Phone Company Ltd|Residential
-172.93.104.131:39603:qlxzuo85dn:PWQ0Morpmq|Nicaragua|Managua Department|Managua|Telgua|Residential
 172.93.105.208:43159:4qfau39k93:97jDAFDgL3|Canada|Ontario|Guelph|Rogers Communications Canada Inc.|Residential
-172.93.104.131:39603:jq52qbteix:VV1AswF1yl|Australia|South Australia|Adelaide|TPG Internet Pty Ltd|Residential
+172.93.104.131:39603:jq52qbteix:VV1AswF1yl|Australia|South Australia|Adelaide|Vodafone Australia Pty Ltd|Residential
 172.93.105.208:43159:b6pqfggopj:lsXyDUgtyH|Canada|Ontario|Nepean|Rogers Communications Canada Inc.|Residential
 172.93.105.208:43159:7g5vlqt6pu:Ln562TyIGS|Canada|Quebec|Montreal|EBOX|Residential
-172.93.105.208:43159:7p18eq81lv:Sm19NMpnaq|United Kingdom|England|Northampton|TalkTalk|Residential
-172.93.104.131:39603:muj0t8tpgt:UHeVmahgzU|Austria|State of Vienna|Vienna|Network of Hutchison Drei Austria GmbH => NAT|Residential
+172.93.105.208:43159:7p18eq81lv:Sm19NMpnaq|United Kingdom|England|Leeds|Virgin Media Limited|Residential
+172.93.104.131:39603:muj0t8tpgt:UHeVmahgzU|Austria|Styria|Weiz|HIGHWAY194|Residential
 172.93.104.131:39603:towjgk2446:HFadnWjyWZ|Mali|Bamako|Bamako|The AS will be use to connect our two links to internet through|Residential
-172.93.105.208:43159:mqq52nuoo6:QJaG4JCuzA|United States|New York|Freeport|Verizon Business|Residential
 172.93.104.131:39603:4d3wn3mn80:6lKImWuxLa|Bahrain|Southern Governorate|Isa Town|Bahrain Telecommunication Company|Residential
-172.93.104.131:39603:umsw8pa0xx:JefnE5ckAV|Australia|New South Wales|Sydney|TPG Internet Pty Ltd|Residential
-172.93.104.131:39603:lixwracuew:fWGlIk9xRb|Italy|Veneto|Vas|EOLO S.p.A|Residential
-172.93.104.131:39603:0gh7d3k2ht:uVLubUYDz2|Bahrain|Manama|Manama|STC BAHRAIN B.S.C CLOSED|Residential
+172.93.104.131:39603:lixwracuew:fWGlIk9xRb|Italy|Liguria|Genoa|Vodafone|Residential
 172.93.104.131:39603:q523yi1p64:lxy0BDdDLN|Hong Kong|Central and Western|Central|Hong Kong Telecommunications (HKT) Limited Mass Internet|Residential
-172.93.104.131:39603:3y0g6t2npf:Y9LPqWIMu4|Qatar|Baladiyat ad Dawhah|Doha|MBB Pool 7|Residential
+172.93.105.208:43159:3dd0ld14a4:MNp0Ur0Cmf|United Kingdom|England|Birmingham|TalkTalk|Residential
+172.93.105.208:43159:wxc71fm3ed:Ob9LFhTlmy|United States|Michigan|Allen Park|Comcast Cable Communications, LLC|Residential
+172.93.104.131:39603:3y0g6t2npf:Y9LPqWIMu4|Qatar|Baladiyat ad Dawhah|Doha|Ooredoo-Broadband|Residential
+172.93.104.131:39603:0gh7d3k2ht:uVLubUYDz2|Bahrain|Manama|Manama|STC BAHRAIN B.S.C CLOSED|Residential
 172.93.104.131:39603:cyhfeg0zix:lpq9D83F4K|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.105.208:43159:3dd0ld14a4:MNp0Ur0Cmf|United Kingdom|England|Nottingham|TalkTalk|Residential
 172.93.105.208:43159:4jzslwesni:g4NE2vpDB0|United Kingdom|England|Crewe|Sky UK Limited|Residential
-172.93.105.208:43159:udzcm5n5cy:57ebW6kQxg|Canada|British Columbia|Vancouver|Space Exploration Technologies Corporation|Residential
+172.93.105.208:43159:udzcm5n5cy:57ebW6kQxg|Canada|Ontario|Toronto|Space Exploration Technologies Corporation|Residential
+172.93.105.208:43159:c1vve1zmp6:WvhIuNExJm|United Kingdom|England|Leyton|Hutchison 3G UK Ltd|Residential
 172.93.104.131:39603:vhxwonnei2:ox8EOgKrUE|United States|Nebraska|Shelby|Nextlink Broadband|Residential
-172.93.104.131:39603:oofx4thjm2:6kFGwax1q3|Nicaragua|Managua Department|Managua|Telgua|Residential
-172.93.105.208:43159:c1vve1zmp6:WvhIuNExJm|United Kingdom|England|Manchester|Hutchison 3G UK Ltd|Residential
 172.93.104.131:39603:06wnhmv0br:EwcWkRYtoc|Oman|Muscat|Muscat|OmanMobile Telecommunication company LLC|Cellular
-172.93.104.131:39603:v37t3yidox:uUGpUNCpnE|Canada|Ontario|Hamilton|Bell Canada|Residential
-172.93.104.131:39603:1pd0tzug1s:Jz16MS5d6W|Tunisia|Tunis Governorate|Tunis|Tunisia BackBone AS|Residential
-172.93.104.131:39603:wr04r9ajtw:WKrLlY60Sc|Ecuador|Pichincha|Quito|Ecuadortelecom S.A.|Residential
-172.93.105.208:43159:5egvyqdosq:NBJvylciEO|United Kingdom|Scotland|Glasgow|Energis UK|Residential
-172.93.104.131:39603:s0ucrsxn5u:WZ5uASVpo0|Kuwait|Al Asimah|Kuwait City|Kuwait Telecommunication Company (Under Association)|Residential
-172.93.104.131:39603:tyiar92xcg:4CZtrv0jKR|Philippines|Metro Manila|Quezon City|Cyber Peers Communications Inc.|Residential
-172.93.104.131:39603:55sa7m7nbd:OvijpxPbg7|Bahrain|Manama|Manama|Zain Bahrain|Residential
-172.93.104.131:39603:rpmn9ggn9m:4jlkfpPSoS|Australia|Victoria|Melbourne|Telstra Corporation (Belong)|Residential
-172.93.104.131:39603:zjrie7n3k4:abRQaJVv66|Israel|Tel Aviv|Tel Aviv|Hot-Net internet services Ltd.|Residential
-172.93.104.131:39603:hvbm83ohqp:H9ZrkTU1f3|Georgia|Adjara|Batumi|JSC "Silknet"|Residential
+172.93.105.208:43159:5egvyqdosq:NBJvylciEO|United Kingdom|England|Liverpool|Sky UK Limited|Residential
+172.93.104.131:39603:v37t3yidox:uUGpUNCpnE|Canada|Ontario|Markham|CIK Telecom INC|Residential
+172.93.104.131:39603:wr04r9ajtw:WKrLlY60Sc|Ecuador|Guayas|Milagro|Adeatel S.A|Residential
+172.93.104.131:39603:1pd0tzug1s:Jz16MS5d6W|Tunisia|Nabeul Governorate|Hammamet|ADSL Home TOpnet|Residential
+172.93.104.131:39603:s0ucrsxn5u:WZ5uASVpo0|Kuwait|Al Asimah|Kuwait City|National Mobile Telecommunications Company K.S.C.P.|Cellular
+172.93.105.208:43159:elfvect8qq:C7f67HpgEr|Germany|Hesse|Frankfurt am Main|Vodafone Kabel Deutschland|Residential
+172.93.104.131:39603:55sa7m7nbd:OvijpxPbg7|Bahrain|Northern|Hamad Town|Bahrain Telcommunication Company|Residential
+172.93.104.131:39603:zjrie7n3k4:abRQaJVv66|Israel|Central District|Petah Tikva|BEZEQINT|Residential
+172.93.104.131:39603:hvbm83ohqp:H9ZrkTU1f3|Georgia|Kvemo Kartli|Rustavi|LTD CGC Co|Residential
 172.93.104.131:39603:01smzhd7v4:sH0gmCVLg3|Tunisia|Nabeul Governorate|Hammamet|Orange Tunisie|Residential
-172.93.104.131:39603:0h29i1t8re:xe5JHXvIhH|Austria|Carinthia|Sankt Veit an der Glan|A1 Telekom Austria AG|Residential
-172.93.104.131:39603:7pgrs5adqf:LYVNwLlfiL|United States|Wisconsin|Racine|Charter Communications|Residential
-172.93.104.131:39603:u82z973vyj:WWt2OvE6GY|Canada|Quebec|Montreal|Bell Canada|Residential
+172.93.104.131:39603:7pgrs5adqf:LYVNwLlfiL|United States|Wisconsin|Milwaukee|Charter Communications|Residential
+172.93.104.131:39603:0h29i1t8re:xe5JHXvIhH|Poland|Mazovia|Warsaw|FDCservers.net|Business
 172.93.104.131:39603:vvdyi5rq6n:gNyyE9oGoO|Australia|South Australia|Adelaide|Telstra Limited|Residential
-172.93.104.131:39603:d2bhyr4zoc:7D3u0LCq4o|North Macedonia|Grad Skopje|Skopje|Blizoo DOOEL Macedonia Triple Play|Residential
+172.93.104.131:39603:u82z973vyj:WWt2OvE6GY|Canada|Quebec|Montreal|Bell Canada|Residential
+172.93.104.131:39603:d2bhyr4zoc:7D3u0LCq4o|North Macedonia|Bitola|Bitola|Cabletel Dooel|Residential
 172.93.104.131:39603:q6tfyl8r9r:OTAlXzVPD6|Austria|State of Vienna|Vienna|Liberty Global Operations B.V|Residential
-172.93.104.131:39603:l3ur20ohlb:wIrfeKxgCV|Bulgaria|Burgas|Burgas|ComNet Bulgaria Ltd.|Residential
+172.93.104.131:39603:l3ur20ohlb:wIrfeKxgCV|Bulgaria|Sofia-Capital|Sofia|CETIN Bulgaria EAD|Residential
 172.93.104.131:39603:5ockkbko3f:DzpjDk1cJz|Kuwait|Al Asimah|Kuwait City|Kuwait Telecommunication Company (Under Association)|Residential
-172.93.105.208:43159:t61hgsam05:9TM56J9Hb9|United Kingdom|England|Mansfield|British Telecommunications PLC|Residential
 172.93.104.131:39603:4jp1q11hep:vUX9lAwjOo|Kuwait|Al Asimah|Kuwait City|Kuwait Telecommunication Company (Under Association)|Residential
-172.93.105.208:43159:mc3pekadtk:Ei0sLGviGJ|United Kingdom|England|York|TalkTalk|Residential
-172.93.105.208:43159:qla6006tm1:qyUZsBP7IY|United Kingdom|England|Enfield|BT Public Internet Service|Residential
-172.93.105.208:43159:anqcmbqxwf:rZuZnoqTUi|United Kingdom|England|Blackpool|Virgin Media Limited|Residential
-172.93.105.208:43159:x2madk4ihc:FUiDoF4t69|United Kingdom|Scotland|Glasgow|Hydra Communications Ltd|Residential
+172.93.105.208:43159:qla6006tm1:qyUZsBP7IY|United Kingdom|England|Sheffield|British Telecommunications PLC|Residential
+172.93.105.208:43159:t61hgsam05:9TM56J9Hb9|United Kingdom|England|Hook|Vodafone Group PLC|Residential
 172.93.104.131:39603:1296q7xfuw:25uIgllmUU|Austria|Salzburg|Salzburg|SALZBURG AG fur Energie, Verkehr und Telekommunikation|Residential
-172.93.104.131:39603:ce0zimqwfz:GAOksGXnOc|Kuwait|Al Asimah|Kuwait City|HSPA+|Residential
-172.93.104.131:39603:134d8u9pp2:Es8MXMSq2l|United States|Rhode Island|Coventry|Cox Communications Inc.|Residential
+172.93.105.208:43159:anqcmbqxwf:rZuZnoqTUi|United Kingdom|England|Coventry|Virgin Media Limited|Residential
+172.93.104.131:39603:134d8u9pp2:Es8MXMSq2l|United States|Rhode Island|Pawtucket|T-Mobile USA, Inc.|Cellular
+172.93.104.131:39603:c99afm2hvh:kDCVp5615v|United Arab Emirates|Dubai|Dubai|Emirates Telecommunications Corporation|Residential
+172.93.104.131:39603:4psse8lo99:nuoqXiffaf|Guyana|Demerara-Mahaica|Georgetown|Guyana Telephone & Telegraph Co.|Residential
+172.93.105.208:43159:x2madk4ihc:FUiDoF4t69|United Kingdom|England|Manchester|Vodafone Limited|Residential
 172.93.104.131:39603:g5xr97iu5b:2QacXZsWc9|Austria|State of Vienna|Vienna|A1 Telekom Austria AG|Residential
-172.93.104.131:39603:w5oa74wmpi:oAPGLdR1Px|Saudi Arabia|Medina Region|Medina|Saudinet DSL|Residential
-172.93.104.131:39603:v7ybfghkts:t3mgIP4ruJ|Bahrain|Manama|Manama|Bahrain Telcommunication Company|Residential
+172.93.104.131:39603:v7ybfghkts:t3mgIP4ruJ|Bahrain|Northern|Hamad Town|Zain Bahrain|Residential
+172.93.104.131:39603:8xoq580lkn:OAU68RSjtv|Philippines|Calabarzon|Antipolo City|Philippine Long Distance Telephone Co.|Residential
 172.93.104.131:39603:xausmw79m4:qrcjQKRVmG|Unknown|Unknown|Unknown|Unknown|Residential
+172.93.104.131:39603:w5oa74wmpi:oAPGLdR1Px|Saudi Arabia|Medina Region|Medina|Saudinet DSL|Residential
 172.93.103.132:43143:DVSqaci8ah:0BXR9le|United Kingdom|England|Greenwich|Orbital Net Ltd|Residential
-172.93.103.132:43143:DVSotum3sq:oxz3ynl|United Kingdom|England|York|TalkTalk|Residential
-172.93.104.131:39603:cv9wugc4ax:g1slFZA85N|United Arab Emirates|Abu Dhabi|Al Ain City|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
-172.93.104.131:39603:koqm2164jv:mygLj3KhQH|United Arab Emirates|Abu Dhabi|Abu Dhabi|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.103.132:43143:DVSotum3sq:oxz3ynl|United Kingdom|Scotland|Bellshill|Virgin Media|Residential
 172.93.105.208:43159:yenk9ktd81:bcJhKRHWSM|Canada|Ontario|Markham|CIK Telecom INC|Residential
-172.93.104.131:39603:28j3fyur2h:6wW0Gz2OSt|Hong Kong|Yuen Long District|Tin Shui Wai|HGC Global Communications Limited|Residential
+172.93.104.131:39603:koqm2164jv:mygLj3KhQH|United Arab Emirates|Abu Dhabi|Abu Dhabi|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.104.131:39603:y8dzb0or36:s9UfCpzUcj|Peru|Lima region|Independencia|Cogent Communications|Residential
 172.93.104.131:39603:xk2qoirxgn:P4Z2KD5Tzs|Kuwait|Al Asimah|Kuwait City|Mobile Telecommunications Company|Cellular
 172.93.104.131:39603:f7xm7jtnu7:tWfyUicqMI|Bulgaria|Sofia-Capital|Sofia|CETIN Bulgaria EAD|Residential
-172.93.104.131:39603:46zkxccztf:d5IbJ2gRtx|United States|Louisiana|Covington|AT&T Enterprises, LLC|Residential
-172.93.104.131:39603:26ibnmiyip:cRbUyy4hQ3|Mexico|Oaxaca|Oaxaca City|Uninet S.A. de C.V.|Residential
-172.93.104.131:39603:ej2bl75ytz:y3wUoNGchw|Costa Rica|Provincia de San José|San José|Telecable Economico S.A.|Residential
+172.93.104.131:39603:46zkxccztf:d5IbJ2gRtx|United States|Louisiana|Lafayette|LUS Fiber|Residential
+172.93.104.131:39603:yfwpgtdu0i:QEyKBf1Qzz|Austria|Lower Austria|Neulengbach|Kabelsignal AG|Residential
+172.93.104.131:39603:z0su3411fz:WKZPEbW5YG|Bahrain|Manama|Manama|Bahrain Telecommunication Company|Residential
 172.93.104.131:39603:owsb18u1lk:g154qsdDJA|Hong Kong|Kwai Tsing District|Kwai Chung|China Mobile Hong Kong Company Limited|Cellular
-172.93.104.131:39603:pl7xqkmp39:vquA5IfpG0|United States|Oklahoma|Broken Arrow|Windstream Communications LLC|Residential
+172.93.104.131:39603:26ibnmiyip:cRbUyy4hQ3|Mexico|Aguascalientes|Aguascalientes|Cablevision Red, S.A de C.V.|Residential
+172.93.104.131:39603:ej2bl75ytz:y3wUoNGchw|Costa Rica|Provincia de San José|San José|Cable Tica|Residential
 172.93.104.131:39603:46djvnvaba:k5CPkW5rQB|Bulgaria|Kyustendil|Dupnitsa|NAS - DI EOOD|Residential
-172.93.104.131:39603:ddnmp81ipm:hGRtTZAH6N|United States|New York|The Bronx|Cablevision Systems Corp.|Residential
-172.93.104.131:39603:yfwpgtdu0i:QEyKBf1Qzz|Austria|State of Vienna|Vienna|H3G Austria GmbH|Residential
+172.93.104.131:39603:ddnmp81ipm:hGRtTZAH6N|United States|Connecticut|Danbury|Comcast Cable Communications, LLC|Residential
+172.93.104.131:39603:pl7xqkmp39:vquA5IfpG0|United States|Oklahoma|Yukon|AT&T Enterprises, LLC|Residential
 172.93.104.131:39603:8uzhs8ji4n:V6OZTP7fwl|Bahrain|Southern Governorate|Dār Kulayb|Northstar Communications|Residential
 172.93.104.131:39603:a8vpfy30wa:w2rMtVwME9|Australia|Queensland|Brisbane|SUPERLOOP (AUSTRALIA) PTY LTD|Residential
-172.93.104.131:39603:exboqsdy20:yWPc0gDNsE|Brazil|Minas Gerais|Belo Horizonte|Claro NXT Telecomunicacoes Ltda|Residential
+172.93.104.131:39603:bdb43cjtd5:DJonEZ3lVQ|Australia|South Australia|Adelaide|TPG Internet Pty Ltd|Residential
 172.93.105.208:43159:e2gjfzh6ys:uiZuqBrIm8|Canada|Alberta|Edmonton|TELUS Communications Inc|Residential
-172.93.104.131:39603:4bm8ljhpdp:YTDYktuHR5|Spain|Murcia|Torre Pacheco|AVATEL TELECOM, SA|Residential
-172.93.104.131:39603:kwtj8zqvqe:dofof5VfBR|Spain|Castille-La Mancha|Puertollano|Telefonica de Espana SAU|Residential
-172.93.104.131:39603:bdb43cjtd5:DJonEZ3lVQ|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:43yvkea1ss:PPYO59NOhQ|Chile|Santiago Metropolitan|Santiago|Entel Chile S.A.|Residential
-172.93.104.131:39603:h05y20osg4:vvpOasrgMU|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:31mclyjd7f:YyEkJ0G786|Spain|Murcia|Cartagena|Vodafone Espana S.A.U.|Residential
+172.93.104.131:39603:exboqsdy20:yWPc0gDNsE|Brazil|São Paulo|São Paulo|New HB Servicos de Telecomunicacoes Ltda - ME|Residential
+172.93.104.131:39603:4bm8ljhpdp:YTDYktuHR5|Spain|Extremadura|Plasencia|Cvip Soluciones Tecnologicas Alternativas Sl.|Cellular
+172.93.104.131:39603:kwtj8zqvqe:dofof5VfBR|Spain|Aragon|Utebo|Digi Spain Telecom S.L.U.|Residential
+172.93.104.131:39603:43yvkea1ss:PPYO59NOhQ|Chile|Biobio|Concepción|Pacifico Cable SPA.|Residential
+172.93.104.131:39603:h05y20osg4:vvpOasrgMU|Qatar|Baladiyat ad Dawhah|Doha|Ooredoo Q.S.C.|Residential
+172.93.104.131:39603:31mclyjd7f:YyEkJ0G786|Spain|Murcia|Murcia|Vodafone Espana S.A.U.|Residential
+172.93.104.131:39603:fwviy16nt1:vrym7In5w5|North Macedonia|Struga|Struga|Class 23 - Commercial radio-broadcasting company|Residential
+172.93.104.131:39603:hasg4itgym:t9oH31Ok8u|Peru|Cuzco Department|Cusco|TDP-GRS|Residential
+172.93.104.131:39603:ont46gs9my:wJBSqHLKST|Kuwait|Al Asimah|Kuwait City|Mobile Telecommunications Company|Cellular
+172.93.104.131:39603:ef28r7j898:ufMvsh9Bbf|Canada|Ontario|Kitchener|Bell Canada|Residential
 172.93.104.131:39603:5p3kf4c9ex:e3GmccGnaz|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:fwviy16nt1:vrym7In5w5|North Macedonia|Grad Skopje|Čair|Company for communications services A1 Makedonija DOOEL Skopje|Residential
-172.93.104.131:39603:v79kh77o22:LKM6hgu4dc|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:hasg4itgym:t9oH31Ok8u|Peru|Lima Province|Lima|Telefonica del Peru S.A.A.|Residential
-172.93.104.131:39603:ef28r7j898:ufMvsh9Bbf|Canada|Ontario|Cambridge|Rogers Communications Canada Inc.|Residential
-172.93.104.131:39603:ont46gs9my:wJBSqHLKST|Kuwait|Al Asimah|Kuwait City|HSPA+|Residential
-172.93.104.131:39603:us4spsabs3:fLZ8Rb4wQ3|Hong Kong|Eastern District|Island Resort|Hong Kong Telecommunications (HKT) Limited Mass Internet|Residential
-172.93.104.131:39603:zzvzrqe850:NpTf9jsTdJ|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:uwntvlxphh:xRvEFgzaJ4|United Arab Emirates|Emirate of Ras Al Khaimah|Ras al-Khaimah|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
-172.93.104.131:39603:nz1u9qxmp2:TAnt9Uy5dd|Unknown|Unknown|Unknown|Unknown|Residential
-172.93.104.131:39603:7u8sdqwoi6:ea2hp6cqYV|United Arab Emirates|Emirate of Fujairah|Fujairah|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
-172.93.104.131:39603:ltpmb2dre5:hQwlcdIamK|United Arab Emirates|Dubai|Dubai|Emirates Telecommunications Corporation|Residential
-172.93.104.131:39603:angyex3krh:7uJgsMMe3O|United Arab Emirates|Dubai|Dubai|Emirates Integrated Telecommunications Company|Residential
-172.93.104.131:39603:y0xcj47oap:BI74BlAHJb|United Arab Emirates|Emirate of Sharjah|Sharjah|Emirates Integrated Telecommunications Company PJSC|Residential
+172.93.104.131:39603:zzvzrqe850:NpTf9jsTdJ|Nicaragua|Managua Department|Managua|Telefonia Celular de Nicaragua SA.|Residential
+172.93.104.131:39603:us4spsabs3:fLZ8Rb4wQ3|Hong Kong|Kwai Tsing District|Kwai Chung|Hong Kong Broadband Network Limited|Residential
+172.93.104.131:39603:uwntvlxphh:xRvEFgzaJ4|United Arab Emirates|Dubai|Dubai|EMIRATES TELECOMMUNICATIONS GROUP COMPANY (ETISALAT GROUP) PJSC|Residential
+172.93.104.131:39603:ltpmb2dre5:hQwlcdIamK|United Arab Emirates|Emirate of Sharjah|Khor'fakkan|Emirates Integrated Telecommunications Company PJSC|Residential
+172.93.104.131:39603:7u8sdqwoi6:ea2hp6cqYV|United Arab Emirates|Dubai|Dubai|Emirates Telecommunications Corporation|Residential
+172.93.104.131:39603:angyex3krh:7uJgsMMe3O|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Telecommunications Corporation|Residential
+172.93.104.131:39603:y0xcj47oap:BI74BlAHJb|United Arab Emirates|Abu Dhabi|Abu Dhabi|Emirates Telecommunications Corporation|Residential
 172.93.104.131:39603:kpiwfjyxix:Q9TzZpZELe|United Arab Emirates|Dubai|Dubai|Emirates Telecommunications Corporation|Residential
 172.93.104.131:39603:vlhebryo3a:1qDlot94Gc|United Arab Emirates|Emirate of Sharjah|Sharjah|Emirates Telecommunications Corporation|Residential
-172.93.103.132:43143:DVSiw3rrx8:Swk7Nhv|United Kingdom|England|Boston|BT Public Internet Service|Residential
-104.219.238.238:46671:DVSslwm930:d3jAnLr|United Kingdom|England|Shirebrook|BT Public Internet Service|Residential
+104.219.238.238:46671:DVSslwm930:d3jAnLr|United Kingdom|England|City of London|Hydra Communications Ltd|Residential
 68.71.241.33:4145|United States|California|Santa Ana|Total Server Solutions L.L.C.|Business
 68.71.249.158:4145|United States|California|Los Angeles|Performive LLC|Residential
-193.221.203.192:1080|Finland|Uusimaa|Helsinki|Baykov Ilya Sergeevich|Residential
-72.205.0.93:4145|United States|Virginia|Fairfax|Cox Communications Inc.|Residential
 72.223.188.92:4145|United States|Illinois|Chicago|Cox Communications Inc.|Residential
-72.207.33.64:4145|United States|California|Chula Vista|Cox Communications Inc.|Residential
 98.175.31.222:4145|United States|Virginia|Norfolk|Cox Communications Inc.|Residential
+72.205.0.93:4145|United States|Virginia|Fairfax|Cox Communications Inc.|Residential
+72.207.33.64:4145|United States|California|Chula Vista|Cox Communications Inc.|Residential
 98.190.239.3:4145|United States|Oklahoma|Tulsa|Cox Communications Inc|Residential
 5.255.103.55:1080|The Netherlands|Flevoland|Dronten|The Infrastructure Group B.V.|Residential
 212.77.75.25:1088|Italy|Tuscany|Empoli|Leonet srl Empoli|Residential
 144.124.227.88:3129|The Netherlands|North Holland|Amsterdam|Servers Tech Fzco|Business
 199.66.183.226:4145|United States|Georgia|Jonesboro|NET2ATLANTA.COM LLC|Residential
+146.235.231.249:1080|United States|California|San Jose|Cloudflare, Inc.|Business
 157.90.183.51:5555|Germany|Hesse|Frankfurt am Main|M247 Ltd Frankfurt 2|Residential
 91.98.161.17:1080|Albania|Tirana|Tirana|Keminet.net & iRegister.al|Residential
-82.97.246.138:1081|The Netherlands|North Holland|Amsterdam|The Constant Company, LLC|Residential
-5.255.117.127:1080|The Netherlands|Flevoland|Dronten|The Infrastructure Group B.V.|Residential
 5.255.123.162:1080|The Netherlands|Flevoland|Dronten|The Infrastructure Group B.V.|Residential
-109.199.107.68:1080|France|Grand Est|Strasbourg|Cloudflare, Inc.|Business
+5.255.117.127:1080|The Netherlands|Flevoland|Dronten|The Infrastructure Group B.V.|Residential
 72.223.188.67:4145|United States|Illinois|Chicago|Cox Communications Inc.|Residential
-213.188.215.27:1080|United States|Illinois|Chicago|CacheFly|Residential
+123.136.24.161:1080|Bangladesh|Dhaka Division|Dhaka|Royal Green Limited|Residential
+213.188.215.27:1080|The Netherlands|North Holland|Amsterdam|CacheFly|Residential
+125.24.156.113:7080|Unknown|Unknown|Unknown|Unknown|Residential
 98.170.57.241:4145|United States|Georgia|Atlanta|Cox Communications Inc.|Residential
+174.77.111.196:4145|United States|Oklahoma|Tulsa|Cox Communications Inc.|Residential
+43.129.80.138:18999|Unknown|Unknown|Unknown|Unknown|Residential
 68.71.251.134:4145|United States|California|Los Angeles|Performive LLC|Residential
-174.64.199.79:4145|United States|Florida|Pensacola|Cox Communications Inc.|Residential
-184.182.240.211:4145|United States|Georgia|Macon|Cox Communications Inc.|Residential
+184.181.217.213:4145|United States|Florida|Pensacola|Cox Communications Inc.|Residential
+38.49.210.79:40000|Canada|Quebec|Montreal|Cloudflare, Inc.|Business
+185.230.190.195:1080|Finland|Uusimaa|Helsinki|Livi Hosting LTD|Business
 112.28.149.156:8443|Japan|Tokyo|Tokyo|Akari Networks|Residential
-185.230.190.195:1080|Unknown|Unknown|Unknown|Unknown|Residential
+138.124.106.230:443|Unknown|Unknown|Unknown|Unknown|Residential
+81.168.119.85:443|Unknown|Unknown|Unknown|Unknown|Residential
+89.169.168.25:6101|Russia|Moscow|Moscow|Yandex.Cloud LLC|Business
 176.12.65.24:443|Unknown|Unknown|Unknown|Unknown|Residential
 178.250.156.112:443|Unknown|Unknown|Unknown|Unknown|Residential
 98.191.0.47:4145|United States|Virginia|Roanoke|Cox Communications Inc.|Residential
 72.214.108.67:4145|United States|California|East Irvine|Cox Communications Inc|Residential
-184.182.240.12:4145|United States|Georgia|Macon|Cox Communications Inc.|Residential
 67.201.58.190:4145|United States|Oklahoma|Tulsa|PacketExchange|Residential
+184.181.217.210:4145|United States|Florida|Pensacola|Cox Communications Inc.|Residential
 184.181.178.33:4145|United States|Arkansas|Rogers|Cox Communications Inc.|Residential
-184.178.172.13:15311|United States|Virginia|Roanoke|Cox Communications Inc.|Residential
+184.178.172.23:4145|United States|Virginia|Roanoke|Cox Communications Inc.|Residential
 74.119.144.60:4145|United States|Georgia|Atlanta|Total Server Solutions L.L.C.|Business
+184.178.172.13:15311|United States|Virginia|Roanoke|Cox Communications Inc.|Residential
 72.207.113.97:4145|United States|Florida|Pensacola|Cox Communications Inc.|Residential
 72.207.109.5:4145|United States|Florida|Pensacola|Cox Communications Inc.|Residential
 98.178.72.30:4145|United States|Oklahoma|Tulsa|Cox Communications Inc.|Residential
 98.182.147.97:4145|United States|Nevada|Las Vegas|Cox Communications Inc.|Residential
-182.48.78.141:8008|Unknown|Unknown|Unknown|Unknown|Residential
+184.178.172.11:4145|United States|Virginia|Roanoke|Cox Communications Inc.|Residential
 98.182.171.161:4145|United States|Nevada|Las Vegas|Cox Communications Inc.|Residential
-184.181.217.206:4145|United States|Florida|Pensacola|Cox Communications Inc.|Residential
 68.71.240.210:4145|United States|California|Beverly Hills|Total Server Solutions L.L.C.|Business
-174.77.111.197:4145|United States|Oklahoma|Tulsa|Cox Communications Inc.|Residential
+184.178.172.14:4145|United States|Virginia|Roanoke|Cox Communications Inc.|Residential
 98.191.0.37:4145|United States|Virginia|Roanoke|Cox Communications Inc.|Residential
-194.28.162.12:1080|Russia|Rostov Oblast|Rostov-on-Don|IP Andreev Boris Vladimirovich|Residential
-95.83.149.106:1080|Russia|Ryazan Oblast|Ryazan|Electro-com Ryazan network|Residential
 144.124.232.204:5222|The Netherlands|North Holland|Amsterdam|Servers Tech Fzco|Business
-94.233.120.194:1080|Russia|Volgograd Oblast|Volgograd|Rostelecom|Residential
+194.28.162.12:1080|Russia|Rostov Oblast|Rostov-on-Don|IP Andreev Boris Vladimirovich|Residential
 70.166.65.160:4145|United States|Virginia|Roanoke|Cox Communications Inc.|Residential
 67.201.35.145:4145|United States|California|El Segundo|PacketExchange|Residential
 68.71.242.118:4145|United States|California|Beverly Hills|Performive LLC|Residential
 160.250.4.88:1|Vietnam|Vinh Long|Hưng Thành|VPSMMOCP|Residential
 72.195.101.99:4145|United States|California|Irvine|Cox Communications Inc.|Residential
-103.138.145.228:1999|Bangladesh|Dhaka Division|Kishorganj|NEEFIT|Residential
-206.123.156.199:7120|The Netherlands|North Holland|Amsterdam|ColocaTel Inc.|Business
+206.123.156.199:7120|Unknown|Unknown|Unknown|Unknown|Residential
+152.70.237.238:3128|Unknown|Unknown|Unknown|Unknown|Residential
 67.201.39.14:4145|United States|California|El Segundo|PacketExchange|Residential
 68.71.243.14:4145|United States|California|Beverly Hills|Performive LLC|Residential
-103.179.172.167:18888|Vietnam|Hanoi|Dich Vong|Vietnam Posts and Telecommunications Group|Residential
-23.133.196.13:9000|Unknown|Unknown|Unknown|Unknown|Residential
